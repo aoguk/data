@@ -590,5 +590,3 @@ var points = {
   "ag32": null,
   "ag37": null
 };
-export default points;
-
