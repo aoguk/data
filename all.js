@@ -1,4 +1,4 @@
-var all = {
+{
   "dnz": {
     "dnz01": {
       "team": "dnz",
@@ -3018,10 +3018,3 @@ var all = {
     }
   }
 }
-
-export default all;
-
-/*generate points object
-b={}
-Object.values(all).forEach(function(el){Object.keys(el).forEach(key=> b[key]=null)})
-*/
