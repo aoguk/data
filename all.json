@@ -757,7 +757,7 @@
       "name": "Ali Yaşar",
       "pozisyon": "d"
     },
-    "kon32": {
+    "kon33": {
       "team": "kon",
       "name": "Uğur Demirok",
       "pozisyon": "d"
@@ -818,11 +818,6 @@
       "pozisyon": "os"
     },
     "kon31": {
-      "team": "kon",
-      "name": "Robert Mak",
-      "pozisyon": "os"
-    },
-    "kon33": {
       "team": "kon",
       "name": "Robert Mak",
       "pozisyon": "os"
