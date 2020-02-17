@@ -3001,6 +3001,11 @@
       "name": "Ender Aygören",
       "pozisyon": "os"
     },
+    "ag37":{
+      "team": "ag",
+      "name": "Gerson Rodrigues",
+      "pozisyon": "os"
+    },
     "ag30":{
       "team": "ag",
       "name": "İlhan Parlak",
@@ -3014,11 +3019,6 @@
     "ag32":{
       "team": "ag",
       "name": "Zaur Sadaev",
-      "pozisyon": "f"
-    },
-    "ag37":{
-      "team": "ag",
-      "name": "Gerson Rodrigues",
       "pozisyon": "f"
     }
   }
