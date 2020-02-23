@@ -1,0 +1,85 @@
+{
+    "ceyla": {
+        "id": "ceyla",
+        "strategy":"442",
+        "players":{
+            "k": [null],
+            "d": [null,null,null,null],
+            "os": [null,null,null,null],
+            "f": [null,null],
+            "y": [null,null,null,null]
+        },
+        "captain":"null",
+        "new":true
+    },
+
+    "emek": {
+        "id": "emek",
+        "strategy":"442",
+        "players":{
+            "k": [null],
+            "d": [null,null,null,null],
+            "os": [null,null,null,null],
+            "f": [null,null],
+            "y": [null,null,null,null]
+        },
+        "captain":"null",
+        "new":true
+    },
+
+    "mehmet": {
+        "id": "mehmet",
+        "strategy":"442",
+        "players":{
+            "k": [null],
+            "d": [null,null,null,null],
+            "os": [null,null,null,null],
+            "f": [null,null],
+            "y": [null,null,null,null]
+        },
+        "captain":"null",
+        "new":true
+    },
+
+    "merve": {
+        "id": "merve",
+        "strategy":"442",
+        "players":{
+            "k": [null],
+            "d": [null,null,null,null],
+            "os": [null,null,null,null],
+            "f": [null,null],
+            "y": [null,null,null,null]
+        },
+        "captain":"null",
+        "new":true
+    },
+
+    "okay": {
+        "id": "okay",
+        "strategy":"442",
+        "players":{
+            "k": [null],
+            "d": [null,null,null,null],
+            "os": [null,null,null,null],
+            "f": [null,null],
+            "y": [null,null,null,null]
+        },
+        "captain":"null",
+        "new":true
+    },
+
+    "uğur": {
+        "id": "uğur",
+        "strategy":"442",
+        "players":{
+            "k": [null],
+            "d": [null,null,null,null],
+            "os": [null,null,null,null],
+            "f": [null,null],
+            "y": [null,null,null,null]
+        },
+        "captain":"null",
+        "new":true
+    }
+}
