@@ -1487,7 +1487,7 @@
   "297": [
     "Berat Ayberk",
     "os",
-    null
+    2
   ],
   "298": [
     "Çayan",
@@ -2963,5 +2963,10 @@
     "Zaur Sadaev",
     "f",
     null
+  ],
+  "594": [
+    "Gelmin Rivas",
+    "f",
+    2
   ]
 }
