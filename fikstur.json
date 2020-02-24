@@ -11,7 +11,7 @@
         {"takim1":"Antalyaspor", "skor1":3, "takim2":"Kasımpaşa", "skor2":1, "finished":1}
     ],
     "21": [
-        {"takim1":"Malatyaspor", "skor1":0, "takim2":"Ankaragücü", "skor2":0, "finished":1},
+        {"takim1":"Malatyaspor", "skor1":0, "takim2":"Ankaragücü", "skor2":1, "finished":1},
         {"takim1":"Konyaspor", "skor1":0, "takim2":"Denizlispor", "skor2":0, "finished":1},
         {"takim1":"Gençlerbirliği", "skor1":0, "takim2":"Trabzonspor", "skor2":2, "finished":1},
         {"takim1":"Beşiktaş", "skor1":3, "takim2":"Gaziantep FK", "skor2":0, "finished":1},
