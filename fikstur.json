@@ -41,7 +41,7 @@
         {"takim1":"Gözetepe", "skor1":2, "takim2":"BEşiktaş", "skor2":1, "finished":0},
         {"takim1":"Konyaspor", "skor1":0, "takim2":"Galatasaray", "skor2":3, "finished":0},
         {"takim1":"Sivasspor", "skor1":1, "takim2":"Rizespor", "skor2":1, "finished":0},
-        {"takim1":"Malatyaspor", "skor1":-, "takim2":"Trabzonspor", "skor2":-, "finished":0}
+        {"takim1":"Malatyaspor", "skor1":?, "takim2":"Trabzonspor", "skor2":?, "finished":0}
     ]
 }
 
