@@ -1,28 +1,28 @@
 {
     "22": [
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0}
+        {"takim1":"Hafta22Takim1", "skor1":5, "takim2":"Hafta22Takim2", "skor2":3, "finished":1},
+        {"takim1":"Hafta22Takim1", "skor1":null, "takim2":"Hafta22Takim2", "skor2":null, "finished":0},
+        {"takim1":"Hafta22Takim1", "skor1":null, "takim2":"Hafta22Takim2", "skor2":null, "finished":0},
+        {"takim1":"Hafta22Takim1", "skor1":null, "takim2":"Hafta22Takim2", "skor2":null, "finished":0},
+        {"takim1":"Hafta22Takim1", "skor1":null, "takim2":"Hafta22Takim2", "skor2":null, "finished":0},
+        {"takim1":"Hafta22Takim1", "skor1":null, "takim2":"Hafta22Takim2", "skor2":null, "finished":0},
+        {"takim1":"Hafta22Takim1", "skor1":null, "takim2":"Hafta22Takim2", "skor2":null, "finished":0},
+        {"takim1":"Hafta22Takim1", "skor1":null, "takim2":"Hafta22Takim2", "skor2":null, "finished":0},
+        {"takim1":"Hafta22Takim1", "skor1":null, "takim2":"Hafta22Takim2", "skor2":null, "finished":0}
     ],
     "21": [
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0}
+        {"takim1":"Hafta21Takim1", "skor1":null, "Hafta21Takim2":"adi", "skor2":null, "finished":0},
+        {"takim1":"Hafta21Takim1", "skor1":null, "Hafta21Takim2":"adi", "skor2":null, "finished":0},
+        {"takim1":"Hafta21Takim1", "skor1":null, "Hafta21Takim2":"adi", "skor2":null, "finished":0},
+        {"takim1":"Hafta21Takim1", "skor1":null, "Hafta21Takim2":"adi", "skor2":null, "finished":0},
+        {"takim1":"Hafta21Takim1", "skor1":null, "Hafta21Takim2":"adi", "skor2":null, "finished":0},
+        {"takim1":"Hafta21Takim1", "skor1":null, "Hafta21Takim2":"adi", "skor2":null, "finished":0},
+        {"takim1":"Hafta21Takim1", "skor1":null, "Hafta21Takim2":"adi", "skor2":null, "finished":0},
+        {"takim1":"Hafta21Takim1", "skor1":null, "Hafta21Takim2":"adi", "skor2":null, "finished":0},
+        {"takim1":"Hafta21Takim1", "skor1":null, "Hafta21Takim2":"adi", "skor2":null, "finished":0}
     ],
     "20": [
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
+        {"takim1":"Hafta20", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
         {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
         {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
         {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
@@ -33,7 +33,7 @@
         {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0}
     ],
     "19": [
-        {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
+        {"takim1":"Hafta19", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
         {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
         {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
         {"takim1":"adı", "skor1":null, "takim2":"adi", "skor2":null, "finished":0},
