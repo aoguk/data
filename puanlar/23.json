@@ -2,7 +2,7 @@
   "000": [
     "Stachowiak",
     "k",
-    1
+    3
   ],
   "001": [
     "Tolgahan Acar",
@@ -22,7 +22,7 @@
   "004": [
     "Zeki Yavru",
     "d",
-    2
+    4
   ],
   "005": [
     "Tiago Lopes",
@@ -32,12 +32,12 @@
   "006": [
     "Özgür Çek",
     "d",
-    2
+    4
   ],
   "007": [
     "Mustafa Yumlu",
     "d",
-    2
+    4
   ],
   "008": [
     "Bergdich",
@@ -77,12 +77,12 @@
   "015": [
     "Ben Youssef",
     "d",
-    2
+    4
   ],
   "016": [
     "İsmail Aissati",
     "os",
-    2
+    4
   ],
   "017": [
     "Onazi",
@@ -97,22 +97,22 @@
   "019": [
     "Modou Barrow",
     "os",
-    2
+    4
   ],
   "020": [
     "Hadi Sacko",
     "os",
-    2
+    4
   ],
   "021": [
     "Issac Sackey",
     "os",
-    2
+    4
   ],
   "022": [
     "Radoslaw Murawski",
     "os",
-    2
+    4
   ],
   "023": [
     "Sedat Şahintürk",
@@ -147,7 +147,7 @@
   "029": [
     "Rodallega",
     "f",
-    2
+    4
   ],
   "030": [
     "Oscar Estupinan",
@@ -327,7 +327,7 @@
   "065": [
     "Mert Günok",
     "k",
-    2
+    3
   ],
   "066": [
     "V. Babacan",
@@ -347,17 +347,17 @@
   "069": [
     "Caiçara",
     "d",
-    2
+    4
   ],
   "070": [
     "Clichy",
     "d",
-    2
+    4
   ],
   "071": [
     "Epureanu",
     "d",
-    2
+    4
   ],
   "072": [
     "Martin Skrtel",
@@ -377,7 +377,7 @@
   "075": [
     "Ponck",
     "d",
-    2
+    4
   ],
   "076": [
     "Uğur Uçar",
@@ -397,17 +397,17 @@
   "079": [
     "Visca",
     "os",
-    8
+    10
   ],
   "080": [
     "Elia",
     "os",
-    2
+    4
   ],
   "081": [
     "Danijel Aleksic",
     "os",
-    2
+    4
   ],
   "082": [
     "Gökhan İnler",
@@ -422,12 +422,12 @@
   "084": [
     "İrfan Can",
     "os",
-    2
+    4
   ],
   "085": [
     "Mahmut Tekdemir",
     "os",
-    2
+    4
   ],
   "086": [
     "Milos Jojic",
@@ -462,7 +462,7 @@
   "092": [
     "Demba Ba",
     "f",
-    3
+    5
   ],
   "093": [
     "Muhammet A.",
@@ -482,7 +482,7 @@
   "096": [
     "Ramazan Köse",
     "k",
-    2
+    4
   ],
   "097": [
     "Mehmet Enes Sarı",
@@ -502,7 +502,7 @@
   "100": [
     "Mickael Tirpan",
     "d",
-    1
+    3
   ],
   "101": [
     "Sarlija",
@@ -512,7 +512,7 @@
   "102": [
     "Oussama Haddadi",
     "d",
-    2
+    4
   ],
   "103": [
     "Jorge Fernandes",
@@ -527,7 +527,7 @@
   "105": [
     "Tomas Brecka",
     "d",
-    10
+    12
   ],
   "106": [
     "Çağtay Kurukalıp",
@@ -547,7 +547,7 @@
   "109": [
     "Florent Hadergjonaj",
     "d",
-    2
+    4
   ],
   "110": [
     "Furkan Çetinkaya",
@@ -562,7 +562,7 @@
   "112": [
     "Yassine Meriah",
     "d",
-    1
+    3
   ],
   "113": [
     "Ahmet Demirli",
@@ -582,7 +582,7 @@
   "116": [
     "Hajradinovic",
     "os",
-    2
+    4
   ],
   "117": [
     "Heintz",
@@ -592,7 +592,7 @@
   "118": [
     "Aytaç Kara",
     "os",
-    2
+    4
   ],
   "119": [
     "Khalili",
@@ -602,12 +602,12 @@
   "120": [
     "Tarkan Serbest",
     "os",
-    null
+    2
   ],
   "121": [
     "Ndongala",
     "os",
-    2
+    4
   ],
   "122": [
     "Pavelka",
@@ -627,7 +627,7 @@
   "125": [
     "Yusuf Erdoğan",
     "os",
-    2
+    4
   ],
   "126": [
     "İlhan Depe",
@@ -647,7 +647,7 @@
   "129": [
     "Koita",
     "f",
-    2
+    4
   ],
   "130": [
     "Mame Thiam",
@@ -1667,7 +1667,7 @@
   "333": [
     "Gökhan Akkan",
     "k",
-    1
+    3
   ],
   "334": [
     "Zafer Görgen",
@@ -1687,12 +1687,12 @@
   "337": [
     "Abarhoun",
     "d",
-    2
+    4
   ],
   "338": [
     "Melnijak",
     "d",
-    2
+    4
   ],
   "339": [
     "Moroziuk",
@@ -1722,7 +1722,7 @@
   "344": [
     "Burak Albayrak",
     "d",
-    2
+    4
   ],
   "345": [
     "Eminhan Topçu",
@@ -1757,27 +1757,27 @@
   "351": [
     "Boldrin",
     "os",
-    2
+    4
   ],
   "352": [
     "Aminu Umar",
     "os",
-    1
+    9
   ],
   "353": [
     "Garmash",
     "os",
-    2
+    4
   ],
   "354": [
     "Abdullah Durak",
     "os",
-    2
+    4
   ],
   "355": [
     "Diomande",
     "os",
-    2
+    4
   ],
   "356": [
     "Barış Alıcı",
@@ -1792,7 +1792,7 @@
   "358": [
     "Oğulcan Çağlayan",
     "os",
-    2
+    4
   ],
   "359": [
     "Vetrih",
@@ -1832,7 +1832,7 @@
   "366": [
     "Milan Skoda",
     "f",
-    2
+    4
   ],
   "367": [
     "Scepovic",
