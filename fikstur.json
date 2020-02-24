@@ -11,15 +11,15 @@
         {"takim1":"Antalyaspor", "skor1":3, "takim2":"Kasımpaşa", "skor2":1, "finished":1}
     ],
     "21": [
-        {"takim1":"Malatyaspor", "skor1":0, "Hafta21Takim2":"Ankaragücü", "skor2":0, "finished":1},
-        {"takim1":"Konyaspor", "skor1":0, "Hafta21Takim2":"Denizlispor", "skor2":0, "finished":1},
-        {"takim1":"Gençlerbirliği", "skor1":0, "Hafta21Takim2":"Trabzonspor", "skor2":2, "finished":1},
-        {"takim1":"Beşiktaş", "skor1":3, "Hafta21Takim2":"Gaziantep FK", "skor2":0, "finished":1},
-        {"takim1":"Fenerbahçe", "skor1":1, "Hafta21Takim2":"Alanyaspor", "skor2":1, "finished":1},
-        {"takim1":"Kayserispor", "skor1":2, "Hafta21Takim2":"Antalyaspor", "skor2":2, "finished":1},
-        {"takim1":"Sivasspor", "skor1":1, "Hafta21Takim2":"Başakşehir", "skor2":1, "finished":1},
-        {"takim1":"Kasımpaşa", "skor1":0, "Hafta21Takim2":"Galatasaray", "skor2":3, "finished":1},
-        {"takim1":"Gözetepe", "skor1":null, "Hafta21Takim2":"Rizespor", "skor2":null, "finished":0}
+        {"takim1":"Malatyaspor", "skor1":0, "takim2":"Ankaragücü", "skor2":0, "finished":1},
+        {"takim1":"Konyaspor", "skor1":0, "takim2":"Denizlispor", "skor2":0, "finished":1},
+        {"takim1":"Gençlerbirliği", "skor1":0, "takim2":"Trabzonspor", "skor2":2, "finished":1},
+        {"takim1":"Beşiktaş", "skor1":3, "takim2":"Gaziantep FK", "skor2":0, "finished":1},
+        {"takim1":"Fenerbahçe", "skor1":1, "takim2":"Alanyaspor", "skor2":1, "finished":1},
+        {"takim1":"Kayserispor", "skor1":2, "takim2":"Antalyaspor", "skor2":2, "finished":1},
+        {"takim1":"Sivasspor", "skor1":1, "takim2":"Başakşehir", "skor2":1, "finished":1},
+        {"takim1":"Kasımpaşa", "skor1":0, "takim2":"Galatasaray", "skor2":3, "finished":1},
+        {"takim1":"Gözetepe", "skor1":null, "takim2":"Rizespor", "skor2":null, "finished":0}
     ],
     "20": [
         {"takim1":"Başakşehir", "skor1":3, "takim2":"Gençlerbirliği", "skor2":1, "finished":1},
