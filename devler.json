@@ -1,13 +1,13 @@
 {
     "ceyla": {
         "id": "ceyla",
-        "strategy":"442",
+        "strategy":"343",
         "players":{
-            "k": [null],
-            "d": [null,null,null,null],
-            "os": [null,null,null,null],
-            "f": [null,null],
-            "y": [null,null,null,null]
+            "k": [165],
+            "d": [219,285,180],
+            "os": [590,183,226,318],
+            "f": [061,427,300],
+            "y": [065,070,079,092]
         },
         "captain":"null",
         "new":true
