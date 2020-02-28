@@ -57,15 +57,15 @@
 
     "okay": {
         "id": "okay",
-        "strategy":"442",
+        "strategy":"343",
         "players":{
-            "k": [null],
-            "d": [null,null,null,null],
-            "os": [null,null,null,null],
-            "f": [null,null],
-            "y": [null,null,null,null]
+            "k": ["031"],
+            "d": ["145","378","039"],
+            "os": ["079","539","535","048"],
+            "f": ["061","092","517"],
+            "y": [null,"373","546","551"]
         },
-        "captain":"null",
+        "captain":"061",
         "new":true
     },
 
