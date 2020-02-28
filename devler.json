@@ -71,15 +71,15 @@
 
     "uğur": {
         "id": "uğur",
-        "strategy":"442",
+        "strategy":"343",
         "players":{
-            "k": [null],
-            "d": [null,null,null,null],
-            "os": [null,null,null,null],
-            "f": [null,null],
-            "y": [null,null,null,null]
+            "k": ["000"],
+            "d": ["006","528","145"],
+            "os": ["512","411","256","387"],
+            "f": ["061","427","551"],
+            "y": ["123","219","257","490"]
         },
-        "captain":"null",
+        "captain":"411",
         "new":true
     }
 }
