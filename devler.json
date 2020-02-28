@@ -15,13 +15,13 @@
 
     "emek": {
         "id": "emek",
-        "strategy":"442",
+        "strategy":"343",
         "players":{
-            "k": [null],
-            "d": [null,null,null,null],
-            "os": [null,null,null,null],
-            "f": [null,null],
-            "y": [null,null,null,null]
+            "k": ["031"],
+            "d": ["071","044","528"],
+            "os": ["150","535","079","184"],
+            "f": ["492","395","061"],
+            "y": [null,"145","479",null]
         },
         "captain":"null",
         "new":true
