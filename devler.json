@@ -43,15 +43,15 @@
 
     "merve": {
         "id": "merve",
-        "strategy":"442",
+        "strategy":"343",
         "players":{
-            "k": [null],
-            "d": [null,null,null,null],
-            "os": [null,null,null,null],
-            "f": [null,null],
-            "y": [null,null,null,null]
+            "k": ["132"],
+            "d": ["528","145","035"],
+            "os": ["387","535","079","512"],
+            "f": ["517","061","490"],
+            "y": ["000","105","156","395"]
         },
-        "captain":"null",
+        "captain":"061",
         "new":true
     },
 
