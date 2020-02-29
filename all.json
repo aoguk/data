@@ -1445,6 +1445,13 @@
       "id": "204",
       "oldid": "kay39"
     },
+    "525": {
+      "team": "kay",
+      "name": "Emre Taşdemir",
+      "pozisyon": "d",
+      "id": "525",
+      "oldid": "gs05"
+    },
     "205": {
       "team": "kay",
       "name": "Kravets",
@@ -3699,13 +3706,6 @@
       "pozisyon": "d",
       "id": "524",
       "oldid": "gs04"
-    },
-    "525": {
-      "team": "gs",
-      "name": "Emre Taşdemir",
-      "pozisyon": "d",
-      "id": "525",
-      "oldid": "gs05"
     },
     "526": {
       "team": "gs",
