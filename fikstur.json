@@ -6,7 +6,7 @@
         {"takim1":"Antalyaspor", "skor1":2, "takim2":"Fenerbahçe", "skor2":2, "finished":1},
         {"takim1":"Denizlispor", "skor1":2, "takim2":"Malatyaspor", "skor2":0, "finished":1},
         {"takim1":"Ankaragücü", "skor1":0, "takim2":"Sivasspor", "skor2":3, "finished":1},
-        {"takim1":"Galatasaray", "skor1":null, "takim2":"Gençlerbirliği", "skor2":null, "finished":0},
+        {"takim1":"Galatasaray", "skor1":1, "takim2":"Gençlerbirliği", "skor2":0, "finished":1},
         {"takim1":"Başakşehir", "skor1":null, "takim2":"Gaziantep FK", "skor2":null, "finished":0},
         {"takim1":"Kayserispor", "skor1":null, "takim2":"Gözetepe", "skor2":null, "finished":0}
     ],
