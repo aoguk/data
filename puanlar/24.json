@@ -2,7 +2,7 @@
   "000": [
     "Stachowiak",
     "k",
-    4
+    10
   ],
   "001": [
     "Tolgahan Acar",
@@ -22,7 +22,7 @@
   "004": [
     "Zeki Yavru",
     "d",
-    4
+    8
   ],
   "005": [
     "Tiago Lopes",
@@ -32,12 +32,12 @@
   "006": [
     "Özgür Çek",
     "d",
-    2
+    3
   ],
   "007": [
     "Mustafa Yumlu",
     "d",
-    12
+    16
   ],
   "008": [
     "Bergdich",
@@ -57,7 +57,7 @@
   "011": [
     "Oğuz Yılmaz",
     "d",
-    4
+    8
   ],
   "012": [
     "Emre Sağlık",
@@ -82,27 +82,27 @@
   "016": [
     "İsmail Aissati",
     "os",
-    2
+    3
   ],
   "017": [
     "Onazi",
     "os",
-    2
+    3
   ],
   "018": [
     "Olcay Şahan",
     "os",
-    4
+    5
   ],
   "019": [
     "Modou Barrow",
     "os",
-    10
+    11
   ],
   "020": [
     "Hadi Sacko",
     "os",
-    2
+    3
   ],
   "021": [
     "Issac Sackey",
@@ -112,7 +112,7 @@
   "022": [
     "Radoslaw Murawski",
     "os",
-    4
+    5
   ],
   "023": [
     "Sedat Şahintürk",
@@ -122,7 +122,7 @@
   "024": [
     "Recep Niyaz",
     "os",
-    4
+    5
   ],
   "025": [
     "Mbamba",
@@ -147,12 +147,12 @@
   "029": [
     "Rodallega",
     "f",
-    5
+    6
   ],
   "030": [
     "Oscar Estupinan",
     "f",
-    4
+    5
   ],
   "031": [
     "Uğurcan",
@@ -1517,7 +1517,7 @@
   "303": [
     "Farnolle",
     "k",
-    2
+    1
   ],
   "304": [
     "Ufuk Ceylan",
@@ -1542,7 +1542,7 @@
   "308": [
     "Hadebe",
     "d",
-    -2
+    -3
   ],
   "309": [
     "Sakıb Aytaç",
@@ -1567,7 +1567,7 @@
   "313": [
     "Mina",
     "d",
-    2
+    1
   ],
   "314": [
     "Buğra Çağıran",
@@ -1577,7 +1577,7 @@
   "315": [
     "Özer Özdemir",
     "d",
-    1
+    0
   ],
   "316": [
     "Bülent Cevahir",
@@ -1587,7 +1587,7 @@
   "317": [
     "Karim Hafez",
     "d",
-    3
+    2
   ],
   "318": [
     "Bifouma",
@@ -1597,27 +1597,27 @@
   "319": [
     "Gökhan Töre",
     "os",
-    2
+    1
   ],
   "320": [
     "Fofana",
     "os",
-    4
+    3
   ],
   "321": [
     "Donald",
     "os",
-    2
+    1
   ],
   "322": [
     "Robin Yalçın",
     "os",
-    3
+    2
   ],
   "323": [
     "Murat Yıldırım",
     "os",
-    null
+    2
   ],
   "324": [
     "Issiar Dia",
@@ -1627,7 +1627,7 @@
   "325": [
     "Acquah",
     "os",
-    4
+    3
   ],
   "326": [
     "Remi Walter",
@@ -1652,12 +1652,12 @@
   "340": [
     "Ndayishimiye",
     "os",
-    1
+    0
   ],
   "330": [
     "Umut Bulut",
     "f",
-    4
+    3
   ],
   "331": [
     "Eren Tozlu",
@@ -1667,7 +1667,7 @@
   "332": [
     "Vidar Kjartansson",
     "f",
-    2
+    1
   ],
   "333": [
     "Gökhan Akkan",
