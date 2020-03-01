@@ -97,7 +97,7 @@
   "019": [
     "Modou Barrow",
     "os",
-    4
+    10
   ],
   "020": [
     "Hadi Sacko",
@@ -147,7 +147,7 @@
   "029": [
     "Rodallega",
     "f",
-    2
+    5
   ],
   "030": [
     "Oscar Estupinan",
@@ -1517,7 +1517,7 @@
   "303": [
     "Farnolle",
     "k",
-    3
+    2
   ],
   "304": [
     "Ufuk Ceylan",
@@ -1532,7 +1532,7 @@
   "306": [
     "Murat Akşit",
     "k",
-    4
+    null
   ],
   "307": [
     "Chebake",
@@ -1567,7 +1567,7 @@
   "313": [
     "Mina",
     "d",
-    3
+    2
   ],
   "314": [
     "Buğra Çağıran",
@@ -1577,7 +1577,7 @@
   "315": [
     "Özer Özdemir",
     "d",
-    2
+    1
   ],
   "316": [
     "Bülent Cevahir",
@@ -1587,7 +1587,7 @@
   "317": [
     "Karim Hafez",
     "d",
-    4
+    3
   ],
   "318": [
     "Bifouma",
@@ -1648,6 +1648,11 @@
     "Fatih Aydın",
     "os",
     null
+  ],
+  "340": [
+    "Ndayishimiye",
+    "os",
+    1
   ],
   "330": [
     "Umut Bulut",
