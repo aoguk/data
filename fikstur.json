@@ -8,7 +8,7 @@
         {"takim1":"Kasımpaşa", "skor1":5, "takim2":"Kayserispor", "skor2":1, "finished":1},
         {"takim1":"Rizespor", "skor1":1, "takim2":"Alanyaspor", "skor2":1, "finished":1},
         {"takim1":"Sivasspor", "skor1":2, "takim2":"Calatasaray", "skor2":2, "finished":1},
-        {"takim1":"Gençlerbirliği", "skor1":0, "takim2":"Antalyaspor", "skor2":0, "finished":1}
+        {"takim1":"Gençlerbirliği", "skor1":1, "takim2":"Antalyaspor", "skor2":0, "finished":1}
     ],
     "24": [
         {"takim1":"Alanyaspor", "skor1":1, "takim2":"Beşiktaş", "skor2":2, "finished":1},
