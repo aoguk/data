@@ -1,12 +1,5 @@
 {
   "dnz": {
-    "000": {
-      "team": "dnz",
-      "name": "Stachowiak",
-      "pozisyon": "k",
-      "id": "000",
-      "oldid": "dnz01"
-    },
     "001": {
       "team": "dnz",
       "name": "Tolgahan Acar",
@@ -351,13 +344,6 @@
       "pozisyon": "os",
       "id": "049",
       "oldid": "ts16"
-    },
-    "050": {
-      "team": "ts",
-      "name": "Obi Mikel",
-      "pozisyon": "os",
-      "id": "050",
-      "oldid": "ts17"
     },
     "051": {
       "team": "ts",
@@ -1127,13 +1113,6 @@
       "pozisyon": "os",
       "id": "159",
       "oldid": "kon27"
-    },
-    "160": {
-      "team": "kon",
-      "name": "Robert Mak",
-      "pozisyon": "os",
-      "id": "160",
-      "oldid": "kon31"
     },
     "161": {
       "team": "kon",
@@ -1976,13 +1955,6 @@
       "id": "278",
       "oldid": "gb06"
     },
-    "279": {
-      "team": "gb",
-      "name": "Mattias Bjarsmyr",
-      "pozisyon": "d",
-      "id": "279",
-      "oldid": "gb07"
-    },
     "280": {
       "team": "gb",
       "name": "Erdem Özgenç",
@@ -2153,13 +2125,6 @@
       "id": "303",
       "oldid": "mlt01"
     },
-    "304": {
-      "team": "mlt",
-      "name": "Ufuk Ceylan",
-      "pozisyon": "k",
-      "id": "304",
-      "oldid": "mlt02"
-    },
     "305": {
       "team": "mlt",
       "name": "Abdulsamed Damlu",
@@ -2320,13 +2285,6 @@
       "pozisyon": "os",
       "id": "327",
       "oldid": "mlt25"
-    },
-    "328": {
-      "team": "mlt",
-      "name": "Chaaleli",
-      "pozisyon": "os",
-      "id": "328",
-      "oldid": "mlt26"
     },
     "329": {
       "team": "mlt",
@@ -3042,14 +3000,6 @@
       "oldid": "fb35"
     }
   },
-  "bjk": {
-    "430": {
-      "team": "bjk",
-      "name": "Loris Karius",
-      "pozisyon": "k",
-      "id": "430",
-      "oldid": "bjk01"
-    },
     "431": {
       "team": "bjk",
       "name": "Utku Yuvakuran",
@@ -3669,13 +3619,6 @@
       "pozisyon": "f",
       "id": "518",
       "oldid": "als26"
-    },
-    "519": {
-      "team": "als",
-      "name": "Bammou",
-      "pozisyon": "f",
-      "id": "519",
-      "oldid": "als27"
     },
     "520": {
       "team": "als",
