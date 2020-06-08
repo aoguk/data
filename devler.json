@@ -1,85 +1,85 @@
 {
     "ceyla": {
         "id": "ceyla",
-        "strategy":"343",
+        "strategy":"null",
         "players":{
-            "k": ["000"],
-            "d": ["404","559","180"],
-            "os": ["079","590","183","047"],
-            "f": ["517","092","061"],
-            "y": ["558","528","387","551"]
+            "k": ["null"],
+            "d": ["null","null","null"],
+            "os": ["null","null","null","null"],
+            "f": ["null","null","null"],
+            "y": ["null","null","null","null"]
         },
-        "captain":"517",
+        "captain":"null",
         "new":true
     },
 
     "emek": {
         "id": "emek",
-        "strategy":"343",
+        "strategy":"null",
         "players":{
-            "k": ["493"],
-            "d": ["499","148","528"],
-            "os": ["509","079","232","048"],
-            "f": ["063","517","551"],
-            "y": ["558","180","590","301"]
+            "k": ["null"],
+            "d": ["null","null","null"],
+            "os": ["null","null","null","null"],
+            "f": ["null","null","null"],
+            "y": ["null","null","null","null"]
         },
-        "captain":"551",
+        "captain":"null",
         "new":true
     },
 
     "mehmet": {
         "id": "mehmet",
-        "strategy":"343",
+        "strategy":"null",
         "players":{
-            "k": ["000"],
-            "d": ["528","378","559"],
-            "os": ["048","047","387","183"],
-            "f": ["551","129","517"],
-            "y": ["558","499","512","092"]
+            "k": ["null"],
+            "d": ["null","null","null"],
+            "os": ["null","null","null","null"],
+            "f": ["null","null","null"],
+            "y": ["null","null","null","null"]
         },
-        "captain":"551",
+        "captain":"null",
         "new":true
     },
 
     "merve": {
         "id": "merve",
-        "strategy":"343",
+        "strategy":"null",
         "players":{
-            "k": ["000"],
-            "d": ["004","499","223"],
-            "os": ["387","121","512","590"],
-            "f": ["301","395","061"],
-            "y": ["558","528","047","517"]
+            "k": ["null"],
+            "d": ["null","null","null"],
+            "os": ["null","null","null","null"],
+            "f": ["null","null","null"],
+            "y": ["null","null","null","null"]
         },
-        "captain":"061",
+        "captain":"null",
         "new":true
     },
 
     "okay": {
         "id": "okay",
-        "strategy":"343",
+        "strategy":"null",
         "players":{
-            "k": ["000"],
-            "d": ["007","102","101"],
-            "os": ["387","084","183","047"],
-            "f": ["092","517","063"],
-            "y": ["096","136","512","129"]
+            "k": ["null"],
+            "d": ["null","null","null"],
+            "os": ["null","null","null","null"],
+            "f": ["null","null","null"],
+            "y": ["null","null","null","null"]
         },
-        "captain":"517",
+        "captain":"null",
         "new":true
     },
 
     "uğur": {
         "id": "uğur",
-        "strategy":"343",
+        "strategy":"null",
         "players":{
-            "k": ["165"],
-            "d": ["528","007","180"],
-            "os": ["590","047","256","387"],
-            "f": ["427","551","366"],
-            "y": ["000","564","079","490"]
+            "k": ["null"],
+            "d": ["null","null","null"],
+            "os": ["null","null","null","null"],
+            "f": ["null","null","null"],
+            "y": ["null","null","null","null"]
         },
-        "captain":"047",
+        "captain":"null",
         "new":true
     }
 }
