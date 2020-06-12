@@ -1,15 +1,15 @@
 {
     "ceyla": {
         "id": "ceyla",
-        "strategy":"null",
+        "strategy":"343",
         "players":{
-            "k": ["null"],
-            "d": ["null","null","null"],
-            "os": ["null","null","null","null"],
-            "f": ["null","null","null"],
-            "y": ["null","null","null","null"]
+            "k": ["369"],
+            "d": ["528","247","285"],
+            "os": ["256","047","535","449"],
+            "f": ["089","551","206"],
+            "y": ["274","null","079","061"]
         },
-        "captain":"null",
+        "captain":"551",
         "new":true
     },
 
