@@ -29,15 +29,15 @@
 
     "mehmet": {
         "id": "mehmet",
-        "strategy":"null",
+        "strategy":"343",
         "players":{
-            "k": ["null"],
-            "d": ["null","null","null"],
-            "os": ["null","null","null","null"],
-            "f": ["null","null","null"],
-            "y": ["null","null","null","null"]
+            "k": ["274"],
+            "d": ["282","071","252"],
+            "os": ["047","079","535","444"],
+            "f": ["551","063","089"],
+            "y": ["065","044","null","206"]
         },
-        "captain":"null",
+        "captain":"089",
         "new":true
     },
 
