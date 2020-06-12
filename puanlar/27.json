@@ -157,7 +157,7 @@
   "031": [
     "Uğurcan",
     "k",
-    3
+    4
   ],
   "032": [
     "Erce",
@@ -172,12 +172,12 @@
   "034": [
     "Novak",
     "d",
-    4
+    5
   ],
   "035": [
     "Joao Pereira",
     "d",
-    8
+    6
   ],
   "036": [
     "Majid Hosseini",
@@ -187,7 +187,7 @@
   "037": [
     "Gaston Campi",
     "d",
-    4
+    5
   ],
   "038": [
     "Kamil Ahmet",
@@ -197,7 +197,7 @@
   "039": [
     "Hüseyin",
     "d",
-    2
+    3
   ],
   "040": [
     "Oğuzhan Açıl",
@@ -212,7 +212,7 @@
   "042": [
     "Serkan Asan",
     "d",
-    2
+    3
   ],
   "043": [
     "Abdurrahim",
@@ -222,7 +222,7 @@
   "044": [
     "Da Costa",
     "d",
-    2
+    3
   ],
   "045": [
     "Manoel Messias",
@@ -232,12 +232,12 @@
   "046": [
     "Guilherme",
     "os",
-    -2
+    -1
   ],
   "047": [
     "Nwakaeme",
     "os",
-    10
+    11
   ],
   "048": [
     "Sosa",
@@ -247,7 +247,7 @@
   "049": [
     "Badou Ndiaye",
     "os",
-    2
+    3
   ],
   "050": [
     "Obi Mikel",
@@ -257,7 +257,7 @@
   "051": [
     "Abdulkadir Ö.",
     "os",
-    4
+    5
   ],
   "052": [
     "Avdijaj",
@@ -272,7 +272,7 @@
   "054": [
     "Abdulkadir P.",
     "os",
-    4
+    5
   ],
   "055": [
     "Yusuf Sarı",
@@ -282,7 +282,7 @@
   "056": [
     "Doğan Erdoğan",
     "os",
-    2
+    3
   ],
   "057": [
     "Ahmet Canbaz",
@@ -307,7 +307,7 @@
   "061": [
     "Sörloth",
     "f",
-    5
+    6
   ],
   "062": [
     "Sturridge",
@@ -317,7 +317,7 @@
   "063": [
     "Caleb Ekuban",
     "f",
-    9
+    10
   ],
   "064": [
     "Ahmet Hakan",
@@ -827,7 +827,7 @@
   "165": [
     "Lung",
     "k",
-    2
+    1
   ],
   "166": [
     "Hakan Arıkan",
@@ -857,7 +857,7 @@
   "171": [
     "Emre Taşdemir",
     "d",
-    3
+    2
   ],
   "172": [
     "Miguel Lopes",
@@ -902,12 +902,12 @@
   "180": [
     "Diego Angelo",
     "d",
-    3
+    2
   ],
   "181": [
     "Sapunaru",
     "d",
-    1
+    0
   ],
   "182": [
     "Yasir S.",
@@ -917,7 +917,7 @@
   "183": [
     "Mensah",
     "os",
-    9
+    8
   ],
   "184": [
     "Pedro Henrique",
@@ -927,12 +927,12 @@
   "185": [
     "Cenk Şahin",
     "os",
-    2
+    1
   ],
   "186": [
     "Ben Rienstra",
     "os",
-    4
+    3
   ],
   "187": [
     "Ntep",
@@ -942,17 +942,17 @@
   "188": [
     "Zoran Kvrziç",
     "os",
-    4
+    3
   ],
   "189": [
     "Dja Djedje",
     "os",
-    4
+    3
   ],
   "190": [
     "Mario Situm",
     "os",
-    2
+    1
   ],
   "191": [
     "Adryan",
@@ -962,7 +962,7 @@
   "192": [
     "Hasan Acar",
     "os",
-    4
+    3
   ],
   "193": [
     "Gustavo Campanharo",
@@ -1027,12 +1027,12 @@
   "205": [
     "Kravets",
     "f",
-    4
+    3
   ],
   "206": [
     "Muris Mesanovic",
     "f",
-    4
+    3
   ],
   "207": [
     "Ömer Uzun",
@@ -1057,7 +1057,7 @@
   "211": [
     "Beto",
     "k",
-    2
+    1
   ],
   "212": [
     "Göktuğ Bakırtaş",
@@ -1087,7 +1087,7 @@
   "217": [
     "Titi",
     "d",
-    3
+    2
   ],
   "218": [
     "Atınç Nukan",
@@ -1097,7 +1097,7 @@
   "219": [
     "Berkan Emir",
     "d",
-    1
+    0
   ],
   "220": [
     "Sanneh",
@@ -1127,42 +1127,42 @@
   "225": [
     "Murat Paluli",
     "d",
-    3
+    2
   ],
   "226": [
     "Serdar Gürler",
     "os",
-    4
+    3
   ],
   "227": [
     "Andre Castro",
     "os",
-    4
+    3
   ],
   "228": [
     "Mossoro",
     "os",
-    2
+    1
   ],
   "229": [
     "Soner Aydoğdu",
     "os",
-    4
+    3
   ],
   "230": [
     "Poko",
     "os",
-    1
+    0
   ],
   "231": [
     "Napoleoni",
     "os",
-    2
+    1
   ],
   "232": [
     "Halil",
     "os",
-    4
+    3
   ],
   "233": [
     "Borges",
@@ -1172,7 +1172,7 @@
   "234": [
     "Alpaslan Öztürk",
     "os",
-    10
+    9
   ],
   "235": [
     "Yalçın Kayan",
@@ -1197,17 +1197,17 @@
   "239": [
     "Jerome",
     "f",
-    4
+    3
   ],
   "240": [
     "Deniz Kadah",
     "f",
-    2
+    1
   ],
   "241": [
     "Kamil Wilczek",
     "f",
-    2
+    1
   ],
   "242": [
     "Samed Ali",
@@ -1982,7 +1982,7 @@
   "396": [
     "Altay Bayındır",
     "k",
-    3
+    4
   ],
   "397": [
     "Harun Tekin",
@@ -2012,7 +2012,7 @@
   "402": [
     "Serdar Aziz",
     "d",
-    4
+    5
   ],
   "403": [
     "Sadık Çiftpınar",
@@ -2027,7 +2027,7 @@
   "405": [
     "Simon Falette",
     "d",
-    4
+    5
   ],
   "407": [
     "Murat Sağlam",
@@ -2067,32 +2067,32 @@
   "413": [
     "Emre Belözoğlu",
     "os",
-    5
+    6
   ],
   "414": [
     "Nabil Dirar",
     "os",
-    4
+    5
   ],
   "415": [
     "Ozan Tufan",
     "os",
-    -2
+    -1
   ],
   "416": [
     "Deniz Türüç",
     "os",
-    4
+    5
   ],
   "417": [
     "Luis Gustavo",
     "os",
-    10
+    11
   ],
   "418": [
     "Garry Rodrigues",
     "os",
-    4
+    5
   ],
   "419": [
     "Jailson",
@@ -2107,7 +2107,7 @@
   "421": [
     "Miha Zajc",
     "os",
-    2
+    3
   ],
   "422": [
     "Tolgay Arslan",
@@ -2117,17 +2117,17 @@
   "423": [
     "Mehmet Ekici",
     "os",
-    4
+    5
   ],
   "424": [
     "Ferdi Kadıoğlu",
     "os",
-    4
+    5
   ],
   "425": [
     "Tolga Ciğerci",
     "os",
-    2
+    3
   ],
   "426": [
     "Muhammed Gümüşkaya",
@@ -2137,12 +2137,12 @@
   "427": [
     "Vedat Muriqi",
     "f",
-    7
+    8
   ],
   "428": [
     "Mevlüt Erdinç",
     "f",
-    4
+    5
   ],
   "429": [
     "Yusuf Mert Tunç",
