@@ -2,7 +2,7 @@
   "001": [
     "Tolgahan Acar",
     "k",
-    0
+    -1
   ],
   "002": [
     "Hüseyin Altıntaş",
@@ -27,7 +27,7 @@
   "006": [
     "Özgür Çek",
     "d",
-    null
+    2
   ],
   "007": [
     "Mustafa Yumlu",
@@ -1197,7 +1197,7 @@
   "240": [
     "Deniz Kadah",
     "f",
-    null
+    2
   ],
   "241": [
     "Kamil Wilczek",
@@ -2252,7 +2252,7 @@
   "452": [
     "Kartal Yılmaz",
     "os",
-    null
+    2
   ],
   "453": [
     "Mertcan Açıkgöz",
@@ -2267,12 +2267,12 @@
   "455": [
     "Abdoulay Diaby",
     "f",
-    null
+    7
   ],
   "456": [
     "Umut Nayir",
     "f",
-    null
+    2
   ],
   "457": [
     "Güven Yalçın",
