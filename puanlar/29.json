@@ -1517,7 +1517,7 @@
   "303": [
     "Farnolle",
     "k",
-    0
+    -1
   ],
   "304": [
     "Ufuk Ceylan",
@@ -1537,22 +1537,22 @@
   "307": [
     "Chebake",
     "d",
-    3
+    2
   ],
   "308": [
     "Hadebe",
     "d",
-    1
+    0
   ],
   "309": [
     "Sakıb Aytaç",
     "d",
-    3
+    2
   ],
   "310": [
     "Mustafa Akbaş",
     "d",
-    1
+    0
   ],
   "311": [
     "Yiğithan Güveli",
@@ -1567,7 +1567,7 @@
   "313": [
     "Mina",
     "d",
-    3
+    2
   ],
   "314": [
     "Buğra Çağıran",
@@ -1587,7 +1587,7 @@
   "317": [
     "Karim Hafez",
     "d",
-    3
+    2
   ],
   "318": [
     "Bifouma",
@@ -1597,27 +1597,27 @@
   "319": [
     "Gökhan Töre",
     "os",
-    0
+    -1
   ],
   "320": [
     "Fofana",
     "os",
-    7
+    6
   ],
   "321": [
     "Donald",
     "os",
-    8
+    7
   ],
   "322": [
     "Robin Yalçın",
     "os",
-    4
+    3
   ],
   "323": [
     "Murat Yıldırım",
     "os",
-    4
+    3
   ],
   "324": [
     "Issiar Dia",
@@ -1627,7 +1627,7 @@
   "325": [
     "Acquah",
     "os",
-    4
+    3
   ],
   "326": [
     "Remi Walter",
@@ -1652,7 +1652,7 @@
   "330": [
     "Umut Bulut",
     "f",
-    4
+    3
   ],
   "331": [
     "Eren Tozlu",
@@ -1662,7 +1662,7 @@
   "332": [
     "Vidar Kjartansson",
     "f",
-    2
+    1
   ],
   "333": [
     "Gökhan Akkan",
@@ -1982,7 +1982,7 @@
   "396": [
     "Altay Bayındır",
     "k",
-    2
+    3
   ],
   "397": [
     "Harun Tekin",
@@ -2012,7 +2012,7 @@
   "402": [
     "Serdar Aziz",
     "d",
-    3
+    4
   ],
   "403": [
     "Sadık Çiftpınar",
@@ -2022,7 +2022,7 @@
   "404": [
     "Hasan Ali Kaldırım",
     "d",
-    7
+    8
   ],
   "405": [
     "Simon Falette",
@@ -2062,37 +2062,37 @@
   "413": [
     "Emre Belözoğlu",
     "os",
-    2
+    3
   ],
   "414": [
     "Nabil Dirar",
     "os",
-    4
+    5
   ],
   "415": [
     "Ozan Tufan",
     "os",
-    16
+    17
   ],
   "416": [
     "Deniz Türüç",
     "os",
-    3
+    4
   ],
   "417": [
     "Luis Gustavo",
     "os",
-    4
+    5
   ],
   "418": [
     "Garry Rodrigues",
     "os",
-    3
+    4
   ],
   "419": [
     "Jailson",
     "os",
-    4
+    5
   ],
   "420": [
     "Alper Potuk",
@@ -2107,17 +2107,17 @@
   "422": [
     "Tolgay Arslan",
     "os",
-    2
+    3
   ],
   "423": [
     "Mehmet Ekici",
     "os",
-    4
+    5
   ],
   "424": [
     "Ferdi Kadıoğlu",
     "os",
-    5
+    6
   ],
   "425": [
     "Tolga Ciğerci",
@@ -2132,7 +2132,7 @@
   "427": [
     "Vedat Muriqi",
     "f",
-    12
+    13
   ],
   "428": [
     "Mevlüt Erdinç",
