@@ -2787,17 +2787,17 @@
   "558": [
     "Ricardo",
     "k",
-    0
+    -1
   ],
   "559": [
     "Stelios Kitsiou",
     "d",
-    1
+    0
   ],
   "560": [
     "Tiago Pinto",
     "d",
-    6
+    5
   ],
   "561": [
     "Alihan Kubalas",
@@ -2812,12 +2812,12 @@
   "563": [
     "Michal Pazdan",
     "d",
-    2
+    1
   ],
   "564": [
     "Ante Klusic",
     "d",
-    2
+    1
   ],
   "565": [
     "Mehmet Sak",
@@ -2842,7 +2842,7 @@
   "569": [
     "Atila Turan",
     "d",
-    2
+    1
   ],
   "570": [
     "Scarione",
@@ -2857,12 +2857,12 @@
   "572": [
     "Ricardo Faty",
     "os",
-    4
+    3
   ],
   "573": [
     "Aydın Karabulut",
     "os",
-    2
+    1
   ],
   "574": [
     "Wilfred Moke",
@@ -2902,17 +2902,17 @@
   "581": [
     "Saba Lobzhanidze",
     "os",
-    4
+    3
   ],
   "582": [
     "Konrad Michalak ",
     "os",
-    2
+    1
   ],
   "583": [
     "Daniel Lukasic ",
     "os",
-    4
+    3
   ],
   "584": [
     "Mert Aydeniz",
@@ -2957,12 +2957,12 @@
   "591": [
     "İlhan Parlak",
     "f",
-    2
+    1
   ],
   "592": [
     "Dever Orgill",
     "f",
-    2
+    1
   ],
   "593": [
     "Zaur Sadaev",
@@ -2972,6 +2972,6 @@
   "594": [
     "Gelmin Rivas",
     "f",
-    5
+    4
   ]
 }
