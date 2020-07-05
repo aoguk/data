@@ -157,7 +157,7 @@
   "031": [
     "Uğurcan",
     "k",
-    null
+    2
   ],
   "032": [
     "Erce",
@@ -172,7 +172,7 @@
   "034": [
     "Novak",
     "d",
-    null
+    2
   ],
   "035": [
     "Joao Pereira",
@@ -192,12 +192,12 @@
   "038": [
     "Kamil Ahmet",
     "d",
-    null
+    2
   ],
   "039": [
     "Hüseyin",
     "d",
-    null
+    2
   ],
   "040": [
     "Oğuzhan Açıl",
@@ -222,7 +222,7 @@
   "044": [
     "Da Costa",
     "d",
-    null
+    2
   ],
   "045": [
     "Manoel Messias",
@@ -242,12 +242,12 @@
   "048": [
     "Sosa",
     "os",
-    null
+    2
   ],
   "049": [
     "Badou Ndiaye",
     "os",
-    null
+    2
   ],
   "050": [
     "Obi Mikel",
@@ -257,7 +257,7 @@
   "051": [
     "Abdulkadir Ö.",
     "os",
-    null
+    2
   ],
   "052": [
     "Avdijaj",
@@ -272,7 +272,7 @@
   "054": [
     "Abdulkadir P.",
     "os",
-    null
+    2
   ],
   "055": [
     "Yusuf Sarı",
@@ -307,7 +307,7 @@
   "061": [
     "Sörloth",
     "f",
-    null
+    2
   ],
   "062": [
     "Sturridge",
@@ -317,7 +317,7 @@
   "063": [
     "Caleb Ekuban",
     "f",
-    null
+    2
   ],
   "064": [
     "Ahmet Hakan",
@@ -667,7 +667,7 @@
   "133": [
     "Ertuğrul Taşkıran",
     "k",
-    null
+    2
   ],
   "134": [
     "Mücahit Atalay",
@@ -682,7 +682,7 @@
   "136": [
     "Skubic",
     "d",
-    null
+    2
   ],
   "137": [
     "Opanasenko",
@@ -697,7 +697,7 @@
   "139": [
     "Anicic",
     "d",
-    null
+    2
   ],
   "140": [
     "Ali Turan",
@@ -722,7 +722,7 @@
   "144": [
     "Alper Uludağ",
     "d",
-    null
+    2
   ],
   "145": [
     "Guilherme Sitya",
@@ -742,7 +742,7 @@
   "148": [
     "Uğur Demirok",
     "d",
-    null
+    2
   ],
   "149": [
     "Paolo Hurtado",
@@ -752,17 +752,17 @@
   "150": [
     "Ömer Ali Şahiner",
     "os",
-    null
+    2
   ],
   "151": [
     "Levan Shengelia",
     "os",
-    null
+    2
   ],
   "152": [
     "Deni Milosevic",
     "os",
-    null
+    2
   ],
   "153": [
     "Farouk Miya",
@@ -772,12 +772,12 @@
   "154": [
     "Jens Jonsson",
     "os",
-    null
+    2
   ],
   "155": [
     "Marko Jevtovic",
     "os",
-    null
+    2
   ],
   "156": [
     "Hadziahmetovic",
@@ -807,7 +807,7 @@
   "161": [
     "Bajic",
     "f",
-    null
+    2
   ],
   "162": [
     "Rogerio Thuram",
@@ -1682,7 +1682,7 @@
   "335": [
     "Tarık Çetin",
     "k",
-    null
+    2
   ],
   "336": [
     "Boğaçhan Kazmaz",
@@ -1697,7 +1697,7 @@
   "338": [
     "Melnijak",
     "d",
-    null
+    2
   ],
   "339": [
     "Moroziuk",
@@ -1707,12 +1707,12 @@
   "340": [
     "Talbi",
     "d",
-    null
+    2
   ],
   "341": [
     "İvanildo Fernandes",
     "d",
-    null
+    2
   ],
   "342": [
     "Chatziisaias",
@@ -1722,7 +1722,7 @@
   "343": [
     "Orhan Ovacıklı",
     "d",
-    null
+    2
   ],
   "344": [
     "Burak Albayrak",
@@ -1757,12 +1757,12 @@
   "350": [
     "Samudio",
     "os",
-    null
+    2
   ],
   "351": [
     "Boldrin",
     "os",
-    null
+    2
   ],
   "352": [
     "Aminu Umar",
@@ -1777,7 +1777,7 @@
   "354": [
     "Abdullah Durak",
     "os",
-    null
+    2
   ],
   "355": [
     "Diomande",
@@ -1802,7 +1802,7 @@
   "359": [
     "Vetrih",
     "os",
-    null
+    2
   ],
   "360": [
     "Çınar Tarhan",
@@ -1832,12 +1832,12 @@
   "365": [
     "Tunay Torun",
     "os",
-    null
+    2
   ],
   "366": [
     "Milan Skoda",
     "f",
-    null
+    2
   ],
   "367": [
     "Scepovic",
@@ -2612,7 +2612,7 @@
   "522": [
     "Okan Kocuk",
     "k",
-    null
+    2
   ],
   "523": [
     "Batuhan Ahmet Şen",
@@ -2637,12 +2637,12 @@
   "528": [
     "Ömer Bayram",
     "d",
-    null
+    2
   ],
   "529": [
     "Mariano Ferreira",
     "d",
-    null
+    2
   ],
   "530": [
     "Christian Luyindama",
@@ -2652,7 +2652,7 @@
   "531": [
     "Marcelo Saracchi",
     "d",
-    null
+    2
   ],
   "532": [
     "Yuto Nagatomo",
@@ -2667,7 +2667,7 @@
   "534": [
     "Marcao",
     "d",
-    null
+    2
   ],
   "535": [
     "Henry Onyekuru",
@@ -2682,17 +2682,17 @@
   "537": [
     "Younes Belhanda",
     "os",
-    null
+    2
   ],
   "538": [
     "Ryan Donk",
     "os",
-    null
+    2
   ],
   "539": [
     "Emre Akbaba",
     "os",
-    null
+    2
   ],
   "540": [
     "Jakup Jimmy Durmaz",
@@ -2717,17 +2717,17 @@
   "544": [
     "Taylan Antalyalı",
     "os",
-    null
+    2
   ],
   "545": [
     "Seri",
     "os",
-    null
+    2
   ],
   "546": [
     "Sofiane Feghouli",
     "os",
-    null
+    2
   ],
   "547": [
     "Steven Nzonzi",
