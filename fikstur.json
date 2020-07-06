@@ -8,7 +8,7 @@
         {"takim1":"Kasımpaşa", "skor1":0, "takim2":"Sivasspor", "skor2":0, "finished":1},
         {"takim1":"Galatasaray", "skor1":1, "takim2":"Trabzonspor", "skor2":3, "finished":1},
         {"takim1":"Konyaspor", "skor1":1, "takim2":"Rizespor", "skor2":0, "finished":1}, 
-        {"takim1":"Kayserispor", "skor1":1, "takim2":"Beşiktaş", "skor2":0, "finished":1}
+        {"takim1":"Kayserispor", "skor1":2, "takim2":"Beşiktaş", "skor2":1, "finished":1}
     ],    
      "29": [
         {"takim1":"Beşiktaş", "skor1":3, "takim2":"Konyaspor", "skor2":0, "finished":1},
