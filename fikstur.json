@@ -1,7 +1,7 @@
 {
      "32": [
         {"takim1":"Göztepe", "skor1":1, "takim2":"Gençlerbirliği", "skor2":3, "finished":1},
-        {"takim1":"Ankaragücü", "skor1":null, "takim2":"Galatasaray", "skor2":null, "finished":0},
+        {"takim1":"Ankaragücü", "skor1":1, "takim2":"Galatasaray", "skor2":0, "finished":1},
         {"takim1":"Antalyaspor", "skor1":null, "takim2":"Alanyaspor", "skor2":null, "finished":0},
         {"takim1":"Fenerbahçe", "skor1":null, "takim2":"Sivasspor", "skor2":null, "finished":0},
         {"takim1":"Kasımpaşa", "skor1":null, "takim2":"Rizespor", "skor2":null, "finished":0},
