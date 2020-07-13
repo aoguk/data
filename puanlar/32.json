@@ -322,7 +322,7 @@
   "065": [
     "Mert Günok",
     "k",
-    0
+    -1
   ],
   "066": [
     "V. Babacan",
@@ -342,22 +342,22 @@
   "069": [
     "Caiçara",
     "d",
-    6
+    5
   ],
   "070": [
     "Clichy",
     "d",
-    2
+    1
   ],
   "071": [
     "Epureanu",
     "d",
-    1
+    0
   ],
   "072": [
     "Martin Skrtel",
     "d",
-    2
+    1
   ],
   "073": [
     "Aziz Behich",
@@ -392,17 +392,17 @@
   "079": [
     "Visca",
     "os",
-    12
+    11
   ],
   "080": [
     "Elia",
     "os",
-    8
+    7
   ],
   "081": [
     "Danijel Aleksic",
     "os",
-    1
+    0
   ],
   "082": [
     "Gökhan İnler",
@@ -412,17 +412,17 @@
   "083": [
     "Berkay Özcan",
     "os",
-    2
+    1
   ],
   "084": [
     "İrfan Can",
     "os",
-    4
+    3
   ],
   "085": [
     "Mahmut Tekdemir",
     "os",
-    2
+    1
   ],
   "086": [
     "Milos Jojic",
@@ -432,7 +432,7 @@
   "087": [
     "Mehmet Topal",
     "os",
-    4
+    3
   ],
   "088": [
     "Azubuike",
@@ -442,12 +442,12 @@
   "089": [
     "Crivelli",
     "f",
-    4
+    3
   ],
   "090": [
     "Robinho",
     "f",
-    2
+    1
   ],
   "091": [
     "Gulbrandsen",
@@ -457,7 +457,7 @@
   "092": [
     "Demba Ba",
     "f",
-    9
+    8
   ],
   "093": [
     "Muhammet A.",
@@ -662,7 +662,7 @@
   "133": [
     "Ertuğrul Taşkıran",
     "k",
-    1
+    2
   ],
   "134": [
     "Mücahit Atalay",
@@ -677,7 +677,7 @@
   "136": [
     "Skubic",
     "d",
-    11
+    12
   ],
   "137": [
     "Opanasenko",
@@ -692,7 +692,7 @@
   "139": [
     "Anicic",
     "d",
-    3
+    4
   ],
   "140": [
     "Ali Turan",
@@ -712,12 +712,12 @@
   "143": [
     "Selim Ay",
     "d",
-    2
+    3
   ],
   "144": [
     "Alper Uludağ",
     "d",
-    7
+    8
   ],
   "145": [
     "Guilherme Sitya",
@@ -737,7 +737,7 @@
   "148": [
     "Uğur Demirok",
     "d",
-    2
+    3
   ],
   "149": [
     "Paolo Hurtado",
@@ -747,7 +747,7 @@
   "150": [
     "Ömer Ali Şahiner",
     "os",
-    10
+    11
   ],
   "151": [
     "Levan Shengelia",
@@ -757,27 +757,27 @@
   "152": [
     "Deni Milosevic",
     "os",
-    3
+    4
   ],
   "153": [
     "Farouk Miya",
     "os",
-    15
+    16
   ],
   "154": [
     "Jens Jonsson",
     "os",
-    7
+    8
   ],
   "155": [
     "Marko Jevtovic",
     "os",
-    2
+    3
   ],
   "156": [
     "Hadziahmetovic",
     "os",
-    7
+    8
   ],
   "157": [
     "Ali Çamdalı",
@@ -787,7 +787,7 @@
   "158": [
     "Volkan Fındıklı",
     "os",
-    4
+    5
   ],
   "159": [
     "Ali Karakaya",
@@ -807,7 +807,7 @@
   "162": [
     "Rogerio Thuram",
     "f",
-    2
+    3
   ],
   "163": [
     "Mücahit Can Akçay",
