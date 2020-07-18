@@ -1052,7 +1052,7 @@
   "211": [
     "Beto",
     "k",
-    1
+    -1
   ],
   "212": [
     "Göktuğ Bakırtaş",
@@ -1087,12 +1087,12 @@
   "218": [
     "Atınç Nukan",
     "d",
-    2
+    1
   ],
   "219": [
     "Berkan Emir",
     "d",
-    3
+    2
   ],
   "220": [
     "Sanneh",
@@ -1112,7 +1112,7 @@
   "223": [
     "Zlatko Tripiç",
     "d",
-    3
+    2
   ],
   "224": [
     "Veli Çetin",
@@ -1122,7 +1122,7 @@
   "225": [
     "Murat Paluli",
     "d",
-    7
+    6
   ],
   "226": [
     "Serdar Gürler",
@@ -1132,42 +1132,42 @@
   "227": [
     "Andre Castro",
     "os",
-    2
+    1
   ],
   "228": [
     "Mossoro",
     "os",
-    4
+    3
   ],
   "229": [
     "Soner Aydoğdu",
     "os",
-    4
+    3
   ],
   "230": [
     "Poko",
     "os",
-    4
+    3
   ],
   "231": [
     "Napoleoni",
     "os",
-    10
+    9
   ],
   "232": [
     "Halil",
     "os",
-    4
+    3
   ],
   "233": [
     "Borges",
     "os",
-    2
+    1
   ],
   "234": [
     "Alpaslan Öztürk",
     "os",
-    4
+    3
   ],
   "235": [
     "Yalçın Kayan",
@@ -1177,7 +1177,7 @@
   "236": [
     "Atakan",
     "os",
-    2
+    1
   ],
   "237": [
     "Hüseyin Bulut",
@@ -1352,7 +1352,7 @@
   "271": [
     "Muğdat Çelik",
     "f",
-    null
+    2
   ],
   "272": [
     "Chabbi",
@@ -2617,7 +2617,7 @@
   "522": [
     "Okan Kocuk",
     "k",
-    3
+    4
   ],
   "523": [
     "Batuhan Ahmet Şen",
@@ -2632,7 +2632,7 @@
   "526": [
     "Ahmet Çalık",
     "d",
-    null
+    3
   ],
   "527": [
     "Martin Linnes",
@@ -2642,12 +2642,12 @@
   "528": [
     "Ömer Bayram",
     "d",
-    4
+    5
   ],
   "529": [
     "Mariano Ferreira",
     "d",
-    4
+    5
   ],
   "530": [
     "Christian Luyindama",
@@ -2657,7 +2657,7 @@
   "531": [
     "Marcelo Saracchi",
     "d",
-    12
+    13
   ],
   "532": [
     "Yuto Nagatomo",
@@ -2672,7 +2672,7 @@
   "534": [
     "Marcao",
     "d",
-    3
+    4
   ],
   "535": [
     "Henry Onyekuru",
@@ -2687,22 +2687,22 @@
   "537": [
     "Younes Belhanda",
     "os",
-    1
+    2
   ],
   "538": [
     "Ryan Donk",
     "os",
-    3
+    4
   ],
   "539": [
     "Emre Akbaba",
     "os",
-    10
+    11
   ],
   "540": [
     "Jakup Jimmy Durmaz",
     "os",
-    2
+    3
   ],
   "541": [
     "Atalay Babacan",
@@ -2722,17 +2722,17 @@
   "544": [
     "Taylan Antalyalı",
     "os",
-    2
+    6
   ],
   "545": [
     "Seri",
     "os",
-    4
+    5
   ],
   "546": [
     "Sofiane Feghouli",
     "os",
-    5
+    6
   ],
   "547": [
     "Steven Nzonzi",
@@ -2752,7 +2752,7 @@
   "550": [
     "Adem Büyük",
     "f",
-    4
+    5
   ],
   "551": [
     "Falcao",
@@ -2762,7 +2762,7 @@
   "552": [
     "Yunus Akgün",
     "f",
-    null
+    8
   ],
   "553": [
     "Florin Andone",
