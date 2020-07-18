@@ -1,6 +1,6 @@
 {
      "33": [
-        {"takim1":"Gaziantep", "skor1":null, "takim2":"Kasımpaşa", "skor2":null, "finished":0},
+        {"takim1":"Gaziantep", "skor1":1, "takim2":"Kasımpaşa", "skor2":0, "finished":1},
         {"takim1":"Galatasaray", "skor1":null, "takim2":"Göztepe", "skor2":null, "finished":0},
         {"takim1":"Rizespor", "skor1":null, "takim2":"Malatya", "skor2":null, "finished":0},
         {"takim1":"Trabzonspor", "skor1":null, "takim2":"Konyaspor", "skor2":null, "finished":0},
