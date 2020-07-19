@@ -152,7 +152,7 @@
   "031": [
     "Uğurcan",
     "k",
-    0
+    -1
   ],
   "032": [
     "Erce",
@@ -167,7 +167,7 @@
   "034": [
     "Novak",
     "d",
-    10
+    9
   ],
   "035": [
     "Joao Pereira",
@@ -182,12 +182,12 @@
   "037": [
     "Gaston Campi",
     "d",
-    2
+    1
   ],
   "038": [
     "Kamil Ahmet",
     "d",
-    2
+    1
   ],
   "039": [
     "Hüseyin",
@@ -217,7 +217,7 @@
   "044": [
     "Da Costa",
     "d",
-    0
+    -1
   ],
   "045": [
     "Manoel Messias",
@@ -227,12 +227,12 @@
   "046": [
     "Guilherme",
     "os",
-    5
+    4
   ],
   "047": [
     "Nwakaeme",
     "os",
-    2
+    1
   ],
   "048": [
     "Sosa",
@@ -242,7 +242,7 @@
   "049": [
     "Badou Ndiaye",
     "os",
-    4
+    3
   ],
   "050": [
     "Obi Mikel",
@@ -252,7 +252,7 @@
   "051": [
     "Abdulkadir Ö.",
     "os",
-    4
+    3
   ],
   "052": [
     "Avdijaj",
@@ -267,17 +267,17 @@
   "054": [
     "Abdulkadir P.",
     "os",
-    4
+    3
   ],
   "055": [
     "Yusuf Sarı",
     "os",
-    null
+    1
   ],
   "056": [
     "Doğan Erdoğan",
     "os",
-    null
+    1
   ],
   "057": [
     "Ahmet Canbaz",
@@ -302,7 +302,7 @@
   "061": [
     "Sörloth",
     "f",
-    15
+    14
   ],
   "062": [
     "Sturridge",
@@ -312,7 +312,7 @@
   "063": [
     "Caleb Ekuban",
     "f",
-    7
+    6
   ],
   "064": [
     "Ahmet Hakan",
