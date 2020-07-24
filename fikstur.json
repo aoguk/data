@@ -1,6 +1,6 @@
 {
      "34": [
-        {"takim1":"Antalyaspor", "skor1":1, "takim2":"Galatasaray", "skor2":1, "finished":1},
+        {"takim1":"Antalyaspor", "skor1":1, "takim2":"Galatasaray", "skor2":2, "finished":1},
         {"takim1":"Denizlispor", "skor1":null, "takim2":"Ankaragücü", "skor2":null, "finished":0},
         {"takim1":"Gençlerbirliği", "skor1":null, "takim2":"Beşiktaş", "skor2":null, "finished":0},
         {"takim1":"Fenerbahçe", "skor1":null, "takim2":"Rizespor", "skor2":null, "finished":0},
