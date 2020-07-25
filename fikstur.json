@@ -1,13 +1,13 @@
 {
      "34": [
         {"takim1":"Antalyaspor", "skor1":2, "takim2":"Galatasaray", "skor2":2, "finished":1},
-        {"takim1":"Denizlispor", "skor1":null, "takim2":"Ankaragücü", "skor2":null, "finished":0},
-        {"takim1":"Gençlerbirliği", "skor1":null, "takim2":"Beşiktaş", "skor2":null, "finished":0},
-        {"takim1":"Fenerbahçe", "skor1":1, "takim2":"Rizespor", "skor2":0, "finished":1},
-        {"takim1":"Konyaspor", "skor1":2, "takim2":"Alanyaspor", "skor2":0, "finished":1},
-        {"takim1":"Göztepe", "skor1":1, "takim2":"Sivasspor", "skor2":0, "finished":1},
-        {"takim1":"Kayserispor", "skor1":null, "takim2":"Trabzonspor", "skor2":null, "finished":0},
-        {"takim1":"Malatya", "skor1":null, "takim2":"Gaziantep", "skor2":null, "finished":0}, 
+        {"takim1":"Denizlispor", "skor1":0, "takim2":"Ankaragücü", "skor2":1, "finished":1},
+        {"takim1":"Gençlerbirliği", "skor1":0, "takim2":"Beşiktaş", "skor2":3, "finished":1},
+        {"takim1":"Fenerbahçe", "skor1":3, "takim2":"Rizespor", "skor2":1, "finished":1},
+        {"takim1":"Konyaspor", "skor1":2, "takim2":"Alanyaspor", "skor2":3, "finished":1},
+        {"takim1":"Göztepe", "skor1":3, "takim2":"Sivasspor", "skor2":1, "finished":1},
+        {"takim1":"Kayserispor", "skor1":1, "takim2":"Trabzonspor", "skor2":2, "finished":1},
+        {"takim1":"Malatya", "skor1":0, "takim2":"Gaziantep", "skor2":1, "finished":1}, 
         {"takim1":"Kasımpaşa", "skor1":null, "takim2":"Başakşehir", "skor2":null, "finished":0}
 
     ]
