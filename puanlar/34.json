@@ -7,7 +7,7 @@
   "002": [
     "Hüseyin Altıntaş",
     "k",
-    3
+    2
   ],
   "003": [
     "Ömer Yazıcı",
@@ -17,12 +17,12 @@
   "004": [
     "Zeki Yavru",
     "d",
-    4
+    3
   ],
   "005": [
     "Tiago Lopes",
     "d",
-    2
+    1
   ],
   "006": [
     "Özgür Çek",
@@ -32,12 +32,12 @@
   "007": [
     "Mustafa Yumlu",
     "d",
-    4
+    3
   ],
   "008": [
     "Bergdich",
     "d",
-    4
+    3
   ],
   "009": [
     "Muhammet Özkal",
@@ -52,7 +52,7 @@
   "011": [
     "Oğuz Yılmaz",
     "d",
-    4
+    3
   ],
   "012": [
     "Emre Sağlık",
@@ -77,7 +77,7 @@
   "016": [
     "İsmail Aissati",
     "os",
-    3
+    2
   ],
   "017": [
     "Onazi",
@@ -87,7 +87,7 @@
   "018": [
     "Olcay Şahan",
     "os",
-    2
+    1
   ],
   "019": [
     "Modou Barrow",
@@ -97,17 +97,17 @@
   "020": [
     "Hadi Sacko",
     "os",
-    4
+    3
   ],
   "021": [
     "Issac Sackey",
     "os",
-    4
+    3
   ],
   "022": [
     "Radoslaw Murawski",
     "os",
-    4
+    3
   ],
   "023": [
     "Sedat Şahintürk",
@@ -117,7 +117,7 @@
   "024": [
     "Recep Niyaz",
     "os",
-    4
+    3
   ],
   "025": [
     "Mbamba",
@@ -142,12 +142,12 @@
   "029": [
     "Rodallega",
     "f",
-    4
+    3
   ],
   "030": [
     "Oscar Estupinan",
     "f",
-    2
+    1
   ],
   "031": [
     "Uğurcan",
@@ -2777,7 +2777,7 @@
   "555": [
     "Korcan Çelikay",
     "k",
-    4
+    10
   ],
   "556": [
     "Furkan Bekleviç",
@@ -2822,7 +2822,7 @@
   "564": [
     "Ante Klusic",
     "d",
-    4
+    8
   ],
   "565": [
     "Mehmet Sak",
@@ -2832,7 +2832,7 @@
   "566": [
     "Cebrail Karayel",
     "d",
-    4
+    8
   ],
   "567": [
     "Ahmet Boztepe",
@@ -2852,7 +2852,7 @@
   "570": [
     "Scarione",
     "os",
-    4
+    5
   ],
   "571": [
     "Hector Canteros",
@@ -2882,7 +2882,7 @@
   "576": [
     "Sedat Ağçay",
     "os",
-    2
+    3
   ],
   "577": [
     "Ahmet Can Arık",
@@ -2907,17 +2907,17 @@
   "581": [
     "Saba Lobzhanidze",
     "os",
-    4
+    5
   ],
   "582": [
     "Konrad Michalak ",
     "os",
-    4
+    5
   ],
   "583": [
     "Daniel Lukasic ",
     "os",
-    4
+    5
   ],
   "584": [
     "Mert Aydeniz",
@@ -2947,7 +2947,7 @@
   "589": [
     "Ender Aygören",
     "os",
-    4
+    5
   ],
   "590": [
     "Gerson Rodrigues",
@@ -2957,17 +2957,17 @@
   "595": [
     "Milos Stojanovic",
     "os",
-    4
+    5
   ],
   "591": [
     "İlhan Parlak",
     "f",
-    7
+    8
   ],
   "592": [
     "Dever Orgill",
     "f",
-    4
+    5
   ],
   "593": [
     "Zaur Sadaev",
@@ -2977,6 +2977,6 @@
   "594": [
     "Gelmin Rivas",
     "f",
-    2
+    6
   ]
 }
