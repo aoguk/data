@@ -2887,13 +2887,6 @@
       "id": "406",
       "oldid": "fb60"
     },
-    "412": {
-      "team": "fb",
-      "name": "Daniel Kolar",
-      "pozisyon": "os",
-      "id": "412",
-      "oldid": "fb34"
-    },
     "413": {
       "team": "fb",
       "name": "Emre Belözoğlu",
@@ -3019,6 +3012,13 @@
       "pozisyon": "f",
       "id": "429",
       "oldid": "fb35"
+    },
+    "412": {
+      "team": "fb",
+      "name": "Allahyar",
+      "pozisyon": "f",
+      "id": "412",
+      "oldid": "fb34"
     }
   },
   "bjk": {
