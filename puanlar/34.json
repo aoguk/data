@@ -1992,7 +1992,7 @@
   "397": [
     "Harun Tekin",
     "k",
-    null
+    2
   ],
   "398": [
     "Erten Ersu",
@@ -2017,7 +2017,7 @@
   "402": [
     "Serdar Aziz",
     "d",
-    null
+    2
   ],
   "403": [
     "Sadık Çiftpınar",
@@ -2027,12 +2027,12 @@
   "404": [
     "Hasan Ali Kaldırım",
     "d",
-    null
+    2
   ],
   "405": [
     "Simon Falette",
     "d",
-    null
+    2
   ],
   "407": [
     "Murat Sağlam",
@@ -2059,25 +2059,20 @@
     "os",
     null
   ],
-  "412": [
-    "Daniel Kolar",
-    "os",
-    null
-  ],
   "413": [
     "Emre Belözoğlu",
     "os",
-    null
+    2
   ],
   "414": [
     "Nabil Dirar",
     "os",
-    null
+    2
   ],
   "415": [
     "Ozan Tufan",
     "os",
-    null
+    2
   ],
   "416": [
     "Deniz Türüç",
@@ -2092,15 +2087,10 @@
   "418": [
     "Garry Rodrigues",
     "os",
-    null
+    2
   ],
   "419": [
     "Jailson",
-    "os",
-    null
-  ],
-  "420": [
-    "Alper Potuk",
     "os",
     null
   ],
@@ -2122,7 +2112,7 @@
   "424": [
     "Ferdi Kadıoğlu",
     "os",
-    null
+    2
   ],
   "425": [
     "Tolga Ciğerci",
@@ -2137,7 +2127,7 @@
   "406": [
     "Ömer Faruk Beyaz",
     "os",
-    null
+    2
   ],
   "427": [
     "Vedat Muriqi",
@@ -2153,6 +2143,11 @@
     "Yusuf Mert Tunç",
     "f",
     null
+  ],
+  "412": [
+    "Allahyar",
+    "f",
+    2
   ],
   "430": [
     "Loris Karius",
