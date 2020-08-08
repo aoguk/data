@@ -2817,6 +2817,13 @@
       "id": "400",
       "oldid": "fb05"
     },
+    "435": {
+      "team": "fb",
+      "name": "Caner Erkin",
+      "pozisyon": "d",
+      "id": "435",
+      "oldid": "fb435"
+    },
     "401": {
       "team": "fb",
       "name": "Mauricio Isla",
@@ -3056,13 +3063,6 @@
       "pozisyon": "d",
       "id": "434",
       "oldid": "bjk05"
-    },
-    "435": {
-      "team": "bjk",
-      "name": "Caner Erkin",
-      "pozisyon": "d",
-      "id": "435",
-      "oldid": "bjk06"
     },
     "436": {
       "team": "bjk",
