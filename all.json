@@ -233,13 +233,6 @@
       "id": "033",
       "oldid": "ts03"
     },
-    "034": {
-      "team": "ts",
-      "name": "Novak",
-      "pozisyon": "d",
-      "id": "034",
-      "oldid": "ts04"
-    },
     "035": {
       "team": "ts",
       "name": "Joao Pereira",
@@ -2717,13 +2710,6 @@
       "id": "386",
       "oldid": "svs18"
     },
-    "387": {
-      "team": "svs",
-      "name": "Mert Hakan Yandaş",
-      "pozisyon": "os",
-      "id": "387",
-      "oldid": "svs19"
-    },
     "388": {
       "team": "svs",
       "name": "Djerlek",
@@ -2824,6 +2810,20 @@
       "id": "435",
       "oldid": "fb435"
     },
+    "439": {
+      "team": "fb",
+      "name": "Gökhan Gönül",
+      "pozisyon": "d",
+      "id": "439",
+      "oldid": "fb439"
+    },
+    "034": {
+      "team": "fb",
+      "name": "Novak",
+      "pozisyon": "d",
+      "id": "034",
+      "oldid": "fb034"
+    },
     "401": {
       "team": "fb",
       "name": "Mauricio Isla",
@@ -2887,13 +2887,6 @@
       "id": "410",
       "oldid": "fb16"
     },
-    "411": {
-      "team": "fb",
-      "name": "Max Kruse",
-      "pozisyon": "os",
-      "id": "411",
-      "oldid": "fb17"
-    },
     "406": {
       "team": "fb",
       "name": "Ömer Faruk Beyaz",
@@ -2901,12 +2894,12 @@
       "id": "406",
       "oldid": "fb60"
     },
-    "413": {
+    "387": {
       "team": "fb",
-      "name": "Emre Belözoğlu",
+      "name": "Mert Hakan Yandaş",
       "pozisyon": "os",
-      "id": "413",
-      "oldid": "fb18"
+      "id": "387",
+      "oldid": "fb387"
     },
     "414": {
       "team": "fb",
@@ -3084,13 +3077,6 @@
       "pozisyon": "d",
       "id": "438",
       "oldid": "bjk09"
-    },
-    "439": {
-      "team": "bjk",
-      "name": "Gökhan Gönül",
-      "pozisyon": "d",
-      "id": "439",
-      "oldid": "bjk10"
     },
     "440": {
       "team": "bjk",
