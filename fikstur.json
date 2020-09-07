@@ -1,5 +1,6 @@
 {
-     "34": [
+     "34": {
+          "fikstur":[
         {"takim1":"Antalyaspor", "skor1":null, "takim2":"Galatasaray", "skor2":null, "finished":0},
         {"takim1":"Denizlispor", "skor1":null, "takim2":"Ankaragücü", "skor2":null, "finished":0},
         {"takim1":"Gençlerbirliği", "skor1":null, "takim2":"Beşiktaş", "skor2":null, "finished":0},
@@ -11,7 +12,7 @@
         {"takim1":"Kasımpaşa", "skor1":null, "takim2":"Başakşehir", "skor2":null, "finished":0}
         {"takim1":"Fatih Karagümrük", "skor1":null, "takim2":"Erzurumspor", "skor2":null, "finished":0}, 
         {"takim1":"Hatayspor", "skor1":null, "takim2":"Hatayspor", "skor2":null, "finished":0}
-
-    ]
+    ],
+          "bay":"Gaziantep FK"
 }
 
