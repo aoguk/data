@@ -4,211 +4,181 @@
       "team": "dnz",
       "name": "Tolgahan Acar",
       "pozisyon": "k",
-      "id": "001",
-      "oldid": "dnz02"
+      "id": "001"
     },
     "002": {
       "team": "dnz",
       "name": "Hüseyin Altıntaş",
       "pozisyon": "k",
-      "id": "002",
-      "oldid": "dnz03"
+      "id": "002"
     },
     "003": {
       "team": "dnz",
       "name": "Ömer Yazıcı",
       "pozisyon": "k",
-      "id": "003",
-      "oldid": "dnz04"
+      "id": "003"
     },
     "004": {
       "team": "dnz",
       "name": "Zeki Yavru",
       "pozisyon": "d",
-      "id": "004",
-      "oldid": "dnz05"
+      "id": "004"
     },
     "005": {
       "team": "dnz",
       "name": "Tiago Lopes",
       "pozisyon": "d",
-      "id": "005",
-      "oldid": "dnz06"
+      "id": "005"
     },
     "006": {
       "team": "dnz",
       "name": "Özgür Çek",
       "pozisyon": "d",
-      "id": "006",
-      "oldid": "dnz07"
+      "id": "006"
     },
     "007": {
       "team": "dnz",
       "name": "Mustafa Yumlu",
       "pozisyon": "d",
-      "id": "007",
-      "oldid": "dnz08"
+      "id": "007"
     },
     "008": {
       "team": "dnz",
       "name": "Bergdich",
       "pozisyon": "d",
-      "id": "008",
-      "oldid": "dnz09"
+      "id": "008"
     },
     "009": {
       "team": "dnz",
       "name": "Muhammet Özkal",
       "pozisyon": "d",
-      "id": "009",
-      "oldid": "dnz10"
+      "id": "009"
     },
     "010": {
       "team": "dnz",
       "name": "Kerem Can Akyüz",
       "pozisyon": "d",
-      "id": "010",
-      "oldid": "dnz11"
+      "id": "010"
     },
     "011": {
       "team": "dnz",
       "name": "Oğuz Yılmaz",
       "pozisyon": "d",
-      "id": "011",
-      "oldid": "dnz12"
+      "id": "011"
     },
     "012": {
       "team": "dnz",
       "name": "Emre Sağlık",
       "pozisyon": "d",
-      "id": "012",
-      "oldid": "dnz13"
+      "id": "012"
     },
     "013": {
       "team": "dnz",
       "name": "Kadir Kurt",
       "pozisyon": "d",
-      "id": "013",
-      "oldid": "dnz14"
+      "id": "013"
     },
     "014": {
       "team": "dnz",
       "name": "Murathan Sütçü",
       "pozisyon": "d",
-      "id": "014",
-      "oldid": "dnz15"
+      "id": "014"
     },
     "015": {
       "team": "dnz",
       "name": "Ben Youssef",
       "pozisyon": "d",
-      "id": "015",
-      "oldid": "dnz30"
+      "id": "015"
     },
     "016": {
       "team": "dnz",
       "name": "İsmail Aissati",
       "pozisyon": "os",
-      "id": "016",
-      "oldid": "dnz16"
+      "id": "016"
     },
     "017": {
       "team": "dnz",
       "name": "Onazi",
       "pozisyon": "os",
-      "id": "017",
-      "oldid": "dnz17"
+      "id": "017"
     },
     "018": {
       "team": "dnz",
       "name": "Olcay Şahan",
       "pozisyon": "os",
-      "id": "018",
-      "oldid": "dnz18"
+      "id": "018"
     },
     "019": {
       "team": "dnz",
       "name": "Modou Barrow",
       "pozisyon": "os",
-      "id": "019",
-      "oldid": "dnz19"
+      "id": "019"
     },
     "020": {
       "team": "dnz",
       "name": "Hadi Sacko",
       "pozisyon": "os",
-      "id": "020",
-      "oldid": "dnz20"
+      "id": "020"
     },
     "021": {
       "team": "dnz",
       "name": "Issac Sackey",
       "pozisyon": "os",
-      "id": "021",
-      "oldid": "dnz21"
+      "id": "021"
     },
     "022": {
       "team": "dnz",
       "name": "Radoslaw Murawski",
       "pozisyon": "os",
-      "id": "022",
-      "oldid": "dnz22"
+      "id": "022"
     },
     "023": {
       "team": "dnz",
       "name": "Sedat Şahintürk",
       "pozisyon": "os",
-      "id": "023",
-      "oldid": "dnz23"
+      "id": "023"
     },
     "024": {
       "team": "dnz",
       "name": "Recep Niyaz",
       "pozisyon": "os",
-      "id": "024",
-      "oldid": "dnz24"
+      "id": "024"
     },
     "025": {
       "team": "dnz",
       "name": "Mbamba",
       "pozisyon": "os",
-      "id": "025",
-      "oldid": "dnz25"
+      "id": "025"
     },
     "026": {
       "team": "dnz",
       "name": "Burak Çalık",
       "pozisyon": "os",
-      "id": "026",
-      "oldid": "dnz26"
+      "id": "026"
     },
     "027": {
       "team": "dnz",
       "name": "Asım",
       "pozisyon": "os",
-      "id": "027",
-      "oldid": "dnz27"
+      "id": "027"
     },
     "028": {
       "team": "dnz",
       "name": "Alihan Kalkan",
       "pozisyon": "os",
-      "id": "028",
-      "oldid": "dnz28"
+      "id": "028"
     },
     "029": {
       "team": "dnz",
       "name": "Rodallega",
       "pozisyon": "f",
-      "id": "029",
-      "oldid": "dnz29"
+      "id": "029"
     },
     "030": {
       "team": "dnz",
       "name": "Oscar Estupinan",
       "pozisyon": "f",
-      "id": "030",
-      "oldid": "dnz31"
+      "id": "030"
     }
   },
   "ts": {
@@ -216,225 +186,193 @@
       "team": "ts",
       "name": "Uğurcan",
       "pozisyon": "k",
-      "id": "031",
-      "oldid": "ts01"
+      "id": "031"
     },
     "032": {
       "team": "ts",
       "name": "Erce",
       "pozisyon": "k",
-      "id": "032",
-      "oldid": "ts02"
+      "id": "032"
     },
     "033": {
       "team": "ts",
       "name": "Arda",
       "pozisyon": "k",
-      "id": "033",
-      "oldid": "ts03"
+      "id": "033"
     },
     "035": {
       "team": "ts",
       "name": "Joao Pereira",
       "pozisyon": "d",
-      "id": "035",
-      "oldid": "ts05"
+      "id": "035"
     },
     "036": {
       "team": "ts",
       "name": "Majid Hosseini",
       "pozisyon": "d",
-      "id": "036",
-      "oldid": "ts06"
+      "id": "036"
     },
     "037": {
       "team": "ts",
       "name": "Gaston Campi",
       "pozisyon": "d",
-      "id": "037",
-      "oldid": "ts07"
+      "id": "037"
     },
     "038": {
       "team": "ts",
       "name": "Kamil Ahmet",
       "pozisyon": "d",
-      "id": "038",
-      "oldid": "ts08"
+      "id": "038"
     },
     "039": {
       "team": "ts",
       "name": "Hüseyin",
       "pozisyon": "d",
-      "id": "039",
-      "oldid": "ts09"
+      "id": "039"
     },
     "040": {
       "team": "ts",
       "name": "Oğuzhan Açıl",
       "pozisyon": "d",
-      "id": "040",
-      "oldid": "ts10"
+      "id": "040"
     },
     "041": {
       "team": "ts",
       "name": "Atakan Gündüz",
       "pozisyon": "d",
-      "id": "041",
-      "oldid": "ts11"
+      "id": "041"
     },
     "042": {
       "team": "ts",
       "name": "Serkan Asan",
       "pozisyon": "d",
-      "id": "042",
-      "oldid": "ts12"
+      "id": "042"
     },
     "043": {
       "team": "ts",
       "name": "Abdurrahim",
       "pozisyon": "d",
-      "id": "043",
-      "oldid": "ts13"
+      "id": "043"
     },
     "044": {
       "team": "ts",
       "name": "Da Costa",
       "pozisyon": "d",
-      "id": "044",
-      "oldid": "ts31"
+      "id": "044"
     },
     "045": {
       "team": "ts",
       "name": "Manoel Messias",
       "pozisyon": "d",
-      "id": "045",
-      "oldid": "ts32"
+      "id": "045"
     },
     "046": {
       "team": "ts",
       "name": "Guilherme",
       "pozisyon": "os",
-      "id": "046",
-      "oldid": "ts33"
+      "id": "046"
     },
     "047": {
       "team": "ts",
       "name": "Nwakaeme",
       "pozisyon": "os",
-      "id": "047",
-      "oldid": "ts14"
+      "id": "047"
     },
     "048": {
       "team": "ts",
       "name": "Sosa",
       "pozisyon": "os",
-      "id": "048",
-      "oldid": "ts15"
+      "id": "048"
     },
     "049": {
       "team": "ts",
       "name": "Badou Ndiaye",
       "pozisyon": "os",
-      "id": "049",
-      "oldid": "ts16"
+      "id": "049"
     },
     "051": {
       "team": "ts",
       "name": "Abdulkadir Ö.",
       "pozisyon": "os",
-      "id": "051",
-      "oldid": "ts18"
+      "id": "051"
     },
     "052": {
       "team": "ts",
       "name": "Avdijaj",
       "pozisyon": "os",
-      "id": "052",
-      "oldid": "ts19"
+      "id": "052"
     },
     "053": {
       "team": "ts",
       "name": "Bilal Başakçıoğlu",
       "pozisyon": "os",
-      "id": "053",
-      "oldid": "ts20"
+      "id": "053"
     },
     "054": {
       "team": "ts",
       "name": "Abdulkadir P.",
       "pozisyon": "os",
-      "id": "054",
-      "oldid": "ts21"
+      "id": "054"
     },
     "055": {
       "team": "ts",
       "name": "Yusuf Sarı",
       "pozisyon": "os",
-      "id": "055",
-      "oldid": "ts22"
+      "id": "055"
     },
     "056": {
       "team": "ts",
       "name": "Doğan Erdoğan",
       "pozisyon": "os",
-      "id": "056",
-      "oldid": "ts23"
+      "id": "056"
     },
     "057": {
       "team": "ts",
       "name": "Ahmet Canbaz",
       "pozisyon": "os",
-      "id": "057",
-      "oldid": "ts24"
+      "id": "057"
     },
     "058": {
       "team": "ts",
       "name": "Fıratcan Üzüm",
       "pozisyon": "os",
-      "id": "058",
-      "oldid": "ts25"
+      "id": "058"
     },
     "059": {
       "team": "ts",
       "name": "Koray Kılınç",
       "pozisyon": "os",
-      "id": "059",
-      "oldid": "ts26"
+      "id": "059"
     },
     "060": {
       "team": "ts",
       "name": "Cafer Tosun",
       "pozisyon": "os",
-      "id": "060",
-      "oldid": "ts27"
+      "id": "060"
     },
     "061": {
       "team": "ts",
       "name": "Sörloth",
       "pozisyon": "f",
-      "id": "061",
-      "oldid": "ts28"
+      "id": "061"
     },
     "062": {
       "team": "ts",
       "name": "Sturridge",
       "pozisyon": "f",
-      "id": "062",
-      "oldid": "ts29"
+      "id": "062"
     },
     "063": {
       "team": "ts",
       "name": "Caleb Ekuban",
       "pozisyon": "f",
-      "id": "063",
-      "oldid": "ts30"
+      "id": "063"
     },
     "064": {
       "team": "ts",
       "name": "Ahmet Hakan",
       "pozisyon": "f",
-      "id": "064",
-      "oldid": "ts34"
+      "id": "064"
     }
   },
   "med": {
@@ -442,211 +380,181 @@
       "team": "med",
       "name": "Mert Günok",
       "pozisyon": "k",
-      "id": "065",
-      "oldid": "med01"
+      "id": "065"
     },
     "066": {
       "team": "med",
       "name": "V. Babacan",
       "pozisyon": "k",
-      "id": "066",
-      "oldid": "med02"
+      "id": "066"
     },
     "067": {
       "team": "med",
       "name": "Ahmet Kıvanç",
       "pozisyon": "k",
-      "id": "067",
-      "oldid": "med03"
+      "id": "067"
     },
     "068": {
       "team": "med",
       "name": "Attamah",
       "pozisyon": "d",
-      "id": "068",
-      "oldid": "med30"
+      "id": "068"
     },
     "069": {
       "team": "med",
       "name": "Caiçara",
       "pozisyon": "d",
-      "id": "069",
-      "oldid": "med04"
+      "id": "069"
     },
     "070": {
       "team": "med",
       "name": "Clichy",
       "pozisyon": "d",
-      "id": "070",
-      "oldid": "med05"
+      "id": "070"
     },
     "071": {
       "team": "med",
       "name": "Epureanu",
       "pozisyon": "d",
-      "id": "071",
-      "oldid": "med06"
+      "id": "071"
     },
     "072": {
       "team": "med",
       "name": "Martin Skrtel",
       "pozisyon": "d",
-      "id": "072",
-      "oldid": "med07"
+      "id": "072"
     },
     "073": {
       "team": "med",
       "name": "Aziz Behich",
       "pozisyon": "d",
-      "id": "073",
-      "oldid": "med08"
+      "id": "073"
     },
     "074": {
       "team": "med",
       "name": "Miguel Vieira",
       "pozisyon": "d",
-      "id": "074",
-      "oldid": "med09"
+      "id": "074"
     },
     "075": {
       "team": "med",
       "name": "Ponck",
       "pozisyon": "d",
-      "id": "075",
-      "oldid": "med10"
+      "id": "075"
     },
     "076": {
       "team": "med",
       "name": "Uğur Uçar",
       "pozisyon": "d",
-      "id": "076",
-      "oldid": "med11"
+      "id": "076"
     },
     "077": {
       "team": "med",
       "name": "Mert Çelik",
       "pozisyon": "d",
-      "id": "077",
-      "oldid": "med12"
+      "id": "077"
     },
     "078": {
       "team": "med",
       "name": "Azubuike",
       "pozisyon": "os",
-      "id": "078",
-      "oldid": "med31"
+      "id": "078"
     },
     "079": {
       "team": "med",
       "name": "Visca",
       "pozisyon": "os",
-      "id": "079",
-      "oldid": "med13"
+      "id": "079"
     },
     "080": {
       "team": "med",
       "name": "Elia",
       "pozisyon": "os",
-      "id": "080",
-      "oldid": "med14"
+      "id": "080"
     },
     "081": {
       "team": "med",
       "name": "Danijel Aleksic",
       "pozisyon": "os",
-      "id": "081",
-      "oldid": "med15"
+      "id": "081"
     },
     "082": {
       "team": "med",
       "name": "Gökhan İnler",
       "pozisyon": "os",
-      "id": "082",
-      "oldid": "med16"
+      "id": "082"
     },
     "083": {
       "team": "med",
       "name": "Berkay Özcan",
       "pozisyon": "os",
-      "id": "083",
-      "oldid": "med17"
+      "id": "083"
     },
     "084": {
       "team": "med",
       "name": "İrfan Can",
       "pozisyon": "os",
-      "id": "084",
-      "oldid": "med18"
+      "id": "084"
     },
     "085": {
       "team": "med",
       "name": "Mahmut Tekdemir",
       "pozisyon": "os",
-      "id": "085",
-      "oldid": "med19"
+      "id": "085"
     },
     "086": {
       "team": "med",
       "name": "Milos Jojic",
       "pozisyon": "os",
-      "id": "086",
-      "oldid": "med21"
+      "id": "086"
     },
     "087": {
       "team": "med",
       "name": "Mehmet Topal",
       "pozisyon": "os",
-      "id": "087",
-      "oldid": "med22"
+      "id": "087"
     },
     "088": {
       "team": "med",
       "name": "Azubuike",
       "pozisyon": "os",
-      "id": "088",
-      "oldid": "med24"
+      "id": "088"
     },
     "089": {
       "team": "med",
       "name": "Crivelli",
       "pozisyon": "f",
-      "id": "089",
-      "oldid": "med25"
+      "id": "089"
     },
     "090": {
       "team": "med",
       "name": "Robinho",
       "pozisyon": "f",
-      "id": "090",
-      "oldid": "med26"
+      "id": "090"
     },
     "091": {
       "team": "med",
       "name": "Gulbrandsen",
       "pozisyon": "f",
-      "id": "091",
-      "oldid": "med27"
+      "id": "091"
     },
     "092": {
       "team": "med",
       "name": "Demba Ba",
       "pozisyon": "f",
-      "id": "092",
-      "oldid": "med28"
+      "id": "092"
     },
     "093": {
       "team": "med",
       "name": "Muhammet A.",
       "pozisyon": "f",
-      "id": "093",
-      "oldid": "med29"
+      "id": "093"
     },
     "094": {
       "team": "med",
       "name": "Efecan Barlık",
       "pozisyon": "f",
-      "id": "094",
-      "oldid": "med32"
+      "id": "094"
     }
   },
   "ksp": {
@@ -654,260 +562,223 @@
       "team": "ksp",
       "name": "Mickael Tirpan",
       "pozisyon": "d",
-      "id": "100",
-      "oldid": "ksp08"
+      "id": "100"
     },
     "101": {
       "team": "ksp",
       "name": "Sarlija",
       "pozisyon": "d",
-      "id": "101",
-      "oldid": "ksp09"
+      "id": "101"
     },
     "102": {
       "team": "ksp",
       "name": "Oussama Haddadi",
       "pozisyon": "d",
-      "id": "102",
-      "oldid": "ksp10"
+      "id": "102"
     },
     "103": {
       "team": "ksp",
       "name": "Jorge Fernandes",
       "pozisyon": "d",
-      "id": "103",
-      "oldid": "ksp11"
+      "id": "103"
     },
     "104": {
       "team": "ksp",
       "name": "Doğucan Haspolat",
       "pozisyon": "d",
-      "id": "104",
-      "oldid": "ksp12"
+      "id": "104"
     },
     "105": {
       "team": "ksp",
       "name": "Tomas Brecka",
       "pozisyon": "d",
-      "id": "105",
-      "oldid": "ksp13"
+      "id": "105"
     },
     "106": {
       "team": "ksp",
       "name": "Çağtay Kurukalıp",
       "pozisyon": "d",
-      "id": "106",
-      "oldid": "ksp14"
+      "id": "106"
     },
     "107": {
       "team": "ksp",
       "name": "Burak Turan",
       "pozisyon": "d",
-      "id": "107",
-      "oldid": "ksp15"
+      "id": "107"
     },
     "108": {
       "team": "ksp",
       "name": "Emre Elmalı",
       "pozisyon": "d",
-      "id": "108",
-      "oldid": "ksp16"
+      "id": "108"
     },
     "109": {
       "team": "ksp",
       "name": "Florent Hadergjonaj",
       "pozisyon": "d",
-      "id": "109",
-      "oldid": "ksp35"
+      "id": "109"
     },
     "110": {
       "team": "ksp",
       "name": "Furkan Çetinkaya",
       "pozisyon": "d",
-      "id": "110",
-      "oldid": "ksp17"
+      "id": "110"
     },
     "111": {
       "team": "ksp",
       "name": "Uğurcan Yazğılı",
       "pozisyon": "d",
-      "id": "111",
-      "oldid": "ksp18"
+      "id": "111"
     },
     "112": {
       "team": "ksp",
       "name": "Yassine Meriah",
       "pozisyon": "d",
-      "id": "112",
-      "oldid": "ksp36"
+      "id": "112"
     },
     "113": {
       "team": "ksp",
       "name": "Ahmet Demirli",
       "pozisyon": "os",
-      "id": "113",
-      "oldid": "ksp37"
+      "id": "113"
     },
     "114": {
       "team": "ksp",
       "name": "Anıl Koç",
       "pozisyon": "os",
-      "id": "114",
-      "oldid": "ksp38"
+      "id": "114"
     },
     "115": {
       "team": "ksp",
       "name": "Quaresma",
       "pozisyon": "os",
-      "id": "115",
-      "oldid": "ksp19"
+      "id": "115"
     },
     "116": {
       "team": "ksp",
       "name": "Hajradinovic",
       "pozisyon": "os",
-      "id": "116",
-      "oldid": "ksp20"
+      "id": "116"
     },
     "117": {
       "team": "ksp",
       "name": "Heintz",
       "pozisyon": "os",
-      "id": "117",
-      "oldid": "ksp21"
+      "id": "117"
     },
     "118": {
       "team": "ksp",
       "name": "Aytaç Kara",
       "pozisyon": "os",
-      "id": "118",
-      "oldid": "ksp22"
+      "id": "118"
     },
     "119": {
       "team": "ksp",
       "name": "Khalili",
       "pozisyon": "os",
-      "id": "119",
-      "oldid": "ksp23"
+      "id": "119"
     },
     "120": {
       "team": "ksp",
       "name": "Tarkan Serbest",
       "pozisyon": "os",
-      "id": "120",
-      "oldid": "ksp24"
+      "id": "120"
     },
     "121": {
       "team": "ksp",
       "name": "Ndongala",
       "pozisyon": "os",
-      "id": "121",
-      "oldid": "ksp25"
+      "id": "121"
     },
     "122": {
       "team": "ksp",
       "name": "Pavelka",
       "pozisyon": "os",
-      "id": "122",
-      "oldid": "ksp26"
+      "id": "122"
     },
     "123": {
       "team": "ksp",
       "name": "Sadiku",
       "pozisyon": "os",
-      "id": "123",
-      "oldid": "ksp27"
+      "id": "123"
     },
     "124": {
       "team": "ksp",
       "name": "Azad Toptik",
       "pozisyon": "os",
-      "id": "124",
-      "oldid": "ksp28"
+      "id": "124"
     },
     "125": {
       "team": "ksp",
       "name": "Yusuf Erdoğan",
       "pozisyon": "os",
-      "id": "125",
-      "oldid": "ksp29"
+      "id": "125"
     },
     "126": {
       "team": "ksp",
       "name": "İlhan Depe",
       "pozisyon": "os",
-      "id": "126",
-      "oldid": "ksp30"
+      "id": "126"
     },
     "127": {
       "team": "ksp",
       "name": "Yılmaz Daler",
       "pozisyon": "os",
-      "id": "127",
-      "oldid": "ksp31"
+      "id": "127"
     },
     "128": {
       "team": "ksp",
       "name": "Berk Çolak",
       "pozisyon": "os",
-      "id": "128",
-      "oldid": "ksp32"
+      "id": "128"
     },
     "129": {
       "team": "ksp",
       "name": "Koita",
       "pozisyon": "f",
-      "id": "129",
-      "oldid": "ksp33"
+      "id": "129"
     },
     "130": {
       "team": "ksp",
       "name": "Mame Thiam",
       "pozisyon": "f",
-      "id": "130",
-      "oldid": "ksp34"
+      "id": "130"
     },
     "131": {
       "team": "ksp",
       "name": "Gerard Gohou",
       "pozisyon": "f",
-      "id": "131",
-      "oldid": "ksp39"
+      "id": "131"
     },
     "095": {
       "team": "ksp",
       "name": "Fatih Öztürk",
       "pozisyon": "k",
-      "id": "095",
-      "oldid": "ksp01"
+      "id": "095"
     },
     "096": {
       "team": "ksp",
       "name": "Ramazan Köse",
       "pozisyon": "k",
-      "id": "096",
-      "oldid": "ksp02"
+      "id": "096"
     },
     "097": {
       "team": "ksp",
       "name": "Mehmet Enes Sarı",
       "pozisyon": "k",
-      "id": "097",
-      "oldid": "ksp03"
+      "id": "097"
     },
     "098": {
       "team": "ksp",
       "name": "Murat Can Yıldız",
       "pozisyon": "k",
-      "id": "098",
-      "oldid": "ksp04"
+      "id": "098"
     },
     "099": {
       "team": "ksp",
       "name": "Veigneau",
       "pozisyon": "d",
-      "id": "099",
-      "oldid": "ksp07"
+      "id": "099"
     }
   },
   "kon": {
@@ -915,225 +786,193 @@
       "team": "kon",
       "name": "Serkan Kırıntılı",
       "pozisyon": "k",
-      "id": "132",
-      "oldid": "kon01"
+      "id": "132"
     },
     "133": {
       "team": "kon",
       "name": "Ertuğrul Taşkıran",
       "pozisyon": "k",
-      "id": "133",
-      "oldid": "kon02"
+      "id": "133"
     },
     "134": {
       "team": "kon",
       "name": "Mücahit Atalay",
       "pozisyon": "k",
-      "id": "134",
-      "oldid": "kon03"
+      "id": "134"
     },
     "135": {
       "team": "kon",
       "name": "Ahmet Çolak",
       "pozisyon": "k",
-      "id": "135",
-      "oldid": "kon04"
+      "id": "135"
     },
     "136": {
       "team": "kon",
       "name": "Skubic",
       "pozisyon": "d",
-      "id": "136",
-      "oldid": "kon05"
+      "id": "136"
     },
     "137": {
       "team": "kon",
       "name": "Opanasenko",
       "pozisyon": "d",
-      "id": "137",
-      "oldid": "kon06"
+      "id": "137"
     },
     "138": {
       "team": "kon",
       "name": "Fallou Diagne",
       "pozisyon": "d",
-      "id": "138",
-      "oldid": "kon07"
+      "id": "138"
     },
     "139": {
       "team": "kon",
       "name": "Anicic",
       "pozisyon": "d",
-      "id": "139",
-      "oldid": "kon08"
+      "id": "139"
     },
     "140": {
       "team": "kon",
       "name": "Ali Turan",
       "pozisyon": "d",
-      "id": "140",
-      "oldid": "kon09"
+      "id": "140"
     },
     "141": {
       "team": "kon",
       "name": "Leonard Zuta",
       "pozisyon": "d",
-      "id": "141",
-      "oldid": "kon10"
+      "id": "141"
     },
     "142": {
       "team": "kon",
       "name": "Ferhat Öztorun",
       "pozisyon": "d",
-      "id": "142",
-      "oldid": "kon11"
+      "id": "142"
     },
     "143": {
       "team": "kon",
       "name": "Selim Ay",
       "pozisyon": "d",
-      "id": "143",
-      "oldid": "kon12"
+      "id": "143"
     },
     "144": {
       "team": "kon",
       "name": "Alper Uludağ",
       "pozisyon": "d",
-      "id": "144",
-      "oldid": "kon13"
+      "id": "144"
     },
     "145": {
       "team": "kon",
       "name": "Guilherme Sitya",
       "pozisyon": "d",
-      "id": "145",
-      "oldid": "kon14"
+      "id": "145"
     },
     "146": {
       "team": "kon",
       "name": "Savaş Polat",
       "pozisyon": "d",
-      "id": "146",
-      "oldid": "kon15"
+      "id": "146"
     },
     "147": {
       "team": "kon",
       "name": "Ali Yaşar",
       "pozisyon": "d",
-      "id": "147",
-      "oldid": "kon16"
+      "id": "147"
     },
     "148": {
       "team": "kon",
       "name": "Uğur Demirok",
       "pozisyon": "d",
-      "id": "148",
-      "oldid": "kon33"
+      "id": "148"
     },
     "149": {
       "team": "kon",
       "name": "Paolo Hurtado",
       "pozisyon": "os",
-      "id": "149",
-      "oldid": "kon17"
+      "id": "149"
     },
     "150": {
       "team": "kon",
       "name": "Ömer Ali Şahiner",
       "pozisyon": "os",
-      "id": "150",
-      "oldid": "kon18"
+      "id": "150"
     },
     "151": {
       "team": "kon",
       "name": "Levan Shengelia",
       "pozisyon": "os",
-      "id": "151",
-      "oldid": "kon19"
+      "id": "151"
     },
     "152": {
       "team": "kon",
       "name": "Deni Milosevic",
       "pozisyon": "os",
-      "id": "152",
-      "oldid": "kon20"
+      "id": "152"
     },
     "153": {
       "team": "kon",
       "name": "Farouk Miya",
       "pozisyon": "os",
-      "id": "153",
-      "oldid": "kon21"
+      "id": "153"
     },
     "154": {
       "team": "kon",
       "name": "Jens Jonsson",
       "pozisyon": "os",
-      "id": "154",
-      "oldid": "kon22"
+      "id": "154"
     },
     "155": {
       "team": "kon",
       "name": "Marko Jevtovic",
       "pozisyon": "os",
-      "id": "155",
-      "oldid": "kon23"
+      "id": "155"
     },
     "156": {
       "team": "kon",
       "name": "Hadziahmetovic",
       "pozisyon": "os",
-      "id": "156",
-      "oldid": "kon24"
+      "id": "156"
     },
     "157": {
       "team": "kon",
       "name": "Ali Çamdalı",
       "pozisyon": "os",
-      "id": "157",
-      "oldid": "kon25"
+      "id": "157"
     },
     "158": {
       "team": "kon",
       "name": "Volkan Fındıklı",
       "pozisyon": "os",
-      "id": "158",
-      "oldid": "kon26"
+      "id": "158"
     },
     "159": {
       "team": "kon",
       "name": "Ali Karakaya",
       "pozisyon": "os",
-      "id": "159",
-      "oldid": "kon27"
+      "id": "159"
     },
     "161": {
       "team": "kon",
       "name": "Bajic",
       "pozisyon": "f",
-      "id": "161",
-      "oldid": "kon28"
+      "id": "161"
     },
     "162": {
       "team": "kon",
       "name": "Rogerio Thuram",
       "pozisyon": "f",
-      "id": "162",
-      "oldid": "kon29"
+      "id": "162"
     },
     "163": {
       "team": "kon",
       "name": "Mücahit Can Akçay",
       "pozisyon": "f",
-      "id": "163",
-      "oldid": "kon30"
+      "id": "163"
     },
     "164": {
       "team": "kon",
       "name": "Erdon Daci",
       "pozisyon": "f",
-      "id": "164",
-      "oldid": "kon32"
+      "id": "164"
     }
   },
   "kay": {
@@ -1141,330 +980,283 @@
       "team": "kay",
       "name": "Lung",
       "pozisyon": "k",
-      "id": "165",
-      "oldid": "kay01"
+      "id": "165"
     },
     "166": {
       "team": "kay",
       "name": "Hakan Arıkan",
       "pozisyon": "k",
-      "id": "166",
-      "oldid": "kay02"
+      "id": "166"
     },
     "167": {
       "team": "kay",
       "name": "Eray İşcan",
       "pozisyon": "k",
-      "id": "167",
-      "oldid": "kay03"
+      "id": "167"
     },
     "168": {
       "team": "kay",
       "name": "İsmail Çipe",
       "pozisyon": "k",
-      "id": "168",
-      "oldid": "kay04"
+      "id": "168"
     },
     "169": {
       "team": "kay",
       "name": "Doğan Alemdar",
       "pozisyon": "k",
-      "id": "169",
-      "oldid": "kay05"
+      "id": "169"
     },
     "170": {
       "team": "kay",
       "name": "Abdennour",
       "pozisyon": "d",
-      "id": "170",
-      "oldid": "kay06"
+      "id": "170"
     },
     "171": {
       "team": "kay",
       "name": "Emre Taşdemir",
       "pozisyon": "d",
-      "id": "171",
-      "oldid": "kay07"
+      "id": "171"
     },
     "172": {
       "team": "kay",
       "name": "Miguel Lopes",
       "pozisyon": "d",
-      "id": "172",
-      "oldid": "kay08"
+      "id": "172"
     },
     "173": {
       "team": "kay",
       "name": "Paulain",
       "pozisyon": "d",
-      "id": "173",
-      "oldid": "kay09"
+      "id": "173"
     },
     "174": {
       "team": "kay",
       "name": "Atila Turan",
       "pozisyon": "d",
-      "id": "174",
-      "oldid": "kay10"
+      "id": "174"
     },
     "175": {
       "team": "kay",
       "name": "Levent Gülen",
       "pozisyon": "d",
-      "id": "175",
-      "oldid": "kay11"
+      "id": "175"
     },
     "176": {
       "team": "kay",
       "name": "Abdullah Gürbüz",
       "pozisyon": "d",
-      "id": "176",
-      "oldid": "kay12"
+      "id": "176"
     },
     "177": {
       "team": "kay",
       "name": "Oğuzhan Çapar",
       "pozisyon": "d",
-      "id": "177",
-      "oldid": "kay13"
+      "id": "177"
     },
     "178": {
       "team": "kay",
       "name": "Mert Kula",
       "pozisyon": "d",
-      "id": "178",
-      "oldid": "kay14"
+      "id": "178"
     },
     "179": {
       "team": "kay",
       "name": "Emirhan Civelek",
       "pozisyon": "d",
-      "id": "179",
-      "oldid": "kay15"
+      "id": "179"
     },
     "180": {
       "team": "kay",
       "name": "Diego Angelo",
       "pozisyon": "d",
-      "id": "180",
-      "oldid": "kay45"
+      "id": "180"
     },
     "181": {
       "team": "kay",
       "name": "Sapunaru",
       "pozisyon": "d",
-      "id": "181",
-      "oldid": "kay46"
+      "id": "181"
     },
     "182": {
       "team": "kay",
       "name": "Yasir S.",
       "pozisyon": "d",
-      "id": "182",
-      "oldid": "kay16"
+      "id": "182"
     },
     "183": {
       "team": "kay",
       "name": "Mensah",
       "pozisyon": "os",
-      "id": "183",
-      "oldid": "kay18"
+      "id": "183"
     },
     "184": {
       "team": "kay",
       "name": "Pedro Henrique",
       "pozisyon": "os",
-      "id": "184",
-      "oldid": "kay19"
+      "id": "184"
     },
     "185": {
       "team": "kay",
       "name": "Cenk Şahin",
       "pozisyon": "os",
-      "id": "185",
-      "oldid": "kay20"
+      "id": "185"
     },
     "186": {
       "team": "kay",
       "name": "Ben Rienstra",
       "pozisyon": "os",
-      "id": "186",
-      "oldid": "kay21"
+      "id": "186"
     },
     "187": {
       "team": "kay",
       "name": "Ntep",
       "pozisyon": "os",
-      "id": "187",
-      "oldid": "kay22"
+      "id": "187"
     },
     "188": {
       "team": "kay",
       "name": "Zoran Kvrziç",
       "pozisyon": "os",
-      "id": "188",
-      "oldid": "kay23"
+      "id": "188"
     },
     "189": {
       "team": "kay",
       "name": "Dja Djedje",
       "pozisyon": "os",
-      "id": "189",
-      "oldid": "kay24"
+      "id": "189"
     },
     "190": {
       "team": "kay",
       "name": "Mario Situm",
       "pozisyon": "os",
-      "id": "190",
-      "oldid": "kay25"
+      "id": "190"
     },
     "191": {
       "team": "kay",
       "name": "Adryan",
       "pozisyon": "os",
-      "id": "191",
-      "oldid": "kay26"
+      "id": "191"
     },
     "192": {
       "team": "kay",
       "name": "Hasan Acar",
       "pozisyon": "os",
-      "id": "192",
-      "oldid": "kay27"
+      "id": "192"
     },
     "193": {
       "team": "kay",
       "name": "Gustavo Campanharo",
       "pozisyon": "os",
-      "id": "193",
-      "oldid": "kay28"
+      "id": "193"
     },
     "194": {
       "team": "kay",
       "name": "Şamil Cinaz",
       "pozisyon": "os",
-      "id": "194",
-      "oldid": "kay29"
+      "id": "194"
     },
     "195": {
       "team": "kay",
       "name": "Nurettin K.",
       "pozisyon": "os",
-      "id": "195",
-      "oldid": "kay30"
+      "id": "195"
     },
     "196": {
       "team": "kay",
       "name": "Hakan Çıtak",
       "pozisyon": "os",
-      "id": "196",
-      "oldid": "kay31"
+      "id": "196"
     },
     "197": {
       "team": "kay",
       "name": "Aksel Aktaş",
       "pozisyon": "os",
-      "id": "197",
-      "oldid": "kay32"
+      "id": "197"
     },
     "198": {
       "team": "kay",
       "name": "Emre Demir",
       "pozisyon": "os",
-      "id": "198",
-      "oldid": "kay33"
+      "id": "198"
     },
     "199": {
       "team": "kay",
       "name": "Mustafa Buğra İlter",
       "pozisyon": "os",
-      "id": "199",
-      "oldid": "kay34"
+      "id": "199"
     },
     "200": {
       "team": "kay",
       "name": "Ziya Alkurt",
       "pozisyon": "os",
-      "id": "200",
-      "oldid": "kay35"
+      "id": "200"
     },
     "201": {
       "team": "kay",
       "name": "Osman Can",
       "pozisyon": "os",
-      "id": "201",
-      "oldid": "kay36"
+      "id": "201"
     },
     "202": {
       "team": "kay",
       "name": "Bora Barlas",
       "pozisyon": "os",
-      "id": "202",
-      "oldid": "kay37"
+      "id": "202"
     },
     "203": {
       "team": "kay",
       "name": "Furkan Polat",
       "pozisyon": "os",
-      "id": "203",
-      "oldid": "kay38"
+      "id": "203"
     },
     "204": {
       "team": "kay",
       "name": "Ercan Çifci",
       "pozisyon": "os",
-      "id": "204",
-      "oldid": "kay39"
-    },
-    "525": {
-      "team": "kay",
-      "name": "Emre Taşdemir",
-      "pozisyon": "d",
-      "id": "525",
-      "oldid": "gs05"
+      "id": "204"
     },
     "205": {
       "team": "kay",
       "name": "Kravets",
       "pozisyon": "f",
-      "id": "205",
-      "oldid": "kay40"
+      "id": "205"
     },
     "206": {
       "team": "kay",
       "name": "Muris Mesanovic",
       "pozisyon": "f",
-      "id": "206",
-      "oldid": "kay41"
+      "id": "206"
     },
     "207": {
       "team": "kay",
       "name": "Ömer Uzun",
       "pozisyon": "f",
-      "id": "207",
-      "oldid": "kay42"
+      "id": "207"
     },
     "208": {
       "team": "kay",
       "name": "Kazım Çelik",
       "pozisyon": "f",
-      "id": "208",
-      "oldid": "kay43"
+      "id": "208"
     },
     "209": {
       "team": "kay",
       "name": "Selahattin Seyhun",
       "pozisyon": "f",
-      "id": "209",
-      "oldid": "kay44"
+      "id": "209"
     },
     "210": {
       "team": "kay",
       "name": "Ümran Zambak",
       "pozisyon": "f",
-      "id": "210",
-      "oldid": "kay47"
+      "id": "210"
+    },
+    "525": {
+      "team": "kay",
+      "name": "Emre Taşdemir",
+      "pozisyon": "d",
+      "id": "525"
     }
   },
   "goz": {
@@ -1472,232 +1264,199 @@
       "team": "goz",
       "name": "Beto",
       "pozisyon": "k",
-      "id": "211",
-      "oldid": "goz01"
+      "id": "211"
     },
     "212": {
       "team": "goz",
       "name": "Göktuğ Bakırtaş",
       "pozisyon": "k",
-      "id": "212",
-      "oldid": "goz02"
+      "id": "212"
     },
     "213": {
       "team": "goz",
       "name": "Eren",
       "pozisyon": "k",
-      "id": "213",
-      "oldid": "goz03"
+      "id": "213"
     },
     "214": {
       "team": "goz",
       "name": "Arda Özçimen",
       "pozisyon": "k",
-      "id": "214",
-      "oldid": "goz04"
+      "id": "214"
     },
     "215": {
       "team": "goz",
       "name": "Wallace Reis",
       "pozisyon": "d",
-      "id": "215",
-      "oldid": "goz05"
+      "id": "215"
     },
     "216": {
       "team": "goz",
       "name": "Gassama",
       "pozisyon": "d",
-      "id": "216",
-      "oldid": "goz06"
+      "id": "216"
     },
     "217": {
       "team": "goz",
       "name": "Titi",
       "pozisyon": "d",
-      "id": "217",
-      "oldid": "goz07"
+      "id": "217"
     },
     "218": {
       "team": "goz",
       "name": "Atınç Nukan",
       "pozisyon": "d",
-      "id": "218",
-      "oldid": "goz08"
+      "id": "218"
     },
     "219": {
       "team": "goz",
       "name": "Berkan Emir",
       "pozisyon": "d",
-      "id": "219",
-      "oldid": "goz09"
+      "id": "219"
     },
     "220": {
       "team": "goz",
       "name": "Sanneh",
       "pozisyon": "d",
-      "id": "220",
-      "oldid": "goz10"
+      "id": "220"
     },
     "221": {
       "team": "goz",
       "name": "Hakan Çinemre",
       "pozisyon": "d",
-      "id": "221",
-      "oldid": "goz11"
+      "id": "221"
     },
     "222": {
       "team": "goz",
       "name": "Leo Schwechlen",
       "pozisyon": "d",
-      "id": "222",
-      "oldid": "goz12"
+      "id": "222"
     },
     "223": {
       "team": "goz",
       "name": "Zlatko Tripiç",
       "pozisyon": "d",
-      "id": "223",
-      "oldid": "goz13"
+      "id": "223"
     },
     "224": {
       "team": "goz",
       "name": "Veli Çetin",
       "pozisyon": "d",
-      "id": "224",
-      "oldid": "goz14"
+      "id": "224"
     },
     "225": {
       "team": "goz",
       "name": "Murat Paluli",
       "pozisyon": "d",
-      "id": "225",
-      "oldid": "goz15"
+      "id": "225"
     },
     "226": {
       "team": "goz",
       "name": "Serdar Gürler",
       "pozisyon": "os",
-      "id": "226",
-      "oldid": "goz16"
+      "id": "226"
     },
     "227": {
       "team": "goz",
       "name": "Andre Castro",
       "pozisyon": "os",
-      "id": "227",
-      "oldid": "goz17"
+      "id": "227"
     },
     "228": {
       "team": "goz",
       "name": "Mossoro",
       "pozisyon": "os",
-      "id": "228",
-      "oldid": "goz18"
+      "id": "228"
     },
     "229": {
       "team": "goz",
       "name": "Soner Aydoğdu",
       "pozisyon": "os",
-      "id": "229",
-      "oldid": "goz19"
+      "id": "229"
     },
     "230": {
       "team": "goz",
       "name": "Poko",
       "pozisyon": "os",
-      "id": "230",
-      "oldid": "goz20"
+      "id": "230"
     },
     "231": {
       "team": "goz",
       "name": "Napoleoni",
       "pozisyon": "os",
-      "id": "231",
-      "oldid": "goz21"
+      "id": "231"
     },
     "232": {
       "team": "goz",
       "name": "Halil",
       "pozisyon": "os",
-      "id": "232",
-      "oldid": "goz22"
+      "id": "232"
     },
     "233": {
       "team": "goz",
       "name": "Borges",
       "pozisyon": "os",
-      "id": "233",
-      "oldid": "goz23"
+      "id": "233"
     },
     "234": {
       "team": "goz",
       "name": "Alpaslan Öztürk",
       "pozisyon": "os",
-      "id": "234",
-      "oldid": "goz24"
+      "id": "234"
     },
     "235": {
       "team": "goz",
       "name": "Yalçın Kayan",
       "pozisyon": "os",
-      "id": "235",
-      "oldid": "goz25"
+      "id": "235"
     },
     "236": {
       "team": "goz",
       "name": "Atakan",
       "pozisyon": "os",
-      "id": "236",
-      "oldid": "goz26"
+      "id": "236"
     },
     "237": {
       "team": "goz",
       "name": "Hüseyin Bulut",
       "pozisyon": "os",
-      "id": "237",
-      "oldid": "goz27"
+      "id": "237"
     },
     "238": {
       "team": "goz",
       "name": "Batuhan Kırdaroğlu",
       "pozisyon": "os",
-      "id": "238",
-      "oldid": "goz28"
+      "id": "238"
     },
     "239": {
       "team": "goz",
       "name": "Jerome",
       "pozisyon": "f",
-      "id": "239",
-      "oldid": "goz29"
+      "id": "239"
     },
     "240": {
       "team": "goz",
       "name": "Deniz Kadah",
       "pozisyon": "f",
-      "id": "240",
-      "oldid": "goz30"
+      "id": "240"
     },
     "241": {
       "team": "goz",
       "name": "Kamil Wilczek",
       "pozisyon": "f",
-      "id": "241",
-      "oldid": "goz31"
+      "id": "241"
     },
     "242": {
       "team": "goz",
       "name": "Samed Ali",
       "pozisyon": "f",
-      "id": "242",
-      "oldid": "goz32"
+      "id": "242"
     },
     "243": {
       "team": "goz",
       "name": "Ege Ö.",
       "pozisyon": "f",
-      "id": "243",
-      "oldid": "goz33"
+      "id": "243"
     }
   },
   "gfk": {
@@ -1705,204 +1464,175 @@
       "team": "gfk",
       "name": "Günay",
       "pozisyon": "k",
-      "id": "244",
-      "oldid": "gfk01"
+      "id": "244"
     },
     "245": {
       "team": "gfk",
       "name": "Haydar Yılmaz",
       "pozisyon": "k",
-      "id": "245",
-      "oldid": "gfk02"
+      "id": "245"
     },
     "246": {
       "team": "gfk",
       "name": "Burak Bozan",
       "pozisyon": "k",
-      "id": "246",
-      "oldid": "gfk03"
+      "id": "246"
     },
     "247": {
       "team": "gfk",
       "name": "Djilobodji",
       "pozisyon": "d",
-      "id": "247",
-      "oldid": "gfk04"
+      "id": "247"
     },
     "248": {
       "team": "gfk",
       "name": "Kana Bıyık",
       "pozisyon": "d",
-      "id": "248",
-      "oldid": "gfk05"
+      "id": "248"
     },
     "249": {
       "team": "gfk",
       "name": "Tosca",
       "pozisyon": "d",
-      "id": "249",
-      "oldid": "gfk06"
+      "id": "249"
     },
     "250": {
       "team": "gfk",
       "name": "Junior Morais",
       "pozisyon": "d",
-      "id": "250",
-      "oldid": "gfk07"
+      "id": "250"
     },
     "251": {
       "team": "gfk",
       "name": "Olkowski",
       "pozisyon": "d",
-      "id": "251",
-      "oldid": "gfk08"
+      "id": "251"
     },
     "252": {
       "team": "gfk",
       "name": "Oğuz Ceylan",
       "pozisyon": "d",
-      "id": "252",
-      "oldid": "gfk09"
+      "id": "252"
     },
     "253": {
       "team": "gfk",
       "name": "Ulaş Zengin",
       "pozisyon": "d",
-      "id": "253",
-      "oldid": "gfk10"
+      "id": "253"
     },
     "254": {
       "team": "gfk",
       "name": "Mehmet Erdem",
       "pozisyon": "d",
-      "id": "254",
-      "oldid": "gfk11"
+      "id": "254"
     },
     "255": {
       "team": "gfk",
       "name": "Andre Sousa",
       "pozisyon": "os",
-      "id": "255",
-      "oldid": "gfk27"
+      "id": "255"
     },
     "256": {
       "team": "gfk",
       "name": "Alexandru Maxim",
       "pozisyon": "os",
-      "id": "256",
-      "oldid": "gfk28"
+      "id": "256"
     },
     "257": {
       "team": "gfk",
       "name": "Patrick Twumasi",
       "pozisyon": "os",
-      "id": "257",
-      "oldid": "gfk12"
+      "id": "257"
     },
     "258": {
       "team": "gfk",
       "name": "Güray Vural",
       "pozisyon": "os",
-      "id": "258",
-      "oldid": "gfk13"
+      "id": "258"
     },
     "259": {
       "team": "gfk",
       "name": "Segbefia",
       "pozisyon": "os",
-      "id": "259",
-      "oldid": "gfk14"
+      "id": "259"
     },
     "260": {
       "team": "gfk",
       "name": "Tetteh",
       "pozisyon": "os",
-      "id": "260",
-      "oldid": "gfk15"
+      "id": "260"
     },
     "261": {
       "team": "gfk",
       "name": "Souleymanne Diarra",
       "pozisyon": "os",
-      "id": "261",
-      "oldid": "gfk16"
+      "id": "261"
     },
     "262": {
       "team": "gfk",
       "name": "Chibsah",
       "pozisyon": "os",
-      "id": "262",
-      "oldid": "gfk17"
+      "id": "262"
     },
     "263": {
       "team": "gfk",
       "name": "Furkan Soyalp",
       "pozisyon": "os",
-      "id": "263",
-      "oldid": "gfk18"
+      "id": "263"
     },
     "264": {
       "team": "gfk",
       "name": "Pawlowski",
       "pozisyon": "os",
-      "id": "264",
-      "oldid": "gfk19"
+      "id": "264"
     },
     "265": {
       "team": "gfk",
       "name": "Kenan Özer",
       "pozisyon": "os",
-      "id": "265",
-      "oldid": "gfk20"
+      "id": "265"
     },
     "266": {
       "team": "gfk",
       "name": "Jefferson",
       "pozisyon": "os",
-      "id": "266",
-      "oldid": "gfk21"
+      "id": "266"
     },
     "267": {
       "team": "gfk",
       "name": "Kubilay A.",
       "pozisyon": "os",
-      "id": "267",
-      "oldid": "gfk22"
+      "id": "267"
     },
     "268": {
       "team": "gfk",
       "name": "Ali Ateş",
       "pozisyon": "os",
-      "id": "268",
-      "oldid": "gfk23"
+      "id": "268"
     },
     "269": {
       "team": "gfk",
       "name": "Kayode",
       "pozisyon": "f",
-      "id": "269",
-      "oldid": "gfk24"
+      "id": "269"
     },
     "270": {
       "team": "gfk",
       "name": "Muhammet Demir",
       "pozisyon": "f",
-      "id": "270",
-      "oldid": "gfk25"
+      "id": "270"
     },
     "271": {
       "team": "gfk",
       "name": "Muğdat Çelik",
       "pozisyon": "f",
-      "id": "271",
-      "oldid": "gfk26"
+      "id": "271"
     },
     "272": {
       "team": "gfk",
       "name": "Chabbi",
       "pozisyon": "f",
-      "id": "272",
-      "oldid": "gfk29"
+      "id": "272"
     }
   },
   "gb": {
@@ -1910,211 +1640,181 @@
       "team": "gb",
       "name": "Ertaç",
       "pozisyon": "k",
-      "id": "273",
-      "oldid": "gb01"
+      "id": "273"
     },
     "274": {
       "team": "gb",
       "name": "Kristoffer Nordfeldt",
       "pozisyon": "k",
-      "id": "274",
-      "oldid": "gb02"
+      "id": "274"
     },
     "275": {
       "team": "gb",
       "name": "Abdoulaye Diallo",
       "pozisyon": "k",
-      "id": "275",
-      "oldid": "gb03"
+      "id": "275"
     },
     "276": {
       "team": "gb",
       "name": "Taha",
       "pozisyon": "k",
-      "id": "276",
-      "oldid": "gb04"
+      "id": "276"
     },
     "277": {
       "team": "gb",
       "name": "Übeyd",
       "pozisyon": "k",
-      "id": "277",
-      "oldid": "gb05"
+      "id": "277"
     },
     "278": {
       "team": "gb",
       "name": "Toure",
       "pozisyon": "d",
-      "id": "278",
-      "oldid": "gb06"
+      "id": "278"
     },
     "280": {
       "team": "gb",
       "name": "Erdem Özgenç",
       "pozisyon": "d",
-      "id": "280",
-      "oldid": "gb08"
+      "id": "280"
     },
     "281": {
       "team": "gb",
       "name": "Flavio",
       "pozisyon": "d",
-      "id": "281",
-      "oldid": "gb09"
+      "id": "281"
     },
     "282": {
       "team": "gb",
       "name": "Ahmet Oğuz",
       "pozisyon": "d",
-      "id": "282",
-      "oldid": "gb10"
+      "id": "282"
     },
     "283": {
       "team": "gb",
       "name": "Mike van Beijnen",
       "pozisyon": "d",
-      "id": "283",
-      "oldid": "gb11"
+      "id": "283"
     },
     "284": {
       "team": "gb",
       "name": "Polomat",
       "pozisyon": "d",
-      "id": "284",
-      "oldid": "gb12"
+      "id": "284"
     },
     "285": {
       "team": "gb",
       "name": "Halil İbrahim",
       "pozisyon": "d",
-      "id": "285",
-      "oldid": "gb13"
+      "id": "285"
     },
     "286": {
       "team": "gb",
       "name": "Arda Kızıldağ",
       "pozisyon": "d",
-      "id": "286",
-      "oldid": "gb14"
+      "id": "286"
     },
     "287": {
       "team": "gb",
       "name": "Sessegnon",
       "pozisyon": "os",
-      "id": "287",
-      "oldid": "gb15"
+      "id": "287"
     },
     "288": {
       "team": "gb",
       "name": "Floyd Ayite",
       "pozisyon": "os",
-      "id": "288",
-      "oldid": "gb16"
+      "id": "288"
     },
     "289": {
       "team": "gb",
       "name": "Nadir Çiftçi",
       "pozisyon": "os",
-      "id": "289",
-      "oldid": "gb17"
+      "id": "289"
     },
     "290": {
       "team": "gb",
       "name": "Seuntjens",
       "pozisyon": "os",
-      "id": "290",
-      "oldid": "gb18"
+      "id": "290"
     },
     "291": {
       "team": "gb",
       "name": "Yasin P.",
       "pozisyon": "os",
-      "id": "291",
-      "oldid": "gb19"
+      "id": "291"
     },
     "292": {
       "team": "gb",
       "name": "Daniel Candeias",
       "pozisyon": "os",
-      "id": "292",
-      "oldid": "gb20"
+      "id": "292"
     },
     "293": {
       "team": "gb",
       "name": "Fabricio Baiano",
       "pozisyon": "os",
-      "id": "293",
-      "oldid": "gb21"
+      "id": "293"
     },
     "294": {
       "team": "gb",
       "name": "Sefa Yılmaz",
       "pozisyon": "os",
-      "id": "294",
-      "oldid": "gb22"
+      "id": "294"
     },
     "295": {
       "team": "gb",
       "name": "Sadio Diallo",
       "pozisyon": "os",
-      "id": "295",
-      "oldid": "gb23"
+      "id": "295"
     },
     "296": {
       "team": "gb",
       "name": "Soner Dikmen",
       "pozisyon": "os",
-      "id": "296",
-      "oldid": "gb24"
+      "id": "296"
     },
     "297": {
       "team": "gb",
       "name": "Berat Ayberk",
       "pozisyon": "os",
-      "id": "297",
-      "oldid": "gb25"
+      "id": "297"
     },
     "298": {
       "team": "gb",
       "name": "Çayan",
       "pozisyon": "os",
-      "id": "298",
-      "oldid": "gb26"
+      "id": "298"
     },
     "299": {
       "team": "gb",
       "name": "Rahmetullah",
       "pozisyon": "os",
-      "id": "299",
-      "oldid": "gb27"
-    },
-    "650": {
-      "team": "gb",
-      "name": "Gökhan Altıparmak",
-      "pozisyon": "os",
-      "id": "650",
-      "oldid": "gb50"
+      "id": "299"
     },
     "300": {
       "team": "gb",
       "name": "Stancu",
       "pozisyon": "f",
-      "id": "300",
-      "oldid": "gb28"
+      "id": "300"
     },
     "301": {
       "team": "gb",
       "name": "Giovanni Sio",
       "pozisyon": "f",
-      "id": "301",
-      "oldid": "gb29"
+      "id": "301"
     },
     "302": {
       "team": "gb",
       "name": "İlker Karakaş",
       "pozisyon": "f",
-      "id": "302",
-      "oldid": "gb30"
+      "id": "302"
+    },
+    "650": {
+      "team": "gb",
+      "name": "Gökhan Altıparmak",
+      "pozisyon": "os",
+      "id": "650"
     }
   },
   "mlt": {
@@ -2122,204 +1822,175 @@
       "team": "mlt",
       "name": "Farnolle",
       "pozisyon": "k",
-      "id": "303",
-      "oldid": "mlt01"
+      "id": "303"
     },
     "305": {
       "team": "mlt",
       "name": "Abdulsamed Damlu",
       "pozisyon": "k",
-      "id": "305",
-      "oldid": "mlt03"
+      "id": "305"
     },
     "306": {
       "team": "mlt",
       "name": "Murat Akşit",
       "pozisyon": "k",
-      "id": "306",
-      "oldid": "mlt04"
+      "id": "306"
     },
     "307": {
       "team": "mlt",
       "name": "Chebake",
       "pozisyon": "d",
-      "id": "307",
-      "oldid": "mlt05"
+      "id": "307"
     },
     "308": {
       "team": "mlt",
       "name": "Hadebe",
       "pozisyon": "d",
-      "id": "308",
-      "oldid": "mlt06"
+      "id": "308"
     },
     "309": {
       "team": "mlt",
       "name": "Sakıb Aytaç",
       "pozisyon": "d",
-      "id": "309",
-      "oldid": "mlt07"
+      "id": "309"
     },
     "310": {
       "team": "mlt",
       "name": "Mustafa Akbaş",
       "pozisyon": "d",
-      "id": "310",
-      "oldid": "mlt08"
+      "id": "310"
     },
     "311": {
       "team": "mlt",
       "name": "Yiğithan Güveli",
       "pozisyon": "d",
-      "id": "311",
-      "oldid": "mlt09"
+      "id": "311"
     },
     "312": {
       "team": "mlt",
       "name": "Erkan Kaş",
       "pozisyon": "d",
-      "id": "312",
-      "oldid": "mlt10"
+      "id": "312"
     },
     "313": {
       "team": "mlt",
       "name": "Mina",
       "pozisyon": "d",
-      "id": "313",
-      "oldid": "mlt11"
+      "id": "313"
     },
     "314": {
       "team": "mlt",
       "name": "Buğra Çağıran",
       "pozisyon": "d",
-      "id": "314",
-      "oldid": "mlt12"
+      "id": "314"
     },
     "315": {
       "team": "mlt",
       "name": "Özer Özdemir",
       "pozisyon": "d",
-      "id": "315",
-      "oldid": "mlt13"
+      "id": "315"
     },
     "316": {
       "team": "mlt",
       "name": "Bülent Cevahir",
       "pozisyon": "d",
-      "id": "316",
-      "oldid": "mlt14"
+      "id": "316"
     },
     "317": {
       "team": "mlt",
       "name": "Karim Hafez",
       "pozisyon": "d",
-      "id": "317",
-      "oldid": "mlt31"
+      "id": "317"
     },
     "318": {
       "team": "mlt",
       "name": "Bifouma",
       "pozisyon": "os",
-      "id": "318",
-      "oldid": "mlt16"
+      "id": "318"
     },
     "319": {
       "team": "mlt",
       "name": "Gökhan Töre",
       "pozisyon": "os",
-      "id": "319",
-      "oldid": "mlt17"
+      "id": "319"
     },
     "320": {
       "team": "mlt",
       "name": "Fofana",
       "pozisyon": "os",
-      "id": "320",
-      "oldid": "mlt18"
+      "id": "320"
     },
     "321": {
       "team": "mlt",
       "name": "Donald",
       "pozisyon": "os",
-      "id": "321",
-      "oldid": "mlt19"
+      "id": "321"
     },
     "322": {
       "team": "mlt",
       "name": "Robin Yalçın",
       "pozisyon": "os",
-      "id": "322",
-      "oldid": "mlt20"
+      "id": "322"
     },
     "323": {
       "team": "mlt",
       "name": "Murat Yıldırım",
       "pozisyon": "os",
-      "id": "323",
-      "oldid": "mlt21"
+      "id": "323"
     },
     "324": {
       "team": "mlt",
       "name": "Issiar Dia",
       "pozisyon": "os",
-      "id": "324",
-      "oldid": "mlt22"
+      "id": "324"
     },
     "325": {
       "team": "mlt",
       "name": "Acquah",
       "pozisyon": "os",
-      "id": "325",
-      "oldid": "mlt23"
+      "id": "325"
     },
     "326": {
       "team": "mlt",
       "name": "Remi Walter",
       "pozisyon": "os",
-      "id": "326",
-      "oldid": "mlt24"
+      "id": "326"
     },
     "327": {
       "team": "mlt",
       "name": "Ahmed İldiz",
       "pozisyon": "os",
-      "id": "327",
-      "oldid": "mlt25"
+      "id": "327"
     },
     "329": {
       "team": "mlt",
       "name": "Fatih Aydın",
       "pozisyon": "os",
-      "id": "329",
-      "oldid": "mlt27"
-    },
-    "340": {
-      "team": "mlt",
-      "name": "Ndayishimiye",
-      "pozisyon": "os",
-      "id": "340",
-      "oldid": "mlt40"
+      "id": "329"
     },
     "330": {
       "team": "mlt",
       "name": "Umut Bulut",
       "pozisyon": "f",
-      "id": "330",
-      "oldid": "mlt28"
+      "id": "330"
     },
     "331": {
       "team": "mlt",
       "name": "Eren Tozlu",
       "pozisyon": "f",
-      "id": "331",
-      "oldid": "mlt29"
+      "id": "331"
     },
     "332": {
       "team": "mlt",
       "name": "Vidar Kjartansson",
       "pozisyon": "f",
-      "id": "332",
-      "oldid": "mlt30"
+      "id": "332"
+    },
+    "340": {
+      "team": "mlt",
+      "name": "Ndayishimiye",
+      "pozisyon": "os",
+      "id": "340"
     }
   },
   "crz": {
@@ -2327,260 +1998,223 @@
       "team": "crz",
       "name": "Gökhan Akkan",
       "pozisyon": "k",
-      "id": "333",
-      "oldid": "crz01"
+      "id": "333"
     },
     "334": {
       "team": "crz",
       "name": "Zafer Görgen",
       "pozisyon": "k",
-      "id": "334",
-      "oldid": "crz02"
+      "id": "334"
     },
     "335": {
       "team": "crz",
       "name": "Tarık Çetin",
       "pozisyon": "k",
-      "id": "335",
-      "oldid": "crz03"
+      "id": "335"
     },
     "336": {
       "team": "crz",
       "name": "Boğaçhan Kazmaz",
       "pozisyon": "k",
-      "id": "336",
-      "oldid": "crz04"
+      "id": "336"
     },
     "337": {
       "team": "crz",
       "name": "Abarhoun",
       "pozisyon": "d",
-      "id": "337",
-      "oldid": "crz05"
+      "id": "337"
     },
     "338": {
       "team": "crz",
       "name": "Melnijak",
       "pozisyon": "d",
-      "id": "338",
-      "oldid": "crz06"
+      "id": "338"
     },
     "339": {
       "team": "crz",
       "name": "Moroziuk",
       "pozisyon": "d",
-      "id": "339",
-      "oldid": "crz07"
+      "id": "339"
     },
     "340": {
       "team": "crz",
       "name": "Talbi",
       "pozisyon": "d",
-      "id": "340",
-      "oldid": "crz09"
+      "id": "340"
     },
     "341": {
       "team": "crz",
       "name": "İvanildo Fernandes",
       "pozisyon": "d",
-      "id": "341",
-      "oldid": "crz10"
+      "id": "341"
     },
     "342": {
       "team": "crz",
       "name": "Chatziisaias",
       "pozisyon": "d",
-      "id": "342",
-      "oldid": "crz11"
+      "id": "342"
     },
     "343": {
       "team": "crz",
       "name": "Orhan Ovacıklı",
       "pozisyon": "d",
-      "id": "343",
-      "oldid": "crz12"
+      "id": "343"
     },
     "344": {
       "team": "crz",
       "name": "Burak Albayrak",
       "pozisyon": "d",
-      "id": "344",
-      "oldid": "crz13"
+      "id": "344"
     },
     "345": {
       "team": "crz",
       "name": "Eminhan Topçu",
       "pozisyon": "d",
-      "id": "345",
-      "oldid": "crz14"
+      "id": "345"
     },
     "346": {
       "team": "crz",
       "name": "Yusuf Acer",
       "pozisyon": "d",
-      "id": "346",
-      "oldid": "crz15"
+      "id": "346"
     },
     "347": {
       "team": "crz",
       "name": "Erdinç Karakaş",
       "pozisyon": "d",
-      "id": "347",
-      "oldid": "crz16"
+      "id": "347"
     },
     "348": {
       "team": "crz",
       "name": "Berkay Sandıkçı",
       "pozisyon": "d",
-      "id": "348",
-      "oldid": "crz17"
+      "id": "348"
     },
     "349": {
       "team": "crz",
       "name": "Emirhan Azak",
       "pozisyon": "d",
-      "id": "349",
-      "oldid": "crz18"
+      "id": "349"
     },
     "350": {
       "team": "crz",
       "name": "Samudio",
       "pozisyon": "os",
-      "id": "350",
-      "oldid": "crz19"
+      "id": "350"
     },
     "351": {
       "team": "crz",
       "name": "Boldrin",
       "pozisyon": "os",
-      "id": "351",
-      "oldid": "crz20"
+      "id": "351"
     },
     "352": {
       "team": "crz",
       "name": "Aminu Umar",
       "pozisyon": "os",
-      "id": "352",
-      "oldid": "crz21"
+      "id": "352"
     },
     "353": {
       "team": "crz",
       "name": "Garmash",
       "pozisyon": "os",
-      "id": "353",
-      "oldid": "crz22"
+      "id": "353"
     },
     "354": {
       "team": "crz",
       "name": "Abdullah Durak",
       "pozisyon": "os",
-      "id": "354",
-      "oldid": "crz23"
+      "id": "354"
     },
     "355": {
       "team": "crz",
       "name": "Diomande",
       "pozisyon": "os",
-      "id": "355",
-      "oldid": "crz24"
+      "id": "355"
     },
     "356": {
       "team": "crz",
       "name": "Barış Alıcı",
       "pozisyon": "os",
-      "id": "356",
-      "oldid": "crz25"
+      "id": "356"
     },
     "357": {
       "team": "crz",
       "name": "Yan Sasse",
       "pozisyon": "os",
-      "id": "357",
-      "oldid": "crz26"
+      "id": "357"
     },
     "358": {
       "team": "crz",
       "name": "Oğulcan Çağlayan",
       "pozisyon": "os",
-      "id": "358",
-      "oldid": "crz27"
+      "id": "358"
     },
     "359": {
       "team": "crz",
       "name": "Vetrih",
       "pozisyon": "os",
-      "id": "359",
-      "oldid": "crz28"
+      "id": "359"
     },
     "360": {
       "team": "crz",
       "name": "Çınar Tarhan",
       "pozisyon": "os",
-      "id": "360",
-      "oldid": "crz29"
+      "id": "360"
     },
     "361": {
       "team": "crz",
       "name": "Oğuz Kağan Güçtekin",
       "pozisyon": "os",
-      "id": "361",
-      "oldid": "crz30"
+      "id": "361"
     },
     "362": {
       "team": "crz",
       "name": "Atakan Akkaynak",
       "pozisyon": "os",
-      "id": "362",
-      "oldid": "crz31"
+      "id": "362"
     },
     "363": {
       "team": "crz",
       "name": "Muahmmet Çelik",
       "pozisyon": "os",
-      "id": "363",
-      "oldid": "crz32"
+      "id": "363"
     },
     "364": {
       "team": "crz",
       "name": "Eren Karadağ",
       "pozisyon": "os",
-      "id": "364",
-      "oldid": "crz33"
+      "id": "364"
     },
     "365": {
       "team": "crz",
       "name": "Tunay Torun",
       "pozisyon": "os",
-      "id": "365",
-      "oldid": "crz36"
-    },
-    "600": {
-      "team": "crz",
-      "name": "Tunay Torun",
-      "pozisyon": "os",
-      "id": "600",
-      "oldid": "crz600"
+      "id": "365"
     },
     "366": {
       "team": "crz",
       "name": "Milan Skoda",
       "pozisyon": "f",
-      "id": "366",
-      "oldid": "crz34"
+      "id": "366"
     },
     "367": {
       "team": "crz",
       "name": "Scepovic",
       "pozisyon": "f",
-      "id": "367",
-      "oldid": "crz35"
+      "id": "367"
     },
     "368": {
       "team": "crz",
       "name": "Boriachuk",
       "pozisyon": "f",
-      "id": "368",
-      "oldid": "crz37"
+      "id": "368"
+    },
+    "600": {
+      "team": "crz",
+      "name": "Tunay Torun",
+      "pozisyon": "os",
+      "id": "600"
     }
   },
   "svs": {
@@ -2588,444 +2222,375 @@
       "team": "svs",
       "name": "Samassa",
       "pozisyon": "k",
-      "id": "369",
-      "oldid": "svs01"
+      "id": "369"
     },
     "370": {
       "team": "svs",
       "name": "Muammer Yıldırım",
       "pozisyon": "k",
-      "id": "370",
-      "oldid": "svs02"
+      "id": "370"
     },
     "371": {
       "team": "svs",
       "name": "Ali Şaşal",
       "pozisyon": "k",
-      "id": "371",
-      "oldid": "svs03"
+      "id": "371"
     },
     "372": {
       "team": "svs",
       "name": "Uğur Çiftçi",
       "pozisyon": "d",
-      "id": "372",
-      "oldid": "svs04"
+      "id": "372"
     },
     "373": {
       "team": "svs",
       "name": "Goiano",
       "pozisyon": "d",
-      "id": "373",
-      "oldid": "svs05"
+      "id": "373"
     },
     "374": {
       "team": "svs",
       "name": "Fatih Aksoy",
       "pozisyon": "d",
-      "id": "374",
-      "oldid": "svs06"
+      "id": "374"
     },
     "375": {
       "team": "svs",
       "name": "Caner Osmanpaşa",
       "pozisyon": "d",
-      "id": "375",
-      "oldid": "svs07"
+      "id": "375"
     },
     "376": {
       "team": "svs",
       "name": "Ziya Erdal",
       "pozisyon": "d",
-      "id": "376",
-      "oldid": "svs08"
+      "id": "376"
     },
     "377": {
       "team": "svs",
       "name": "Barış Yardımcı",
       "pozisyon": "d",
-      "id": "377",
-      "oldid": "svs10"
+      "id": "377"
     },
     "378": {
       "team": "svs",
       "name": "Appindangoye",
       "pozisyon": "d",
-      "id": "378",
-      "oldid": "svs11"
+      "id": "378"
     },
     "379": {
       "team": "svs",
       "name": "Paul Papp",
       "pozisyon": "d",
-      "id": "379",
-      "oldid": "svs12"
+      "id": "379"
     },
     "380": {
       "team": "svs",
       "name": "Samba Camara",
       "pozisyon": "d",
-      "id": "380",
-      "oldid": "svs26"
+      "id": "380"
     },
     "381": {
       "team": "svs",
       "name": "Claudemir",
       "pozisyon": "os",
-      "id": "381",
-      "oldid": "svs27"
+      "id": "381"
     },
     "382": {
       "team": "svs",
       "name": "Emre Kılınç",
       "pozisyon": "os",
-      "id": "382",
-      "oldid": "svs13"
+      "id": "382"
     },
     "383": {
       "team": "svs",
       "name": "Andrade",
       "pozisyon": "os",
-      "id": "383",
-      "oldid": "svs14"
+      "id": "383"
     },
     "384": {
       "team": "svs",
       "name": "Yasin Öztekin",
       "pozisyon": "os",
-      "id": "384",
-      "oldid": "svs15"
+      "id": "384"
     },
     "385": {
       "team": "svs",
       "name": "Sergey Rybalka",
       "pozisyon": "os",
-      "id": "385",
-      "oldid": "svs17"
+      "id": "385"
     },
     "386": {
       "team": "svs",
       "name": "Hakan Arslan",
       "pozisyon": "os",
-      "id": "386",
-      "oldid": "svs18"
+      "id": "386"
     },
     "388": {
       "team": "svs",
       "name": "Djerlek",
       "pozisyon": "os",
-      "id": "388",
-      "oldid": "svs20"
+      "id": "388"
     },
     "389": {
       "team": "svs",
       "name": "Erdoğan Yeşilyurt",
       "pozisyon": "os",
-      "id": "389",
-      "oldid": "svs21"
+      "id": "389"
     },
     "390": {
       "team": "svs",
       "name": "Cofie",
       "pozisyon": "os",
-      "id": "390",
-      "oldid": "svs22"
+      "id": "390"
     },
     "391": {
       "team": "svs",
       "name": "Volkan Egri",
       "pozisyon": "os",
-      "id": "391",
-      "oldid": "svs23"
+      "id": "391"
     },
     "392": {
       "team": "svs",
       "name": "Arouna Kone",
       "pozisyon": "f",
-      "id": "392",
-      "oldid": "svs25"
+      "id": "392"
     },
     "393": {
       "team": "svs",
       "name": "Hugo Vieria",
       "pozisyon": "f",
-      "id": "393",
-      "oldid": "svs28"
+      "id": "393"
     },
     "394": {
       "team": "svs",
       "name": "Skuletic",
       "pozisyon": "f",
-      "id": "394",
-      "oldid": "svs29"
+      "id": "394"
     },
     "395": {
       "team": "svs",
       "name": "Yatabare",
       "pozisyon": "f",
-      "id": "395",
-      "oldid": "svs30"
+      "id": "395"
     }
   },
   "fb": {
+    "387": {
+      "team": "fb",
+      "name": "Mert Hakan Yandaş",
+      "pozisyon": "os",
+      "id": "387"
+    },
     "396": {
       "team": "fb",
       "name": "Altay Bayındır",
       "pozisyon": "k",
-      "id": "396",
-      "oldid": "fb01"
+      "id": "396"
     },
     "397": {
       "team": "fb",
       "name": "Harun Tekin",
       "pozisyon": "k",
-      "id": "397",
-      "oldid": "fb02"
+      "id": "397"
     },
     "398": {
       "team": "fb",
       "name": "Erten Ersu",
       "pozisyon": "k",
-      "id": "398",
-      "oldid": "fb03"
+      "id": "398"
     },
     "399": {
       "team": "fb",
       "name": "Ahmet Oytun Özdoğan",
       "pozisyon": "k",
-      "id": "399",
-      "oldid": "fb04"
+      "id": "399"
     },
     "400": {
       "team": "fb",
       "name": "Abdullah Yiğiter",
       "pozisyon": "k",
-      "id": "400",
-      "oldid": "fb05"
-    },
-    "435": {
-      "team": "fb",
-      "name": "Caner Erkin",
-      "pozisyon": "d",
-      "id": "435",
-      "oldid": "fb435"
-    },
-    "439": {
-      "team": "fb",
-      "name": "Gökhan Gönül",
-      "pozisyon": "d",
-      "id": "439",
-      "oldid": "fb439"
-    },
-    "034": {
-      "team": "fb",
-      "name": "Novak",
-      "pozisyon": "d",
-      "id": "034",
-      "oldid": "fb034"
+      "id": "400"
     },
     "401": {
       "team": "fb",
       "name": "Mauricio Isla",
       "pozisyon": "d",
-      "id": "401",
-      "oldid": "fb06"
+      "id": "401"
     },
     "402": {
       "team": "fb",
       "name": "Serdar Aziz",
       "pozisyon": "d",
-      "id": "402",
-      "oldid": "fb08"
+      "id": "402"
     },
     "403": {
       "team": "fb",
       "name": "Sadık Çiftpınar",
       "pozisyon": "d",
-      "id": "403",
-      "oldid": "fb09"
+      "id": "403"
     },
     "404": {
       "team": "fb",
       "name": "Hasan Ali Kaldırım",
       "pozisyon": "d",
-      "id": "404",
-      "oldid": "fb10"
+      "id": "404"
     },
     "405": {
       "team": "fb",
       "name": "Simon Falette",
       "pozisyon": "d",
-      "id": "405",
-      "oldid": "fb11"
+      "id": "405"
+    },
+    "406": {
+      "team": "fb",
+      "name": "Ömer Faruk Beyaz",
+      "pozisyon": "os",
+      "id": "406"
     },
     "407": {
       "team": "fb",
       "name": "Murat Sağlam",
       "pozisyon": "d",
-      "id": "407",
-      "oldid": "fb13"
+      "id": "407"
     },
     "408": {
       "team": "fb",
       "name": "Abdulcebrail",
       "pozisyon": "d",
-      "id": "408",
-      "oldid": "fb14"
+      "id": "408"
     },
     "409": {
       "team": "fb",
       "name": "Okan Turp",
       "pozisyon": "d",
-      "id": "409",
-      "oldid": "fb15"
+      "id": "409"
     },
     "410": {
       "team": "fb",
       "name": "Batuhan Yılmaz",
       "pozisyon": "d",
-      "id": "410",
-      "oldid": "fb16"
-    },
-    "406": {
-      "team": "fb",
-      "name": "Ömer Faruk Beyaz",
-      "pozisyon": "os",
-      "id": "406",
-      "oldid": "fb60"
-    },
-    "387": {
-      "team": "fb",
-      "name": "Mert Hakan Yandaş",
-      "pozisyon": "os",
-      "id": "387",
-      "oldid": "fb387"
-    },
-    "414": {
-      "team": "fb",
-      "name": "Nabil Dirar",
-      "pozisyon": "os",
-      "id": "414",
-      "oldid": "fb19"
-    },
-    "415": {
-      "team": "fb",
-      "name": "Ozan Tufan",
-      "pozisyon": "os",
-      "id": "415",
-      "oldid": "fb20"
-    },
-    "416": {
-      "team": "fb",
-      "name": "Deniz Türüç",
-      "pozisyon": "os",
-      "id": "416",
-      "oldid": "fb21"
-    },
-    "417": {
-      "team": "fb",
-      "name": "Luis Gustavo",
-      "pozisyon": "os",
-      "id": "417",
-      "oldid": "fb22"
-    },
-    "418": {
-      "team": "fb",
-      "name": "Garry Rodrigues",
-      "pozisyon": "os",
-      "id": "418",
-      "oldid": "fb23"
-    },
-    "419": {
-      "team": "fb",
-      "name": "Jailson",
-      "pozisyon": "os",
-      "id": "419",
-      "oldid": "fb24"
-    },
-    "420": {
-      "team": "fb",
-      "name": "Alper Potuk",
-      "pozisyon": "os",
-      "id": "420",
-      "oldid": "fb25"
-    },
-    "421": {
-      "team": "fb",
-      "name": "Miha Zajc",
-      "pozisyon": "os",
-      "id": "421",
-      "oldid": "fb26"
-    },
-    "422": {
-      "team": "fb",
-      "name": "Tolgay Arslan",
-      "pozisyon": "os",
-      "id": "422",
-      "oldid": "fb27"
-    },
-    "423": {
-      "team": "fb",
-      "name": "Mehmet Ekici",
-      "pozisyon": "os",
-      "id": "423",
-      "oldid": "fb28"
-    },
-    "424": {
-      "team": "fb",
-      "name": "Ferdi Kadıoğlu",
-      "pozisyon": "os",
-      "id": "424",
-      "oldid": "fb29"
-    },
-    "425": {
-      "team": "fb",
-      "name": "Tolga Ciğerci",
-      "pozisyon": "os",
-      "id": "425",
-      "oldid": "fb30"
-    },
-    "426": {
-      "team": "fb",
-      "name": "Muhammed Gümüşkaya",
-      "pozisyon": "os",
-      "id": "426",
-      "oldid": "fb31"
-    },
-    "406": {
-      "team": "fb",
-      "name": "Ömer Faruk Beyaz",
-      "pozisyon": "os",
-      "id": "406",
-      "oldid": "fb12"
-    },
-    "427": {
-      "team": "fb",
-      "name": "Vedat Muriqi",
-      "pozisyon": "f",
-      "id": "427",
-      "oldid": "fb32"
-    },
-    "428": {
-      "team": "fb",
-      "name": "Mevlüt Erdinç",
-      "pozisyon": "f",
-      "id": "428",
-      "oldid": "fb33"
-    },
-    "429": {
-      "team": "fb",
-      "name": "Yusuf Mert Tunç",
-      "pozisyon": "f",
-      "id": "429",
-      "oldid": "fb35"
+      "id": "410"
     },
     "412": {
       "team": "fb",
       "name": "Allahyar",
       "pozisyon": "f",
-      "id": "412",
-      "oldid": "fb34"
+      "id": "412"
+    },
+    "414": {
+      "team": "fb",
+      "name": "Nabil Dirar",
+      "pozisyon": "os",
+      "id": "414"
+    },
+    "415": {
+      "team": "fb",
+      "name": "Ozan Tufan",
+      "pozisyon": "os",
+      "id": "415"
+    },
+    "416": {
+      "team": "fb",
+      "name": "Deniz Türüç",
+      "pozisyon": "os",
+      "id": "416"
+    },
+    "417": {
+      "team": "fb",
+      "name": "Luis Gustavo",
+      "pozisyon": "os",
+      "id": "417"
+    },
+    "418": {
+      "team": "fb",
+      "name": "Garry Rodrigues",
+      "pozisyon": "os",
+      "id": "418"
+    },
+    "419": {
+      "team": "fb",
+      "name": "Jailson",
+      "pozisyon": "os",
+      "id": "419"
+    },
+    "420": {
+      "team": "fb",
+      "name": "Alper Potuk",
+      "pozisyon": "os",
+      "id": "420"
+    },
+    "421": {
+      "team": "fb",
+      "name": "Miha Zajc",
+      "pozisyon": "os",
+      "id": "421"
+    },
+    "422": {
+      "team": "fb",
+      "name": "Tolgay Arslan",
+      "pozisyon": "os",
+      "id": "422"
+    },
+    "423": {
+      "team": "fb",
+      "name": "Mehmet Ekici",
+      "pozisyon": "os",
+      "id": "423"
+    },
+    "424": {
+      "team": "fb",
+      "name": "Ferdi Kadıoğlu",
+      "pozisyon": "os",
+      "id": "424"
+    },
+    "425": {
+      "team": "fb",
+      "name": "Tolga Ciğerci",
+      "pozisyon": "os",
+      "id": "425"
+    },
+    "426": {
+      "team": "fb",
+      "name": "Muhammed Gümüşkaya",
+      "pozisyon": "os",
+      "id": "426"
+    },
+    "427": {
+      "team": "fb",
+      "name": "Vedat Muriqi",
+      "pozisyon": "f",
+      "id": "427"
+    },
+    "428": {
+      "team": "fb",
+      "name": "Mevlüt Erdinç",
+      "pozisyon": "f",
+      "id": "428"
+    },
+    "429": {
+      "team": "fb",
+      "name": "Yusuf Mert Tunç",
+      "pozisyon": "f",
+      "id": "429"
+    },
+    "435": {
+      "team": "fb",
+      "name": "Caner Erkin",
+      "pozisyon": "d",
+      "id": "435"
+    },
+    "439": {
+      "team": "fb",
+      "name": "Gökhan Gönül",
+      "pozisyon": "d",
+      "id": "439"
+    },
+    "034": {
+      "team": "fb",
+      "name": "Novak",
+      "pozisyon": "d",
+      "id": "034"
     }
   },
   "bjk": {
@@ -3033,183 +2598,157 @@
       "team": "bjk",
       "name": "Utku Yuvakuran",
       "pozisyon": "k",
-      "id": "431",
-      "oldid": "bjk02"
+      "id": "431"
     },
     "432": {
       "team": "bjk",
       "name": "Ersin Destanoğlu",
       "pozisyon": "k",
-      "id": "432",
-      "oldid": "bjk03"
+      "id": "432"
     },
     "433": {
       "team": "bjk",
       "name": "Doğukan Özkan",
       "pozisyon": "k",
-      "id": "433",
-      "oldid": "bjk04"
+      "id": "433"
     },
     "434": {
       "team": "bjk",
       "name": "Domagoj Vida",
       "pozisyon": "d",
-      "id": "434",
-      "oldid": "bjk05"
+      "id": "434"
     },
     "436": {
       "team": "bjk",
       "name": "Enzo Roco",
       "pozisyon": "d",
-      "id": "436",
-      "oldid": "bjk07"
+      "id": "436"
     },
     "437": {
       "team": "bjk",
       "name": "Victor Ruiz",
       "pozisyon": "d",
-      "id": "437",
-      "oldid": "bjk08"
+      "id": "437"
     },
     "438": {
       "team": "bjk",
       "name": "Rebocho",
       "pozisyon": "d",
-      "id": "438",
-      "oldid": "bjk09"
+      "id": "438"
     },
     "440": {
       "team": "bjk",
       "name": "Douglas",
       "pozisyon": "d",
-      "id": "440",
-      "oldid": "bjk11"
+      "id": "440"
     },
     "441": {
       "team": "bjk",
       "name": "Rıdvan Yılmaz",
       "pozisyon": "d",
-      "id": "441",
-      "oldid": "bjk12"
+      "id": "441"
     },
     "442": {
       "team": "bjk",
       "name": "N'Koudou",
       "pozisyon": "os",
-      "id": "442",
-      "oldid": "bjk13"
+      "id": "442"
     },
     "443": {
       "team": "bjk",
       "name": "Adem Ljajic",
       "pozisyon": "os",
-      "id": "443",
-      "oldid": "bjk14"
+      "id": "443"
     },
     "444": {
       "team": "bjk",
       "name": "Atiba Hutchinson",
       "pozisyon": "os",
-      "id": "444",
-      "oldid": "bjk15"
+      "id": "444"
     },
     "445": {
       "team": "bjk",
       "name": "Jeremain Lens",
       "pozisyon": "os",
-      "id": "445",
-      "oldid": "bjk16"
+      "id": "445"
     },
     "446": {
       "team": "bjk",
       "name": "Mohamed Elneny",
       "pozisyon": "os",
-      "id": "446",
-      "oldid": "bjk17"
+      "id": "446"
     },
     "447": {
       "team": "bjk",
       "name": "Tyler Boyd",
       "pozisyon": "os",
-      "id": "447",
-      "oldid": "bjk19"
+      "id": "447"
     },
     "448": {
       "team": "bjk",
       "name": "Dorukhan Toköz",
       "pozisyon": "os",
-      "id": "448",
-      "oldid": "bjk20"
+      "id": "448"
     },
     "449": {
       "team": "bjk",
       "name": "Boateng",
       "pozisyon": "os",
-      "id": "449",
-      "oldid": "bjk21"
+      "id": "449"
     },
     "450": {
       "team": "bjk",
       "name": "Muhayer Oktay",
       "pozisyon": "os",
-      "id": "450",
-      "oldid": "bjk22"
+      "id": "450"
     },
     "451": {
       "team": "bjk",
       "name": "Necip Uysal",
       "pozisyon": "os",
-      "id": "451",
-      "oldid": "bjk23"
+      "id": "451"
     },
     "452": {
       "team": "bjk",
       "name": "Kartal Yılmaz",
       "pozisyon": "os",
-      "id": "452",
-      "oldid": "bjk24"
+      "id": "452"
     },
     "453": {
       "team": "bjk",
       "name": "Mertcan Açıkgöz",
       "pozisyon": "os",
-      "id": "453",
-      "oldid": "bjk25"
+      "id": "453"
     },
     "454": {
       "team": "bjk",
       "name": "Burak Yılmaz",
       "pozisyon": "f",
-      "id": "454",
-      "oldid": "bjk26"
+      "id": "454"
     },
     "455": {
       "team": "bjk",
       "name": "Abdoulay Diaby",
       "pozisyon": "f",
-      "id": "455",
-      "oldid": "bjk27"
+      "id": "455"
     },
     "456": {
       "team": "bjk",
       "name": "Umut Nayir",
       "pozisyon": "f",
-      "id": "456",
-      "oldid": "bjk28"
+      "id": "456"
     },
     "457": {
       "team": "bjk",
       "name": "Güven Yalçın",
       "pozisyon": "f",
-      "id": "457",
-      "oldid": "bjk29"
+      "id": "457"
     },
     "458": {
       "team": "bjk",
       "name": "Oğuzhan Akgün",
       "pozisyon": "f",
-      "id": "458",
-      "oldid": "bjk30"
+      "id": "458"
     }
   },
   "ant": {
@@ -3217,239 +2756,205 @@
       "team": "ant",
       "name": "Ferhat Kaplan",
       "pozisyon": "k",
-      "id": "459",
-      "oldid": "ant01"
+      "id": "459"
     },
     "460": {
       "team": "ant",
       "name": "Ruud Boffin",
       "pozisyon": "k",
-      "id": "460",
-      "oldid": "ant02"
+      "id": "460"
     },
     "461": {
       "team": "ant",
       "name": "Yakup Mert Çakır",
       "pozisyon": "k",
-      "id": "461",
-      "oldid": "ant03"
+      "id": "461"
     },
     "462": {
       "team": "ant",
       "name": "Ondrej Celustka",
       "pozisyon": "d",
-      "id": "462",
-      "oldid": "ant04"
+      "id": "462"
     },
     "463": {
       "team": "ant",
       "name": "Kudryashov",
       "pozisyon": "d",
-      "id": "463",
-      "oldid": "ant05"
+      "id": "463"
     },
     "464": {
       "team": "ant",
       "name": "Nazım Sangare",
       "pozisyon": "d",
-      "id": "464",
-      "oldid": "ant07"
+      "id": "464"
     },
     "465": {
       "team": "ant",
       "name": "Veysel Sarı",
       "pozisyon": "d",
-      "id": "465",
-      "oldid": "ant08"
+      "id": "465"
     },
     "466": {
       "team": "ant",
       "name": "Aly Cissokho",
       "pozisyon": "d",
-      "id": "466",
-      "oldid": "ant09"
+      "id": "466"
     },
     "467": {
       "team": "ant",
       "name": "Tarık Çamdal",
       "pozisyon": "d",
-      "id": "467",
-      "oldid": "ant10"
+      "id": "467"
     },
     "468": {
       "team": "ant",
       "name": "Eren Albayrak",
       "pozisyon": "d",
-      "id": "468",
-      "oldid": "ant11"
+      "id": "468"
     },
     "469": {
       "team": "ant",
       "name": "Salih Dursun",
       "pozisyon": "d",
-      "id": "469",
-      "oldid": "ant12"
+      "id": "469"
     },
     "470": {
       "team": "ant",
       "name": "Bahadır Öztürk",
       "pozisyon": "d",
-      "id": "470",
-      "oldid": "ant13"
+      "id": "470"
     },
     "471": {
       "team": "ant",
       "name": "Ersan Gülüm",
       "pozisyon": "d",
-      "id": "471",
-      "oldid": "ant14"
+      "id": "471"
     },
     "472": {
       "team": "ant",
       "name": "Amilton",
       "pozisyon": "os",
-      "id": "472",
-      "oldid": "ant15"
+      "id": "472"
     },
     "473": {
       "team": "ant",
       "name": "Aatıf Chahechouhe",
       "pozisyon": "os",
-      "id": "473",
-      "oldid": "ant16"
+      "id": "473"
     },
     "474": {
       "team": "ant",
       "name": "Sinan Gümüş",
       "pozisyon": "os",
-      "id": "474",
-      "oldid": "ant17"
+      "id": "474"
     },
     "475": {
       "team": "ant",
       "name": "Charles",
       "pozisyon": "os",
-      "id": "475",
-      "oldid": "ant18"
+      "id": "475"
     },
     "476": {
       "team": "ant",
       "name": "Chico",
       "pozisyon": "os",
-      "id": "476",
-      "oldid": "ant19"
+      "id": "476"
     },
     "477": {
       "team": "ant",
       "name": "Hakan Özmert",
       "pozisyon": "os",
-      "id": "477",
-      "oldid": "ant20"
+      "id": "477"
     },
     "478": {
       "team": "ant",
       "name": "Yekta Kurtuluş",
       "pozisyon": "os",
-      "id": "478",
-      "oldid": "ant21"
+      "id": "478"
     },
     "479": {
       "team": "ant",
       "name": "Fredy",
       "pozisyon": "os",
-      "id": "479",
-      "oldid": "ant22"
+      "id": "479"
     },
     "480": {
       "team": "ant",
       "name": "Harun Alpsoy",
       "pozisyon": "os",
-      "id": "480",
-      "oldid": "ant23"
+      "id": "480"
     },
     "481": {
       "team": "ant",
       "name": "Doğukan Sinik",
       "pozisyon": "os",
-      "id": "481",
-      "oldid": "ant24"
+      "id": "481"
     },
     "482": {
       "team": "ant",
       "name": "Ufuk Akyol",
       "pozisyon": "os",
-      "id": "482",
-      "oldid": "ant25"
+      "id": "482"
     },
     "483": {
       "team": "ant",
       "name": "Mukairu",
       "pozisyon": "os",
-      "id": "483",
-      "oldid": "ant26"
+      "id": "483"
     },
     "484": {
       "team": "ant",
       "name": "Cenk Şen",
       "pozisyon": "os",
-      "id": "484",
-      "oldid": "ant27"
+      "id": "484"
     },
     "485": {
       "team": "ant",
       "name": "Bünyamin balcı",
       "pozisyon": "os",
-      "id": "485",
-      "oldid": "ant28"
+      "id": "485"
     },
     "486": {
       "team": "ant",
       "name": "Harun Kavaklıdere",
       "pozisyon": "os",
-      "id": "486",
-      "oldid": "ant29"
+      "id": "486"
     },
     "487": {
       "team": "ant",
       "name": "Halil İbrahim",
       "pozisyon": "os",
-      "id": "487",
-      "oldid": "ant30"
+      "id": "487"
     },
     "488": {
       "team": "ant",
       "name": "Erman Herman",
       "pozisyon": "os",
-      "id": "488",
-      "oldid": "ant31"
+      "id": "488"
     },
     "489": {
       "team": "ant",
       "name": "N'Dinga",
       "pozisyon": "os",
-      "id": "489",
-      "oldid": "ant35"
+      "id": "489"
     },
     "490": {
       "team": "ant",
       "name": "Podolski",
       "pozisyon": "f",
-      "id": "490",
-      "oldid": "ant32"
+      "id": "490"
     },
     "491": {
       "team": "ant",
       "name": "Leschuk",
       "pozisyon": "f",
-      "id": "491",
-      "oldid": "ant33"
+      "id": "491"
     },
     "492": {
       "team": "ant",
       "name": "Jahovic",
       "pozisyon": "f",
-      "id": "492",
-      "oldid": "ant34"
+      "id": "492"
     }
   },
   "als": {
@@ -3457,190 +2962,163 @@
       "team": "als",
       "name": "Marafona",
       "pozisyon": "k",
-      "id": "493",
-      "oldid": "als01"
+      "id": "493"
     },
     "494": {
       "team": "als",
       "name": "Cenk Gönen",
       "pozisyon": "k",
-      "id": "494",
-      "oldid": "als02"
+      "id": "494"
     },
     "495": {
       "team": "als",
       "name": "Eray Birniçan",
       "pozisyon": "k",
-      "id": "495",
-      "oldid": "als03"
+      "id": "495"
     },
     "496": {
       "team": "als",
       "name": "İsmail Ünal",
       "pozisyon": "k",
-      "id": "496",
-      "oldid": "als04"
+      "id": "496"
     },
     "497": {
       "team": "als",
       "name": "N'Sakala",
       "pozisyon": "d",
-      "id": "497",
-      "oldid": "als05"
+      "id": "497"
     },
     "498": {
       "team": "als",
       "name": "Welinton Souza",
       "pozisyon": "d",
-      "id": "498",
-      "oldid": "als06"
+      "id": "498"
     },
     "499": {
       "team": "als",
       "name": "Steven Caulker",
       "pozisyon": "d",
-      "id": "499",
-      "oldid": "als07"
+      "id": "499"
     },
     "500": {
       "team": "als",
       "name": "Baiano",
       "pozisyon": "d",
-      "id": "500",
-      "oldid": "als08"
+      "id": "500"
     },
     "501": {
       "team": "als",
       "name": "Tzavellas",
       "pozisyon": "d",
-      "id": "501",
-      "oldid": "als09"
+      "id": "501"
     },
     "502": {
       "team": "als",
       "name": "Juanfran",
       "pozisyon": "d",
-      "id": "502",
-      "oldid": "als10"
+      "id": "502"
     },
     "503": {
       "team": "als",
       "name": "Tayfur Bingöl",
       "pozisyon": "d",
-      "id": "503",
-      "oldid": "als11"
+      "id": "503"
     },
     "504": {
       "team": "als",
       "name": "Lokman Gör",
       "pozisyon": "d",
-      "id": "504",
-      "oldid": "als12"
+      "id": "504"
     },
     "505": {
       "team": "als",
       "name": "Kaan Kanak",
       "pozisyon": "d",
-      "id": "505",
-      "oldid": "als13"
+      "id": "505"
     },
     "506": {
       "team": "als",
       "name": "Junior Fernandes",
       "pozisyon": "os",
-      "id": "506",
-      "oldid": "als14"
+      "id": "506"
     },
     "507": {
       "team": "als",
       "name": "Djalma Campus",
       "pozisyon": "os",
-      "id": "507",
-      "oldid": "als15"
+      "id": "507"
     },
     "508": {
       "team": "als",
       "name": "Efecan Karaca",
       "pozisyon": "os",
-      "id": "508",
-      "oldid": "als16"
+      "id": "508"
     },
     "509": {
       "team": "als",
       "name": "Salih Uçan",
       "pozisyon": "os",
-      "id": "509",
-      "oldid": "als17"
+      "id": "509"
     },
     "510": {
       "team": "als",
       "name": "Ceyhun Gülselam",
       "pozisyon": "os",
-      "id": "510",
-      "oldid": "als18"
+      "id": "510"
     },
     "511": {
       "team": "als",
       "name": "Siopis",
       "pozisyon": "os",
-      "id": "511",
-      "oldid": "als19"
+      "id": "511"
     },
     "512": {
       "team": "als",
       "name": "Bakasetas",
       "pozisyon": "os",
-      "id": "512",
-      "oldid": "als20"
+      "id": "512"
     },
     "513": {
       "team": "als",
       "name": "Emircan Altıntaş",
       "pozisyon": "os",
-      "id": "513",
-      "oldid": "als21"
+      "id": "513"
     },
     "514": {
       "team": "als",
       "name": "Musa Çağıran",
       "pozisyon": "os",
-      "id": "514",
-      "oldid": "als22"
+      "id": "514"
     },
     "515": {
       "team": "als",
       "name": "Onur Bulut",
       "pozisyon": "os",
-      "id": "515",
-      "oldid": "als23"
+      "id": "515"
     },
     "516": {
       "team": "als",
       "name": "Umut Güneş",
       "pozisyon": "os",
-      "id": "516",
-      "oldid": "als24"
+      "id": "516"
     },
     "517": {
       "team": "als",
       "name": "Cisse",
       "pozisyon": "f",
-      "id": "517",
-      "oldid": "als25"
+      "id": "517"
     },
     "518": {
       "team": "als",
       "name": "Mustafa Pektemek",
       "pozisyon": "f",
-      "id": "518",
-      "oldid": "als26"
+      "id": "518"
     },
     "520": {
       "team": "als",
       "name": "Veysel Ünal",
       "pozisyon": "f",
-      "id": "520",
-      "oldid": "als28"
+      "id": "520"
     }
   },
   "gs": {
@@ -3648,232 +3126,199 @@
       "team": "gs",
       "name": "Fernando Muslera",
       "pozisyon": "k",
-      "id": "521",
-      "oldid": "gs01"
+      "id": "521"
     },
     "522": {
       "team": "gs",
       "name": "Okan Kocuk",
       "pozisyon": "k",
-      "id": "522",
-      "oldid": "gs02"
+      "id": "522"
     },
     "523": {
       "team": "gs",
       "name": "Batuhan Ahmet Şen",
       "pozisyon": "k",
-      "id": "523",
-      "oldid": "gs03"
+      "id": "523"
     },
     "524": {
       "team": "gs",
       "name": "Şener Özbayraklı",
       "pozisyon": "d",
-      "id": "524",
-      "oldid": "gs04"
+      "id": "524"
     },
     "526": {
       "team": "gs",
       "name": "Ahmet Çalık",
       "pozisyon": "d",
-      "id": "526",
-      "oldid": "gs06"
+      "id": "526"
     },
     "527": {
       "team": "gs",
       "name": "Martin Linnes",
       "pozisyon": "d",
-      "id": "527",
-      "oldid": "gs07"
+      "id": "527"
     },
     "528": {
       "team": "gs",
       "name": "Ömer Bayram",
       "pozisyon": "d",
-      "id": "528",
-      "oldid": "gs08"
+      "id": "528"
     },
     "529": {
       "team": "gs",
       "name": "Mariano Ferreira",
       "pozisyon": "d",
-      "id": "529",
-      "oldid": "gs09"
+      "id": "529"
     },
     "530": {
       "team": "gs",
       "name": "Christian Luyindama",
       "pozisyon": "d",
-      "id": "530",
-      "oldid": "gs10"
+      "id": "530"
     },
     "531": {
       "team": "gs",
       "name": "Marcelo Saracchi",
       "pozisyon": "d",
-      "id": "531",
-      "oldid": "gs11"
+      "id": "531"
     },
     "532": {
       "team": "gs",
       "name": "Yuto Nagatomo",
       "pozisyon": "d",
-      "id": "532",
-      "oldid": "gs12"
+      "id": "532"
     },
     "533": {
       "team": "gs",
       "name": "Emin Bayram",
       "pozisyon": "d",
-      "id": "533",
-      "oldid": "gs14"
+      "id": "533"
     },
     "534": {
       "team": "gs",
       "name": "Marcao",
       "pozisyon": "d",
-      "id": "534",
-      "oldid": "gs15"
+      "id": "534"
     },
     "535": {
       "team": "gs",
       "name": "Henry Onyekuru",
       "pozisyon": "os",
-      "id": "535",
-      "oldid": "gs16"
+      "id": "535"
     },
     "536": {
       "team": "gs",
       "name": "Selçuk İnan",
       "pozisyon": "os",
-      "id": "536",
-      "oldid": "gs17"
+      "id": "536"
     },
     "537": {
       "team": "gs",
       "name": "Younes Belhanda",
       "pozisyon": "os",
-      "id": "537",
-      "oldid": "gs18"
+      "id": "537"
     },
     "538": {
       "team": "gs",
       "name": "Ryan Donk",
       "pozisyon": "os",
-      "id": "538",
-      "oldid": "gs19"
+      "id": "538"
     },
     "539": {
       "team": "gs",
       "name": "Emre Akbaba",
       "pozisyon": "os",
-      "id": "539",
-      "oldid": "gs20"
+      "id": "539"
     },
     "540": {
       "team": "gs",
       "name": "Jakup Jimmy Durmaz",
       "pozisyon": "os",
-      "id": "540",
-      "oldid": "gs21"
+      "id": "540"
     },
     "541": {
       "team": "gs",
       "name": "Atalay Babacan",
       "pozisyon": "os",
-      "id": "541",
-      "oldid": "gs22"
+      "id": "541"
     },
     "542": {
       "team": "gs",
       "name": "Jesse Sekidika",
       "pozisyon": "os",
-      "id": "542",
-      "oldid": "gs32"
+      "id": "542"
     },
     "543": {
       "team": "gs",
       "name": "Emre Mor",
       "pozisyon": "os",
-      "id": "543",
-      "oldid": "gs34"
+      "id": "543"
     },
     "544": {
       "team": "gs",
       "name": "Taylan Antalyalı",
       "pozisyon": "os",
-      "id": "544",
-      "oldid": "gs23"
+      "id": "544"
     },
     "545": {
       "team": "gs",
       "name": "Seri",
       "pozisyon": "os",
-      "id": "545",
-      "oldid": "gs13"
+      "id": "545"
     },
     "546": {
       "team": "gs",
       "name": "Sofiane Feghouli",
       "pozisyon": "os",
-      "id": "546",
-      "oldid": "gs24"
+      "id": "546"
     },
     "547": {
       "team": "gs",
       "name": "Steven Nzonzi",
       "pozisyon": "os",
-      "id": "547",
-      "oldid": "gs25"
+      "id": "547"
     },
     "548": {
       "team": "gs",
       "name": "Mario Lemina",
       "pozisyon": "os",
-      "id": "548",
-      "oldid": "gs26"
+      "id": "548"
     },
     "549": {
       "team": "gs",
       "name": "Abdussamed Karnucu",
       "pozisyon": "os",
-      "id": "549",
-      "oldid": "gs27"
+      "id": "549"
     },
     "550": {
       "team": "gs",
       "name": "Adem Büyük",
       "pozisyon": "f",
-      "id": "550",
-      "oldid": "gs33"
+      "id": "550"
     },
     "551": {
       "team": "gs",
       "name": "Falcao",
       "pozisyon": "f",
-      "id": "551",
-      "oldid": "gs29"
+      "id": "551"
     },
     "552": {
       "team": "gs",
       "name": "Yunus Akgün",
       "pozisyon": "f",
-      "id": "552",
-      "oldid": "gs30"
+      "id": "552"
     },
     "553": {
       "team": "gs",
       "name": "Florin Andone",
       "pozisyon": "f",
-      "id": "553",
-      "oldid": "gs31"
+      "id": "553"
     },
     "554": {
       "team": "gs",
       "name": "Eren Can",
       "pozisyon": "f",
-      "id": "554",
-      "oldid": "gs35"
+      "id": "554"
     }
   },
   "ag": {
@@ -3881,288 +3326,247 @@
       "team": "ag",
       "name": "Korcan Çelikay",
       "pozisyon": "k",
-      "id": "555",
-      "oldid": "ag01"
+      "id": "555"
     },
     "556": {
       "team": "ag",
       "name": "Furkan Bekleviç",
       "pozisyon": "k",
-      "id": "556",
-      "oldid": "ag02"
+      "id": "556"
     },
     "557": {
       "team": "ag",
       "name": "Yiğit Kafkasyalı",
       "pozisyon": "k",
-      "id": "557",
-      "oldid": "ag03"
+      "id": "557"
     },
     "558": {
       "team": "ag",
       "name": "Ricardo",
       "pozisyon": "k",
-      "id": "558",
-      "oldid": "ag38"
+      "id": "558"
     },
     "559": {
       "team": "ag",
       "name": "Stelios Kitsiou",
       "pozisyon": "d",
-      "id": "559",
-      "oldid": "ag04"
+      "id": "559"
     },
     "560": {
       "team": "ag",
       "name": "Tiago Pinto",
       "pozisyon": "d",
-      "id": "560",
-      "oldid": "ag05"
+      "id": "560"
     },
     "561": {
       "team": "ag",
       "name": "Alihan Kubalas",
       "pozisyon": "d",
-      "id": "561",
-      "oldid": "ag06"
+      "id": "561"
     },
     "562": {
       "team": "ag",
       "name": "Yalçın Ayhan",
       "pozisyon": "d",
-      "id": "562",
-      "oldid": "ag07"
+      "id": "562"
     },
     "563": {
       "team": "ag",
       "name": "Michal Pazdan",
       "pozisyon": "d",
-      "id": "563",
-      "oldid": "ag08"
+      "id": "563"
     },
     "564": {
       "team": "ag",
       "name": "Ante Klusic",
       "pozisyon": "d",
-      "id": "564",
-      "oldid": "ag09"
+      "id": "564"
     },
     "565": {
       "team": "ag",
       "name": "Mehmet Sak",
       "pozisyon": "d",
-      "id": "565",
-      "oldid": "ag10"
+      "id": "565"
     },
     "566": {
       "team": "ag",
       "name": "Cebrail Karayel",
       "pozisyon": "d",
-      "id": "566",
-      "oldid": "ag11"
+      "id": "566"
     },
     "567": {
       "team": "ag",
       "name": "Ahmet Boztepe",
       "pozisyon": "d",
-      "id": "567",
-      "oldid": "ag12"
+      "id": "567"
     },
     "568": {
       "team": "ag",
       "name": "Uğur Samet",
       "pozisyon": "d",
-      "id": "568",
-      "oldid": "ag13"
+      "id": "568"
     },
     "569": {
       "team": "ag",
       "name": "Atila Turan",
       "pozisyon": "d",
-      "id": "569",
-      "oldid": "ag39"
+      "id": "569"
     },
     "570": {
       "team": "ag",
       "name": "Scarione",
       "pozisyon": "os",
-      "id": "570",
-      "oldid": "ag14"
+      "id": "570"
     },
     "571": {
       "team": "ag",
       "name": "Hector Canteros",
       "pozisyon": "os",
-      "id": "571",
-      "oldid": "ag15"
+      "id": "571"
     },
     "572": {
       "team": "ag",
       "name": "Ricardo Faty",
       "pozisyon": "os",
-      "id": "572",
-      "oldid": "ag16"
+      "id": "572"
     },
     "573": {
       "team": "ag",
       "name": "Aydın Karabulut",
       "pozisyon": "os",
-      "id": "573",
-      "oldid": "ag17"
+      "id": "573"
     },
     "574": {
       "team": "ag",
       "name": "Wilfred Moke",
       "pozisyon": "os",
-      "id": "574",
-      "oldid": "ag18"
+      "id": "574"
     },
     "575": {
       "team": "ag",
       "name": "Alper Önal",
       "pozisyon": "os",
-      "id": "575",
-      "oldid": "ag19"
+      "id": "575"
     },
     "576": {
       "team": "ag",
       "name": "Sedat Ağçay",
       "pozisyon": "os",
-      "id": "576",
-      "oldid": "ag20"
+      "id": "576"
     },
     "577": {
       "team": "ag",
       "name": "Ahmet Can Arık",
       "pozisyon": "os",
-      "id": "577",
-      "oldid": "ag21"
+      "id": "577"
     },
     "578": {
       "team": "ag",
       "name": "Berke Gürbüz",
       "pozisyon": "os",
-      "id": "578",
-      "oldid": "ag22"
+      "id": "578"
     },
     "579": {
       "team": "ag",
       "name": "Oğuzhan Orhan",
       "pozisyon": "os",
-      "id": "579",
-      "oldid": "ag23"
+      "id": "579"
     },
     "580": {
       "team": "ag",
       "name": "Orkan Çınar",
       "pozisyon": "os",
-      "id": "580",
-      "oldid": "ag33"
+      "id": "580"
     },
     "581": {
       "team": "ag",
       "name": "Saba Lobzhanidze",
       "pozisyon": "os",
-      "id": "581",
-      "oldid": "ag34"
+      "id": "581"
     },
     "582": {
       "team": "ag",
       "name": "Konrad Michalak ",
       "pozisyon": "os",
-      "id": "582",
-      "oldid": "ag35"
+      "id": "582"
     },
     "583": {
       "team": "ag",
       "name": "Daniel Lukasic ",
       "pozisyon": "os",
-      "id": "583",
-      "oldid": "ag36"
+      "id": "583"
     },
     "584": {
       "team": "ag",
       "name": "Mert Aydeniz",
       "pozisyon": "os",
-      "id": "584",
-      "oldid": "ag24"
+      "id": "584"
     },
     "585": {
       "team": "ag",
       "name": "Furkan Pektaş",
       "pozisyon": "os",
-      "id": "585",
-      "oldid": "ag25"
+      "id": "585"
     },
     "586": {
       "team": "ag",
       "name": "Kerem Göcen",
       "pozisyon": "os",
-      "id": "586",
-      "oldid": "ag26"
+      "id": "586"
     },
     "587": {
       "team": "ag",
       "name": "Mahmut Altınkaya",
       "pozisyon": "os",
-      "id": "587",
-      "oldid": "ag27"
+      "id": "587"
     },
     "588": {
       "team": "ag",
       "name": "Hasan Kaya",
       "pozisyon": "os",
-      "id": "588",
-      "oldid": "ag28"
+      "id": "588"
     },
     "589": {
       "team": "ag",
       "name": "Ender Aygören",
       "pozisyon": "os",
-      "id": "589",
-      "oldid": "ag29"
+      "id": "589"
     },
     "590": {
       "team": "ag",
       "name": "Gerson Rodrigues",
       "pozisyon": "os",
-      "id": "590",
-      "oldid": "ag37"
-    },
-    "595": {
-      "team": "ag",
-      "name": "Milos Stojanovic",
-      "pozisyon": "os",
-      "id": "595",
-      "oldid": "ag50"
+      "id": "590"
     },
     "591": {
       "team": "ag",
       "name": "İlhan Parlak",
       "pozisyon": "f",
-      "id": "591",
-      "oldid": "ag30"
+      "id": "591"
     },
     "592": {
       "team": "ag",
       "name": "Dever Orgill",
       "pozisyon": "f",
-      "id": "592",
-      "oldid": "ag31"
+      "id": "592"
     },
     "593": {
       "team": "ag",
       "name": "Zaur Sadaev",
       "pozisyon": "f",
-      "id": "593",
-      "oldid": "ag32"
+      "id": "593"
     },
-        "594": {
+    "594": {
       "team": "ag",
       "name": "Gelmin Rivas",
       "pozisyon": "f",
-      "id": "594",
-      "oldid": "ag45"
+      "id": "594"
+    },
+    "595": {
+      "team": "ag",
+      "name": "Milos Stojanovic",
+      "pozisyon": "os",
+      "id": "595"
     }
   }
 }
