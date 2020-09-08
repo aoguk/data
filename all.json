@@ -728,6 +728,12 @@
       "pozisyon": "d",
       "id": "120"
     },
+    "342": {
+      "team": "crz",
+      "name": "Selim Ay",
+      "pozisyon": "d",
+      "id": "342"
+    },
     "121": {
       "team": "crz",
       "name": "Samudio",
@@ -2075,12 +2081,6 @@
       "name": "Savaş Polat",
       "pozisyon": "d",
       "id": "341"
-    },
-    "342": {
-      "team": "kon",
-      "name": "Selim Ay",
-      "pozisyon": "d",
-      "id": "342"
     },
     "343": {
       "team": "kon",
