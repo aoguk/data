@@ -1204,12 +1204,6 @@
       "pozisyon": "os",
       "id": "197"
     },
-    "198": {
-      "team": "fb",
-      "name": "Vedat Muriqi",
-      "pozisyon": "f",
-      "id": "198"
-    },
     "199": {
       "team": "fb",
       "name": "Barış Sungur",
@@ -2719,6 +2713,12 @@
       "name": "Umut Bulut",
       "pozisyon": "f",
       "id": "447"
+    },
+    "469": {
+      "team": "mlt",
+      "name": "Adem Büyük",
+      "pozisyon": "f",
+      "id": "469"
     },
     "448": {
       "team": "mlt",
