@@ -1,9 +1,504 @@
 {
+  "001": [
+    "Ricardo Friedrich",
+    "k",
+    null
+  ],
+  "002": [
+    "Korcan Çelikay",
+    "k",
+    null
+  ],
+  "003": [
+    "Furkan Bekleviç",
+    "k",
+    null
+  ],
+  "004": [
+    "Yiğit Kafkasyalı",
+    "k",
+    null
+  ],
+  "005": [
+    "Erdi Dikmen",
+    "d",
+    null
+  ],
+  "006": [
+    "Atila Turan",
+    "d",
+    null
+  ],
+  "007": [
+    "Zvonimir Sarlija",
+    "d",
+    null
+  ],
+  "008": [
+    "Tiago Pinto",
+    "d",
+    null
+  ],
+  "009": [
+    "Stelios Kitsiou",
+    "d",
+    null
+  ],
+  "010": [
+    "Michal Pazdan",
+    "d",
+    null
+  ],
+  "011": [
+    "Ante Klusic",
+    "d",
+    null
+  ],
+  "012": [
+    "Fatih Tultak",
+    "d",
+    null
+  ],
+  "013": [
+    "Cebrail Karayel",
+    "d",
+    null
+  ],
+  "014": [
+    "Orkan Çakır",
+    "os",
+    null
+  ],
+  "015": [
+    "Daniel Lukasic ",
+    "os",
+    null
+  ],
+  "016": [
+    "Saba Lobzhanidze",
+    "os",
+    null
+  ],
+  "017": [
+    "Milos Stojanovic",
+    "os",
+    null
+  ],
+  "018": [
+    "Alper Önal",
+    "os",
+    null
+  ],
+  "019": [
+    "Suat Kaya",
+    "os",
+    null
+  ],
+  "020": [
+    "Hasan Kaya",
+    "os",
+    null
+  ],
+  "021": [
+    "Ender Aygören",
+    "os",
+    null
+  ],
+  "022": [
+    "İlhan Parlak",
+    "f",
+    null
+  ],
+  "023": [
+    "Ahmet Sun",
+    "f",
+    null
+  ],
+  "024": [
+    "Ferhat Kaplan",
+    "k",
+    null
+  ],
+  "025": [
+    "Ruud Boffin",
+    "k",
+    null
+  ],
+  "026": [
+    "Enes Sancar Şahin",
+    "k",
+    null
+  ],
+  "027": [
+    "Yakup Mert Çakır",
+    "k",
+    null
+  ],
+  "028": [
+    "Kudryashov",
+    "d",
+    null
+  ],
+  "029": [
+    "Nazım Sangare",
+    "d",
+    null
+  ],
+  "030": [
+    "Veysel Sarı",
+    "d",
+    null
+  ],
+  "031": [
+    "Ersan Gülüm",
+    "d",
+    null
+  ],
+  "032": [
+    "Eren Albayrak",
+    "d",
+    null
+  ],
+  "033": [
+    "Bahadır Öztürk",
+    "d",
+    null
+  ],
+  "034": [
+    "Nuri Şahin",
+    "os",
+    null
+  ],
+  "035": [
+    "Sedar Gürler",
+    "os",
+    null
+  ],
+  "036": [
+    "Amilton",
+    "os",
+    null
+  ],
+  "037": [
+    "Hakan Özmert",
+    "os",
+    null
+  ],
+  "038": [
+    "Sidney Sam",
+    "os",
+    null
+  ],
+  "039": [
+    "Jean Armel",
+    "os",
+    null
+  ],
+  "040": [
+    "Gökdeniz Bayraktar",
+    "os",
+    null
+  ],
+  "041": [
+    "Fredy",
+    "os",
+    null
+  ],
+  "042": [
+    "Sergen Yatağan",
+    "os",
+    null
+  ],
+  "043": [
+    "Harun Alpsoy",
+    "os",
+    null
+  ],
+  "044": [
+    "Doğukan Sinik",
+    "os",
+    null
+  ],
+  "045": [
+    "Mukairu",
+    "os",
+    null
+  ],
+  "046": [
+    "Ufuk Akyol",
+    "os",
+    null
+  ],
+  "047": [
+    "Cenk Şen",
+    "os",
+    null
+  ],
+  "048": [
+    "Mevlüt Han Ekelik",
+    "os",
+    null
+  ],
+  "049": [
+    "Bünyamin Balcı",
+    "os",
+    null
+  ],
+  "050": [
+    "Harun Kavaklıdere",
+    "os",
+    null
+  ],
+  "051": [
+    "Jahovic",
+    "f",
+    null
+  ],
+  "052": [
+    "Podolski",
+    "f",
+    null
+  ],
+  "053": [
+    "Orgill",
+    "f",
+    null
+  ],
+  "054": [
+    "Blanco Leschuk",
+    "f",
+    null
+  ],
+  "055": [
+    "Ufuk Ceylan",
+    "k",
+    null
+  ],
+  "056": [
+    "Marafona",
+    "k",
+    null
+  ],
+  "057": [
+    "Yusuf Karagöz",
+    "k",
+    null
+  ],
+  "058": [
+    "Steven Caulker",
+    "d",
+    null
+  ],
+  "059": [
+    "Alper Tursun",
+    "d",
+    null
+  ],
+  "060": [
+    "Fatih Aksoy",
+    "d",
+    null
+  ],
+  "061": [
+    "Ahmet Gülay",
+    "d",
+    null
+  ],
+  "062": [
+    "Juanfran",
+    "d",
+    null
+  ],
+  "063": [
+    "Tzavellas",
+    "d",
+    null
+  ],
+  "064": [
+    "Tayfur Bingöl",
+    "d",
+    null
+  ],
+  "065": [
+    "Emre Bekir",
+    "d",
+    null
+  ],
+  "066": [
+    "Reşo Akın",
+    "d",
+    null
+  ],
+  "067": [
+    "Hasan Emiroğlu",
+    "d",
+    null
+  ],
+  "068": [
+    "Bakasetas",
+    "os",
+    null
+  ],
+  "069": [
+    "Hasan Ayaroğlu",
+    "os",
+    null
+  ],
+  "070": [
+    "Efecan Karaca",
+    "os",
+    null
+  ],
+  "071": [
+    "Salih Uçan",
+    "os",
+    null
+  ],
+  "072": [
+    "Ceyhun Gülselam",
+    "os",
+    null
+  ],
+  "073": [
+    "Siopis",
+    "os",
+    null
+  ],
+  "074": [
+    "Davidson Pereira",
+    "os",
+    null
+  ],
+  "075": [
+    "Berkan İsmail Kutlu",
+    "os",
+    null
+  ],
+  "076": [
+    "Emircan Altıntaş",
+    "os",
+    null
+  ],
+  "077": [
+    "Onur Bulut",
+    "os",
+    null
+  ],
+  "078": [
+    "Rauf Öktem",
+    "os",
+    null
+  ],
+  "079": [
+    "Can Yalçıntekin",
+    "os",
+    null
+  ],
+  "080": [
+    "Umut Güneş",
+    "os",
+    null
+  ],
+  "081": [
+    "Babacar",
+    "f",
+    null
+  ],
+  "082": [
+    "Mustafa Pektemek",
+    "f",
+    null
+  ],
+  "083": [
+    "Adam Bareiro",
+    "f",
+    null
+  ],
+  "084": [
+    "Veysel Ünal",
+    "f",
+    null
+  ],
+  "085": [
+    "Gökhan Töre",
+    "os",
+    null
+  ],
+  "086": [
+    "Emre Bilgin",
+    "k",
+    null
+  ],
+  "087": [
+    "Utku Yuvakuran",
+    "k",
+    null
+  ],
+  "088": [
+    "Ersin Destanoğlu",
+    "k",
+    null
+  ],
+  "089": [
+    "Domagoj Vida",
+    "d",
+    null
+  ],
+  "090": [
+    "Welinton Souza",
+    "d",
+    null
+  ],
+  "091": [
+    "N'Skala",
+    "d",
+    null
+  ],
+  "092": [
+    "Montero",
+    "d",
+    null
+  ],
+  "093": [
+    "Douglas",
+    "d",
+    null
+  ],
+  "094": [
+    "Rıdvan Yılmaz",
+    "d",
+    null
+  ],
+  "095": [
+    "N'Koudou",
+    "os",
+    null
+  ],
+  "096": [
+    "Adem Ljajic",
+    "os",
+    null
+  ],
+  "097": [
+    "Atiba Hutchinson",
+    "os",
+    null
+  ],
+  "098": [
+    "Jeremain Lens",
+    "os",
+    null
+  ],
+  "099": [
+    "Oğuzhan Özyakup",
+    "os",
+    null
+
   "100": [
     "Tyler Boyd",
     "os",
     null
-  ],
+
   "101": [
     "Dorukhan Toköz",
     "os",
@@ -1842,501 +2337,6 @@
   "468": [
     "Mesanovic",
     "f",
-    null
-  ],
-  "001": [
-    "Ricardo Friedrich",
-    "k",
-    null
-  ],
-  "002": [
-    "Korcan Çelikay",
-    "k",
-    null
-  ],
-  "003": [
-    "Furkan Bekleviç",
-    "k",
-    null
-  ],
-  "004": [
-    "Yiğit Kafkasyalı",
-    "k",
-    null
-  ],
-  "005": [
-    "Erdi Dikmen",
-    "d",
-    null
-  ],
-  "006": [
-    "Atila Turan",
-    "d",
-    null
-  ],
-  "007": [
-    "Zvonimir Sarlija",
-    "d",
-    null
-  ],
-  "008": [
-    "Tiago Pinto",
-    "d",
-    null
-  ],
-  "009": [
-    "Stelios Kitsiou",
-    "d",
-    null
-  ],
-  "010": [
-    "Michal Pazdan",
-    "d",
-    null
-  ],
-  "011": [
-    "Ante Klusic",
-    "d",
-    null
-  ],
-  "012": [
-    "Fatih Tultak",
-    "d",
-    null
-  ],
-  "013": [
-    "Cebrail Karayel",
-    "d",
-    null
-  ],
-  "014": [
-    "Orkan Çakır",
-    "os",
-    null
-  ],
-  "015": [
-    "Daniel Lukasic ",
-    "os",
-    null
-  ],
-  "016": [
-    "Saba Lobzhanidze",
-    "os",
-    null
-  ],
-  "017": [
-    "Milos Stojanovic",
-    "os",
-    null
-  ],
-  "018": [
-    "Alper Önal",
-    "os",
-    null
-  ],
-  "019": [
-    "Suat Kaya",
-    "os",
-    null
-  ],
-  "020": [
-    "Hasan Kaya",
-    "os",
-    null
-  ],
-  "021": [
-    "Ender Aygören",
-    "os",
-    null
-  ],
-  "022": [
-    "İlhan Parlak",
-    "f",
-    null
-  ],
-  "023": [
-    "Ahmet Sun",
-    "f",
-    null
-  ],
-  "024": [
-    "Ferhat Kaplan",
-    "k",
-    null
-  ],
-  "025": [
-    "Ruud Boffin",
-    "k",
-    null
-  ],
-  "026": [
-    "Enes Sancar Şahin",
-    "k",
-    null
-  ],
-  "027": [
-    "Yakup Mert Çakır",
-    "k",
-    null
-  ],
-  "028": [
-    "Kudryashov",
-    "d",
-    null
-  ],
-  "029": [
-    "Nazım Sangare",
-    "d",
-    null
-  ],
-  "030": [
-    "Veysel Sarı",
-    "d",
-    null
-  ],
-  "031": [
-    "Ersan Gülüm",
-    "d",
-    null
-  ],
-  "032": [
-    "Eren Albayrak",
-    "d",
-    null
-  ],
-  "033": [
-    "Bahadır Öztürk",
-    "d",
-    null
-  ],
-  "034": [
-    "Nuri Şahin",
-    "os",
-    null
-  ],
-  "035": [
-    "Sedar Gürler",
-    "os",
-    null
-  ],
-  "036": [
-    "Amilton",
-    "os",
-    null
-  ],
-  "037": [
-    "Hakan Özmert",
-    "os",
-    null
-  ],
-  "038": [
-    "Sidney Sam",
-    "os",
-    null
-  ],
-  "039": [
-    "Jean Armel",
-    "os",
-    null
-  ],
-  "040": [
-    "Gökdeniz Bayraktar",
-    "os",
-    null
-  ],
-  "041": [
-    "Fredy",
-    "os",
-    null
-  ],
-  "042": [
-    "Sergen Yatağan",
-    "os",
-    null
-  ],
-  "043": [
-    "Harun Alpsoy",
-    "os",
-    null
-  ],
-  "044": [
-    "Doğukan Sinik",
-    "os",
-    null
-  ],
-  "045": [
-    "Mukairu",
-    "os",
-    null
-  ],
-  "046": [
-    "Ufuk Akyol",
-    "os",
-    null
-  ],
-  "047": [
-    "Cenk Şen",
-    "os",
-    null
-  ],
-  "048": [
-    "Mevlüt Han Ekelik",
-    "os",
-    null
-  ],
-  "049": [
-    "Bünyamin Balcı",
-    "os",
-    null
-  ],
-  "050": [
-    "Harun Kavaklıdere",
-    "os",
-    null
-  ],
-  "051": [
-    "Jahovic",
-    "f",
-    null
-  ],
-  "052": [
-    "Podolski",
-    "f",
-    null
-  ],
-  "053": [
-    "Orgill",
-    "f",
-    null
-  ],
-  "054": [
-    "Blanco Leschuk",
-    "f",
-    null
-  ],
-  "055": [
-    "Ufuk Ceylan",
-    "k",
-    null
-  ],
-  "056": [
-    "Marafona",
-    "k",
-    null
-  ],
-  "057": [
-    "Yusuf Karagöz",
-    "k",
-    null
-  ],
-  "058": [
-    "Steven Caulker",
-    "d",
-    null
-  ],
-  "059": [
-    "Alper Tursun",
-    "d",
-    null
-  ],
-  "060": [
-    "Fatih Aksoy",
-    "d",
-    null
-  ],
-  "061": [
-    "Ahmet Gülay",
-    "d",
-    null
-  ],
-  "062": [
-    "Juanfran",
-    "d",
-    null
-  ],
-  "063": [
-    "Tzavellas",
-    "d",
-    null
-  ],
-  "064": [
-    "Tayfur Bingöl",
-    "d",
-    null
-  ],
-  "065": [
-    "Emre Bekir",
-    "d",
-    null
-  ],
-  "066": [
-    "Reşo Akın",
-    "d",
-    null
-  ],
-  "067": [
-    "Hasan Emiroğlu",
-    "d",
-    null
-  ],
-  "068": [
-    "Bakasetas",
-    "os",
-    null
-  ],
-  "069": [
-    "Hasan Ayaroğlu",
-    "os",
-    null
-  ],
-  "070": [
-    "Efecan Karaca",
-    "os",
-    null
-  ],
-  "071": [
-    "Salih Uçan",
-    "os",
-    null
-  ],
-  "072": [
-    "Ceyhun Gülselam",
-    "os",
-    null
-  ],
-  "073": [
-    "Siopis",
-    "os",
-    null
-  ],
-  "074": [
-    "Davidson Pereira",
-    "os",
-    null
-  ],
-  "075": [
-    "Berkan İsmail Kutlu",
-    "os",
-    null
-  ],
-  "076": [
-    "Emircan Altıntaş",
-    "os",
-    null
-  ],
-  "077": [
-    "Onur Bulut",
-    "os",
-    null
-  ],
-  "078": [
-    "Rauf Öktem",
-    "os",
-    null
-  ],
-  "079": [
-    "Can Yalçıntekin",
-    "os",
-    null
-  ],
-  "080": [
-    "Umut Güneş",
-    "os",
-    null
-  ],
-  "081": [
-    "Babacar",
-    "f",
-    null
-  ],
-  "082": [
-    "Mustafa Pektemek",
-    "f",
-    null
-  ],
-  "083": [
-    "Adam Bareiro",
-    "f",
-    null
-  ],
-  "084": [
-    "Veysel Ünal",
-    "f",
-    null
-  ],
-  "085": [
-    "Gökhan Töre",
-    "os",
-    null
-  ],
-  "086": [
-    "Emre Bilgin",
-    "k",
-    null
-  ],
-  "087": [
-    "Utku Yuvakuran",
-    "k",
-    null
-  ],
-  "088": [
-    "Ersin Destanoğlu",
-    "k",
-    null
-  ],
-  "089": [
-    "Domagoj Vida",
-    "d",
-    null
-  ],
-  "090": [
-    "Welinton Souza",
-    "d",
-    null
-  ],
-  "091": [
-    "N'Skala",
-    "d",
-    null
-  ],
-  "092": [
-    "Montero",
-    "d",
-    null
-  ],
-  "093": [
-    "Douglas",
-    "d",
-    null
-  ],
-  "094": [
-    "Rıdvan Yılmaz",
-    "d",
-    null
-  ],
-  "095": [
-    "N'Koudou",
-    "os",
-    null
-  ],
-  "096": [
-    "Adem Ljajic",
-    "os",
-    null
-  ],
-  "097": [
-    "Atiba Hutchinson",
-    "os",
-    null
-  ],
-  "098": [
-    "Jeremain Lens",
-    "os",
-    null
-  ],
-  "099": [
-    "Oğuzhan Özyakup",
-    "os",
     null
   ]
 }
