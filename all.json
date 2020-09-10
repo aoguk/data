@@ -82,13 +82,13 @@
       "team": "ag",
       "name": "Şahverdi Çetin",
       "pozisyon": "d",
-      "id": "013"
+      "id": "014"
     },
     "015": {
       "team": "ag",
       "name": "Atakan Çankaya",
       "pozisyon": "d",
-      "id": "013"
+      "id": "015"
     },
     "016": {
       "team": "ag",
@@ -100,85 +100,85 @@
       "team": "ag",
       "name": "Luka Adzic",
       "pozisyon": "os",
-      "id": "016"
+      "id": "017"
     },
     "018": {
       "team": "ag",
       "name": "Joseph Paintsil",
       "pozisyon": "os",
-      "id": "016"
+      "id": "018"
     },
     "019": {
       "team": "ag",
       "name": "Orkan Çakır",
       "pozisyon": "os",
-      "id": "014"
+      "id": "019"
     },
     "020": {
       "team": "ag",
       "name": "Daniel Lukasic ",
       "pozisyon": "os",
-      "id": "015"
+      "id": "020"
     },
     "021": {
       "team": "ag",
       "name": "Milos Stojanovic",
       "pozisyon": "os",
-      "id": "017"
+      "id": "021"
     },
     "022": {
       "team": "ag",
       "name": "Alper Önal",
       "pozisyon": "os",
-      "id": "018"
+      "id": "022"
     },
     "023": {
       "team": "ag",
       "name": "Suat Kaya",
       "pozisyon": "os",
-      "id": "019"
+      "id": "023"
     },
     "024": {
       "team": "ag",
       "name": "Ender Aygören",
       "pozisyon": "os",
-      "id": "021"
+      "id": "024"
     },
     "025": {
       "team": "ag",
       "name": "Hasan Kaya",
       "pozisyon": "os",
-      "id": "020"
+      "id": "025"
     },
     "026": {
       "team": "ag",
       "name": "Furkan Pektaş",
       "pozisyon": "os",
-      "id": "020"
+      "id": "026"
     },
     "027": {
       "team": "ag",
       "name": "İlhan Parlak",
       "pozisyon": "f",
-      "id": "022"
+      "id": "027"
     },
     "028": {
       "team": "ag",
       "name": "Jonathan Bolingi",
       "pozisyon": "f",
-      "id": "022"
+      "id": "028"
     },
     "029": {
       "team": "ag",
       "name": "Ahmet Sun",
       "pozisyon": "f",
-      "id": "023"
+      "id": "029"
     },
     "030": {
       "team": "ag",
       "name": "Mücahit Can Akçay",
       "pozisyon": "f",
-      "id": "023"
+      "id": "030"
     }
   },
   "ant": {
