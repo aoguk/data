@@ -2190,59 +2190,65 @@
     },
     "362": {
       "team": "gb",
-      "name": "Stancu",
-      "pozisyon": "f",
-      "id": "262"
+      "name": "Pris Da Motta",
+      "pozisyon": "os",
+      "id": "362"
     },
     "363": {
       "team": "gb",
-      "name": "Giovanni Sio",
+      "name": "Stancu",
       "pozisyon": "f",
-      "id": "363"
+      "id": "263"
     },
     "364": {
       "team": "gb",
-      "name": "Mert Can Güngör",
+      "name": "Giovanni Sio",
       "pozisyon": "f",
       "id": "364"
     },
     "365": {
       "team": "gb",
-      "name": "Gökhan Altıparmak",
+      "name": "Mert Can Güngör",
       "pozisyon": "f",
       "id": "365"
     },
     "366": {
       "team": "gb",
-      "name": "Yağız Suat Bolat",
+      "name": "Gökhan Altıparmak",
       "pozisyon": "f",
       "id": "366"
     },
     "367": {
       "team": "gb",
-      "name": "İlker Karakaş",
+      "name": "Yağız Suat Bolat",
       "pozisyon": "f",
       "id": "367"
+    },
+    "368": {
+      "team": "gb",
+      "name": "İlker Karakaş",
+      "pozisyon": "f",
+      "id": "368"
     }
   },
   "goz": {
-    "368": {
-      "team": "goz",
-      "name": "İrfan Can Eğribayat",
-      "pozisyon": "k",
-      "id": "368"
-    },
     "369": {
       "team": "goz",
-      "name": "Göktuğ Bakırtaş",
+      "name": "İrfan Can Eğribayat",
       "pozisyon": "k",
       "id": "369"
     },
     "370": {
       "team": "goz",
-      "name": "Eren Bilen",
+      "name": "Göktuğ Bakırtaş",
       "pozisyon": "k",
       "id": "370"
+    },
+    "371": {
+      "team": "goz",
+      "name": "Eren Bilen",
+      "pozisyon": "k",
+      "id": "371"
     },
     "287": {
       "team": "goz",
