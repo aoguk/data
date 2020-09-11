@@ -1516,465 +1516,465 @@
       "pozisyon": "os",
       "id": "250"
     },
-    "187": {
+    "251": {
       "team": "fb",
       "name": "Deniz Türüç",
-      "pozisyon": "os",
-      "id": "187"
-    },
-    "188": {
-      "team": "fb",
-      "name": "Luis Gustavo",
-      "pozisyon": "os",
-      "id": "188"
-    },
-    "195": {
-      "team": "fb",
-      "name": "Ferdi Kadıoğlu",
-      "pozisyon": "os",
-      "id": "195"
-    },
-    "190": {
-      "team": "fb",
-      "name": "Jailson",
-      "pozisyon": "os",
-      "id": "190"
-    },
-    "195": {
-      "team": "fb",
-      "name": "Tolga Ciğerci",
-      "pozisyon": "os",
-      "id": "195"
-    },
-    "193": {
-      "team": "fb",
-      "name": "Ömer Faruk Beyaz",
-      "pozisyon": "os",
-      "id": "193"
-    },
-    "194": {
-      "team": "fb",
-      "name": "Oğuz Kağan Güçtekin",
-      "pozisyon": "os",
-      "id": "194"
-    },
-    "197": {
-      "team": "fb",
-      "name": "Muhammed Gümüşkaya",
-      "pozisyon": "os",
-      "id": "197"
-    },
-    "196": {
-      "team": "fb",
-      "name": "İsmail Yüksek",
-      "pozisyon": "os",
-      "id": "196"
-    },
-    "199": {
-      "team": "fb",
-      "name": "Valencia",
-      "pozisyon": "f",
-      "id": "199"
-    },
-    "200": {
-      "team": "fb",
-      "name": "Mame Thiam",
-      "pozisyon": "f",
-      "id": "200"
-    },
-    "199": {
-      "team": "fb",
-      "name": "Frey",
-      "pozisyon": "f",
-      "id": "199"
-    },
-    "199": {
-      "team": "fb",
-      "name": "Sayyadmanesh",
-      "pozisyon": "f",
-      "id": "199"
-    },
-    "199": {
-      "team": "fb",
-      "name": "Barış Sungur",
-      "pozisyon": "f",
-      "id": "199"
-    }
-  },
-  "gs": {
-    "204": {
-      "team": "gs",
-      "name": "Fernando Muslera",
-      "pozisyon": "k",
-      "id": "204"
-    },
-    "205": {
-      "team": "gs",
-      "name": "Fatih Öztürk",
-      "pozisyon": "k",
-      "id": "205"
-    },
-    "205": {
-      "team": "gs",
-      "name": "Okan Kocuk",
-      "pozisyon": "k",
-      "id": "205"
-    },
-    "206": {
-      "team": "gs",
-      "name": "Berk Balaban",
-      "pozisyon": "k",
-      "id": "206"
-    },
-    "211": {
-      "team": "gs",
-      "name": "Christian Luyindama",
-      "pozisyon": "d",
-      "id": "211"
-    },
-    "212": {
-      "team": "gs",
-      "name": "Marcelo Saracchi",
-      "pozisyon": "d",
-      "id": "212"
-    },
-    "214": {
-      "team": "gs",
-      "name": "Marcao",
-      "pozisyon": "d",
-      "id": "214"
-    },
-    "214": {
-      "team": "gs",
-      "name": "Ryan Donk",
-      "pozisyon": "d",
-      "id": "214"
-    },
-    "214": {
-      "team": "gs",
-      "name": "Linnes",
-      "pozisyon": "d",
-      "id": "214"
-    },
-    "214": {
-      "team": "gs",
-      "name": "Ahmet Çalık",
-      "pozisyon": "d",
-      "id": "214"
-    },
-    "214": {
-      "team": "gs",
-      "name": "Omar Elabdellaoui",
-      "pozisyon": "d",
-      "id": "214"
-    },
-    "214": {
-      "team": "gs",
-      "name": "Emre Taşdemir",
-      "pozisyon": "d",
-      "id": "214"
-    },
-    "207": {
-      "team": "gs",
-      "name": "Şener Özbayraklı",
-      "pozisyon": "d",
-      "id": "207"
-    },
-    "208": {
-      "team": "gs",
-      "name": "Ozornwafor",
-      "pozisyon": "d",
-      "id": "208"
-    },
-    "213": {
-      "team": "gs",
-      "name": "Emin Bayram",
-      "pozisyon": "d",
-      "id": "213"
-    },
-    "210": {
-      "team": "gs",
-      "name": "Süleyman Luş",
-      "pozisyon": "d",
-      "id": "210"
-    },
-    "215": {
-      "team": "gs",
-      "name": "Etebo",
-      "pozisyon": "os",
-      "id": "215"
-    },
-    "215": {
-      "team": "gs",
-      "name": "Feghouli",
-      "pozisyon": "os",
-      "id": "215"
-    },
-    "215": {
-      "team": "gs",
-      "name": "Belhanda",
-      "pozisyon": "os",
-      "id": "215"
-    },
-    "215": {
-      "team": "gs",
-      "name": "Emre Kılınç",
-      "pozisyon": "os",
-      "id": "215"
-    },
-    "216": {
-      "team": "gs",
-      "name": "Babel",
-      "pozisyon": "os",
-      "id": "216"
-    },
-    "218": {
-      "team": "gs",
-      "name": "Emre Akbaba",
-      "pozisyon": "os",
-      "id": "218"
-    },
-    "225": {
-      "team": "gs",
-      "name": "Arda Turan",
-      "pozisyon": "os",
-      "id": "225"
-    },
-    "219": {
-      "team": "gs",
-      "name": "Jimmy Durmaz",
-      "pozisyon": "os",
-      "id": "219"
-    },
-    "220": {
-      "team": "gs",
-      "name": "Ömer Bayram",
-      "pozisyon": "os",
-      "id": "220"
-    },
-    "221": {
-      "team": "gs",
-      "name": "Jesse Sekidika",
-      "pozisyon": "os",
-      "id": "221"
-    },
-    "219": {
-      "team": "gs",
-      "name": "Taylan Antalyalı",
-      "pozisyon": "os",
-      "id": "219"
-    },
-    "222": {
-      "team": "gs",
-      "name": "Oğulcan Çağlayan",
-      "pozisyon": "os",
-      "id": "222"
-    },
-    "223": {
-      "team": "gs",
-      "name": "Yunus Akgün",
-      "pozisyon": "os",
-      "id": "223"
-    },
-    "224": {
-      "team": "gs",
-      "name": "Atalay Babacan",
-      "pozisyon": "os",
-      "id": "224"
-    },
-    "226": {
-      "team": "gs",
-      "name": "Kerem Aktürkoğlu",
-      "pozisyon": "os",
-      "id": "226"
-    },
-    "228": {
-      "team": "gs",
-      "name": "Falcao",
-      "pozisyon": "f",
-      "id": "228"
-    },
-    "229": {
-      "team": "gs",
-      "name": "Diagne",
-      "pozisyon": "f",
-      "id": "229"
-    },
-    "231": {
-      "team": "gs",
-      "name": "Ali Yavuz Kol",
-      "pozisyon": "f",
-      "id": "231"
-    }
-  },
-  "gfk": {
-    "232": {
-      "team": "gfk",
-      "name": "Günay",
-      "pozisyon": "k",
-      "id": "232"
-    },
-    "233": {
-      "team": "gfk",
-      "name": "Çağlar Akbaba",
-      "pozisyon": "k",
-      "id": "233"
-    },
-    "234": {
-      "team": "gfk",
-      "name": "Burak Bozan",
-      "pozisyon": "k",
-      "id": "234"
-    },
-    "235": {
-      "team": "gfk",
-      "name": "Djilobodji",
-      "pozisyon": "d",
-      "id": "235"
-    },
-    "236": {
-      "team": "gfk",
-      "name": "Kana Bıyık",
-      "pozisyon": "d",
-      "id": "236"
-    },
-    "237": {
-      "team": "gfk",
-      "name": "Tosca",
-      "pozisyon": "d",
-      "id": "237"
-    },
-    "238": {
-      "team": "gfk",
-      "name": "Junior Morais",
-      "pozisyon": "d",
-      "id": "238"
-    },
-    "239": {
-      "team": "gfk",
-      "name": "Olkowski",
-      "pozisyon": "d",
-      "id": "239"
-    },
-    "240": {
-      "team": "gfk",
-      "name": "Oğuz Ceylan",
-      "pozisyon": "d",
-      "id": "240"
-    },
-    "241": {
-      "team": "gfk",
-      "name": "Ulaş Zengin",
-      "pozisyon": "d",
-      "id": "241"
-    },
-    "242": {
-      "team": "gfk",
-      "name": "Mehmet Erdem",
-      "pozisyon": "d",
-      "id": "242"
-    },
-    "243": {
-      "team": "gfk",
-      "name": "Cenk Şahin",
-      "pozisyon": "os",
-      "id": "243"
-    },
-    "245": {
-      "team": "gfk",
-      "name": "Zvonimir Kozulj",
-      "pozisyon": "os",
-      "id": "245"
-    },
-    "245": {
-      "team": "gfk",
-      "name": "Güray Vural",
-      "pozisyon": "os",
-      "id": "245"
-    },
-    "247": {
-      "team": "gfk",
-      "name": "Souleymanne Diarra",
-      "pozisyon": "os",
-      "id": "247"
-    },
-    "246": {
-      "team": "gfk",
-      "name": "Tetteh",
-      "pozisyon": "os",
-      "id": "246"
-    },
-    "248": {
-      "team": "gfk",
-      "name": "Chibsah",
-      "pozisyon": "os",
-      "id": "248"
-    },
-    "244": {
-      "team": "gfk",
-      "name": "Alexandru Maxim",
-      "pozisyon": "os",
-      "id": "244"
-    },
-    "243": {
-      "team": "gfk",
-      "name": "Andre Sousa",
-      "pozisyon": "os",
-      "id": "243"
-    },
-    "249": {
-      "team": "gfk",
-      "name": "Furkan Soyalp",
-      "pozisyon": "os",
-      "id": "249"
-    },
-    "250": {
-      "team": "gfk",
-      "name": "Pawlowski",
-      "pozisyon": "os",
-      "id": "250"
-    },
-    "244": {
-      "team": "gfk",
-      "name": "Kenan Özer",
-      "pozisyon": "os",
-      "id": "244"
-    },
-    "251": {
-      "team": "gfk",
-      "name": "Hasan Yurtseven",
       "pozisyon": "os",
       "id": "251"
     },
     "252": {
-      "team": "gfk",
-      "name": "Mahmut Bilir",
+      "team": "fb",
+      "name": "Luis Gustavo",
       "pozisyon": "os",
       "id": "252"
     },
     "253": {
-      "team": "gfk",
-      "name": "Kubilay Aktaş",
+      "team": "fb",
+      "name": "Ferdi Kadıoğlu",
       "pozisyon": "os",
       "id": "253"
     },
     "254": {
-      "team": "gfk",
-      "name": "Ali Ateş",
+      "team": "fb",
+      "name": "Jailson",
       "pozisyon": "os",
       "id": "254"
     },
     "255": {
-      "team": "gfk",
-      "name": "Andre Ribeiro",
-      "pozisyon": "f",
+      "team": "fb",
+      "name": "Tolga Ciğerci",
+      "pozisyon": "os",
       "id": "255"
     },
     "256": {
+      "team": "fb",
+      "name": "Ömer Faruk Beyaz",
+      "pozisyon": "os",
+      "id": "256"
+    },
+    "257": {
+      "team": "fb",
+      "name": "Oğuz Kağan Güçtekin",
+      "pozisyon": "os",
+      "id": "257"
+    },
+    "258": {
+      "team": "fb",
+      "name": "Muhammed Gümüşkaya",
+      "pozisyon": "os",
+      "id": "258"
+    },
+    "259": {
+      "team": "fb",
+      "name": "İsmail Yüksek",
+      "pozisyon": "os",
+      "id": "259"
+    },
+    "260": {
+      "team": "fb",
+      "name": "Valencia",
+      "pozisyon": "f",
+      "id": "260"
+    },
+    "261": {
+      "team": "fb",
+      "name": "Mame Thiam",
+      "pozisyon": "f",
+      "id": "261"
+    },
+    "262": {
+      "team": "fb",
+      "name": "Frey",
+      "pozisyon": "f",
+      "id": "262"
+    },
+    "263": {
+      "team": "fb",
+      "name": "Sayyadmanesh",
+      "pozisyon": "f",
+      "id": "263"
+    },
+    "264": {
+      "team": "fb",
+      "name": "Barış Sungur",
+      "pozisyon": "f",
+      "id": "264"
+    }
+  },
+  "gs": {
+    "265": {
+      "team": "gs",
+      "name": "Fernando Muslera",
+      "pozisyon": "k",
+      "id": "265"
+    },
+    "266": {
+      "team": "gs",
+      "name": "Fatih Öztürk",
+      "pozisyon": "k",
+      "id": "266"
+    },
+    "267": {
+      "team": "gs",
+      "name": "Okan Kocuk",
+      "pozisyon": "k",
+      "id": "267"
+    },
+    "268": {
+      "team": "gs",
+      "name": "Berk Balaban",
+      "pozisyon": "k",
+      "id": "268"
+    },
+    "269": {
+      "team": "gs",
+      "name": "Christian Luyindama",
+      "pozisyon": "d",
+      "id": "269"
+    },
+    "270": {
+      "team": "gs",
+      "name": "Marcelo Saracchi",
+      "pozisyon": "d",
+      "id": "270"
+    },
+    "271": {
+      "team": "gs",
+      "name": "Marcao",
+      "pozisyon": "d",
+      "id": "271"
+    },
+    "272": {
+      "team": "gs",
+      "name": "Ryan Donk",
+      "pozisyon": "d",
+      "id": "272"
+    },
+    "273": {
+      "team": "gs",
+      "name": "Linnes",
+      "pozisyon": "d",
+      "id": "273"
+    },
+    "274": {
+      "team": "gs",
+      "name": "Ahmet Çalık",
+      "pozisyon": "d",
+      "id": "274"
+    },
+    "275": {
+      "team": "gs",
+      "name": "Omar Elabdellaoui",
+      "pozisyon": "d",
+      "id": "275"
+    },
+    "276": {
+      "team": "gs",
+      "name": "Emre Taşdemir",
+      "pozisyon": "d",
+      "id": "276"
+    },
+    "277": {
+      "team": "gs",
+      "name": "Şener Özbayraklı",
+      "pozisyon": "d",
+      "id": "277"
+    },
+    "278": {
+      "team": "gs",
+      "name": "Ozornwafor",
+      "pozisyon": "d",
+      "id": "278"
+    },
+    "279": {
+      "team": "gs",
+      "name": "Emin Bayram",
+      "pozisyon": "d",
+      "id": "279"
+    },
+    "280": {
+      "team": "gs",
+      "name": "Süleyman Luş",
+      "pozisyon": "d",
+      "id": "280"
+    },
+    "281": {
+      "team": "gs",
+      "name": "Etebo",
+      "pozisyon": "os",
+      "id": "281"
+    },
+    "282": {
+      "team": "gs",
+      "name": "Feghouli",
+      "pozisyon": "os",
+      "id": "282"
+    },
+    "283": {
+      "team": "gs",
+      "name": "Belhanda",
+      "pozisyon": "os",
+      "id": "283"
+    },
+    "284": {
+      "team": "gs",
+      "name": "Emre Kılınç",
+      "pozisyon": "os",
+      "id": "284"
+    },
+    "285": {
+      "team": "gs",
+      "name": "Babel",
+      "pozisyon": "os",
+      "id": "285"
+    },
+    "286": {
+      "team": "gs",
+      "name": "Emre Akbaba",
+      "pozisyon": "os",
+      "id": "286"
+    },
+    "287": {
+      "team": "gs",
+      "name": "Arda Turan",
+      "pozisyon": "os",
+      "id": "287"
+    },
+    "288": {
+      "team": "gs",
+      "name": "Jimmy Durmaz",
+      "pozisyon": "os",
+      "id": "288"
+    },
+    "289": {
+      "team": "gs",
+      "name": "Ömer Bayram",
+      "pozisyon": "os",
+      "id": "289"
+    },
+    "290": {
+      "team": "gs",
+      "name": "Jesse Sekidika",
+      "pozisyon": "os",
+      "id": "290"
+    },
+    "291": {
+      "team": "gs",
+      "name": "Taylan Antalyalı",
+      "pozisyon": "os",
+      "id": "291"
+    },
+    "292": {
+      "team": "gs",
+      "name": "Oğulcan Çağlayan",
+      "pozisyon": "os",
+      "id": "292"
+    },
+    "293": {
+      "team": "gs",
+      "name": "Yunus Akgün",
+      "pozisyon": "os",
+      "id": "293"
+    },
+    "294": {
+      "team": "gs",
+      "name": "Atalay Babacan",
+      "pozisyon": "os",
+      "id": "294"
+    },
+    "295": {
+      "team": "gs",
+      "name": "Kerem Aktürkoğlu",
+      "pozisyon": "os",
+      "id": "295"
+    },
+    "296": {
+      "team": "gs",
+      "name": "Falcao",
+      "pozisyon": "f",
+      "id": "296"
+    },
+    "297": {
+      "team": "gs",
+      "name": "Diagne",
+      "pozisyon": "f",
+      "id": "297"
+    },
+    "298": {
+      "team": "gs",
+      "name": "Ali Yavuz Kol",
+      "pozisyon": "f",
+      "id": "298"
+    }
+  },
+  "gfk": {
+    "299": {
+      "team": "gfk",
+      "name": "Günay",
+      "pozisyon": "k",
+      "id": "299"
+    },
+    "300": {
+      "team": "gfk",
+      "name": "Çağlar Akbaba",
+      "pozisyon": "k",
+      "id": "300"
+    },
+    "301": {
+      "team": "gfk",
+      "name": "Burak Bozan",
+      "pozisyon": "k",
+      "id": "301"
+    },
+    "302": {
+      "team": "gfk",
+      "name": "Djilobodji",
+      "pozisyon": "d",
+      "id": "302"
+    },
+    "303": {
+      "team": "gfk",
+      "name": "Kana Bıyık",
+      "pozisyon": "d",
+      "id": "303"
+    },
+    "304": {
+      "team": "gfk",
+      "name": "Tosca",
+      "pozisyon": "d",
+      "id": "304"
+    },
+    "305": {
+      "team": "gfk",
+      "name": "Junior Morais",
+      "pozisyon": "d",
+      "id": "305"
+    },
+    "306": {
+      "team": "gfk",
+      "name": "Olkowski",
+      "pozisyon": "d",
+      "id": "306"
+    },
+    "307": {
+      "team": "gfk",
+      "name": "Oğuz Ceylan",
+      "pozisyon": "d",
+      "id": "307"
+    },
+    "308": {
+      "team": "gfk",
+      "name": "Ulaş Zengin",
+      "pozisyon": "d",
+      "id": "308"
+    },
+    "309": {
+      "team": "gfk",
+      "name": "Mehmet Erdem",
+      "pozisyon": "d",
+      "id": "309"
+    },
+    "310": {
+      "team": "gfk",
+      "name": "Cenk Şahin",
+      "pozisyon": "os",
+      "id": "310"
+    },
+    "311": {
+      "team": "gfk",
+      "name": "Zvonimir Kozulj",
+      "pozisyon": "os",
+      "id": "311"
+    },
+    "312": {
+      "team": "gfk",
+      "name": "Güray Vural",
+      "pozisyon": "os",
+      "id": "312"
+    },
+    "313": {
+      "team": "gfk",
+      "name": "Souleymanne Diarra",
+      "pozisyon": "os",
+      "id": "313"
+    },
+    "314": {
+      "team": "gfk",
+      "name": "Tetteh",
+      "pozisyon": "os",
+      "id": "314"
+    },
+    "315": {
+      "team": "gfk",
+      "name": "Chibsah",
+      "pozisyon": "os",
+      "id": "315"
+    },
+    "316": {
+      "team": "gfk",
+      "name": "Alexandru Maxim",
+      "pozisyon": "os",
+      "id": "316"
+    },
+    "317": {
+      "team": "gfk",
+      "name": "Andre Sousa",
+      "pozisyon": "os",
+      "id": "317"
+    },
+    "318": {
+      "team": "gfk",
+      "name": "Furkan Soyalp",
+      "pozisyon": "os",
+      "id": "318"
+    },
+    "319": {
+      "team": "gfk",
+      "name": "Pawlowski",
+      "pozisyon": "os",
+      "id": "319"
+    },
+    "320": {
+      "team": "gfk",
+      "name": "Kenan Özer",
+      "pozisyon": "os",
+      "id": "320"
+    },
+    "321": {
+      "team": "gfk",
+      "name": "Hasan Yurtseven",
+      "pozisyon": "os",
+      "id": "321"
+    },
+    "322": {
+      "team": "gfk",
+      "name": "Mahmut Bilir",
+      "pozisyon": "os",
+      "id": "322"
+    },
+    "323": {
+      "team": "gfk",
+      "name": "Kubilay Aktaş",
+      "pozisyon": "os",
+      "id": "323"
+    },
+    "324": {
+      "team": "gfk",
+      "name": "Ali Ateş",
+      "pozisyon": "os",
+      "id": "324"
+    },
+    "325": {
+      "team": "gfk",
+      "name": "Andre Ribeiro",
+      "pozisyon": "f",
+      "id": "325"
+    },
+    "326": {
       "team": "gfk",
       "name": "Muhammet Demir",
       "pozisyon": "f",
-      "id": "256"
+      "id": "326"
     }
   },
   "gb": {
