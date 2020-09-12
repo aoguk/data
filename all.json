@@ -1310,6 +1310,12 @@
       "pozisyon": "k",
       "id": "216"
     },
+    "629": {
+      "team": "fkg",
+      "name": "Eric Lichaj",
+      "pozisyon": "d",
+      "id": "629"
+    },
     "217": {
       "team": "fkg",
       "name": "Ervin Zukanovic",
@@ -3511,6 +3517,12 @@
       "name": "Emre Selen",
       "pozisyon": "k",
       "id": "574"
+    },
+    "630": {
+      "team": "mlt",
+      "name": "Erkan Kaş",
+      "pozisyon": "d",
+      "id": "630"
     },
     "575": {
       "team": "mlt",
