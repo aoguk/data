@@ -2,8 +2,8 @@
      "1": {
           "fikstur":[
         {"takim1":"Rizespor", "skor1":1, "takim2":"Fenerbahçe", "skor2":2, "finished":0},
-        {"takim1":"Sivasspor", "skor1":null, "takim2":"Alanyaspor", "skor2":null, "finished":0},
-        {"takim1":"Fatih Karagümrük", "skor1":null, "takim2":"Malatyaspor", "skor2":null, "finished":0},
+        {"takim1":"Sivasspor", "skor1":0, "takim2":"Alanyaspor", "skor2":2, "finished":0},
+        {"takim1":"Fatih Karagümrük", "skor1":3, "takim2":"Malatyaspor", "skor2":0, "finished":0},
         {"takim1":"Göztepe", "skor1":null, "takim2":"Denizlispor", "skor2":null, "finished":0},
         {"takim1":"Galatasaray", "skor1":null, "takim2":"Gaziantep FK", "skor2":null, "finished":0},
         {"takim1":"Ankaragücü", "skor1":null, "takim2":"Erzurumspor", "skor2":null, "finished":0},
