@@ -1328,6 +1328,18 @@
       "pozisyon": "d",
       "id": "219"
     },
+    "626": {
+      "team": "fkg",
+      "name": "Enzo Roco",
+      "pozisyon": "d",
+      "id": "626"
+    },
+    "627": {
+      "team": "fkg",
+      "name": "Alparslan Erdem",
+      "pozisyon": "d",
+      "id": "627"
+    },
     "220": {
       "team": "fkg",
       "name": "Recep Kutun",
@@ -1351,6 +1363,12 @@
       "name": "Brahim Darri",
       "pozisyon": "os",
       "id": "224"
+    },
+    "628": {
+      "team": "fkg",
+      "name": "Erik Sabo",
+      "pozisyon": "os",
+      "id": "628"
     },
     "225": {
       "team": "fkg",
