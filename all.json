@@ -2456,6 +2456,12 @@
     }
   },
   "hty": {
+    "640": {
+      "team": "hty",
+      "name": "Munir",
+      "pozisyon": "k",
+      "id": "395"
+    },
     "395": {
       "team": "hty",
       "name": "Akın Alkan",
