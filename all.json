@@ -2460,7 +2460,7 @@
       "team": "hty",
       "name": "Munir",
       "pozisyon": "k",
-      "id": "395"
+      "id": "640"
     },
     "395": {
       "team": "hty",
@@ -2515,6 +2515,12 @@
       "name": "Mahmut Emir",
       "pozisyon": "d",
       "id": "403"
+    },
+    "641": {
+      "team": "hty",
+      "name": "Helder Barbosa",
+      "pozisyon": "os",
+      "id": "641"
     },
     "404": {
       "team": "hty",
