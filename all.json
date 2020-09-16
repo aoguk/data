@@ -253,6 +253,12 @@
       "name": "Bahadır Öztürk",
       "pozisyon": "d",
       "id": "040"
+   },
+    "058": {
+      "team": "ant",
+      "name": "Bünyamin Balcı",
+      "pozisyon": "d",
+      "id": "058"
     },
     "041": {
       "team": "ant",
@@ -355,12 +361,6 @@
       "name": "Harun Kavaklıdere",
       "pozisyon": "os",
       "id": "057"
-    },
-    "058": {
-      "team": "ant",
-      "name": "Bünyamin Balcı",
-      "pozisyon": "os",
-      "id": "058"
     },
     "059": {
       "team": "ant",
