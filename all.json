@@ -2092,12 +2092,6 @@
       "pozisyon": "k",
       "id": "331"
     },
-    "653": {
-      "team": "gb",
-      "name": "Adil Demirbağ",
-      "pozisyon": "d",
-      "id": "653"
-    },
     "332": {
       "team": "gb",
       "name": "Toure",
@@ -2879,6 +2873,12 @@
       "name": "Ahmet Çolak",
       "pozisyon": "k",
       "id": "454"
+    },
+    "653": {
+      "team": "kon",
+      "name": "Adil Demirbağ",
+      "pozisyon": "d",
+      "id": "653"
     },
     "455": {
       "team": "kon",
