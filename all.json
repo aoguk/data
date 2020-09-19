@@ -230,12 +230,6 @@
       "pozisyon": "d",
       "id": "035"
     },
-    "036": {
-      "team": "ant",
-      "name": "Nazım Sangare",
-      "pozisyon": "d",
-      "id": "036"
-    },
     "037": {
       "team": "ant",
       "name": "Veysel Sarı",
@@ -1509,6 +1503,12 @@
       "name": "Ahmet Oytun Özdoğan",
       "pozisyon": "k",
       "id": "235"
+    },
+    "036": {
+      "team": "fb",
+      "name": "Nazım Sangare",
+      "pozisyon": "d",
+      "id": "036"
     },
     "236": {
       "team": "fb",
