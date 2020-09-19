@@ -168,12 +168,6 @@
       "pozisyon": "os",
       "id": "026"
     },
-    "027": {
-      "team": "ag",
-      "name": "İlhan Parlak",
-      "pozisyon": "f",
-      "id": "027"
-    },
     "028": {
       "team": "ag",
       "name": "Jonathan Bolingi",
@@ -2841,6 +2835,12 @@
       "name": "Furkan Polat",
       "pozisyon": "os",
       "id": "448"
+    },
+    "027": {
+      "team": "kay",
+      "name": "İlhan Parlak",
+      "pozisyon": "f",
+      "id": "027"
     },
     "654": {
       "team": "kay",
