@@ -2188,6 +2188,12 @@
       "pozisyon": "d",
       "id": "347"
     },
+    "652": {
+      "team": "gb",
+      "name": "Pris Da Motta",
+      "pozisyon": "os",
+      "id": "652"
+    },
     "348": {
       "team": "gb",
       "name": "Floyd Ayit",
@@ -2196,7 +2202,7 @@
     },
     "349": {
       "team": "gb",
-      "name": "Domini Furham",
+      "name": "Dominik Furham",
       "pozisyon": "os",
       "id": "349"
     },
@@ -3867,12 +3873,6 @@
       "name": "Murathan Sütcü",
       "pozisyon": "d",
       "id": "611"
-    },
-    "652": {
-      "team": "dnz",
-      "name": "Fede Varela",
-      "pozisyon": "os",
-      "id": "652"
     },
     "612": {
       "team": "dnz",
