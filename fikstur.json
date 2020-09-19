@@ -1,7 +1,7 @@
 {
      "2": {
           "fikstur":[
-        {"takim1":"Malatyaspor", "skor1":null, "takim2":"Göztepe", "skor2":null, "finished":0},
+        {"takim1":"Malatyaspor", "skor1":1, "takim2":"Göztepe", "skor2":1, "finished":0},
         {"takim1":"Gençlerbirliği", "skor1":null, "takim2":"Konyaspor", "skor2":null, "finished":0},
         {"takim1":"Denizlispor", "skor1":null, "takim2":"Trabzonspor", "skor2":null, "finished":0},
         {"takim1":"Beşiktaş", "skor1":null, "takim2":"Antalyaspor", "skor2":null, "finished":0},
