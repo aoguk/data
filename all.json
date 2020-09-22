@@ -1636,12 +1636,6 @@
       "pozisyon": "os",
       "id": "256"
     },
-    "257": {
-      "team": "fb",
-      "name": "Oğuz Kağan Güçtekin",
-      "pozisyon": "os",
-      "id": "257"
-    },
     "258": {
       "team": "fb",
       "name": "Muhammed Gümüşkaya",
@@ -2874,6 +2868,12 @@
       "pozisyon": "k",
       "id": "451"
     },
+    "657": {
+      "team": "kon",
+      "name": "Erten Ersu",
+      "pozisyon": "k",
+      "id": "657"
+    },
     "452": {
       "team": "kon",
       "name": "Serkan Kırıntılı",
@@ -2951,6 +2951,12 @@
       "name": "Savaş Polat",
       "pozisyon": "d",
       "id": "463"
+    },
+    "257": {
+      "team": "kon",
+      "name": "Oğuz Kağan Güçtekin",
+      "pozisyon": "os",
+      "id": "257"
     },
     "623": {
       "team": "kon",
