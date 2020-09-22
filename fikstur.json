@@ -1,4 +1,19 @@
 {
+     "3": {
+          "fikstur":[
+        {"takim1":"Fatih Karagümrük", "skor1":null, "takim2":"Başakşehir", "skor2":null, "finished":0},
+        {"takim1":"Kayserispor", "skor1":null, "takim2":"Erzurumspor", "skor2":null, "finished":0},
+        {"takim1":"Hatayspor", "skor1":null, "takim2":"Kazımpaşa", "skor2":null, "finished":0},
+        {"takim1":"Göztepe", "skor1":null, "takim2":"Gaziantep FK", "skor2":null, "finished":0},
+        {"takim1":"Trabzonspor", "skor1":null, "takim2":"Malatyaspor", "skor2":null, "finished":0},
+        {"takim1":"Rizespor", "skor1":null, "takim2":"Alanyaspor", "skor2":null, "finished":0},
+        {"takim1":"Sivasspor", "skor1":null, "takim2":"Ankaragücü", "skor2":null, "finished":0},
+        {"takim1":"Konyaspor", "skor1":null, "takim2":"Beşiktaş", "skor2":null, "finished":0}, 
+        {"takim1":"Galatasaray", "skor1":null, "takim2":"Fenerbahçe", "skor2":null, "finished":0},
+        {"takim1":"Antalyaspor", "skor1":null, "takim2":"Denizlispor", "skor2":null, "finished":0}
+    ],
+          "bay":"Gençlerbirliği"
+     },
      "2": {
           "fikstur":[
         {"takim1":"Malatyaspor", "skor1":1, "takim2":"Göztepe", "skor2":1, "finished":0},
@@ -7,8 +22,8 @@
         {"takim1":"Beşiktaş", "skor1":1, "takim2":"Antalyaspor", "skor2":1, "finished":0},
         {"takim1":"Alanyaspor", "skor1":2, "takim2":"Kayserispor", "skor2":0, "finished":0},
         {"takim1":"Erzurumspor", "skor1":1, "takim2":"Sivasspor", "skor2":2, "finished":0},
-        {"takim1":"Kazımpaşa", "skor1":2, "takim2":"Rizespor", "skor2":0, "finished":0},
-        {"takim1":"Gaziantep FK", "skor1":2, "takim2":" Fatih Karagümrük", "skor2":2, "finished":0}, 
+        {"takim1":"Kasımpaşa", "skor1":2, "takim2":"Rizespor", "skor2":0, "finished":0},
+        {"takim1":"Gaziantep FK", "skor1":2, "takim2":"Fatih Karagümrük", "skor2":2, "finished":0}, 
         {"takim1":"Başakşehir", "skor1":0, "takim2":"Galatasaray", "skor2":2, "finished":0},
         {"takim1":"Fenerbahçe", "skor1":0, "takim2":"Hatayspor", "skor2":0, "finished":0}
     ],
