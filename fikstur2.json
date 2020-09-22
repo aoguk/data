@@ -32,174 +32,112 @@
      }
     ],
   
-  "takimlar":{
-  "gs": {
-    "id": "gs",
+  "takimlar":[
+   {
+    "teamID": "gs",
     "name": "Galatasaray",
-    "renk": [
-      "yellow",
-      "red"
-    ]
+    "renk": ["yellow","red"]
   },
-  "fb": {
-    "id": "fb",
+  {
+    "teamID": "fb",
     "name": "Fenerbahçe",
-    "renk": [
-      "yellow",
-      "darkblue"
-    ]
+    "renk": ["yellow","darkblue"]
   },
-  "bjk": {
-    "id": "bjk",
+  {
+    "teamID": "bjk",
     "name": "Beşiktaş",
-    "renk": [
-      "black",
-      "white"
-    ]
+    "renk": ["black","white"]
   },
-  "ts": {
-    "id": "ts",
+  {
+    "teamID": "ts",
     "name": "Trabzonspor",
-    "renk": [
-      "#760d02",
-      "#699ec4"
-    ]
+    "renk": ["#760d02","#699ec4"]
   },
-  "ant": {
-    "id": "ant",
+  {
+    "teamID": "ant",
     "name": "Antalyaspor",
-    "renk": [
-      "white",
-      "red"
-    ]
+    "renk": ["white","red"]
   },
-  "als": {
-    "id": "als",
+  {
+    "teamID": "als",
     "name": "Alanyaspor",
-    "renk": [
-      "#ff6600",
-      "#029835"
-    ]
+    "renk": ["#ff6600","#029835"]
   },
-  "ag": {
-    "id": "ag",
+  {
+    "teamID": "ag",
     "name": "Ankaragücü",
-    "renk": [
-      "yellow",
-      "darkblue"
-    ]
+    "renk": ["yellow","darkblue"]
   },
-  "mlt": {
-    "id": "mlt",
+  {
+    "teamID": "mlt",
     "name": "Malatyaspor",
-    "renk": [
-      "yellow",
-      "black"
-    ]
+    "renk": ["yellow","black"]
   },
-  "crz": {
-    "id": "crz",
+  {
+    "teamID": "crz",
     "name": "Rizespor",
-    "renk": [
-      "blue",
-      "green"
-    ]
+    "renk": ["blue","green"]
   },
-  "svs": {
-    "id": "svs",
+  {
+    "teamID": "svs",
     "name": "Sivasspor",
-    "renk": [
-      "white",
-      "red"
-    ]
+    "renk": ["white","red"]
   },
-  "gfk": {
-    "id": "gfk",
+  {
+    "teamID": "gfk",
     "name": "Gaziantep FK",
-    "renk": [
-      "red",
-      "black"
-    ]
+    "renk": ["red","black"]
   },
-  "gb": {
-    "id": "gb",
+  {
+    "teamID": "gb",
     "name": "Gençlerbirliği",
-    "renk": [
-      "black",
-      "red"
-    ]
+    "renk": ["black","red"]
   },
-  "goz": {
-    "id": "goz",
+  {
+    "teamID": "goz",
     "name": "Göztepe",
-    "renk": [
-      "yellow",
-      "red"
-    ]
+    "renk": ["yellow","red"]
   },
-  "kay": {
-    "id": "kay",
+  {
+    "teamID": "kay",
     "name": "Kayserispor",
-    "renk": [
-      "red",
-      "yellow"
-    ]
+    "renk": ["red","yellow"]
   },
-  "kon": {
-    "id": "kon",
+  {
+    "teamID": "kon",
     "name": "Konyaspor",
-    "renk": [
-      "green",
-      "white"
+    "renk": ["green","white"
     ]
   },
-  "ksp": {
-    "id": "ksp",
+  {
+    "teamID": "ksp",
     "name": "Kasımpaşa",
-    "renk": [
-      "white",
-      "darkblue"
-    ]
+    "renk": ["white","darkblue"]
   },
-  "med": {
-    "id": "med",
+  {
+    "teamID": "med",
     "name": "M.Başakşehir",
-    "renk": [
-      "darkblue",
-      "orange"
-    ]
+    "renk": ["darkblue","orange"]
   },
-  "dnz": {
-    "id": "dnz",
+  {
+    "teamID": "dnz",
     "name": "Denizlispor",
-    "renk": [
-      "green",
-      "black"
-    ]
+    "renk": ["green","black"]
   },
-  "erz": {
-    "id": "erz",
+  {
+    "teamID": "erz",
     "name": "Erzurumspor",
-    "renk": [
-      "blue",
-      "white"
-    ]
+    "renk": ["blue","white"]
   },
-  "fkg": {
-    "id": "fkg",
+  {
+    "teamID": "fkg",
     "name": "Fatih Karagümrük",
-    "renk": [
-      "red",
-      "black"
-    ]
+    "renk": ["red","black"]
   },
-  "hty": {
-    "id": "hty",
+  {
+    "teamID": "hty",
     "name": "Hatayspor",
-    "renk": [
-      "#800000",
-      "white"
-    ]
+    "renk": ["#800000","white"]
   }
-}
+  ]
 }
