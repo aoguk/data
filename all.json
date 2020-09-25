@@ -224,6 +224,12 @@
       "pozisyon": "k",
       "id": "034"
     },
+    "663": {
+      "team": "ant",
+      "name": "Edinaldo Gomes",
+      "pozisyon": "d",
+      "id": "663"
+    },
     "645": {
       "team": "ant",
       "name": "Ali Eren İyican",
@@ -3605,6 +3611,12 @@
       "name": "Fıratcan Üzüm",
       "pozisyon": "os",
       "id": "564"
+    },
+    "662": {
+      "team": "ts",
+      "name": "Fousseni Diabate",
+      "pozisyon": "f",
+      "id": "662"
     },
     "565": {
       "team": "ts",
