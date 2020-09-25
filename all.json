@@ -1,6 +1,5 @@
 {
   "ag": {
-    "001": {
       "team": "ag",
       "name": "Ricardo Friedrich",
       "pozisyon": "k",
@@ -3823,6 +3822,12 @@
       "name": "Jetmir Topalli",
       "pozisyon": "f",
       "id": "596"
+    },
+    "665": {
+      "team": "mlt",
+      "name": "Kubilay Kanatsızkuş",
+      "pozisyon": "f",
+      "id": "665"
     },
     "597": {
       "team": "mlt",
