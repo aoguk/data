@@ -600,6 +600,36 @@
     }
   },
   "bjk": {
+    "095": {
+      "team": "bjk",
+      "name": "Ersin Destanoğlu",
+      "pozisyon": "k",
+      "id": "095"
+    },
+    "096": {
+      "team": "bjk",
+      "name": "Emre Bilgin",
+      "pozisyon": "k",
+      "id": "096"
+    },
+    "097": {
+      "team": "bjk",
+      "name": "Utku Yuvakuran",
+      "pozisyon": "k",
+      "id": "097"
+    },
+    "098": {
+      "team": "bjk",
+      "name": "Domagoj Vida",
+      "pozisyon": "d",
+      "id": "098"
+    },
+    "099": {
+      "team": "bjk",
+      "name": "Welinton Souza",
+      "pozisyon": "d",
+      "id": "099"
+    },
     "100": {
       "team": "bjk",
       "name": "N Skala",
@@ -732,6 +762,12 @@
       "pozisyon": "os",
       "id": "120"
     },
+    "669": {
+      "team": "bjk",
+      "name": "Vincent Aboubakar",
+      "pozisyon": "f",
+      "id": "669"
+    },
     "121": {
       "team": "bjk",
       "name": "Cyle Larin",
@@ -749,36 +785,6 @@
       "name": "Güven Yalçın",
       "pozisyon": "f",
       "id": "123"
-    },
-    "095": {
-      "team": "bjk",
-      "name": "Ersin Destanoğlu",
-      "pozisyon": "k",
-      "id": "095"
-    },
-    "096": {
-      "team": "bjk",
-      "name": "Emre Bilgin",
-      "pozisyon": "k",
-      "id": "096"
-    },
-    "097": {
-      "team": "bjk",
-      "name": "Utku Yuvakuran",
-      "pozisyon": "k",
-      "id": "097"
-    },
-    "098": {
-      "team": "bjk",
-      "name": "Domagoj Vida",
-      "pozisyon": "d",
-      "id": "098"
-    },
-    "099": {
-      "team": "bjk",
-      "name": "Welinton Souza",
-      "pozisyon": "d",
-      "id": "099"
     }
   },
   "crz": {
