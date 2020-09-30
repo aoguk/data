@@ -1720,12 +1720,6 @@
       "pozisyon": "f",
       "id": "261"
     },
-    "262": {
-      "team": "fb",
-      "name": "Frey",
-      "pozisyon": "f",
-      "id": "262"
-    },
     "263": {
       "team": "fb",
       "name": "Sayyadmanesh",
@@ -2811,6 +2805,12 @@
       "name": "Adem Doğan",
       "pozisyon": "d",
       "id": "433"
+    },
+    "677": {
+      "team": "kay",
+      "name": "Manuel Fernandes",
+      "pozisyon": "os",
+      "id": "677"
     },
     "434": {
       "team": "kay",
