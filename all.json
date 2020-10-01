@@ -2464,7 +2464,12 @@
       "team": "goz",
       "name": "Murat Paluli",
       "pozisyon": "d",
-      "id": "379"
+    },
+    "553": {
+      "team": "goz",
+      "name": "Guilherme",
+      "pozisyon": "os",
+      "id": "553"
     },
     "648": {
       "team": "goz",
@@ -3635,12 +3640,6 @@
       "name": "Lewis Baker",
       "pozisyon": "os",
       "id": "649"
-    },
-    "553": {
-      "team": "ts",
-      "name": "Guilherme",
-      "pozisyon": "os",
-      "id": "553"
     },
     "554": {
       "team": "ts",
