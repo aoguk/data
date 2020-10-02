@@ -2,8 +2,8 @@
   "weeks":[
       { "hafta":4,
         "fikstur":[
-        {"takim1":"ag", "skor1":0, "takim2":"kay", "skor2":0, "finished":0},
-        {"takim1":"gfk", "skor1":0, "takim2":"ts", "skor2":0, "finished":0},
+        {"takim1":"ag", "skor1":0, "takim2":"kay", "skor2":1, "finished":0},
+        {"takim1":"gfk", "skor1":1, "takim2":"ts", "skor2":1, "finished":0},
         {"takim1":"mlt", "skor1":0, "takim2":"ant", "skor2":0, "finished":0},
         {"takim1":"erz", "skor1":0, "takim2":"crz", "skor2":0, "finished":0},
         {"takim1":"med", "skor1":0, "takim2":"goz", "skor2":0, "finished":0},
