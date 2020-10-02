@@ -950,12 +950,6 @@
       "pozisyon": "os",
       "id": "146"
     },
-    "147": {
-      "team": "crz",
-      "name": "Vetrih",
-      "pozisyon": "os",
-      "id": "147"
-    },
     "148": {
       "team": "crz",
       "name": "Engin Bekdemir",
@@ -2018,6 +2012,12 @@
       "pozisyon": "d",
       "id": "309"
     },
+    "147": {
+      "team": "gfk",
+      "name": "Vetrih",
+      "pozisyon": "os",
+      "id": "147"
+    },
     "632": {
       "team": "gfk",
       "name": "Jefferson",
@@ -2113,6 +2113,12 @@
       "name": "Ali Ateş",
       "pozisyon": "os",
       "id": "324"
+    },
+    "685": {
+      "team": "gfk",
+      "name": "Nouha Dicko",
+      "pozisyon": "f",
+      "id": "685"
     },
     "325": {
       "team": "gfk",
