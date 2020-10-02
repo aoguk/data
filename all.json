@@ -1454,6 +1454,12 @@
       "pozisyon": "d",
       "id": "221"
     },
+    "288": {
+      "team": "fkg",
+      "name": "Jimmy Durmaz",
+      "pozisyon": "os",
+      "id": "288"
+    },
     "672": {
       "team": "fkg",
       "name": "Badou Ndiaye",
@@ -1883,12 +1889,6 @@
       "name": "Arda Turan",
       "pozisyon": "os",
       "id": "287"
-    },
-    "288": {
-      "team": "gs",
-      "name": "Jimmy Durmaz",
-      "pozisyon": "os",
-      "id": "288"
     },
     "289": {
       "team": "gs",
