@@ -2460,6 +2460,12 @@
       "pozisyon": "d",
       "id": "379"
     },
+    "394": {
+      "team": "goz",
+      "name": "Kerim Alıcı",
+      "pozisyon": "d",
+      "id": "394"
+    },
     "553": {
       "team": "goz",
       "name": "Guilherme",
@@ -2555,12 +2561,6 @@
       "name": "Cherif Ndiaye",
       "pozisyon": "f",
       "id": "393"
-    },
-    "394": {
-      "team": "goz",
-      "name": "Ege Özkayımoğlu",
-      "pozisyon": "f",
-      "id": "394"
     }
   },
   "hty": {
