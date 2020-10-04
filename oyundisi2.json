@@ -1,27 +1,27 @@
 [
 	{
-		"mevkii": "DNZ",
-		"adi": "Sacko",
+		"mevkii": "TS",
+		"adi": "Flavio",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "HTY",
-		"adi": "Ruben Ribeiro",
+		"mevkii": "FB",
+		"adi": "Lemos",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "HTY",
-		"adi": "Sackey",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
+		"mevkii": "AG",
+		"adi": "Jonathan Bolingi",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "KSP",
-		"adi": "Anıl Koç",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
+		"mevkii": "AG",
+		"adi": "Sarlija",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ANT",
@@ -43,6 +43,12 @@
 	},
 	{
 		"mevkii": "BJK",
+		"adi": "Atiba Hutchinson",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
 		"adi": "N'Koudou",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -50,6 +56,12 @@
 	{
 		"mevkii": "CRZ",
 		"adi": "Aminu Umar",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "CRZ",
+		"adi": "Diomende",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -67,13 +79,7 @@
 	},
 	{
 		"mevkii": "ERZ",
-		"adi": "Mina",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ERZ",
-		"adi": "Donald",
+		"adi": "Hamroun",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -84,26 +90,32 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "FB",
-		"adi": "Mert Hakan Yandaş",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Novak",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
 		"mevkii": "GB",
 		"adi": "Rahmetullah Berişbek",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "GB",
+		"adi": "Salih Dursun",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Mehmet Erdem Uğurlu",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "GOZ",
 		"adi": "Napoleoni",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GOZ",
+		"adi": "Nwobodo",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -126,26 +138,38 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "HTY",
-		"adi": "Pablos Santos",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "HTY",
-		"adi": "Aaron Boupendza",
+		"mevkii": "GS",
+		"adi": "Arda Turan",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KAY",
-		"adi": "Pedro Henrique",
+		"adi": "Harrison Manzala",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KAY",
 		"adi": "Daniel Avramovski",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Alper Uludağ",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Marin Anicic",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Jeanvier",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -157,13 +181,13 @@
 	},
 	{
 		"mevkii": "SVS",
-		"adi": "Serhiy Rybalka",
+		"adi": "Goiano",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "TS",
-		"adi": "Ekuban",
+		"mevkii": "SVS",
+		"adi": "Serhiy Rybalka",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -181,21 +205,21 @@
 	},
 	{
 		"mevkii": "TS",
-		"adi": "Yusuf Sarı",
+		"adi": "Abdülkadir Parmak",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "TS",
-		"adi": "Marlon",
+		"adi": "Uğrucan Çakır",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "TS",
-		"adi": "Joao Pereira",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
+		"mevkii": "BJK",
+		"adi": "Lens",
+		"aciklama": "Kadro Dışı",
+		"durum": "kadro dışı"
 	},
 	{
 		"mevkii": "BJK",
@@ -206,6 +230,11 @@
 	{
 		"mevkii": "BJK",
 		"adi": "Douglas",
+		"aciklama": "Kadro Dışı",
+		"durum": "kadro dışı"
+	{
+		"mevkii": "KSP",
+		"adi": "Gerard Gohou",
 		"aciklama": "Kadro Dışı",
 		"durum": "kadro dışı"
 	}
