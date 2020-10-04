@@ -2152,12 +2152,6 @@
       "pozisyon": "k",
       "id": "327"
     },
-    "328": {
-      "team": "gb",
-      "name": "Ertaç Özbir",
-      "pozisyon": "k",
-      "id": "328"
-    },
     "329": {
       "team": "gb",
       "name": "Burak Çapkınoğlu",
@@ -3793,6 +3787,12 @@
       "name": "Emre Selen",
       "pozisyon": "k",
       "id": "574"
+    },
+    "328": {
+      "team": "mlt",
+      "name": "Ertaç Özbir",
+      "pozisyon": "k",
+      "id": "328"
     },
     "680": {
       "team": "mlt",
