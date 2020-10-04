@@ -10,7 +10,7 @@
         {"takim1":"Denizlispor", "skor1":0, "takim2":"Konyaspor", "skor2":0, "finished":0},
         {"takim1":"Beşiktaş", "skor1":0, "takim2":"Gençlerbirliği", "skor2":1, "finished":0}, 
         {"takim1":"Alanyaspor", "skor1":6, "takim2":"Hatayspor", "skor2":0, "finished":0},
-        {"takim1":"Kasımpaşa", "skor1":null, "takim2":"Galatasaray", "skor2":null, "finished":0}
+        {"takim1":"Kasımpaşa", "skor1":1, "takim2":"Galatasaray", "skor2":0, "finished":0}
     ],
           "bay":"Sivasspor"
      },
