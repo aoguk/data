@@ -1690,12 +1690,6 @@
       "pozisyon": "os",
       "id": "250"
     },
-    "251": {
-      "team": "fb",
-      "name": "Deniz Türüç",
-      "pozisyon": "os",
-      "id": "251"
-    },
     "252": {
       "team": "fb",
       "name": "Luis Gustavo",
@@ -3465,6 +3459,12 @@
       "name": "Uğur Uçar",
       "pozisyon": "d",
       "id": "520"
+    },
+    "251": {
+      "team": "med",
+      "name": "Deniz Türüç",
+      "pozisyon": "os",
+      "id": "251"
     },
     "674": {
       "team": "med",
