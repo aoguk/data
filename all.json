@@ -1824,12 +1824,6 @@
       "pozisyon": "d",
       "id": "273"
     },
-    "274": {
-      "team": "gs",
-      "name": "Ahmet Çalık",
-      "pozisyon": "d",
-      "id": "274"
-    },
     "275": {
       "team": "gs",
       "name": "Omar Elabdellaoui",
@@ -3005,6 +2999,12 @@
       "name": "Ahmet Çolak",
       "pozisyon": "k",
       "id": "454"
+    },
+    "274": {
+      "team": "kon",
+      "name": "Ahmet Çalık",
+      "pozisyon": "d",
+      "id": "274"
     },
     "653": {
       "team": "kon",
