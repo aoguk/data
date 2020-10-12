@@ -114,6 +114,30 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "FB",
+		"adi": "Nabil Dirar",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Diego Perotti",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Garry Rodrigues",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FKG",
+		"adi": "Ervin Zukanovic",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "GB",
 		"adi": "Rahmetullah Berişbek",
 		"aciklama": "SAKAT",
@@ -132,14 +156,14 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "GOZ",
-		"adi": "Napoleoni",
+		"mevkii": "GFK",
+		"adi": "Nouha Dicko",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GOZ",
-		"adi": "Nwobodo",
+		"adi": "Napoleoni",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -150,20 +174,26 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "FB",
-		"adi": "Emre Akbaba",
+		"mevkii": "GS",
+		"adi": "Oghenekaro Etobo",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Saracchi",
+		"adi": "Taylan Antalyalı",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "GS",
-		"adi": "Arda Turan",
+		"mevkii": "KAY",
+		"adi": "Pedro Henrique",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Daniel Avramovski",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -175,7 +205,7 @@
 	},
 	{
 		"mevkii": "KAY",
-		"adi": "Daniel Avramovski",
+		"adi": "İlhan Depe",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -188,12 +218,6 @@
 	{
 		"mevkii": "KON",
 		"adi": "Marin Anicic",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KSP",
-		"adi": "Jeanvier",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -217,7 +241,7 @@
 	},
 	{
 		"mevkii": "TS",
-		"adi": "Kamil Ahmet",
+		"adi": "Stiven Plaza",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -229,7 +253,7 @@
 	},
 	{
 		"mevkii": "TS",
-		"adi": "Abdülkadir Parmak",
+		"adi": "Muhammet Taha Tepe",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -238,6 +262,12 @@
 		"adi": "Uğrucan Çakır",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Tyler Boyd",
+		"aciklama": "Kadro Dışı",
+		"durum": "kadro dışı"
 	},
 	{
 		"mevkii": "BJK",
