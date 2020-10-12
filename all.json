@@ -20,15 +20,9 @@
     },
     "004": {
       "team": "ag",
-      "name": "Yiğit Kafkasyalı",
+      "name": "Mert Topuz",
       "pozisyon": "k",
       "id": "004"
-    },
-    "651": {
-      "team": "ag",
-      "name": "Assane Diousse",
-      "pozisyon": "d",
-      "id": "651"
     },
     "005": {
       "team": "ag",
@@ -68,27 +62,9 @@
     },
     "011": {
       "team": "ag",
-      "name": "Ante Klusic",
+      "name": "Ante Kulusic",
       "pozisyon": "d",
       "id": "011"
-    },
-    "012": {
-      "team": "ag",
-      "name": "Fatih Tultak",
-      "pozisyon": "d",
-      "id": "012"
-    },
-    "013": {
-      "team": "ag",
-      "name": "Cebrail Karayel",
-      "pozisyon": "d",
-      "id": "013"
-    },
-    "014": {
-      "team": "ag",
-      "name": "Şahverdi Çetin",
-      "pozisyon": "d",
-      "id": "014"
     },
     "015": {
       "team": "ag",
@@ -96,11 +72,11 @@
       "pozisyon": "d",
       "id": "015"
     },
-    "659": {
+    "013": {
       "team": "ag",
-      "name": "Idriz Voca",
-      "pozisyon": "os",
-      "id": "659"
+      "name": "Cebrail Karayel",
+      "pozisyon": "d",
+      "id": "013"
     },
     "655": {
       "team": "ag",
@@ -108,11 +84,11 @@
       "pozisyon": "os",
       "id": "655"
     },
-    "016": {
+    "018": {
       "team": "ag",
-      "name": "Saba Lobzhanidze",
+      "name": "Joseph Paintsil",
       "pozisyon": "os",
-      "id": "016"
+      "id": "018"
     },
     "017": {
       "team": "ag",
@@ -120,11 +96,29 @@
       "pozisyon": "os",
       "id": "017"
     },
-    "018": {
+    "012": {
       "team": "ag",
-      "name": "Joseph Paintsil",
+      "name": "Endri Çekici",
       "pozisyon": "os",
-      "id": "018"
+      "id": "012"
+    },
+    "651": {
+      "team": "ag",
+      "name": "Assane Diousse",
+      "pozisyon": "os",
+      "id": "651"
+    },
+    "016": {
+      "team": "ag",
+      "name": "Saba Lobzhanidze",
+      "pozisyon": "os",
+      "id": "016"
+    },
+    "659": {
+      "team": "ag",
+      "name": "Idriz Voca",
+      "pozisyon": "os",
+      "id": "659"
     },
     "019": {
       "team": "ag",
@@ -134,27 +128,15 @@
     },
     "020": {
       "team": "ag",
-      "name": "Daniel Lukasic ",
+      "name": "Daniel Lukasik",
       "pozisyon": "os",
       "id": "020"
     },
     "021": {
       "team": "ag",
-      "name": "Milos Stojanovic",
+      "name": "Berke Gürbüz",
       "pozisyon": "os",
       "id": "021"
-    },
-    "022": {
-      "team": "ag",
-      "name": "Alper Önal",
-      "pozisyon": "os",
-      "id": "022"
-    },
-    "023": {
-      "team": "ag",
-      "name": "Suat Kaya",
-      "pozisyon": "os",
-      "id": "023"
     },
     "024": {
       "team": "ag",
@@ -162,21 +144,15 @@
       "pozisyon": "os",
       "id": "024"
     },
-    "025": {
+    "028": {
       "team": "ag",
-      "name": "Hasan Kaya",
-      "pozisyon": "os",
-      "id": "025"
-    },
-    "026": {
-      "team": "ag",
-      "name": "Furkan Pektaş",
-      "pozisyon": "os",
-      "id": "026"
+      "name": "Jonathan Bolingi",
+      "pozisyon": "f",
+      "id": "028"
     },
     "678": {
       "team": "ag",
-      "name": "Torgeir Börven",
+      "name": "Börven",
       "pozisyon": "f",
       "id": "678"
     },
@@ -185,18 +161,6 @@
       "name": "Emre Güral",
       "pozisyon": "f",
       "id": "668"
-    },
-    "028": {
-      "team": "ag",
-      "name": "Jonathan Bolingi",
-      "pozisyon": "f",
-      "id": "028"
-    },
-    "029": {
-      "team": "ag",
-      "name": "Ahmet Sun",
-      "pozisyon": "f",
-      "id": "029"
     },
     "030": {
       "team": "ag",
