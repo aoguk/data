@@ -25,7 +25,25 @@
 	},
 	{
 		"mevkii": "AG",
-		"adi": "Sarlija",
+		"adi": "Idriz Voca",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "AG",
+		"adi": "Joseph Paintsil",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "AG",
+		"adi": "Luka Adzic",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ANT",
+		"adi": "Fredy",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -48,8 +66,8 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "BJK",
-		"adi": "Atiba Hutchinson",
+		"mevkii": "MED",
+		"adi": "Azubuike",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -72,8 +90,8 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "CRZ",
-		"adi": "Vetrih",
+		"mevkii": "DNZ",
+		"adi": "Fede Varela",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
