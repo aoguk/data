@@ -500,7 +500,7 @@
   "bjk": {
     "095": {
       "team": "bjk",
-      "name": "Ersin Destanoğlu",
+      "name": "Ersin",
       "pozisyon": "k",
       "id": "095"
     },
@@ -516,35 +516,35 @@
       "pozisyon": "k",
       "id": "097"
     },
-    "682": {
-      "team": "bjk",
-      "name": "Valentin Rosier",
-      "pozisyon": "d",
-      "id": "682"
-    },
     "098": {
       "team": "bjk",
-      "name": "Domagoj Vida",
+      "name": "Vida",
       "pozisyon": "d",
       "id": "098"
     },
     "099": {
       "team": "bjk",
-      "name": "Welinton Souza",
+      "name": "Welinton",
       "pozisyon": "d",
       "id": "099"
     },
-    "100": {
+    "682": {
       "team": "bjk",
-      "name": "N Skala",
+      "name": "Rosier",
       "pozisyon": "d",
-      "id": "100"
+      "id": "682"
     },
     "101": {
       "team": "bjk",
       "name": "Montero",
       "pozisyon": "d",
       "id": "101"
+    },
+    "100": {
+      "team": "bjk",
+      "name": "N'Skala",
+      "pozisyon": "d",
+      "id": "100"
     },
     "102": {
       "team": "bjk",
@@ -558,11 +558,11 @@
       "pozisyon": "d",
       "id": "103"
     },
-    "104": {
+    "106": {
       "team": "bjk",
-      "name": "Alpay Çelebi",
+      "name": "Rıdvan Yılmaz",
       "pozisyon": "d",
-      "id": "104"
+      "id": "106"
     },
     "105": {
       "team": "bjk",
@@ -570,41 +570,23 @@
       "pozisyon": "d",
       "id": "105"
     },
-    "106": {
+    "104": {
       "team": "bjk",
-      "name": "Rıdvan Yılmaz",
-      "pozisyon": "d",
-      "id": "106"
-    },
-    "634": {
-      "team": "bjk",
-      "name": "Josef de Souza",
+      "name": "Ghezzal",
       "pozisyon": "os",
-      "id": "634"
+      "id": "104"
     },
     "107": {
       "team": "bjk",
-      "name": "Adem Ljajic",
+      "name": "Ljajic",
       "pozisyon": "os",
       "id": "107"
     },
     "108": {
       "team": "bjk",
-      "name": "N Koudou",
+      "name": "N'Koudou",
       "pozisyon": "os",
       "id": "108"
-    },
-    "109": {
-      "team": "bjk",
-      "name": "Jeremain Lens",
-      "pozisyon": "os",
-      "id": "109"
-    },
-    "110": {
-      "team": "bjk",
-      "name": "Atiba Hutchinson",
-      "pozisyon": "os",
-      "id": "110"
     },
     "111": {
       "team": "bjk",
@@ -612,17 +594,11 @@
       "pozisyon": "os",
       "id": "111"
     },
-    "112": {
+    "109": {
       "team": "bjk",
-      "name": "Oğuzhan Özyakup",
+      "name": "Lens",
       "pozisyon": "os",
-      "id": "112"
-    },
-    "113": {
-      "team": "bjk",
-      "name": "Gökhan Töre",
-      "pozisyon": "os",
-      "id": "113"
+      "id": "109"
     },
     "114": {
       "team": "bjk",
@@ -630,21 +606,45 @@
       "pozisyon": "os",
       "id": "114"
     },
+    "113": {
+      "team": "bjk",
+      "name": "Gökhan Töre",
+      "pozisyon": "os",
+      "id": "113"
+    },
     "115": {
       "team": "bjk",
-      "name": "Dorukhan Toköz",
+      "name": "Dorukhan",
       "pozisyon": "os",
       "id": "115"
     },
+    "110": {
+      "team": "bjk",
+      "name": "Atiba",
+      "pozisyon": "os",
+      "id": "110"
+    },
+    "634": {
+      "team": "bjk",
+      "name": "Josef de Souza",
+      "pozisyon": "os",
+      "id": "634"
+    },
+    "112": {
+      "team": "bjk",
+      "name": "Oğuzhan",
+      "pozisyon": "os",
+      "id": "112"
+    },
     "116": {
       "team": "bjk",
-      "name": "Ajdin Hasic",
+      "name": "Hasic",
       "pozisyon": "os",
       "id": "116"
     },
     "117": {
       "team": "bjk",
-      "name": "Necip Uysal",
+      "name": "Necip",
       "pozisyon": "os",
       "id": "117"
     },
@@ -668,19 +668,19 @@
     },
     "669": {
       "team": "bjk",
-      "name": "Vincent Aboubakar",
+      "name": "Aboubakar",
       "pozisyon": "f",
       "id": "669"
     },
     "121": {
       "team": "bjk",
-      "name": "Cyle Larin",
+      "name": "Larin",
       "pozisyon": "f",
       "id": "121"
     },
     "123": {
       "team": "bjk",
-      "name": "Güven Yalçın",
+      "name": "Güven",
       "pozisyon": "f",
       "id": "123"
     }
