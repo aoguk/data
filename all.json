@@ -360,7 +360,7 @@
     },
     "065": {
       "team": "als",
-      "name": "Yusuf Karagöz",
+      "name": "Çağrı Güney",
       "pozisyon": "k",
       "id": "065"
     },
@@ -369,30 +369,6 @@
       "name": "François Moubandje",
       "pozisyon": "d",
       "id": "066"
-    },
-    "067": {
-      "team": "als",
-      "name": "Steven Caulker",
-      "pozisyon": "d",
-      "id": "067"
-    },
-    "068": {
-      "team": "als",
-      "name": "Fatih Aksoy",
-      "pozisyon": "d",
-      "id": "068"
-    },
-    "069": {
-      "team": "als",
-      "name": "Ahmet Gülay",
-      "pozisyon": "d",
-      "id": "069"
-    },
-    "070": {
-      "team": "als",
-      "name": "Alper Tursun",
-      "pozisyon": "d",
-      "id": "070"
     },
     "071": {
       "team": "als",
@@ -406,29 +382,35 @@
       "pozisyon": "d",
       "id": "072"
     },
+    "068": {
+      "team": "als",
+      "name": "Fatih Aksoy",
+      "pozisyon": "d",
+      "id": "068"
+    },
+    "067": {
+      "team": "als",
+      "name": "Steven Caulker",
+      "pozisyon": "d",
+      "id": "067"
+    },
+    "069": {
+      "team": "als",
+      "name": "Ahmet Gülay",
+      "pozisyon": "d",
+      "id": "069"
+    },
+    "070": {
+      "team": "als",
+      "name": "Alpay Çelebi",
+      "pozisyon": "d",
+      "id": "070"
+    },
     "073": {
       "team": "als",
       "name": "Tayfur Bingöl",
       "pozisyon": "d",
       "id": "073"
-    },
-    "074": {
-      "team": "als",
-      "name": "Emre Bekir",
-      "pozisyon": "d",
-      "id": "074"
-    },
-    "075": {
-      "team": "als",
-      "name": "Reşo Akın",
-      "pozisyon": "d",
-      "id": "075"
-    },
-    "076": {
-      "team": "als",
-      "name": "Hasan Emiroğlu",
-      "pozisyon": "d",
-      "id": "076"
     },
     "077": {
       "team": "als",
@@ -442,11 +424,11 @@
       "pozisyon": "os",
       "id": "078"
     },
-    "079": {
+    "081": {
       "team": "als",
-      "name": "Hasan Ayaroğlu",
+      "name": "Efecan Karaca",
       "pozisyon": "os",
-      "id": "079"
+      "id": "081"
     },
     "080": {
       "team": "als",
@@ -454,11 +436,11 @@
       "pozisyon": "os",
       "id": "080"
     },
-    "081": {
+    "084": {
       "team": "als",
-      "name": "Efecan Karaca",
+      "name": "Siopis",
       "pozisyon": "os",
-      "id": "081"
+      "id": "084"
     },
     "082": {
       "team": "als",
@@ -472,41 +454,23 @@
       "pozisyon": "os",
       "id": "083"
     },
-    "084": {
-      "team": "als",
-      "name": "Siopis",
-      "pozisyon": "os",
-      "id": "084"
-    },
     "085": {
       "team": "als",
       "name": "Berkan İsmail Kutlu",
       "pozisyon": "os",
       "id": "085"
     },
+    "079": {
+      "team": "als",
+      "name": "Hasan Ayaroğlu",
+      "pozisyon": "os",
+      "id": "079"
+    },
     "086": {
       "team": "als",
       "name": "Emircan Altıntaş",
       "pozisyon": "os",
       "id": "086"
-    },
-    "087": {
-      "team": "als",
-      "name": "Onur Bulut",
-      "pozisyon": "os",
-      "id": "087"
-    },
-    "088": {
-      "team": "als",
-      "name": "Can Yalçıntekin",
-      "pozisyon": "os",
-      "id": "088"
-    },
-    "089": {
-      "team": "als",
-      "name": "Rauf Öktem",
-      "pozisyon": "os",
-      "id": "089"
     },
     "090": {
       "team": "als",
@@ -531,12 +495,6 @@
       "name": "Mustafa Pektemek",
       "pozisyon": "f",
       "id": "093"
-    },
-    "094": {
-      "team": "als",
-      "name": "Veysel Ünal",
-      "pozisyon": "f",
-      "id": "094"
     }
   },
   "bjk": {
