@@ -3,7 +3,7 @@
       "id":"001",
       "name":"Ricardo Friedrich",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"002",
@@ -27,7 +27,7 @@
       "id":"005",
       "name":"Erdi Dikmen",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"006",
@@ -39,25 +39,25 @@
       "id":"007",
       "name":"Sarlija",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"008",
       "name":"Tiago Pinto",
       "position":"d",
-      "point":6
+      "point":5
    },
    {
       "id":"009",
       "name":"Kitsiou",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"010",
       "name":"Pazdan",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"011",
@@ -861,7 +861,7 @@
       "id":"144",
       "name":"Remy",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"145",
