@@ -87,7 +87,7 @@
       "id":"015",
       "name":"Paintsil",
       "position":"os",
-      "point":8
+      "point":14
    },
    {
       "id":"016",
@@ -681,7 +681,7 @@
       "id":"114",
       "name":"Gökhan Akkan",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"115",
@@ -705,13 +705,13 @@
       "id":"118",
       "name":"Melnijak",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"119",
       "name":"Moroziuk",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"120",
@@ -729,13 +729,13 @@
       "id":"122",
       "name":"Meriah",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"123",
       "name":"Emir Dilaver",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"124",
