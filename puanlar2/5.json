@@ -3,7 +3,7 @@
       "id":"001",
       "name":"Ricardo Friedrich",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"002",
@@ -819,7 +819,7 @@
       "id":"137",
       "name":"Baiano",
       "position":"os",
-      "point":4
+      "point":7
    },
    {
       "id":"138",
@@ -861,7 +861,7 @@
       "id":"144",
       "name":"Remy",
       "position":"f",
-      "point":12
+      "point":21
    },
    {
       "id":"145",
