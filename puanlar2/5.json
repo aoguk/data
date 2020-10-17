@@ -2535,7 +2535,7 @@
       "id":"423",
       "name":"Sehic",
       "position":"k",
-      "point":1
+      "point":3
    },
    {
       "id":"424",
@@ -2565,13 +2565,13 @@
       "id":"428",
       "name":"Skubic",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"429",
       "name":"Ahmet Çalık",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"430",
@@ -2589,7 +2589,7 @@
       "id":"432",
       "name":"Guilherme Sitya",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"433",
@@ -2607,7 +2607,7 @@
       "id":"435",
       "name":"Abdülkerim Bardakçı",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"436",
@@ -2619,7 +2619,7 @@
       "id":"437",
       "name":"Ömer Ali",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"438",
@@ -2655,13 +2655,13 @@
       "id":"443",
       "name":"Jevtovic",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"444",
       "name":"Hadziahmetovic",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"445",
@@ -2691,7 +2691,7 @@
       "id":"449",
       "name":"Kravets",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"450",
@@ -3297,19 +3297,19 @@
       "id":"550",
       "name":"Abdulsamed Damlu",
       "position":"k",
-      "point":2
+      "point":4
    },
    {
       "id":"551",
       "name":"Chebake",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"552",
       "name":"Zeki Yavru",
       "position":"d",
-      "point":10
+      "point":12
    },
    {
       "id":"553",
@@ -3321,13 +3321,13 @@
       "id":"554",
       "name":"Semih Kaya",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"555",
       "name":"Wallace",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"556",
@@ -3339,7 +3339,7 @@
       "id":"557",
       "name":"Erkan Kaş",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"558",
@@ -3393,7 +3393,7 @@
       "id":"566",
       "name":"Acquah",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"567",
@@ -3411,7 +3411,7 @@
       "id":"569",
       "name":"Ahmed İldiz",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"570",
@@ -3429,7 +3429,7 @@
       "id":"572",
       "name":"Tetteh",
       "position":"f",
-      "point":1
+      "point":3
    },
    {
       "id":"573",
