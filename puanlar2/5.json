@@ -879,7 +879,7 @@
       "id":"147",
       "name":"Samassa",
       "position":"k",
-      "point":2
+      "point":3
    },
    {
       "id":"148",
@@ -897,25 +897,25 @@
       "id":"150",
       "name":"Goiano",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"151",
       "name":"Caner O.",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"152",
       "name":"Ziya Erdal",
       "position":"d",
-      "point":10
+      "point":12
    },
    {
       "id":"153",
       "name":"Camara",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"154",
@@ -939,7 +939,7 @@
       "id":"157",
       "name":"Max Gradel",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"158",
@@ -975,13 +975,13 @@
       "id":"163",
       "name":"Fayçal Fajr",
       "position":"os",
-      "point":1
+      "point":3
    },
    {
       "id":"164",
       "name":"Hakan Arslan",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"165",
@@ -993,7 +993,7 @@
       "id":"166",
       "name":"Erdoğan Yeşilyurt",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"167",
@@ -1005,7 +1005,7 @@
       "id":"168",
       "name":"Cofie",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"169",
@@ -1023,7 +1023,7 @@
       "id":"171",
       "name":"Yatabare",
       "position":"f",
-      "point":2
+      "point":9
    },
    {
       "id":"172",
@@ -2355,7 +2355,7 @@
       "id":"393",
       "name":"Lung",
       "position":"k",
-      "point":1
+      "point":2
    },
    {
       "id":"394",
@@ -2379,7 +2379,7 @@
       "id":"397",
       "name":"Sapunaru",
       "position":"d",
-      "point":2
+      "point":3
    },
    {
       "id":"398",
@@ -2403,13 +2403,13 @@
       "id":"401",
       "name":"Kolovetsios",
       "position":"d",
-      "point":2
+      "point":3
    },
    {
       "id":"402",
       "name":"Yasir Subaşı",
       "position":"d",
-      "point":2
+      "point":3
    },
    {
       "id":"403",
@@ -2427,7 +2427,7 @@
       "id":"405",
       "name":"Manuel Fernandes",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"406",
@@ -2457,7 +2457,7 @@
       "id":"410",
       "name":"Zoran Kvrzic",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"411",
@@ -2475,7 +2475,7 @@
       "id":"413",
       "name":"Campanharo",
       "position":"os",
-      "point":5
+      "point":7
    },
    {
       "id":"414",
@@ -2487,7 +2487,7 @@
       "id":"415",
       "name":"Hasan Acar",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"416",
@@ -2511,13 +2511,13 @@
       "id":"419",
       "name":"Wilfried Kanga",
       "position":"f",
-      "point":7
+      "point":9
    },
    {
       "id":"420",
       "name":"İlhan Parlak",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"421",
