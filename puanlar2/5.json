@@ -86,8 +86,8 @@
    {
       "id":"015",
       "name":"Paintsil",
-      "position":"d",
-      "point":2
+      "position":"os",
+      "point":8
    },
    {
       "id":"016",
@@ -111,7 +111,7 @@
       "id":"019",
       "name":"Saba Lobzhanidze",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"020",
@@ -681,7 +681,7 @@
       "id":"114",
       "name":"Gökhan Akkan",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"115",
