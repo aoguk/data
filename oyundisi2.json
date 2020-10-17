@@ -36,24 +36,6 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "AG",
-		"adi": "Idriz Voca",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "AG",
-		"adi": "Joseph Paintsil",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "AG",
-		"adi": "Luka Adzic",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
 		"mevkii": "ANT",
 		"adi": "Fredy",
 		"aciklama": "SAKAT",
@@ -169,6 +151,12 @@
 	},
 	{
 		"mevkii": "GFK",
+		"adi": "Kayode",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
 		"adi": "Mehmet Erdem Uğurlu",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -205,12 +193,6 @@
 	},
 	{
 		"mevkii": "KAY",
-		"adi": "Pedro Henrique",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAY",
 		"adi": "Daniel Avramovski",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -218,12 +200,6 @@
 	{
 		"mevkii": "KAY",
 		"adi": "Harrison Manzala",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAY",
-		"adi": "İlhan Depe",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -247,6 +223,12 @@
 	},
 	{
 		"mevkii": "MLT",
+		"adi": "Adem Büyük",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MLT",
 		"adi": "Jody Lukoki",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -261,12 +243,6 @@
 		"mevkii": "SVS",
 		"adi": "Appindangoye",
 		"aciklama": "SAKAT (2 Ay)",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Goiano",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -290,12 +266,6 @@
 	{
 		"mevkii": "TS",
 		"adi": "Muhammet Taha Tepe",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Uğrucan Çakır",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
