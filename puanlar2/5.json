@@ -3003,7 +3003,7 @@
       "id":"501",
       "name":"Aleksic",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"502",
@@ -3063,7 +3063,7 @@
       "id":"511",
       "name":"Gulbrandsen",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"512",
@@ -3219,13 +3219,13 @@
       "id":"537",
       "name":"Ahmet Canbaz",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"538",
       "name":"Yusuf Sarı",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"539",
