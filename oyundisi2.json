@@ -247,6 +247,12 @@
 	},
 	{
 		"mevkii": "TS",
+		"adi": "Ekuban",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
 		"adi": "Stiven Plaza",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
