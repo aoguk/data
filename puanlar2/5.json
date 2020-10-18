@@ -195,7 +195,7 @@
       "id":"033",
       "name":"Kudryashov",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"034",
@@ -1791,7 +1791,7 @@
       "id":"299",
       "name":"Cenk Şahin",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"300",
@@ -1803,7 +1803,7 @@
       "id":"301",
       "name":"Vetrih",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"302",
@@ -2793,13 +2793,13 @@
       "id":"466",
       "name":"Hajradinovic",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"467",
       "name":"Koomson",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"468",
@@ -2817,13 +2817,13 @@
       "id":"470",
       "name":"Aytaç Kara",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"471",
       "name":"Kevin Varga",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"472",
