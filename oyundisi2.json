@@ -6,6 +6,24 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "GFK",
+		"adi": "Morais",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ANT",
+		"adi": "Sidney Sam",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "FKG",
+		"adi": "Jimmy Durmaz",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "AG",
 		"adi": "Alper Potuk",
 		"aciklama": "KART CEZALISI (1)",
