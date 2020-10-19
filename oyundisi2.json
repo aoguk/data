@@ -1,19 +1,7 @@
 [
 	{
-		"mevkii": "GFK",
-		"adi": "Mirallas",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "GFK",
-		"adi": "Morais",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Etebo",
+		"mevkii": "AG",
+		"adi": "Alper Potuk",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
@@ -36,8 +24,20 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "AG",
-		"adi": "Alper Potuk",
+		"mevkii": "GS",
+		"adi": "Etebo",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Mirallas",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Morais",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
@@ -150,12 +150,6 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "FB",
-		"adi": "Garry Rodrigues",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
 		"mevkii": "GB",
 		"adi": "Rahmetullah Berişbek",
 		"aciklama": "SAKAT",
@@ -194,18 +188,6 @@
 	{
 		"mevkii": "GS",
 		"adi": "Muslera",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Oghenekaro Etobo",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Taylan Antalyalı",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
