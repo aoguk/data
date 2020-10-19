@@ -3459,7 +3459,7 @@
       "id":"577",
       "name":"Pantilimon",
       "position":"k",
-      "point":0
+      "point":2
    },
    {
       "id":"578",
@@ -3483,7 +3483,7 @@
       "id":"581",
       "name":"Subotic",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"582",
@@ -3501,13 +3501,13 @@
       "id":"584",
       "name":"Tiago Lopes",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"585",
       "name":"Mustafa Yumlu",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"586",
@@ -3531,7 +3531,7 @@
       "id":"589",
       "name":"Özer Özdemir",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"590",
@@ -3555,7 +3555,7 @@
       "id":"593",
       "name":"Varela",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"594",
@@ -3573,19 +3573,19 @@
       "id":"596",
       "name":"Sagal",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"597",
       "name":"Bakalorz",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"598",
       "name":"Recep Niyaz",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"599",
@@ -3597,12 +3597,12 @@
       "id":"600",
       "name":"Rodallega",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"601",
       "name":"Mesanovic",
       "position":"f",
-      "point":0
+      "point":2
    }
 ]
