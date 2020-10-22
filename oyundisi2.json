@@ -73,6 +73,12 @@
 	},
 	{
 		"mevkii": "ANT",
+		"adi": "Hakan Özmert",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ANT",
 		"adi": "Fredy",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -96,9 +102,9 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "MED",
-		"adi": "Hasan Ali",
-		"aciklama": "SAKAT",
+		"mevkii": "BJK",
+		"adi": "Ghezzal",
+		"aciklama": "SAKAT (%50)",
 		"durum": "sakatlar"
 	},
 	{
@@ -115,7 +121,13 @@
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Ghezzal",
+		"adi": "Hasic",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Atakan",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -138,9 +150,27 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "DNZ",
+		"adi": "Murawski",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "ERZ",
 		"adi": "Oltan Karakullukçu",
 		"aciklama": "SAKAT (2 Ay)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ERZ",
+		"adi": "Donald",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ERZ",
+		"adi": "Ömer Şişmanoğlu",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -151,8 +181,8 @@
 	},
 	{
 		"mevkii": "ERZ",
-		"adi": "Petrus Boumal",
-		"aciklama": "SAKAT",
+		"adi": "Boumal",
+		"aciklama": "SAKAT (%75)",
 		"durum": "sakatlar"
 	},
 	{
@@ -163,20 +193,14 @@
 	},
 	{
 		"mevkii": "FB",
-		"adi": "Nabil Dirar",
+		"adi": "Ferdi",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "FB",
-		"adi": "Diego Perotti",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Gökhan Gönül",
-		"aciklama": "SAKAT",
+		"adi": "Perotti",
+		"aciklama": "SAKAT (%50)",
 		"durum": "sakatlar"
 	},
 	{
@@ -223,7 +247,7 @@
 	},
 	{
 		"mevkii": "GOZ",
-		"adi": "YAlçın",
+		"adi": "Yalçın",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -231,6 +255,12 @@
 		"mevkii": "GS",
 		"adi": "Muslera",
 		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Elabdellaoui",
+		"aciklama": "SAKAT (%50)",
 		"durum": "sakatlar"
 	},
 	{
@@ -247,6 +277,18 @@
 	},
 	{
 		"mevkii": "KAY",
+		"adi": "Oğuzhan",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Attamah",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
 		"adi": "Avramovski",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -254,6 +296,24 @@
 	{
 		"mevkii": "KAY",
 		"adi": "Manzala",
+		"aciklama": "SAKAT (%50)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Uğur Demirok",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Hadziahmetovic",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Volkan Fındıklı",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -265,31 +325,19 @@
 	},
 	{
 		"mevkii": "KON",
-		"adi": "Hurtado",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Alper Uludağ",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Marin Anicic",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Volkan Fındıklı",
+		"adi": "Anicic",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KSP",
 		"adi": "Gohou",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
+		"adi": "Caiçara",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -302,6 +350,12 @@
 	{
 		"mevkii": "MLT",
 		"adi": "Ertaç Özbir",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MLT",
+		"adi": "Karim Hafez",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -331,7 +385,13 @@
 	},
 	{
 		"mevkii": "SVS",
-		"adi": "Erdoğan Yeşilyurt",
+		"adi": "Ninga",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SVS",
+		"adi": "Erdoğan",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
