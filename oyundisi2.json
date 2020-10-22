@@ -355,6 +355,12 @@
 	},
 	{
 		"mevkii": "MLT",
+		"adi": "Chebake",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MLT",
 		"adi": "Karim Hafez",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
