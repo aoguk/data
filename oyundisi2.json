@@ -331,6 +331,18 @@
 	},
 	{
 		"mevkii": "MED",
+		"adi": "Chadli",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
+		"adi": "Azubuike",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
 		"adi": "Caiçara",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
