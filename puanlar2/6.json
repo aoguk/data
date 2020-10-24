@@ -171,7 +171,7 @@
       "id":"029",
       "name":"Ruud Boffin",
       "position":"k",
-      "point":0
+      "point":2
    },
    {
       "id":"030",
@@ -195,31 +195,31 @@
       "id":"033",
       "name":"Kudryashov",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"034",
       "name":"Naldo",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"035",
       "name":"Veysel Sarı",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"036",
       "name":"Bünyamin Balcı",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"037",
       "name":"Ersan Gülüm",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"038",
@@ -237,7 +237,7 @@
       "id":"040",
       "name":"Mert Yılmaz",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"041",
@@ -249,7 +249,7 @@
       "id":"042",
       "name":"Nuri Şahin",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"043",
@@ -261,7 +261,7 @@
       "id":"044",
       "name":"Amilton",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"045",
@@ -333,13 +333,13 @@
       "id":"056",
       "name":"Podolski",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"057",
       "name":"Orgill",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"058",
@@ -2895,7 +2895,7 @@
       "id":"482",
       "name":"Mert Günok",
       "position":"k",
-      "point":0
+      "point":2
    },
    {
       "id":"483",
@@ -2919,7 +2919,7 @@
       "id":"486",
       "name":"Epureanu",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"487",
@@ -2931,7 +2931,7 @@
       "id":"488",
       "name":"Skrtel",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"489",
@@ -2943,13 +2943,13 @@
       "id":"490",
       "name":"Boli Bolingoli",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"491",
       "name":"Rafael",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"492",
@@ -2991,7 +2991,7 @@
       "id":"498",
       "name":"Visca",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"499",
@@ -3015,19 +3015,19 @@
       "id":"502",
       "name":"Deniz Türüç",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"503",
       "name":"İrfan Can",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"504",
       "name":"Mahmut Tekdemir",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"505",
@@ -3063,7 +3063,7 @@
       "id":"510",
       "name":"Crivelli",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"511",
@@ -3075,7 +3075,7 @@
       "id":"512",
       "name":"Demba Ba",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"513",
