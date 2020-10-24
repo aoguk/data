@@ -181,12 +181,6 @@
 	},
 	{
 		"mevkii": "ERZ",
-		"adi": "Boumal",
-		"aciklama": "SAKAT (%75)",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ERZ",
 		"adi": "Sadiku",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -237,12 +231,6 @@
 		"mevkii": "GS",
 		"adi": "Muslera",
 		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Elabdellaoui",
-		"aciklama": "SAKAT (%50)",
 		"durum": "sakatlar"
 	},
 	{
