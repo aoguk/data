@@ -1527,13 +1527,13 @@
       "id":"255",
       "name":"Valencia",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"256",
       "name":"Cisse",
       "position":"f",
-      "point":2
+      "point":5
    },
    {
       "id":"257",
@@ -3087,7 +3087,7 @@
       "id":"514",
       "name":"Uğurcan",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"515",
@@ -3117,19 +3117,19 @@
       "id":"519",
       "name":"Vitor Hugo",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"520",
       "name":"Marlon",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"521",
       "name":"Ergar Le",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"522",
@@ -3153,13 +3153,13 @@
       "id":"525",
       "name":"Kamil Ahmet",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"526",
       "name":"Serkan Asan",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"527",
