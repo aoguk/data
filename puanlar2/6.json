@@ -1401,13 +1401,13 @@
       "id":"234",
       "name":"Novak",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"235",
       "name":"Gökhan Gönül",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"236",
@@ -1491,7 +1491,7 @@
       "id":"249",
       "name":"Mert Hakan",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"250",
@@ -1533,7 +1533,7 @@
       "id":"256",
       "name":"Cisse",
       "position":"f",
-      "point":7
+      "point":12
    },
    {
       "id":"257",
@@ -3087,7 +3087,7 @@
       "id":"514",
       "name":"Uğurcan",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"515",
