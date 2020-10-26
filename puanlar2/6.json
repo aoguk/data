@@ -669,7 +669,7 @@
       "id":"112",
       "name":"Larin",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"113",
@@ -927,7 +927,7 @@
       "id":"155",
       "name":"Uğur Çiftçi",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"156",
@@ -951,7 +951,7 @@
       "id":"159",
       "name":"Yasin Öztekin",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"160",
@@ -3465,7 +3465,7 @@
       "id":"577",
       "name":"Pantilimon",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"578",
