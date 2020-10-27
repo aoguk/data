@@ -109,6 +109,12 @@
 	},
 	{
 		"mevkii": "DNZ",
+		"adi": "Mustafa Yumlu",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "DNZ",
 		"adi": "Özgür Çek",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
