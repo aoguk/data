@@ -24,6 +24,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "ANT",
+		"adi": "Sidney Sam",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "FKG",
 		"adi": "Jimmy D.",
 		"aciklama": "KART CEZALISI (1)",
@@ -56,6 +62,18 @@
 	{
 		"mevkii": "ANT",
 		"adi": "Hakan Özmert",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ANT",
+		"adi": "Eren Albayrak",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ANT",
+		"adi": "Doğukan Sinik",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -115,7 +133,7 @@
 	},
 	{
 		"mevkii": "DNZ",
-		"adi": "Leismann",
+		"adi": "Murawski",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -133,8 +151,8 @@
 	},
 	{
 		"mevkii": "ERZ",
-		"adi": "Oltan Karakullukçu",
-		"aciklama": "SAKAT (2 Ay)",
+		"adi": "Oltan",
+		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -169,19 +187,49 @@
 	},
 	{
 		"mevkii": "FB",
-		"adi": "Ferdi",
+		"adi": "Serdar Aziz",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "(%50) Ferdi",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "FB",
 		"adi": "Perotti",
-		"aciklama": "SAKAT (%50)",
+		"aciklama": "(%50) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FKG",
+		"adi": "Jorquera",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FKG",
+		"adi": "Vato Arveladze",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FKG",
+		"adi": "Erik Sabo",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GB",
-		"adi": "Rahmetullah Berişbek",
+		"adi": "Giovanni Sio",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GB",
+		"adi": "Rahmetullah",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -193,7 +241,13 @@
 	},
 	{
 		"mevkii": "GFK",
-		"adi": "Mehmet Erdem Uğurlu",
+		"adi": "Mehmet Erdem",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Andre Felipe",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -211,13 +265,31 @@
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Muslera",
+		"adi": "(3 Ay) Muslera",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Belhanda",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Linnes",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "HTY",
 		"adi": "Adama Traore",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "HTY",
+		"adi": "Abdurrahman",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -248,7 +320,7 @@
 	{
 		"mevkii": "KAY",
 		"adi": "Manzala",
-		"aciklama": "SAKAT (%50)",
+		"aciklama": "(%50) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -265,25 +337,13 @@
 	},
 	{
 		"mevkii": "KON",
-		"adi": "Volkan Fındıklı",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Uğur Demirok",
+		"adi": "Volkan",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KON",
 		"adi": "Anicic",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KSP",
-		"adi": "Gohou",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -296,6 +356,12 @@
 	{
 		"mevkii": "MED",
 		"adi": "Azubuike",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
+		"adi": "Uğur Uçar",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -326,12 +392,12 @@
 	{
 		"mevkii": "SVS",
 		"adi": "Appindangoye",
-		"aciklama": "SAKAT (2 Ay)",
+		"aciklama": "(1 Ay) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "SVS",
-		"adi": "Ninga",
+		"adi": "Goiano",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -356,13 +422,13 @@
 	{
 		"mevkii": "TS",
 		"adi": "Abdülkadir Parmak",
-		"aciklama": "SAKAT",
+		"aciklama": "(%50) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "TS",
 		"adi": "Trondsen",
-		"aciklama": "SAKAT (6 Ay)",
+		"aciklama": "(6 Ay) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
