@@ -145,6 +145,12 @@
 	},
 	{
 		"mevkii": "ERZ",
+		"adi": "Novikovas",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ERZ",
 		"adi": "Donald",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
