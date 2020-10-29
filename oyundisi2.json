@@ -109,6 +109,12 @@
 	},
 	{
 		"mevkii": "BJK",
+		"adi": "Gökhan Töre",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
 		"adi": "Hasic",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
