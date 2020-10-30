@@ -30,12 +30,6 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "FKG",
-		"adi": "Jimmy D.",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "KAY",
 		"adi": "Sapunaru",
 		"aciklama": "KART CEZALISI (1)",
@@ -169,12 +163,6 @@
 	},
 	{
 		"mevkii": "ERZ",
-		"adi": "Donald",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ERZ",
 		"adi": "Ömer Şişmanoğlu",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -199,8 +187,8 @@
 	},
 	{
 		"mevkii": "FB",
-		"adi": "(%50) Ferdi",
-		"aciklama": "SAKAT",
+		"adi": "Ferdi",
+		"aciklama": "(%50) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -218,12 +206,6 @@
 	{
 		"mevkii": "FKG",
 		"adi": "Vato Arveladze",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FKG",
-		"adi": "Erik Sabo",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -271,8 +253,8 @@
 	},
 	{
 		"mevkii": "GS",
-		"adi": "(3 Ay) Muslera",
-		"aciklama": "SAKAT",
+		"adi": "Muslera",
+		"aciklama": "(3 Ay) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -429,12 +411,6 @@
 		"mevkii": "TS",
 		"adi": "Hüseyin Türkmen",
 		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Abdülkadir Parmak",
-		"aciklama": "(%50) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
