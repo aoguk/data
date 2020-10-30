@@ -1059,7 +1059,7 @@
       "id":"000",
       "name":"Mina",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"000",
@@ -1101,7 +1101,7 @@
       "id":"000",
       "name":"Hasan Hatipoğlu",
       "position":"d",
-      "point":0
+      "point":1
    },
    {
       "id":"000",
@@ -2715,7 +2715,7 @@
       "id":"000",
       "name":"Ramazan Köse",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"000",
@@ -3171,7 +3171,7 @@
       "id":"000",
       "name":"Nwakaeme",
       "position":"os",
-      "point":5
+      "point":11
    },
    {
       "id":"000",
@@ -3189,7 +3189,7 @@
       "id":"000",
       "name":"Abdulkadir Ömür",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"000",
