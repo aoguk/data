@@ -1197,7 +1197,7 @@
       "id":"200",
       "name":"Viviano",
       "position":"k",
-      "point":0
+      "point":4
    },
    {
       "id":"201",
@@ -1221,19 +1221,19 @@
       "id":"204",
       "name":"Enzo Roco",
       "position":"d",
-      "point":0
+      "point":5
    },
    {
       "id":"205",
       "name":"Eric Lichaj",
       "position":"d",
-      "point":0
+      "point":5
    },
    {
       "id":"206",
       "name":"Balkovec",
       "position":"d",
-      "point":0
+      "point":4
    },
    {
       "id":"207",
@@ -1245,7 +1245,7 @@
       "id":"208",
       "name":"Zukanovic",
       "position":"d",
-      "point":0
+      "point":5
    },
    {
       "id":"209",
@@ -1263,7 +1263,7 @@
       "id":"211",
       "name":"Koray Altınay",
       "position":"d",
-      "point":0
+      "point":3
    },
    {
       "id":"212",
@@ -1281,7 +1281,7 @@
       "id":"214",
       "name":"Chahechouhe",
       "position":"os",
-      "point":0
+      "point":5
    },
    {
       "id":"215",
@@ -1299,31 +1299,31 @@
       "id":"217",
       "name":"Lucas Biglia",
       "position":"os",
-      "point":0
+      "point":14
    },
    {
       "id":"218",
       "name":"Bodou Ndiaye",
       "position":"os",
-      "point":0
+      "point":17
    },
    {
       "id":"219",
       "name":"Erik Sabo",
       "position":"os",
-      "point":0
+      "point":14
    },
    {
       "id":"220",
       "name":"Brahim Darri",
       "position":"os",
-      "point":0
+      "point":6
    },
    {
       "id":"221",
       "name":"Alassane Ndao",
       "position":"os",
-      "point":0
+      "point":14
    },
    {
       "id":"222",
@@ -1335,13 +1335,13 @@
       "id":"223",
       "name":"Ramazan Civelek",
       "position":"os",
-      "point":0
+      "point":3
    },
    {
       "id":"224",
       "name":"Zeki Yıldırım",
       "position":"os",
-      "point":0
+      "point":3
    },
    {
       "id":"225",
@@ -1359,7 +1359,7 @@
       "id":"227",
       "name":"Mevlüt Erdinç",
       "position":"f",
-      "point":0
+      "point":3
    },
    {
       "id":"228",
@@ -1371,7 +1371,7 @@
       "id":"229",
       "name":"Artur Sobiech",
       "position":"f",
-      "point":0
+      "point":6
    },
    {
       "id":"230",
@@ -2763,7 +2763,7 @@
       "id":"460",
       "name":"Ahmet Oğuz",
       "position":"d",
-      "point":2
+      "point":6
    },
    {
       "id":"461",
