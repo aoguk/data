@@ -3,7 +3,7 @@
       "id":"01",
       "name":"Ricardo Friedrich",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"02",
@@ -105,7 +105,7 @@
       "id":"018",
       "name":"Assane Diousse",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"019",
@@ -1575,7 +1575,7 @@
       "id":"263",
       "name":"Saracchi",
       "position":"d",
-      "point":2
+      "point":6
    },
    {
       "id":"264",
@@ -1647,7 +1647,7 @@
       "id":"275",
       "name":"Babel",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"276",
