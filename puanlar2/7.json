@@ -681,7 +681,7 @@
       "id":"114",
       "name":"Gökhan Akkan",
       "position":"k",
-      "point":2
+      "point":4
    },
    {
       "id":"115",
@@ -705,13 +705,13 @@
       "id":"118",
       "name":"Melnijak",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"119",
       "name":"Moroziuk",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"120",
@@ -729,13 +729,13 @@
       "id":"122",
       "name":"Meriah",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"123",
       "name":"Emir Dilaver",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"124",
@@ -771,7 +771,7 @@
       "id":"129",
       "name":"Samudio",
       "position":"os",
-      "point":1
+      "point":3
    },
    {
       "id":"130",
@@ -783,7 +783,7 @@
       "id":"131",
       "name":"Boldrin",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"132",
@@ -807,7 +807,7 @@
       "id":"135",
       "name":"Donsah",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"136",
@@ -825,7 +825,7 @@
       "id":"138",
       "name":"Abdullah Durak",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"139",
@@ -861,7 +861,7 @@
       "id":"144",
       "name":"Remy",
       "position":"f",
-      "point":7
+      "point":9
    },
    {
       "id":"145",
@@ -2361,7 +2361,7 @@
       "id":"393",
       "name":"Lung",
       "position":"k",
-      "point":1
+      "point":3
    },
    {
       "id":"394",
@@ -2391,13 +2391,13 @@
       "id":"398",
       "name":"Aziz Behich",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"399",
       "name":"Miguel Lopes",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"400",
@@ -2409,7 +2409,7 @@
       "id":"401",
       "name":"Kolovetsios",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"402",
@@ -2433,13 +2433,13 @@
       "id":"405",
       "name":"Manuel Fernandes",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"406",
       "name":"Aaron Lennon",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"407",
@@ -2451,7 +2451,7 @@
       "id":"408",
       "name":"Pedro Henrique",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"409",
@@ -2463,7 +2463,7 @@
       "id":"410",
       "name":"Zoran Kvrzic",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"411",
@@ -2481,7 +2481,7 @@
       "id":"413",
       "name":"Campanharo",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"414",
@@ -2493,7 +2493,7 @@
       "id":"415",
       "name":"Hasan Acar",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"416",
