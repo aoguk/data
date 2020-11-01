@@ -9,7 +9,7 @@
         {"takim1":"gs", "skor1":1, "takim2":"ag", "skor2":0, "finished":0},
         {"takim1":"crz", "skor1":1, "takim2":"kay", "skor2":0, "finished":0},
         {"takim1":"kon", "skor1":1, "takim2":"med", "skor2":2, "finished":0},
-        {"takim1":"bjk", "skor1":0, "takim2":"mlt", "skor2":0, "finished":0},
+        {"takim1":"bjk", "skor1":1, "takim2":"mlt", "skor2":0, "finished":0},
         {"takim1":"ant", "skor1":0, "takim2":"fb", "skor2":0, "finished":0}, 
         {"takim1":"hty", "skor1":0, "takim2":"svs", "skor2":0, "finished":0}
     ],
