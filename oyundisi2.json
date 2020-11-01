@@ -295,6 +295,24 @@
 	},
 	{
 		"mevkii": "KON",
+		"adi": "Ömer Ali",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Musa Çağıran",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Ahmet Çalık",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
 		"adi": "Uğur Demirok",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
