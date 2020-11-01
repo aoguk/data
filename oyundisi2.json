@@ -1,17 +1,5 @@
 [
 	{
-		"mevkii": "AG",
-		"adi": "Alper Potuk",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Falcao",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "BJK",
 		"adi": "Josef",
 		"aciklama": "KART CEZALISI (2)",
@@ -34,18 +22,6 @@
 		"adi": "Sapunaru",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "AG",
-		"adi": "Jonathan Bolingi",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "AG",
-		"adi": "Assane Diousse",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "AG",
