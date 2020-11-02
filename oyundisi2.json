@@ -97,12 +97,6 @@
 	},
 	{
 		"mevkii": "DNZ",
-		"adi": "Murawski",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "DNZ",
 		"adi": "Sakıb Aytaç",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -152,12 +146,6 @@
 	{
 		"mevkii": "FB",
 		"adi": "Ferdi",
-		"aciklama": "(%50) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Perotti",
 		"aciklama": "(%50) SAKAT",
 		"durum": "sakatlar"
 	},
@@ -260,12 +248,6 @@
 	{
 		"mevkii": "KAY",
 		"adi": "Oğuzhan",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAY",
-		"adi": "Attamah",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
