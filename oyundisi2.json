@@ -223,6 +223,18 @@
 	},
 	{
 		"mevkii": "GS",
+		"adi": "Saracchi",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Marcao",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
 		"adi": "Belhanda",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
