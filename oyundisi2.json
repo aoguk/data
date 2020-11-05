@@ -151,6 +151,12 @@
 	},
 	{
 		"mevkii": "FB",
+		"adi": "Sosa",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
 		"adi": "Ferdi",
 		"aciklama": "(%50) SAKAT",
 		"durum": "sakatlar"
