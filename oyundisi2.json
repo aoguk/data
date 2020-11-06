@@ -85,6 +85,12 @@
 	},
 	{
 		"mevkii": "BJK",
+		"adi": "Welinton",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
 		"adi": "Necip Uysal",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
