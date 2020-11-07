@@ -205,6 +205,12 @@
 	},
 	{
 		"mevkii": "GB",
+		"adi": "Stancu",
+		"aciklama": "(3 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GB",
 		"adi": "Giovanni Sio",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
