@@ -258,18 +258,6 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "HTY",
-		"adi": "Adama Traore",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "HTY",
-		"adi": "Abdurrahman",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
 		"mevkii": "KAY",
 		"adi": "Nurettin",
 		"aciklama": "SAKAT",
@@ -326,12 +314,6 @@
 	{
 		"mevkii": "KSP",
 		"adi": "Jeanvier",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MED",
-		"adi": "Chadli",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
