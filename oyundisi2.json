@@ -18,6 +18,18 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "KAY",
+		"adi": "Henrique",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GB",
+		"adi": "Johansson",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "AG",
 		"adi": "Paintsil",
 		"aciklama": "SAKAT",
