@@ -3,7 +3,7 @@
       "id":"01",
       "name":"Ricardo Friedrich",
       "position":"k",
-      "point":2
+      "point":0
    },
    {
       "id":"02",
@@ -27,13 +27,13 @@
       "id":"05",
       "name":"Erdi Dikmen",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"06",
       "name":"Atila Turan",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"07",
@@ -57,7 +57,7 @@
       "id":"010",
       "name":"Pazdan",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"011",
@@ -69,7 +69,7 @@
       "id":"012",
       "name":"Atakan Çankaya",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"013",
@@ -147,13 +147,13 @@
       "id":"025",
       "name":"Jonathan Bolingi",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"026",
       "name":"Börven",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"027",
@@ -1197,7 +1197,7 @@
       "id":"200",
       "name":"Viviano",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"201",
@@ -1221,7 +1221,7 @@
       "id":"204",
       "name":"Enzo Roco",
       "position":"d",
-      "point":2
+      "point":10
    },
    {
       "id":"205",
@@ -1245,7 +1245,7 @@
       "id":"208",
       "name":"Zukanovic",
       "position":"d",
-      "point":2
+      "point":0
    },
    {
       "id":"209",
@@ -1305,7 +1305,7 @@
       "id":"218",
       "name":"Bodou Ndiaye",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"219",
@@ -1323,7 +1323,7 @@
       "id":"221",
       "name":"Alassane Ndao",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"222",
@@ -1371,7 +1371,7 @@
       "id":"229",
       "name":"Artur Sobiech",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"230",
