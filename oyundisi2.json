@@ -6,18 +6,6 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "HTY",
-		"adi": "Ribeiro",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Erdoğan",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "BJK",
 		"adi": "Ersin",
 		"aciklama": "KART CEZALISI (1)",
@@ -147,12 +135,6 @@
 		"mevkii": "DNZ",
 		"adi": "Sakıb Aytaç",
 		"aciklama": "(%50) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "DNZ",
-		"adi": "Murawski",
-		"aciklama": "(%75) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
