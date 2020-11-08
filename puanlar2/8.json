@@ -879,7 +879,7 @@
       "id":"147",
       "name":"Samassa",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"148",
@@ -1023,7 +1023,7 @@
       "id":"171",
       "name":"Yatabare",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"172",
@@ -1623,13 +1623,13 @@
       "id":"271",
       "name":"Feghouli",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"272",
       "name":"Belhanda",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"273",
