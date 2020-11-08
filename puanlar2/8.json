@@ -3555,13 +3555,13 @@
       "id":"592",
       "name":"Dossevi",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"593",
       "name":"Varela",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"594",
@@ -3573,7 +3573,7 @@
       "id":"595",
       "name":"Murawski",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"596",
