@@ -1,14 +1,14 @@
 [
 	{
-		"mevkii": "ANT",
-		"adi": "Jahovic",
-		"aciklama": "KART CEZALISI (1)",
+		"mevkii": "GB",
+		"adi": "Johansson",
+		"aciklama": "KART CEZALISI (3)",
 		"durum": "cezalılar"
 	},
 	{
 		"mevkii": "BJK",
 		"adi": "Ersin",
-		"aciklama": "KART CEZALISI (1)",
+		"aciklama": "KART CEZALISI (2)",
 		"durum": "cezalılar"
 	},
 	{
@@ -24,8 +24,8 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "GB",
-		"adi": "Johansson",
+		"mevkii": "ANT",
+		"adi": "Jahovic",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
