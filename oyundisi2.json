@@ -247,6 +247,12 @@
 	},
 	{
 		"mevkii": "GS",
+		"adi": "Luyindama",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
 		"adi": "Saracchi",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
