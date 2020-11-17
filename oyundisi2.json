@@ -126,6 +126,12 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "CRZ",
+		"adi": "Remy",
+		"aciklama": "(Covid)SAKAT",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "DNZ",
 		"adi": "Mustafa Yumlu",
 		"aciklama": "SAKAT",
@@ -267,6 +273,24 @@
 		"mevkii": "GS",
 		"adi": "Linnes",
 		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Omar",
+		"aciklama": "(Covid)SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Babel",
+		"aciklama": "(Covid)SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Arda",
+		"aciklama": "(Covid)SAKAT",
 		"durum": "sakatlar"
 	},
 	{
