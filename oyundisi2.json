@@ -283,6 +283,12 @@
 	},
 	{
 		"mevkii": "GS",
+		"adi": "Etebo",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
 		"adi": "Falcao",
 		"aciklama": "(%50) SAKAT",
 		"durum": "sakatlar"
