@@ -337,6 +337,12 @@
 	},
 	{
 		"mevkii": "KON",
+		"adi": "Sehic",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
 		"adi": "Ömer Ali",
 		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
@@ -369,6 +375,18 @@
 		"mevkii": "KON",
 		"adi": "Volkan Fındıklı",
 		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Hajradinovic",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Hodzic",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
