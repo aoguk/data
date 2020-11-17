@@ -97,13 +97,13 @@
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "N'Koudou",
+		"adi": "N’Skala",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Gökhan Töre",
+		"adi": "Oğuzhan",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -115,14 +115,14 @@
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Atakan",
+		"adi": "Necip",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Erdoğan Kaya",
-		"aciklama": "SAKAT",
+		"adi": "Vida",
+		"aciklama": "(Covid)SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -404,6 +404,12 @@
 	{
 		"mevkii": "SVS",
 		"adi": "Jorge Felix",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SVS",
+		"adi": "Gradel",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
