@@ -122,13 +122,13 @@
 	{
 		"mevkii": "BJK",
 		"adi": "Vida",
-		"aciklama": "(Covid)SAKAT",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "CRZ",
 		"adi": "Remy",
-		"aciklama": "(Covid)SAKAT",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -171,6 +171,12 @@
 		"mevkii": "FB",
 		"adi": "Harun",
 		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Valencia",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -278,19 +284,19 @@
 	{
 		"mevkii": "GS",
 		"adi": "Omar",
-		"aciklama": "(Covid)SAKAT",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GS",
 		"adi": "Babel",
-		"aciklama": "(Covid)SAKAT",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GS",
 		"adi": "Arda",
-		"aciklama": "(Covid)SAKAT",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
