@@ -301,6 +301,18 @@
 	},
 	{
 		"mevkii": "GS",
+		"adi": "Okan Kocuk",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Belhanda",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
 		"adi": "Omar",
 		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
