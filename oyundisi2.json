@@ -175,6 +175,12 @@
 	},
 	{
 		"mevkii": "FB",
+		"adi": "Sangare",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
 		"adi": "Ferdi",
 		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
