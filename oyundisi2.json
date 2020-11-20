@@ -79,12 +79,6 @@
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "N'Koudou",
-		"aciklama": "(%75) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "BJK",
 		"adi": "Rosier",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -93,12 +87,6 @@
 		"mevkii": "BJK",
 		"adi": "Welinton",
 		"aciklama": "(1 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "BJK",
-		"adi": "Necip Uysal",
-		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -116,12 +104,6 @@
 	{
 		"mevkii": "BJK",
 		"adi": "Hasic",
-		"aciklama": "(Covid) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "BJK",
-		"adi": "Necip",
 		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
