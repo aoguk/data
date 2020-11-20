@@ -187,6 +187,12 @@
 	},
 	{
 		"mevkii": "FB",
+		"adi": "Sinan Gümüş",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
 		"adi": "Gökhan Gönül",
 		"aciklama": "(1 Ay) SAKAT",
 		"durum": "sakatlar"
