@@ -319,6 +319,12 @@
 	},
 	{
 		"mevkii": "GS",
+		"adi": "Emre Taşdemir",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
 		"adi": "Etebo",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
