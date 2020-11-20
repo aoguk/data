@@ -403,6 +403,18 @@
 	},
 	{
 		"mevkii": "KSP",
+		"adi": "Koita",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Yusuf Erdoğan",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
 		"adi": "Gohou",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
