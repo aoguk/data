@@ -85,6 +85,12 @@
 	},
 	{
 		"mevkii": "BJK",
+		"adi": "Rosier",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
 		"adi": "Welinton",
 		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
