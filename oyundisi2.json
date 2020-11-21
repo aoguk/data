@@ -193,12 +193,6 @@
 	},
 	{
 		"mevkii": "FKG",
-		"adi": "Fatih Kuruçuk",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FKG",
 		"adi": "Salibur",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -447,12 +441,6 @@
 		"mevkii": "SVS",
 		"adi": "Jorge Felix",
 		"aciklama": "(3 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Gradel",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
