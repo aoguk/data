@@ -1503,7 +1503,7 @@
       "id":"251",
       "name":"Pelkas",
       "position":"os",
-      "point":8
+      "point":7
    },
    {
       "id":"252",
@@ -1917,7 +1917,7 @@
       "id":"320",
       "name":"Polomat",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"321",
@@ -1965,7 +1965,7 @@
       "id":"328",
       "name":"Murat Yıldırım",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"329",
@@ -2019,7 +2019,7 @@
       "id":"337",
       "name":"Giovanni Sio",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"338",
@@ -3525,7 +3525,7 @@
       "id":"587",
       "name":"Bergdich",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"588",
