@@ -1377,7 +1377,7 @@
       "id":"230",
       "name":"Altay Bayındır",
       "position":"k",
-      "point":3
+      "point":4
    },
    {
       "id":"231",
@@ -1395,13 +1395,13 @@
       "id":"233",
       "name":"Caner Erkin",
       "position":"d",
-      "point":2
+      "point":3
    },
    {
       "id":"234",
       "name":"Novak",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"235",
@@ -1413,13 +1413,13 @@
       "id":"236",
       "name":"Serdar Aziz",
       "position":"d",
-      "point":8
+      "point":9
    },
    {
       "id":"237",
       "name":"Tisserand",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"238",
@@ -1431,7 +1431,7 @@
       "id":"239",
       "name":"Lemos",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"240",
@@ -1449,13 +1449,13 @@
       "id":"242",
       "name":"Sosa",
       "position":"os",
-      "point":10
+      "point":11
    },
    {
       "id":"243",
       "name":"Perotti",
       "position":"os",
-      "point":17
+      "point":18
    },
    {
       "id":"244",
@@ -1473,7 +1473,7 @@
       "id":"246",
       "name":"Gustavo",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"247",
@@ -1485,25 +1485,25 @@
       "id":"248",
       "name":"Ozan Tufan",
       "position":"os",
-      "point":11
+      "point":12
    },
    {
       "id":"249",
       "name":"Mert Hakan",
       "position":"os",
-      "point":10
+      "point":11
    },
    {
       "id":"250",
       "name":"Ferdi",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"251",
       "name":"Pelkas",
       "position":"os",
-      "point":9
+      "point":10
    },
    {
       "id":"252",
@@ -1515,13 +1515,13 @@
       "id":"253",
       "name":"Ömer Faruk",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"254",
       "name":"Samatta",
       "position":"f",
-      "point":2
+      "point":3
    },
    {
       "id":"255",
@@ -1533,7 +1533,7 @@
       "id":"256",
       "name":"Cisse",
       "position":"f",
-      "point":4
+      "point":5
    },
    {
       "id":"257",
@@ -1875,7 +1875,7 @@
       "id":"313",
       "name":"Nordfeldt",
       "position":"k",
-      "point":-1
+      "point":-2
    },
    {
       "id":"314",
@@ -1887,7 +1887,7 @@
       "id":"315",
       "name":"Toure",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"316",
@@ -1899,7 +1899,7 @@
       "id":"317",
       "name":"Diego Angelo",
       "position":"d",
-      "point":10
+      "point":9
    },
    {
       "id":"318",
@@ -1917,7 +1917,7 @@
       "id":"320",
       "name":"Polomat",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"321",
@@ -1941,37 +1941,37 @@
       "id":"324",
       "name":"Arda Kızıldağ",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"325",
       "name":"Floyd Ayit",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"326",
       "name":"Candeias",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"327",
       "name":"Dominik Furman",
       "position":"os",
-      "point":5
+      "point":4
    },
    {
       "id":"328",
       "name":"Murat Yıldırım",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"329",
       "name":"Piris Da Motta",
       "position":"os",
-      "point":3
+      "point":2
    },
    {
       "id":"330",
@@ -1983,13 +1983,13 @@
       "id":"331",
       "name":"Sefa Yılmaz",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"332",
       "name":"Soner Dikmen",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"333",
@@ -2001,7 +2001,7 @@
       "id":"334",
       "name":"Berat Ayberk",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"335",
@@ -2019,13 +2019,13 @@
       "id":"337",
       "name":"Giovanni Sio",
       "position":"f",
-      "point":3
+      "point":2
    },
    {
       "id":"338",
       "name":"Gökhan Altıparmak",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"339",
