@@ -1395,7 +1395,7 @@
       "id":"233",
       "name":"Caner Erkin",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"234",
@@ -1413,7 +1413,7 @@
       "id":"236",
       "name":"Serdar Aziz",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"237",
@@ -1485,7 +1485,7 @@
       "id":"248",
       "name":"Ozan Tufan",
       "position":"os",
-      "point":5
+      "point":11
    },
    {
       "id":"249",
@@ -1521,7 +1521,7 @@
       "id":"254",
       "name":"Samatta",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"255",
@@ -1875,7 +1875,7 @@
       "id":"313",
       "name":"Nordfeldt",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"314",
