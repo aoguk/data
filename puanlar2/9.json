@@ -1449,7 +1449,7 @@
       "id":"242",
       "name":"Sosa",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"243",
@@ -1503,7 +1503,7 @@
       "id":"251",
       "name":"Pelkas",
       "position":"os",
-      "point":5
+      "point":8
    },
    {
       "id":"252",
@@ -1875,7 +1875,7 @@
       "id":"313",
       "name":"Nordfeldt",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"314",
@@ -1983,13 +1983,13 @@
       "id":"331",
       "name":"Sefa Yılmaz",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"332",
       "name":"Soner Dikmen",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"333",
