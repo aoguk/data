@@ -24,6 +24,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "AG",
+		"adi": "Diousse",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "ALS",
 		"adi": "Ufuk Ceylan",
 		"aciklama": "(2 Hafta) SAKAT",
