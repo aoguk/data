@@ -37,12 +37,6 @@
 	},
 	{
 		"mevkii": "ANT",
-		"adi": "Hakan Özmert",
-		"aciklama": "(%75) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ANT",
 		"adi": "Doğukan Sinik",
 		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
@@ -429,12 +423,6 @@
 		"mevkii": "SVS",
 		"adi": "Jorge Felix",
 		"aciklama": "(3 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Abdülkadir Ö.",
-		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
