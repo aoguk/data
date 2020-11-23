@@ -330,6 +330,12 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "KAY",
+		"adi": "Yasir Subaşı",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "KON",
 		"adi": "Sehic",
 		"aciklama": "(Covid) SAKAT",
