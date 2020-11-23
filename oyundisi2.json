@@ -24,6 +24,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "KAY",
+		"adi": "Muğdat",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "MED",
 		"adi": "Mehmet Topal",
 		"aciklama": "KART CEZALISI (1)",
