@@ -331,6 +331,12 @@
 	},
 	{
 		"mevkii": "KAY",
+		"adi": "Lung",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
 		"adi": "Yasir Subaşı",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
