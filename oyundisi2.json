@@ -486,7 +486,19 @@
 		"durum": "kadro dışı"
 	},
 	{
-		"mevkii": "BJK",
+		"mevkii": "MLT",
+		"adi": "Cueva",
+		"aciklama": "Kadro Dışı",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "GOZ",
+		"adi": "Poko",
+		"aciklama": "Sözleşme Feshi",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "FKG",
 		"adi": "Brahim Darri",
 		"aciklama": "Sözleşme Feshi",
 		"durum": "kadro dışı"
