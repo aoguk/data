@@ -133,6 +133,12 @@
 	},
 	{
 		"mevkii": "FB",
+		"adi": "Samatta",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
 		"adi": "Sangare",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
