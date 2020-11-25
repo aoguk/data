@@ -127,6 +127,18 @@
 	},
 	{
 		"mevkii": "FB",
+		"adi": "Sosa",
+		"aciklama": "İzinli",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Perotti",
+		"aciklama": "İzinli",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
 		"adi": "Harun",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
