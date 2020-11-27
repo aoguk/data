@@ -55,14 +55,20 @@
 	},
 	{
 		"mevkii": "ANT",
-		"adi": "Doğukan Sinik",
+		"adi": "Boffin",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ANT",
+		"adi": "Bünyamin Balcı",
 		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ANT",
-		"adi": "Serdar Gürler",
-		"aciklama": "(3 Ay) SAKAT",
+		"adi": "Doğukan Sinik",
+		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -73,49 +79,67 @@
 	},
 	{
 		"mevkii": "ANT",
-		"adi": "Bahadır Öztürk",
-		"aciklama": "(1 Hafta) SAKAT",
+		"adi": "Serdar Gürler",
+		"aciklama": "(3 Ay) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Rosier",
+		"adi": "Gökhan Töre",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Welinton",
-		"aciklama": "(1 Hafta) SAKAT",
+		"adi": "Vida",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "DNZ",
-		"adi": "Mustafa Yumlu",
-		"aciklama": "(%75) SAKAT",
+		"mevkii": "BJK",
+		"adi": "Ljajic",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "N'Sakala",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "DNZ",
 		"adi": "Özgür Çek",
-		"aciklama": "(%50) SAKAT",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "DNZ",
 		"adi": "Sakıb Aytaç",
-		"aciklama": "(%50) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ERZ",
-		"adi": "Ömer Şişmanoğlu",
-		"aciklama": "(%50) SAKAT",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ERZ",
 		"adi": "İbrahim Akdağ",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Gökhan Gönül",
+		"aciklama": "(%50) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Harun Tekin",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Nazım Sangare",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -127,8 +151,14 @@
 	},
 	{
 		"mevkii": "FB",
-		"adi": "Gökhan Gönül",
-		"aciklama": "(%50) SAKAT",
+		"adi": "Valencia",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Sinan Gümüş",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -150,39 +180,45 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "GB",
-		"adi": "Stancu",
-		"aciklama": "(1 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Salih Dursun",
-		"aciklama": "(4 Ay) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GFK",
-		"adi": "Kozulj",
-		"aciklama": "(1 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GOZ",
-		"adi": "Cherif",
+		"mevkii": "FKG",
+		"adi": "Ndiaye",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "GOZ",
-		"adi": "Murat Paluli",
-		"aciklama": "(1 Hafta) SAKAT",
+		"mevkii": "FKG",
+		"adi": "Enzo Roco",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "GOZ",
-		"adi": "Mihojevic",
-		"aciklama": "(1 Hafta) SAKAT",
+		"mevkii": "FKG",
+		"adi": "Zukanovic",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Morais",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Dicko",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Güray",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Aziz-Tetteh",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -198,36 +234,6 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "GOZ",
-		"adi": "Atınç Nukan",
-		"aciklama": "(1 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GOZ",
-		"adi": "Gassama",
-		"aciklama": "(1 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Emre Taşdemir",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Etebo",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Falcao",
-		"aciklama": "(%50) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
 		"mevkii": "GS",
 		"adi": "Muslera",
 		"aciklama": "(2 Ay) SAKAT",
@@ -240,6 +246,48 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "GS",
+		"adi": "Falcao",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Omar",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Babel",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Okan",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Arda",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Belhanda",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "HTY",
+		"adi": "Popov",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "KAY",
 		"adi": "Lung",
 		"aciklama": "SAKAT",
@@ -247,26 +295,32 @@
 	},
 	{
 		"mevkii": "KAY",
-		"adi": "Yasir Subaşı",
+		"adi": "Ömer Uzun",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "KON",
-		"adi": "Uğur Demirok",
-		"aciklama": "(1 Hafta) SAKAT",
+		"mevkii": "KAY",
+		"adi": "Nurettin",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "KON",
-		"adi": "Hadziahmetovic",
-		"aciklama": "(1 Hafta) SAKAT",
+		"mevkii": "KAY",
+		"adi": "İlhan Depe",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "KON",
-		"adi": "Shengelia",
-		"aciklama": "(1 Hafta) SAKAT",
+		"mevkii": "KAY",
+		"adi": "Pedro Henrique",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Yasir Subaşı",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -282,9 +336,15 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "KSP",
-		"adi": "Gohou",
-		"aciklama": "SAKAT",
+		"mevkii": "KON",
+		"adi": "Sehic",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Shengelia",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -294,8 +354,56 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "KSP",
+		"adi": "Eren Elmalı",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Ertuğrul T.",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Yusuf E.",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Tarkan S.",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Koita",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Hajradinovic",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Hodzic",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Gohou",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "MED",
-		"adi": "Crivelli",
+		"adi": "Hasan Ali",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -306,21 +414,93 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "SVS",
-		"adi": "Appindangoye",
-		"aciklama": "(1 Hafta) SAKAT",
+		"mevkii": "MED",
+		"adi": "Crivelli",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
+		"adi": "Mert Günok",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
+		"adi": "Aleksic",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "SVS",
 		"adi": "Jorge Felix",
-		"aciklama": "(2 Hafta) SAKAT",
+		"aciklama": "(1 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SVS",
+		"adi": "Rybalka",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SVS",
+		"adi": "Muhammer",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SVS",
+		"adi": "Ziya Erdal",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SVS",
+		"adi": "Kayode",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SVS",
+		"adi": "Yatabare",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SVS",
+		"adi": "Fayçal Fajr",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "TS",
 		"adi": "Trondsen",
 		"aciklama": "(6 Ay) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Muhammed Taha",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Salih Karvazli",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Yusuf Sarı",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Hüseyin Türkmen",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
