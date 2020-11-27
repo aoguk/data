@@ -87,13 +87,13 @@
       "id":"015",
       "name":"Paintsil",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"016",
       "name":"Luka Adzic",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"017",
@@ -159,7 +159,7 @@
       "id":"027",
       "name":"Emre Güral",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"028",
@@ -3111,7 +3111,7 @@
       "id":"518",
       "name":"Joao Pereira",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"519",
@@ -3249,7 +3249,7 @@
       "id":"541",
       "name":"Djaniny",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"542",
