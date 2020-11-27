@@ -1,6 +1,6 @@
 {
   "weeks":[
-      {"hafta":10,
+      {"hafta":010,
         "fikstur":[
         {"takim1":"ag", "skor1":0, "takim2":"ts", "skor2":0, "finished":0},
         {"takim1":"gfk", "skor1":0, "takim2":"mlt", "skor2":0, "finished":0},
