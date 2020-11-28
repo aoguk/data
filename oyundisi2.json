@@ -2,42 +2,18 @@
 	{
 		"mevkii": "GB",
 		"adi": "Johansson",
-		"aciklama": "KART CEZALISI (2)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "ANT",
-		"adi": "Hakan Ö.",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "BJK",
-		"adi": "Ersin",
+		"mevkii": "TS",
+		"adi": "Pereira",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "BJK",
-		"adi": "Dorukhan",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "KAY",
-		"adi": "Muğdat",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "KSP",
-		"adi": "Aytaç K.",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "MED",
-		"adi": "Mehmet T.",
+		"mevkii": "GFK",
+		"adi": "Oğuz Ceylan",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
