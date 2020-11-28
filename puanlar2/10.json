@@ -3537,7 +3537,7 @@
       "id":"589",
       "name":"Özer Özdemir",
       "position":"d",
-      "point":3
+      "point":11
    },
    {
       "id":"590",
@@ -3585,7 +3585,7 @@
       "id":"597",
       "name":"Bakalorz",
       "position":"os",
-      "point":4
+      "point":2
    },
    {
       "id":"598",
@@ -3609,6 +3609,6 @@
       "id":"601",
       "name":"Mesanovic",
       "position":"f",
-      "point":0
+      "point":2
    }
 ]
