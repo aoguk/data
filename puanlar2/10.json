@@ -1917,7 +1917,7 @@
       "id":"320",
       "name":"Polomat",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"321",
@@ -2559,7 +2559,7 @@
       "id":"426",
       "name":"Eray Birniçan",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"427",
@@ -2571,7 +2571,7 @@
       "id":"428",
       "name":"Skubic",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"429",
@@ -2595,31 +2595,31 @@
       "id":"432",
       "name":"Guilherme Sitya",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"433",
       "name":"Alper Uludağ",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"434",
       "name":"Adil Demirbağ",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"435",
       "name":"Abdülkerim Bardakçı",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"436",
       "name":"Hurtado",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"437",
@@ -2631,19 +2631,19 @@
       "id":"438",
       "name":"Musa Çağıran",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"439",
       "name":"Samuel Eduok",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"440",
       "name":"Milosevic",
       "position":"os",
-      "point":3
+      "point":2
    },
    {
       "id":"441",
@@ -2655,19 +2655,19 @@
       "id":"442",
       "name":"Farouk Miya",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"443",
       "name":"Jevtovic",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"444",
       "name":"Hadziahmetovic",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"445",
@@ -2685,7 +2685,7 @@
       "id":"447",
       "name":"Oğuz Kağan Güçtekin",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"448",
@@ -2697,13 +2697,13 @@
       "id":"449",
       "name":"Kravets",
       "position":"f",
-      "point":1
+      "point":0
    },
    {
       "id":"450",
       "name":"Cikalleshi",
       "position":"f",
-      "point":1
+      "point":0
    },
    {
       "id":"451",
