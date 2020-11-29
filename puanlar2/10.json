@@ -1875,7 +1875,7 @@
       "id":"313",
       "name":"Nordfeldt",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"314",
@@ -1887,7 +1887,7 @@
       "id":"315",
       "name":"Toure",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"316",
@@ -1917,7 +1917,7 @@
       "id":"320",
       "name":"Polomat",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"321",
@@ -1941,7 +1941,7 @@
       "id":"324",
       "name":"Arda Kızıldağ",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"325",
@@ -2811,7 +2811,7 @@
       "id":"468",
       "name":"Alan Carius",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"469",
@@ -2877,7 +2877,7 @@
       "id":"479",
       "name":"Armin Hodzic",
       "position":"f",
-      "point":7
+      "point":12
    },
    {
       "id":"480",
