@@ -177,7 +177,7 @@
       "id":"030",
       "name":"Ferhat Kaplan",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"031",
@@ -195,19 +195,19 @@
       "id":"033",
       "name":"Kudryashov",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"034",
       "name":"Naldo",
       "position":"d",
-      "point":3
+      "point":0
    },
    {
       "id":"035",
       "name":"Veysel Sarı",
       "position":"d",
-      "point":12
+      "point":11
    },
    {
       "id":"036",
@@ -1167,7 +1167,7 @@
       "id":"195",
       "name":"Gomes",
       "position":"f",
-      "point":4
+      "point":9
    },
    {
       "id":"196",
