@@ -379,6 +379,12 @@
 	},
 	{
 		"mevkii": "MLT",
+		"adi": "Abdulsamet D.",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MLT",
 		"adi": "Lukoki",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
