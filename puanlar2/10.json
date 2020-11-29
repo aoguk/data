@@ -351,7 +351,7 @@
       "id":"059",
       "name":"Marafona",
       "position":"k",
-      "point":2
+      "point":4
    },
    {
       "id":"060",
@@ -369,13 +369,13 @@
       "id":"062",
       "name":"Juanfran",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"063",
       "name":"Tzavellas",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"064",
@@ -387,7 +387,7 @@
       "id":"065",
       "name":"Steven Caulker",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"066",
@@ -411,19 +411,19 @@
       "id":"069",
       "name":"Davidson Pereira",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"070",
       "name":"Bakasetas",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"071",
       "name":"Efecan Karaca",
       "position":"os",
-      "point":5
+      "point":7
    },
    {
       "id":"072",
@@ -435,13 +435,13 @@
       "id":"073",
       "name":"Siopis",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"074",
       "name":"Salih Uçan",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"075",
@@ -477,7 +477,7 @@
       "id":"080",
       "name":"Babacar",
       "position":"f",
-      "point":7
+      "point":9
    },
    {
       "id":"081",
@@ -2559,7 +2559,7 @@
       "id":"426",
       "name":"Eray Birniçan",
       "position":"k",
-      "point":1
+      "point":3
    },
    {
       "id":"427",
@@ -2571,7 +2571,7 @@
       "id":"428",
       "name":"Skubic",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"429",
@@ -2595,7 +2595,7 @@
       "id":"432",
       "name":"Guilherme Sitya",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"433",
@@ -2607,13 +2607,13 @@
       "id":"434",
       "name":"Adil Demirbağ",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"435",
       "name":"Abdülkerim Bardakçı",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"436",
@@ -2643,7 +2643,7 @@
       "id":"440",
       "name":"Milosevic",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"441",
@@ -2661,7 +2661,7 @@
       "id":"443",
       "name":"Jevtovic",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"444",
