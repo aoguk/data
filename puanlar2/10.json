@@ -507,7 +507,7 @@
       "id":"085",
       "name":"Utku Yuvakuran",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"086",
@@ -519,19 +519,19 @@
       "id":"087",
       "name":"Welinton",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"088",
       "name":"Rosier",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"089",
       "name":"Montero",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"090",
@@ -555,7 +555,7 @@
       "id":"093",
       "name":"Rıdvan Yılmaz",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"094",
@@ -1467,7 +1467,7 @@
       "id":"245",
       "name":"Thiam",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"246",
@@ -1485,7 +1485,7 @@
       "id":"248",
       "name":"Ozan Tufan",
       "position":"os",
-      "point":9
+      "point":15
    },
    {
       "id":"249",
