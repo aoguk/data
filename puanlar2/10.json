@@ -621,7 +621,7 @@
       "id":"104",
       "name":"Josef de Souza",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"105",
@@ -639,7 +639,7 @@
       "id":"107",
       "name":"Necip",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"108",
@@ -1377,7 +1377,7 @@
       "id":"230",
       "name":"Altay Bayındır",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"231",
