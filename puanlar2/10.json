@@ -567,7 +567,7 @@
       "id":"095",
       "name":"Ghezzal",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"096",
@@ -663,7 +663,7 @@
       "id":"111",
       "name":"Aboubakar",
       "position":"f",
-      "point":7
+      "point":12
    },
    {
       "id":"112",
@@ -1377,7 +1377,7 @@
       "id":"230",
       "name":"Altay Bayındır",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"231",
@@ -1419,7 +1419,7 @@
       "id":"237",
       "name":"Tisserand",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"238",
