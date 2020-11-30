@@ -133,6 +133,24 @@
 	},
 	{
 		"mevkii": "FB",
+		"adi": "Lemos",
+		"aciklama": "(6 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Ademi",
+		"aciklama": "(6 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Perotti",
+		"aciklama": "(6 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
 		"adi": "Samatta",
 		"aciklama": "(4 Hafta) SAKAT",
 		"durum": "sakatlar"
@@ -247,25 +265,7 @@
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Babel",
-		"aciklama": "(Covid) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Okan",
-		"aciklama": "(Covid) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
 		"adi": "Arda",
-		"aciklama": "(Covid) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Belhanda",
 		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
