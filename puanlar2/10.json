@@ -879,7 +879,7 @@
       "id":"147",
       "name":"Samassa",
       "position":"k",
-      "point":4
+      "point":3
    },
    {
       "id":"148",
@@ -2121,13 +2121,13 @@
       "id":"353",
       "name":"Mossoro",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"354",
       "name":"Soner Aydoğdu",
       "position":"os",
-      "point":4
+      "point":7
    },
    {
       "id":"355",
@@ -2139,7 +2139,7 @@
       "id":"356",
       "name":"Halil Akbunar",
       "position":"os",
-      "point":3
+      "point":9
    },
    {
       "id":"357",
