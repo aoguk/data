@@ -879,7 +879,7 @@
       "id":"147",
       "name":"Samassa",
       "position":"k",
-      "point":2
+      "point":4
    },
    {
       "id":"148",
@@ -903,7 +903,7 @@
       "id":"151",
       "name":"Caner O.",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"152",
@@ -921,7 +921,7 @@
       "id":"154",
       "name":"Appindangoye",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"155",
@@ -933,13 +933,13 @@
       "id":"156",
       "name":"Barış Yardımcı",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"157",
       "name":"Max Gradel",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"158",
@@ -951,7 +951,7 @@
       "id":"159",
       "name":"Yasin Öztekin",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"160",
@@ -963,7 +963,7 @@
       "id":"161",
       "name":"Robin Yalçın",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"162",
@@ -999,13 +999,13 @@
       "id":"167",
       "name":"Claudemir",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"168",
       "name":"Cofie",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"169",
@@ -1023,7 +1023,7 @@
       "id":"171",
       "name":"Yatabare",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"172",
@@ -1035,7 +1035,7 @@
       "id":"173",
       "name":"Kone",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"174",
@@ -2049,7 +2049,7 @@
       "id":"342",
       "name":"İrfan Can Eğribayat",
       "position":"k",
-      "point":2
+      "point":4
    },
    {
       "id":"343",
@@ -2073,19 +2073,19 @@
       "id":"346",
       "name":"Atınç Nukan",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"347",
       "name":"Mihojevic",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"348",
       "name":"Berkan Emir",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"349",
@@ -2103,19 +2103,19 @@
       "id":"351",
       "name":"Murat Paluli",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"602",
       "name":"Yalçın Kayan",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"352",
       "name":"Guilherme",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"353",
@@ -2127,7 +2127,7 @@
       "id":"354",
       "name":"Soner Aydoğdu",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"355",
@@ -2139,13 +2139,13 @@
       "id":"356",
       "name":"Halil Akbunar",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"357",
       "name":"Napoleoni",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"358",
@@ -2199,7 +2199,7 @@
       "id":"366",
       "name":"Cherif Ndiaye",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"367",
@@ -2409,7 +2409,7 @@
       "id":"401",
       "name":"Kolovetsios",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"402",
