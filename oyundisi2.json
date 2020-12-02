@@ -343,6 +343,12 @@
 	},
 	{
 		"mevkii": "KSP",
+		"adi": "Aytaç Kara",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
 		"adi": "Eren Elmalı",
 		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
@@ -391,7 +397,7 @@
 	},
 	{
 		"mevkii": "MED",
-		"adi": "Hasan Ali",
+		"adi": "Bolingoli",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -405,12 +411,6 @@
 		"mevkii": "MED",
 		"adi": "Crivelli",
 		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MED",
-		"adi": "Mert Günok",
-		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
