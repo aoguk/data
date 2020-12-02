@@ -397,6 +397,12 @@
 	},
 	{
 		"mevkii": "MED",
+		"adi": "Visca",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
 		"adi": "Bolingoli",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
