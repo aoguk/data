@@ -1,43 +1,7 @@
 [
 	{
-		"mevkii": "GB",
-		"adi": "Johansson",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "AG",
 		"adi": "Sarlija",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "ERZ",
-		"adi": "Arturo Mina",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Pereira",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "GFK",
-		"adi": "Oğuz Ceylan",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Boldrin",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Alper Uludağ",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
@@ -54,8 +18,44 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "CRZ",
+		"adi": "Boldrin",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ERZ",
+		"adi": "Arturo Mina",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "FB",
 		"adi": "Gustavo",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GB",
+		"adi": "Johansson",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Oğuz Ceylan",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Alper Uludağ",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Pereira",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
@@ -98,6 +98,12 @@
 	{
 		"mevkii": "BJK",
 		"adi": "Gökhan Töre",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Josef",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
