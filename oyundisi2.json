@@ -12,12 +12,6 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "BJK",
-		"adi": "Larin",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "CRZ",
 		"adi": "Boldrin",
 		"aciklama": "KART CEZALISI (1)",
@@ -56,6 +50,12 @@
 	{
 		"mevkii": "TS",
 		"adi": "Pereira",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Hadergjonaj",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
