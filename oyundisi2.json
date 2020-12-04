@@ -373,6 +373,12 @@
 	},
 	{
 		"mevkii": "KSP",
+		"adi": "Koomson",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
 		"adi": "Gohou",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
