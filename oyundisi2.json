@@ -67,6 +67,12 @@
 	},
 	{
 		"mevkii": "ALS",
+		"adi": "Efecan",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ALS",
 		"adi": "Ufuk Ceylan",
 		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
