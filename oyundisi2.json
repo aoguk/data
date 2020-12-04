@@ -265,12 +265,6 @@
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Taylan",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
 		"adi": "Falcao",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -278,12 +272,6 @@
 	{
 		"mevkii": "GS",
 		"adi": "Saracchi",
-		"aciklama": "(Covid) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Arda",
 		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
