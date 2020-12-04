@@ -289,6 +289,12 @@
 	},
 	{
 		"mevkii": "KAY",
+		"adi": "Kanga",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
 		"adi": "Lung",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
