@@ -525,7 +525,7 @@
       "id":"088",
       "name":"Rosier",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"089",
@@ -627,7 +627,7 @@
       "id":"105",
       "name":"Oğuzhan",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"106",
@@ -663,7 +663,7 @@
       "id":"111",
       "name":"Aboubakar",
       "position":"f",
-      "point":4
+      "point":9
    },
    {
       "id":"112",
@@ -2715,7 +2715,7 @@
       "id":"452",
       "name":"Ramazan Köse",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"453",
@@ -2769,7 +2769,7 @@
       "id":"461",
       "name":"Feyzi Yıldırım",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"462",
