@@ -48,6 +48,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "HTY",
+		"adi": "Gökhan K.",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "AG",
 		"adi": "Diousse",
 		"aciklama": "SAKAT",
@@ -254,12 +260,6 @@
 	{
 		"mevkii": "GS",
 		"adi": "Saracchi",
-		"aciklama": "(Covid) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "HTY",
-		"adi": "Popov",
 		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
