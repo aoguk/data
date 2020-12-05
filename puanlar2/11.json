@@ -1047,7 +1047,7 @@
       "id":"175",
       "name":"Kayacan Erdoğan",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"176",
@@ -1077,7 +1077,7 @@
       "id":"180",
       "name":"Gökhan Kardeş",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"181",
@@ -1089,25 +1089,25 @@
       "id":"182",
       "name":"Osman Çelik",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"183",
       "name":"Kaan Kanak",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"184",
       "name":"Hasan Hatipoğlu",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"185",
       "name":"Murat Uçar",
       "position":"d",
-      "point":-3
+      "point":-4
    },
    {
       "id":"186",
@@ -1119,37 +1119,37 @@
       "id":"187",
       "name":"Gabriel Obertan",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"188",
       "name":"Emrah Başsan",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"189",
       "name":"Novikovas",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"190",
       "name":"İbrahim Akdağ",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"191",
       "name":"Donald",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"192",
       "name":"Boumal",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"193",
@@ -1161,13 +1161,13 @@
       "id":"194",
       "name":"Sissokko",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"195",
       "name":"Gomes",
       "position":"f",
-      "point":4
+      "point":3
    },
    {
       "id":"196",
@@ -1179,13 +1179,13 @@
       "id":"197",
       "name":"Rashad Muhammed",
       "position":"f",
-      "point":4
+      "point":3
    },
    {
       "id":"198",
       "name":"Ömer Şişmanoğlu",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"199",
@@ -2541,7 +2541,7 @@
       "id":"423",
       "name":"Sehic",
       "position":"k",
-      "point":4
+      "point":10
    },
    {
       "id":"424",
@@ -2571,13 +2571,13 @@
       "id":"428",
       "name":"Skubic",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"429",
       "name":"Ahmet Çalık",
       "position":"d",
-      "point":2
+      "point":3
    },
    {
       "id":"430",
@@ -2589,13 +2589,13 @@
       "id":"431",
       "name":"Uğur Demirok",
       "position":"d",
-      "point":12
+      "point":16
    },
    {
       "id":"432",
       "name":"Guilherme Sitya",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"433",
@@ -2607,7 +2607,7 @@
       "id":"434",
       "name":"Adil Demirbağ",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"435",
@@ -2619,13 +2619,13 @@
       "id":"436",
       "name":"Hurtado",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"437",
       "name":"Ömer Ali",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"438",
@@ -2643,13 +2643,13 @@
       "id":"440",
       "name":"Milosevic",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"441",
       "name":"Shengelia",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"442",
@@ -2661,13 +2661,13 @@
       "id":"443",
       "name":"Jevtovic",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"444",
       "name":"Hadziahmetovic",
       "position":"os",
-      "point":11
+      "point":12
    },
    {
       "id":"445",
@@ -2685,7 +2685,7 @@
       "id":"447",
       "name":"Oğuz Kağan Güçtekin",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"448",
@@ -2709,7 +2709,7 @@
       "id":"451",
       "name":"Erdon Dacı",
       "position":"f",
-      "point":4
+      "point":5
    },
    {
       "id":"452",
@@ -3375,7 +3375,7 @@
       "id":"562",
       "name":"Fofana",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"563",
