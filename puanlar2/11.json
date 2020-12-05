@@ -1659,13 +1659,13 @@
       "id":"277",
       "name":"Etebo",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"278",
       "name":"Ömer Bayram",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"279",
@@ -2289,7 +2289,7 @@
       "id":"381",
       "name":"Gökhan Karadeniz",
       "position":"os",
-      "point":1
+      "point":-2
    },
    {
       "id":"382",
