@@ -18,20 +18,8 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "ERZ",
-		"adi": "Arturo Mina",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "FB",
 		"adi": "Gustavo",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Johansson",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
@@ -42,14 +30,14 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "KON",
-		"adi": "Alper Uludağ",
+		"mevkii": "TS",
+		"adi": "Pereira",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "TS",
-		"adi": "Pereira",
+		"mevkii": "ERZ",
+		"adi": "Murat Uçar",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
