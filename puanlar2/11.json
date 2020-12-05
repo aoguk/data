@@ -411,13 +411,13 @@
       "id":"069",
       "name":"Davidson Pereira",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"070",
       "name":"Bakasetas",
       "position":"os",
-      "point":4
+      "point":9
    },
    {
       "id":"071",
@@ -459,7 +459,7 @@
       "id":"077",
       "name":"Hasan Ayaroğlu",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"078",
@@ -1875,7 +1875,7 @@
       "id":"313",
       "name":"Nordfeldt",
       "position":"k",
-      "point":4
+      "point":3
    },
    {
       "id":"314",
@@ -1887,13 +1887,13 @@
       "id":"315",
       "name":"Toure",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"316",
       "name":"Johansson",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"317",
