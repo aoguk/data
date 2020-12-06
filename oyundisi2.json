@@ -1,17 +1,5 @@
 [
 	{
-		"mevkii": "AG",
-		"adi": "Sarlija",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "ANT",
-		"adi": "Naldo",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "FB",
 		"adi": "Gustavo",
 		"aciklama": "KART CEZALISI (1)",
@@ -46,12 +34,6 @@
 		"adi": "Gökhan K.",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "AG",
-		"adi": "Diousse",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ALS",
