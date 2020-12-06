@@ -1,19 +1,7 @@
 [
 	{
-		"mevkii": "FB",
-		"adi": "Gustavo",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "GFK",
 		"adi": "Oğuz Ceylan",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Pereira",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
