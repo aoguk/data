@@ -3,7 +3,7 @@
       "id":"01",
       "name":"Ricardo Friedrich",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"02",
@@ -51,7 +51,7 @@
       "id":"09",
       "name":"Kitsiou",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"010",
@@ -81,7 +81,7 @@
       "id":"014",
       "name":"Alper Potuk",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"015",
@@ -297,7 +297,7 @@
       "id":"050",
       "name":"Gökdeniz Bayraktar",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"051",
@@ -327,13 +327,13 @@
       "id":"055",
       "name":"Jahovic",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"056",
       "name":"Podolski",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"057",
