@@ -1413,13 +1413,13 @@
       "id":"236",
       "name":"Serdar Aziz",
       "position":"d",
-      "point":6
+      "point":2
    },
    {
       "id":"237",
       "name":"Tisserand",
       "position":"d",
-      "point":10
+      "point":2
    },
    {
       "id":"238",
@@ -3465,7 +3465,7 @@
       "id":"577",
       "name":"Pantilimon",
       "position":"k",
-      "point":-1
+      "point":0
    },
    {
       "id":"578",
