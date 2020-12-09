@@ -1161,7 +1161,7 @@
       "id":"194",
       "name":"Sissokko",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"195",
@@ -1185,13 +1185,13 @@
       "id":"198",
       "name":"Ömer Şişmanoğlu",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"199",
       "name":"Oltan Karakullukçu",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"200",
@@ -2205,7 +2205,7 @@
       "id":"367",
       "name":"Munir",
       "position":"k",
-      "point":4
+      "point":3
    },
    {
       "id":"368",
@@ -2265,7 +2265,7 @@
       "id":"377",
       "name":"Helder Barbosa",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"378",
@@ -2283,7 +2283,7 @@
       "id":"380",
       "name":"Ruben Ribeiro",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"381",
