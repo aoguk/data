@@ -405,13 +405,13 @@
       "id":"068",
       "name":"Tayfur Bingöl",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"069",
       "name":"Davidson Pereira",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"070",
@@ -489,7 +489,7 @@
       "id":"082",
       "name":"Mustafa Pektemek",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"083",
@@ -2091,7 +2091,7 @@
       "id":"349",
       "name":"Alpaslan Öztürk",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"350",
