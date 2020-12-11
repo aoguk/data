@@ -2829,7 +2829,7 @@
       "id":"471",
       "name":"Kevin Varga",
       "position":"os",
-      "point":5
+      "point":11
    },
    {
       "id":"472",
@@ -3471,7 +3471,7 @@
       "id":"578",
       "name":"Cenk Gönen",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"579",
