@@ -1,29 +1,5 @@
 [
 	{
-		"mevkii": "ALS",
-		"adi": "Salih Uçan",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Serdaz A.",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "GFK",
-		"adi": "Oğuz Ceylan",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Polomat",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "FKG",
 		"adi": "N'Diaye",
 		"aciklama": "KART CEZALISI (1)",
@@ -32,6 +8,12 @@
 	{
 		"mevkii": "FKG",
 		"adi": "Erik Sabo",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "CRZ",
+		"adi": "Moroziuk",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
