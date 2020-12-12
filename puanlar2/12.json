@@ -783,7 +783,7 @@
       "id":"131",
       "name":"Boldrin",
       "position":"os",
-      "point":10
+      "point":7
    },
    {
       "id":"132",
@@ -855,7 +855,7 @@
       "id":"143",
       "name":"Yasin Pehlivan",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"144",
@@ -867,13 +867,13 @@
       "id":"145",
       "name":"Skoda",
       "position":"f",
-      "point":4
+      "point":9
    },
    {
       "id":"146",
       "name":"Kemal Rüzgar",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"147",
@@ -2049,7 +2049,7 @@
       "id":"342",
       "name":"İrfan Can Eğribayat",
       "position":"k",
-      "point":2
+      "point":6
    },
    {
       "id":"343",
@@ -2091,7 +2091,7 @@
       "id":"349",
       "name":"Alpaslan Öztürk",
       "position":"d",
-      "point":3
+      "point":1
    },
    {
       "id":"350",
@@ -2193,7 +2193,7 @@
       "id":"365",
       "name":"Brown İdeye",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"366",
@@ -2367,7 +2367,7 @@
       "id":"394",
       "name":"Doğan Alemdar",
       "position":"k",
-      "point":4
+      "point":9
    },
    {
       "id":"395",
@@ -2385,31 +2385,31 @@
       "id":"397",
       "name":"Sapunaru",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"398",
       "name":"Aziz Behich",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"399",
       "name":"Miguel Lopes",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"400",
       "name":"Attamah",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"401",
       "name":"Kolovetsios",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"402",
@@ -3087,7 +3087,7 @@
       "id":"514",
       "name":"Uğurcan",
       "position":"k",
-      "point":4
+      "point":9
    },
    {
       "id":"515",
@@ -3117,19 +3117,19 @@
       "id":"519",
       "name":"Vitor Hugo",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"520",
       "name":"Marlon",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"521",
       "name":"Ergar Le",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"522",
