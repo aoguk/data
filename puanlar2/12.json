@@ -3,7 +3,7 @@
       "id":"01",
       "name":"Ricardo Friedrich",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"02",
@@ -39,19 +39,19 @@
       "id":"07",
       "name":"Sarlija",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"08",
       "name":"Tiago Pinto",
       "position":"d",
-      "point":6
+      "point":5
    },
    {
       "id":"09",
       "name":"Kitsiou",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"010",
@@ -69,7 +69,7 @@
       "id":"012",
       "name":"Atakan Çankaya",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"013",
@@ -1491,7 +1491,7 @@
       "id":"249",
       "name":"Mert Hakan",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"250",
@@ -2571,7 +2571,7 @@
       "id":"428",
       "name":"Skubic",
       "position":"d",
-      "point":2
+      "point":6
    },
    {
       "id":"429",
@@ -2643,7 +2643,7 @@
       "id":"440",
       "name":"Milosevic",
       "position":"os",
-      "point":3
+      "point":9
    },
    {
       "id":"441",
@@ -2661,7 +2661,7 @@
       "id":"443",
       "name":"Jevtovic",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"444",
@@ -3321,7 +3321,7 @@
       "id":"553",
       "name":"Karim Hafez",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"554",
