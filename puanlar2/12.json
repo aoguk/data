@@ -3,7 +3,7 @@
       "id":"01",
       "name":"Ricardo Friedrich",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"02",
@@ -147,7 +147,7 @@
       "id":"025",
       "name":"Jonathan Bolingi",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"026",
@@ -2589,7 +2589,7 @@
       "id":"431",
       "name":"Uğur Demirok",
       "position":"d",
-      "point":1
+      "point":9
    },
    {
       "id":"432",
@@ -2643,7 +2643,7 @@
       "id":"440",
       "name":"Milosevic",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"441",
