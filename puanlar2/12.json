@@ -87,7 +87,7 @@
       "id":"015",
       "name":"Paintsil",
       "position":"os",
-      "point":0
+      "point":8
    },
    {
       "id":"016",
@@ -111,7 +111,7 @@
       "id":"019",
       "name":"Saba Lobzhanidze",
       "position":"os",
-      "point":10
+      "point":13
    },
    {
       "id":"020",
@@ -159,7 +159,7 @@
       "id":"027",
       "name":"Emre Güral",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"028",
@@ -2541,7 +2541,7 @@
       "id":"423",
       "name":"Sehic",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"424",
