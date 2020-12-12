@@ -1377,7 +1377,7 @@
       "id":"230",
       "name":"Altay Bayındır",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"231",
@@ -3321,7 +3321,7 @@
       "id":"553",
       "name":"Karim Hafez",
       "position":"d",
-      "point":1
+      "point":5
    },
    {
       "id":"554",
@@ -3405,7 +3405,7 @@
       "id":"567",
       "name":"Ndayishimiye",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"568",
