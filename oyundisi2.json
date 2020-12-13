@@ -31,6 +31,12 @@
 	},
 	{
 		"mevkii": "ALS",
+		"adi": "Babacar",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ALS",
 		"adi": "Efecan",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
