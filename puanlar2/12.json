@@ -405,7 +405,7 @@
       "id":"068",
       "name":"Tayfur Bingöl",
       "position":"d",
-      "point":3
+      "point":6
    },
    {
       "id":"069",
@@ -417,7 +417,7 @@
       "id":"070",
       "name":"Bakasetas",
       "position":"os",
-      "point":11
+      "point":17
    },
    {
       "id":"071",
@@ -447,7 +447,7 @@
       "id":"075",
       "name":"Efkan Bekiroğlu",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"076",
@@ -477,7 +477,7 @@
       "id":"080",
       "name":"Babacar",
       "position":"f",
-      "point":3
+      "point":0
    },
    {
       "id":"081",
@@ -507,7 +507,7 @@
       "id":"085",
       "name":"Utku Yuvakuran",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"086",
@@ -519,7 +519,7 @@
       "id":"087",
       "name":"Welinton",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"088",
@@ -531,7 +531,7 @@
       "id":"089",
       "name":"Montero",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"090",
@@ -555,7 +555,7 @@
       "id":"093",
       "name":"Rıdvan Yılmaz",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"094",
@@ -627,7 +627,7 @@
       "id":"105",
       "name":"Oğuzhan",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"106",
@@ -675,7 +675,7 @@
       "id":"113",
       "name":"Güven",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"114",
@@ -1833,13 +1833,13 @@
       "id":"306",
       "name":"Furkan Soyalp",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"307",
       "name":"Jefferson",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"308",
@@ -2955,7 +2955,7 @@
       "id":"492",
       "name":"Cemali Sertel",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"493",
@@ -3033,7 +3033,7 @@
       "id":"505",
       "name":"Kerim Frei",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"506",
@@ -3057,7 +3057,7 @@
       "id":"509",
       "name":"Kaan Demir",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"510",
