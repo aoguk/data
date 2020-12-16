@@ -37,12 +37,6 @@
 	},
 	{
 		"mevkii": "ALS",
-		"adi": "Efecan",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ALS",
 		"adi": "Ufuk Ceylan",
 		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
@@ -135,6 +129,12 @@
 		"mevkii": "BJK",
 		"adi": "Ljajic",
 		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Utku",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
