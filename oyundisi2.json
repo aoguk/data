@@ -1,5 +1,11 @@
 [
 	{
+		"mevkii": "FKG",
+		"adi": "Erik Sabo",
+		"aciklama": "KART CEZALISI (4)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "ALS",
 		"adi": "Babacar",
 		"aciklama": "KART CEZALISI (1)",
@@ -36,8 +42,8 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "FKG",
-		"adi": "Erik Sabo",
+		"mevkii": "GOZ",
+		"adi": "Alpaslan Ö.",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
