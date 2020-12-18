@@ -2,7 +2,19 @@
 	{
 		"mevkii": "FKG",
 		"adi": "Erik Sabo",
-		"aciklama": "KART CEZALISI (4)",
+		"aciklama": "KART CEZALISI (3)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "FKG",
+		"adi": "Enzo Roco",
+		"aciklama": "KART CEZALISI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ALS",
+		"adi": "Marcao",
+		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
 	{
@@ -32,12 +44,6 @@
 	{
 		"mevkii": "FB",
 		"adi": "Altay",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "FKG",
-		"adi": "N Diaye",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
