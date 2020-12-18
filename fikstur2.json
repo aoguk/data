@@ -2,16 +2,16 @@
   "weeks":[
       {"hafta":13,
         "fikstur":[
-        {"takim1":"fkg", "skor1":0, "takim2":"gs", "skor2":0, "finished":0},
-        {"takim1":"goz", "skor1":0, "takim2":"hty", "skor2":0, "finished":0},
-        {"takim1":"ts", "skor1":0, "takim2":"crz", "skor2":0, "finished":0},
-        {"takim1":"mlt", "skor1":0, "takim2":"ksp", "skor2":0, "finished":0},
-        {"takim1":"gfk", "skor1":0, "takim2":"fb", "skor2":0, "finished":0},
-        {"takim1":"gb", "skor1":0, "takim2":"ag", "skor2":0, "finished":0},
-        {"takim1":"dnz", "skor1":0, "takim2":"als", "skor2":0, "finished":0},
-        {"takim1":"bjk", "skor1":0, "takim2":"erz", "skor2":0, "finished":0},
-        {"takim1":"ant", "skor1":0, "takim2":"kay", "skor2":0, "finished":0}, 
-        {"takim1":"kon", "skor1":0, "takim2":"svs", "skor2":0, "finished":0}
+        {"takim1":"fkg", "skor1":19, "takim2":"gs", "skor2":00, "finished":0},
+        {"takim1":"goz", "skor1":13, "takim2":"hty", "skor2":30, "finished":0},
+        {"takim1":"ts", "skor1":16, "takim2":"crz", "skor2":00, "finished":0},
+        {"takim1":"mlt", "skor1":16, "takim2":"ksp", "skor2":00, "finished":0},
+        {"takim1":"gfk", "skor1":19, "takim2":"fb", "skor2":00, "finished":0},
+        {"takim1":"gb", "skor1":13, "takim2":"ag", "skor2":30, "finished":0},
+        {"takim1":"dnz", "skor1":16, "takim2":"als", "skor2":00, "finished":0},
+        {"takim1":"bjk", "skor1":19, "takim2":"erz", "skor2":00, "finished":0},
+        {"takim1":"ant", "skor1":19, "takim2":"kay", "skor2":00, "finished":0}, 
+        {"takim1":"kon", "skor1":19, "takim2":"svs", "skor2":00, "finished":0}
     ],
           "bay":"med"
      },
