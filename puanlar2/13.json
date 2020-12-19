@@ -1395,7 +1395,7 @@
       "id":"232",
       "name":"Ahmet Oytun Özdoğan",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"233",
@@ -1407,7 +1407,7 @@
       "id":"234",
       "name":"Novak",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"235",
@@ -1419,19 +1419,19 @@
       "id":"236",
       "name":"Serdar Aziz",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"237",
       "name":"Tisserand",
       "position":"d",
-      "point":2
+      "point":0
    },
    {
       "id":"238",
       "name":"Sangare",
       "position":"d",
-      "point":5
+      "point":4
    },
    {
       "id":"239",
@@ -1737,7 +1737,7 @@
       "id":"289",
       "name":"Djilobodji",
       "position":"d",
-      "point":2
+      "point":3
    },
    {
       "id":"290",
@@ -1821,7 +1821,7 @@
       "id":"303",
       "name":"Maxim",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"304",
