@@ -12,68 +12,14 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "ALS",
+		"mevkii": "GS",
 		"adi": "Marcao",
 		"aciklama": "KART CEZALISI (1)",
 		"durum": "cezalılar"
 	},
 	{
 		"mevkii": "ALS",
-		"adi": "Babacar",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "BJK",
-		"adi": "Rosier",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Moroziuk",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "DNZ",
-		"adi": "Bakalorz",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Altay",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "HTY",
-		"adi": "Pablo Santos",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "HTY",
-		"adi": "Gökhan K",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Jevtovic",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "MLT",
-		"adi": "Karim Hafez",
-		"aciklama": "KART CEZALISI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "ALS",
-		"adi": "Anmet Gülay",
+		"adi": "Ahmet Gülay",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -152,7 +98,7 @@
 	{
 		"mevkii": "ANT",
 		"adi": "Jean Armel",
-		"aciklama": " (5 Hafta) SAKAT",
+		"aciklama": "(5 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
