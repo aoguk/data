@@ -396,12 +396,6 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "KSP",
-		"adi": "Aytaç Kara",
-		"aciklama": "(Covid) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
 		"mevkii": "MLT",
 		"adi": "Tetteh",
 		"aciklama": "(İzinli)",
@@ -445,13 +439,7 @@
 	},
 	{
 		"mevkii": "TS",
-		"adi": "Nwakaeme",
-		"aciklama": "(%50) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Djaniny",
+		"adi": "Abdülkadir Ö.",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
