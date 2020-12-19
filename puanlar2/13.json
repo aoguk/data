@@ -813,7 +813,7 @@
       "id":"136",
       "name":"Michalak",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"137",
@@ -867,7 +867,7 @@
       "id":"145",
       "name":"Skoda",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"146",
@@ -3093,7 +3093,7 @@
       "id":"514",
       "name":"Uğurcan",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"515",
@@ -3129,7 +3129,7 @@
       "id":"520",
       "name":"Marlon",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"521",
