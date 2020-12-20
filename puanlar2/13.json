@@ -483,7 +483,7 @@
       "id":"081",
       "name":"Adam Bareiro",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"082",
@@ -3501,7 +3501,7 @@
       "id":"582",
       "name":"Laismann",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"583",
@@ -3585,7 +3585,7 @@
       "id":"596",
       "name":"Sagal",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"597",
@@ -3597,7 +3597,7 @@
       "id":"598",
       "name":"Recep Niyaz",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"599",
@@ -3615,6 +3615,6 @@
       "id":"601",
       "name":"Mesanovic",
       "position":"f",
-      "point":2
+      "point":1
    }
 ]
