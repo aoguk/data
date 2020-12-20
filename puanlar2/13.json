@@ -417,13 +417,13 @@
       "id":"070",
       "name":"Bakasetas",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"071",
       "name":"Efecan Karaca",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"072",
@@ -3579,7 +3579,7 @@
       "id":"595",
       "name":"Murawski",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"596",
