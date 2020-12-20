@@ -579,13 +579,13 @@
       "id":"097",
       "name":"N'Koudou",
       "position":"os",
-      "point":4
+      "point":10
    },
    {
       "id":"098",
       "name":"Mensah",
       "position":"os",
-      "point":3
+      "point":6
    },
    {
       "id":"099",
@@ -1041,7 +1041,7 @@
       "id":"174",
       "name":"Farnolle",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"175",
@@ -1089,25 +1089,25 @@
       "id":"182",
       "name":"Osman Çelik",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"183",
       "name":"Kaan Kanak",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"184",
       "name":"Hasan Hatipoğlu",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"185",
       "name":"Murat Uçar",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"186",
