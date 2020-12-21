@@ -331,6 +331,12 @@
 	},
 	{
 		"mevkii": "KON",
+		"adi": "Miya",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
 		"adi": "Kravets",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
