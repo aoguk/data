@@ -247,6 +247,12 @@
 	},
 	{
 		"mevkii": "GOZ",
+		"adi": "Alpaslan Öztürk",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GOZ",
 		"adi": "İrfan Can",
 		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
