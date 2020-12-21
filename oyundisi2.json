@@ -319,18 +319,6 @@
 	},
 	{
 		"mevkii": "KAY",
-		"adi": "Campanharo",
-		"aciklama": "(3 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAY",
-		"adi": "Kanga",
-		"aciklama": "(3 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAY",
 		"adi": "İsmail Çipe",
 		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
@@ -390,12 +378,6 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "KON",
-		"adi": "Daci",
-		"aciklama": "(Covid) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
 		"mevkii": "KSP",
 		"adi": "Koomson",
 		"aciklama": "SAKAT",
@@ -434,18 +416,6 @@
 	{
 		"mevkii": "MED",
 		"adi": "Caiçara",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Ziya Erdal",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Erdoğan Y",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
