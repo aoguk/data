@@ -115,6 +115,12 @@
 	},
 	{
 		"mevkii": "CRZ",
+		"adi": "Boldrin",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "CRZ",
 		"adi": "Remy",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -337,6 +343,12 @@
 	},
 	{
 		"mevkii": "KON",
+		"adi": "Alper Uludağ",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
 		"adi": "Miya",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -416,7 +428,7 @@
 	{
 		"mevkii": "MED",
 		"adi": "Visca",
-		"aciklama": "SAKAT",
+		"aciklama": "(%50) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
