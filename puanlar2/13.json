@@ -225,7 +225,7 @@
       "id":"038",
       "name":"Eren Albayrak",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"039",
@@ -273,7 +273,7 @@
       "id":"046",
       "name":"Hakan Özmert",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"047",
@@ -297,7 +297,7 @@
       "id":"050",
       "name":"Gökdeniz Bayraktar",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"051",
@@ -909,7 +909,7 @@
       "id":"152",
       "name":"Ziya Erdal",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"153",
@@ -2487,7 +2487,7 @@
       "id":"413",
       "name":"Campanharo",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"414",
