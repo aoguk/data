@@ -91,19 +91,7 @@
 	},
 	{
 		"mevkii": "ANT",
-		"adi": "Veysel Sarı",
-		"aciklama": "(1 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ANT",
 		"adi": "Bahadır Ö",
-		"aciklama": "(2 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ANT",
-		"adi": "Doğukan S",
 		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
@@ -163,6 +151,12 @@
 	},
 	{
 		"mevkii": "DNZ",
+		"adi": "Pantilimon",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "DNZ",
 		"adi": "Özgür Çek",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -189,12 +183,6 @@
 		"mevkii": "DNZ",
 		"adi": "Oğuz Yılmaz",
 		"aciklama": "(3 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Ademi",
-		"aciklama": "(%25) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -231,24 +219,6 @@
 		"mevkii": "FB",
 		"adi": "Ozan Tufan",
 		"aciklama": "(Covid) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FKG",
-		"adi": "Salibur",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FKG",
-		"adi": "Lichaj",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FKG",
-		"adi": "Jimmy Durmaz",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -307,14 +277,20 @@
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Babel",
-		"aciklama": "(%25) SAKAT",
+		"adi": "Muslera",
+		"aciklama": "(3 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Muslera",
-		"aciklama": "(3 Hafta) SAKAT",
+		"adi": "Emre Taşdemir",
+		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Babel",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -325,7 +301,7 @@
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Kerem A",
+		"adi": "Kerem A.",
 		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
@@ -439,13 +415,19 @@
 	},
 	{
 		"mevkii": "MED",
-		"adi": "Visca",
-		"aciklama": "(%50) SAKAT",
+		"adi": "Caiçara",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "MED",
-		"adi": "Caiçara",
+		"adi": "Skrtel",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
+		"adi": "Aleksic",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -457,8 +439,20 @@
 	},
 	{
 		"mevkii": "TS",
-		"adi": "Abdülkadir Ö.",
+		"adi": "Ekuban",
 		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Trondsen",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Abdülkadir Ö.",
+		"aciklama": "(Covid) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
