@@ -529,6 +529,12 @@
 	},
 	{
 		"mevkii": "GOZ",
+		"adi": "Guilherme",
+		"aciklama": "Kadro Dışı",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "GOZ",
 		"adi": "Poko",
 		"aciklama": "Sözleşme Feshi",
 		"durum": "kadro dışı"
