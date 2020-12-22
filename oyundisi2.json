@@ -349,12 +349,6 @@
 	},
 	{
 		"mevkii": "KON",
-		"adi": "Alper Uludağ",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KON",
 		"adi": "Miya",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -393,6 +387,12 @@
 		"mevkii": "KON",
 		"adi": "Anicic",
 		"aciklama": "(14 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Alper Uludağ",
+		"aciklama": "(6 Ay) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
