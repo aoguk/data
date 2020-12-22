@@ -12,8 +12,32 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "FKG",
+		"adi": "Sobiech",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Altay Bayındır",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Pelkas",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "GS",
 		"adi": "Marcao",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GB",
+		"adi": "Paris Da Motta",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
