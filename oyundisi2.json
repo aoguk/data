@@ -337,6 +337,12 @@
 	},
 	{
 		"mevkii": "KSP",
+		"adi": "Tarkan Serbest",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
 		"adi": "Koomson",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -368,18 +374,6 @@
 	{
 		"mevkii": "MED",
 		"adi": "Caiçara",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MED",
-		"adi": "Skrtel",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MED",
-		"adi": "Aleksic",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
