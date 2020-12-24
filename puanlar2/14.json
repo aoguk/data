@@ -897,7 +897,7 @@
       "id":"150",
       "name":"Goiano",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"151",
@@ -909,7 +909,7 @@
       "id":"152",
       "name":"Ziya Erdal",
       "position":"d",
-      "point":0
+      "point":3
    },
    {
       "id":"153",
@@ -921,13 +921,13 @@
       "id":"154",
       "name":"Appindangoye",
       "position":"d",
-      "point":3
+      "point":4
    },
    {
       "id":"155",
       "name":"Uğur Çiftçi",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"156",
@@ -939,7 +939,7 @@
       "id":"157",
       "name":"Max Gradel",
       "position":"os",
-      "point":13
+      "point":14
    },
    {
       "id":"158",
@@ -951,19 +951,19 @@
       "id":"159",
       "name":"Yasin Öztekin",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"160",
       "name":"Jorge Felix",
       "position":"os",
-      "point":0
+      "point":3
    },
    {
       "id":"161",
       "name":"Robin Yalçın",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"162",
@@ -975,13 +975,13 @@
       "id":"163",
       "name":"Fayçal Fajr",
       "position":"os",
-      "point":7
+      "point":8
    },
    {
       "id":"164",
       "name":"Hakan Arslan",
       "position":"os",
-      "point":10
+      "point":11
    },
    {
       "id":"165",
@@ -993,13 +993,13 @@
       "id":"166",
       "name":"Erdoğan Yeşilyurt",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"167",
       "name":"Claudemir",
       "position":"os",
-      "point":7
+      "point":8
    },
    {
       "id":"168",
@@ -1023,13 +1023,13 @@
       "id":"171",
       "name":"Yatabare",
       "position":"f",
-      "point":7
+      "point":8
    },
    {
       "id":"172",
       "name":"Kayode",
       "position":"f",
-      "point":4
+      "point":5
    },
    {
       "id":"173",
@@ -1881,7 +1881,7 @@
       "id":"313",
       "name":"Nordfeldt",
       "position":"k",
-      "point":3
+      "point":0
    },
    {
       "id":"314",
@@ -1911,7 +1911,7 @@
       "id":"318",
       "name":"Halil İbrahim",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"319",
@@ -1923,13 +1923,13 @@
       "id":"320",
       "name":"Polomat",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"321",
       "name":"Ömürcan",
       "position":"d",
-      "point":2
+      "point":5
    },
    {
       "id":"322",
@@ -1947,31 +1947,31 @@
       "id":"324",
       "name":"Arda Kızıldağ",
       "position":"d",
-      "point":2
+      "point":9
    },
    {
       "id":"325",
       "name":"Floyd Ayit",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"326",
       "name":"Candeias",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"327",
       "name":"Dominik Furman",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"328",
       "name":"Murat Yıldırım",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"329",
@@ -1983,13 +1983,13 @@
       "id":"330",
       "name":"Mustafa Hüseyin",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"331",
       "name":"Sefa Yılmaz",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"332",
@@ -2001,31 +2001,31 @@
       "id":"333",
       "name":"Mustafa Çeçenoğlu",
       "position":"os",
-      "point":0
+      "point":1
    },
    {
       "id":"334",
       "name":"Berat Ayberk",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"335",
       "name":"Rahmetullah",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"336",
       "name":"Stancu",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"337",
       "name":"Giovanni Sio",
       "position":"f",
-      "point":4
+      "point":3
    },
    {
       "id":"338",
