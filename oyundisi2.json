@@ -277,6 +277,12 @@
 	},
 	{
 		"mevkii": "KAY",
+		"adi": "Attamah",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
 		"adi": "Ömer Uzun",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
