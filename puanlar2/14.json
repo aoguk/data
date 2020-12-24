@@ -27,7 +27,7 @@
       "id":"05",
       "name":"Erdi Dikmen",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"06",
@@ -76,6 +76,12 @@
       "name":"Cebrail Karayel",
       "position":"d",
       "point":0
+   },
+   {
+      "id":"603",
+      "name":"Şahverdi",
+      "position":"os",
+      "point":2
    },
    {
       "id":"014",
@@ -327,7 +333,7 @@
       "id":"055",
       "name":"Jahovic",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"056",
@@ -771,7 +777,7 @@
       "id":"129",
       "name":"Samudio",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"130",
