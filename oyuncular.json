@@ -82,6 +82,12 @@
 			},
 			{
 				"team": "ag",
+				"name": "Şahverdi",
+				"pozisyon": "os",
+				"id": "603"
+			},
+			{
+				"team": "ag",
 				"name": "Alper Potuk",
 				"pozisyon": "os",
 				"id": "014"
