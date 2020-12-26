@@ -30,6 +30,18 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "AG",
+		"adi": "Kitsiou",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "AG",
+		"adi": "Emre Güral",
+		"aciklama": "(4 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "ALS",
 		"adi": "Ahmet Gülay",
 		"aciklama": "SAKAT",
@@ -81,6 +93,12 @@
 		"mevkii": "ANT",
 		"adi": "Serdar Gürler",
 		"aciklama": "(7 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Aboubakar",
+		"aciklama": "İzinli",
 		"durum": "sakatlar"
 	},
 	{
@@ -247,6 +265,12 @@
 	},
 	{
 		"mevkii": "GS",
+		"adi": "Diagne",
+		"aciklama": "İzinli",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
 		"adi": "Muslera",
 		"aciklama": "(3 Hafta) SAKAT",
 		"durum": "sakatlar"
@@ -314,12 +338,6 @@
 	{
 		"mevkii": "KON",
 		"adi": "Miya",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Kravets",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -403,6 +421,12 @@
 	},
 	{
 		"mevkii": "TS",
+		"adi": "Ekuban",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
 		"adi": "Trondsen",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -420,7 +444,6 @@
 		"durum": "kadro dışı"
 	},
 	{
-		"mevkii": "BJK",
 		"adi": "Tyler Boyd",
 		"aciklama": "Kadro Dışı",
 		"durum": "kadro dışı"
