@@ -181,6 +181,12 @@
 	},
 	{
 		"mevkii": "DNZ",
+		"adi": "Sagal",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "DNZ",
 		"adi": "Özgür Çek",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
