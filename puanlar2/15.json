@@ -51,7 +51,7 @@
       "id":"09",
       "name":"Kitsiou",
       "position":"d",
-      "point":2
+      "point":6
    },
    {
       "id":"010",
@@ -135,7 +135,7 @@
       "id":"022",
       "name":"Daniel Lukasik",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"023",
@@ -1131,7 +1131,7 @@
       "id":"188",
       "name":"Emrah Başsan",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"189",
@@ -1173,7 +1173,7 @@
       "id":"195",
       "name":"Gomes",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"196",
@@ -3297,7 +3297,7 @@
       "id":"547",
       "name":"Ertaç",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"548",
@@ -3495,7 +3495,7 @@
       "id":"580",
       "name":"Hüseyin Altıntaş",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"581",
