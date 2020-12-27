@@ -81,7 +81,7 @@
       "id":"603",
       "name":"Şahverdi",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"014",
@@ -159,7 +159,7 @@
       "id":"026",
       "name":"Börven",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"027",
@@ -1113,7 +1113,7 @@
       "id":"185",
       "name":"Murat Uçar",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"186",
@@ -1155,7 +1155,7 @@
       "id":"192",
       "name":"Boumal",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"193",
