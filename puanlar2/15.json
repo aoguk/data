@@ -2733,7 +2733,7 @@
       "id":"453",
       "name":"Ertuğrul Taşkıran",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"454",
@@ -2757,19 +2757,19 @@
       "id":"457",
       "name":"Hadergjonaj",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"458",
       "name":"Tirpan",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"459",
       "name":"Haddadi",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"460",
@@ -2787,7 +2787,7 @@
       "id":"462",
       "name":"Brecka",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"463",
@@ -3003,7 +3003,7 @@
       "id":"498",
       "name":"Visca",
       "position":"os",
-      "point":7
+      "point":13
    },
    {
       "id":"499",
