@@ -31,12 +31,6 @@
 	},
 	{
 		"mevkii": "AG",
-		"adi": "Kitsiou",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "AG",
 		"adi": "Pazdan",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -152,12 +146,6 @@
 	{
 		"mevkii": "DNZ",
 		"adi": "Subotic",
-		"aciklama": "(1 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "DNZ",
-		"adi": "Dossevi",
 		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
