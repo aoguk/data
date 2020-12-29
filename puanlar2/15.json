@@ -177,7 +177,7 @@
       "id":"029",
       "name":"Ruud Boffin",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"030",
@@ -2235,7 +2235,7 @@
       "id":"370",
       "name":"Popov",
       "position":"d",
-      "point":2
+      "point":6
    },
    {
       "id":"371",
@@ -2355,7 +2355,7 @@
       "id":"390",
       "name":"Aaron Boupendza",
       "position":"f",
-      "point":12
+      "point":19
    },
    {
       "id":"391",
