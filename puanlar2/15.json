@@ -177,7 +177,7 @@
       "id":"029",
       "name":"Ruud Boffin",
       "position":"k",
-      "point":-2
+      "point":-3
    },
    {
       "id":"030",
@@ -219,7 +219,7 @@
       "id":"036",
       "name":"Bünyamin Balcı",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"037",
@@ -231,7 +231,7 @@
       "id":"038",
       "name":"Eren Albayrak",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"039",
@@ -2283,7 +2283,7 @@
       "id":"378",
       "name":"Babajide David",
       "position":"os",
-      "point":8
+      "point":11
    },
    {
       "id":"379",
@@ -2355,7 +2355,7 @@
       "id":"390",
       "name":"Aaron Boupendza",
       "position":"f",
-      "point":19
+      "point":24
    },
    {
       "id":"391",
