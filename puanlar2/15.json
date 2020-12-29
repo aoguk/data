@@ -207,7 +207,7 @@
       "id":"034",
       "name":"Naldo",
       "position":"d",
-      "point":0
+      "point":-1
    },
    {
       "id":"035",
@@ -2247,7 +2247,7 @@
       "id":"372",
       "name":"Katranis",
       "position":"d",
-      "point":6
+      "point":5
    },
    {
       "id":"373",
