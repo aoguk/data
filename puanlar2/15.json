@@ -177,7 +177,7 @@
       "id":"029",
       "name":"Ruud Boffin",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"030",
@@ -201,13 +201,13 @@
       "id":"033",
       "name":"Kudryashov",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"034",
       "name":"Naldo",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"035",
@@ -225,7 +225,7 @@
       "id":"037",
       "name":"Ersan Gülüm",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"038",
@@ -243,7 +243,7 @@
       "id":"040",
       "name":"Mert Yılmaz",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"041",
@@ -2247,7 +2247,7 @@
       "id":"372",
       "name":"Katranis",
       "position":"d",
-      "point":2
+      "point":6
    },
    {
       "id":"373",
@@ -2355,7 +2355,7 @@
       "id":"390",
       "name":"Aaron Boupendza",
       "position":"f",
-      "point":7
+      "point":12
    },
    {
       "id":"391",
