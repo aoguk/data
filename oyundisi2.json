@@ -1,5 +1,11 @@
 [
 	{
+		"mevkii": "ERZ",
+		"adi": "İbrahim Akdağ",
+		"aciklama": "CEZALI (3)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "GB",
 		"adi": "Gökhan Karadeniz",
 		"aciklama": "CEZALI (2)",
@@ -26,6 +32,12 @@
 	{
 		"mevkii": "CRZ",
 		"adi": "Hakan Arslan",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "MED",
+		"adi": "İrfan Can",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
