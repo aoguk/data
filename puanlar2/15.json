@@ -177,7 +177,7 @@
       "id":"029",
       "name":"Ruud Boffin",
       "position":"k",
-      "point":-1
+      "point":-2
    },
    {
       "id":"030",
@@ -201,13 +201,13 @@
       "id":"033",
       "name":"Kudryashov",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"034",
       "name":"Naldo",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"035",
@@ -2283,7 +2283,7 @@
       "id":"378",
       "name":"Babajide David",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"379",
@@ -2349,7 +2349,7 @@
       "id":"389",
       "name":"Mame Diouf",
       "position":"f",
-      "point":2
+      "point":5
    },
    {
       "id":"390",
