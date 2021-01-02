@@ -175,6 +175,12 @@
 	},
 	{
 		"mevkii": "DNZ",
+		"adi": "Mustafa Yumlu",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "DNZ",
 		"adi": "Subotic",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
