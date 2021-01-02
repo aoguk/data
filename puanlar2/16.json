@@ -897,7 +897,7 @@
       "id":"149",
       "name":"Ali Şaşal Vural",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"150",
@@ -909,7 +909,7 @@
       "id":"151",
       "name":"Caner O.",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"152",
@@ -927,13 +927,13 @@
       "id":"154",
       "name":"Appindangoye",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"155",
       "name":"Uğur Çiftçi",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"156",
@@ -3603,7 +3603,7 @@
       "id":"598",
       "name":"Recep Niyaz",
       "position":"os",
-      "point":4
+      "point":7
    },
    {
       "id":"599",
@@ -3621,6 +3621,6 @@
       "id":"601",
       "name":"Mesanovic",
       "position":"f",
-      "point":3
+      "point":8
    }
 ]
