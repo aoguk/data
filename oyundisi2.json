@@ -42,6 +42,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "MED",
+		"adi": "Rafael",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "ALS",
 		"adi": "Babacar",
 		"aciklama": "SAKAT",
