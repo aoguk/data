@@ -6,7 +6,7 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "GB",
+		"mevkii": "HTY",
 		"adi": "Gökhan Karadeniz",
 		"aciklama": "CEZALI (2)",
 		"durum": "cezalılar"
@@ -24,7 +24,7 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "GFK",
+		"mevkii": "GS",
 		"adi": "Taylan",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
@@ -56,12 +56,6 @@
 	{
 		"mevkii": "SVS",
 		"adi": "Hakan Arslan",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "MED",
-		"adi": "İrfan Can",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
