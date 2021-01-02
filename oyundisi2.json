@@ -2,25 +2,13 @@
 	{
 		"mevkii": "ERZ",
 		"adi": "İbrahim Akdağ",
-		"aciklama": "CEZALI (3)",
+		"aciklama": "CEZALI (2)",
 		"durum": "cezalılar"
 	},
 	{
 		"mevkii": "HTY",
 		"adi": "Gökhan Karadeniz",
 		"aciklama": "CEZALI (2)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "ERZ",
-		"adi": "Hasan Hatipoğlu",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "GFK",
-		"adi": "Maxim",
-		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
 	{
@@ -50,12 +38,6 @@
 	{
 		"mevkii": "CRZ",
 		"adi": "Yasin Pehlivan",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Hakan Arslan",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
