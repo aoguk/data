@@ -687,7 +687,7 @@
       "id":"114",
       "name":"Gökhan Akkan",
       "position":"k",
-      "point":2
+      "point":3
    },
    {
       "id":"115",
@@ -717,25 +717,25 @@
       "id":"119",
       "name":"Moroziuk",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"120",
       "name":"İsmail Köybaşı",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"121",
       "name":"Talbi",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"122",
       "name":"Meriah",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"123",
@@ -777,13 +777,13 @@
       "id":"129",
       "name":"Samudio",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"130",
       "name":"Andrade",
       "position":"os",
-      "point":1
+      "point":3
    },
    {
       "id":"131",
@@ -801,7 +801,7 @@
       "id":"133",
       "name":"Tunay Torun",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"134",
@@ -813,7 +813,7 @@
       "id":"135",
       "name":"Donsah",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"136",
@@ -825,7 +825,7 @@
       "id":"137",
       "name":"Baiano",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"138",
@@ -873,7 +873,7 @@
       "id":"145",
       "name":"Skoda",
       "position":"f",
-      "point":7
+      "point":9
    },
    {
       "id":"146",
@@ -1887,7 +1887,7 @@
       "id":"313",
       "name":"Nordfeldt",
       "position":"k",
-      "point":1
+      "point":3
    },
    {
       "id":"314",
@@ -1899,7 +1899,7 @@
       "id":"315",
       "name":"Toure",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"316",
@@ -1929,7 +1929,7 @@
       "id":"320",
       "name":"Polomat",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"321",
@@ -1953,7 +1953,7 @@
       "id":"324",
       "name":"Arda Kızıldağ",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"325",
@@ -1965,7 +1965,7 @@
       "id":"326",
       "name":"Candeias",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"327",
@@ -1983,7 +1983,7 @@
       "id":"329",
       "name":"Piris Da Motta",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"330",
@@ -1995,13 +1995,13 @@
       "id":"331",
       "name":"Sefa Yılmaz",
       "position":"os",
-      "point":1
+      "point":3
    },
    {
       "id":"332",
       "name":"Soner Dikmen",
       "position":"os",
-      "point":2
+      "point":10
    },
    {
       "id":"333",
