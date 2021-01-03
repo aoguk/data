@@ -729,13 +729,13 @@
       "id":"121",
       "name":"Talbi",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"122",
       "name":"Meriah",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"123",
@@ -783,7 +783,7 @@
       "id":"130",
       "name":"Andrade",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"131",
@@ -1977,7 +1977,7 @@
       "id":"328",
       "name":"Murat Yıldırım",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"329",
@@ -1995,7 +1995,7 @@
       "id":"331",
       "name":"Sefa Yılmaz",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"332",
@@ -2007,7 +2007,7 @@
       "id":"333",
       "name":"Mustafa Çeçenoğlu",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"334",
@@ -2019,7 +2019,7 @@
       "id":"335",
       "name":"Rahmetullah",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"336",
