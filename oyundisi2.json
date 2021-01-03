@@ -378,6 +378,12 @@
 	},
 	{
 		"mevkii": "GS",
+		"adi": "Falcao",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
 		"adi": "Omar",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
