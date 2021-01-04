@@ -9,7 +9,8 @@
 		"mevkii": "FKG",
 		"adi": "Erik Sabo",
 		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"	},
+		"durum": "cezalılar"
+        },
 	{
 		"mevkii": "HTY",
 		"adi": "Gökhan Karadeniz",
@@ -138,12 +139,6 @@
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Josef de Souza",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "BJK",
 		"adi": "Gökhan Töre",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -263,12 +258,6 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "FB",
-		"adi": "Ozan Tufan",
-		"aciklama": "(Covid) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
 		"mevkii": "FKG",
 		"adi": "Lichac",
 		"aciklama": "SAKAT",
@@ -290,18 +279,6 @@
 		"mevkii": "FKG",
 		"adi": "Jorquera",
 		"aciklama": "(13 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Diego Angelo",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Polomat",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -420,18 +397,6 @@
 	},
 	{
 		"mevkii": "KAY",
-		"adi": "Miguel Lopes",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAY",
-		"adi": "Alibec",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAY",
 		"adi": "Ömer Uzun",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -446,12 +411,6 @@
 		"mevkii": "KAY",
 		"adi": "Lung",
 		"aciklama": "(1 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Cikalleshi",
-		"aciklama": "(%50) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
