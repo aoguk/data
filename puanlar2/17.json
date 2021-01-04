@@ -1284,6 +1284,12 @@
       "point":0
    },
    {
+      "id":"604",
+      "name":"Emre Çolak",
+      "position":"os",
+      "point":0
+   },
+   {
       "id":"213",
       "name":"Salibur",
       "position":"os",
@@ -1359,12 +1365,6 @@
       "id":"225",
       "name":"Aksel Aktaş",
       "position":"os",
-      "point":0
-   },
-   {
-      "id":"226",
-      "name":"Yannis Salibur",
-      "position":"f",
       "point":0
    },
    {
