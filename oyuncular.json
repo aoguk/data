@@ -1329,6 +1329,12 @@
 			},
 			{
 				"team": "fkg",
+				"name": "Emre Çolak",
+				"pozisyon": "os",
+				"id": "604"
+			},
+			{
+				"team": "fkg",
 				"name": "Salibur",
 				"pozisyon": "os",
 				"id": "213"
@@ -1408,7 +1414,7 @@
 			{
 				"team": "fkg",
 				"name": "Yannis Salibur",
-				"pozisyon": "f",
+				"pozisyon": "os",
 				"id": "226"
 			},
 			{
