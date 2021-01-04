@@ -1479,7 +1479,7 @@
       "id":"245",
       "name":"Thiam",
       "position":"os",
-      "point":8
+      "point":14
    },
    {
       "id":"246",
@@ -1515,7 +1515,7 @@
       "id":"251",
       "name":"Pelkas",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"252",
@@ -2727,7 +2727,7 @@
       "id":"452",
       "name":"Ramazan Köse",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"453",
@@ -2757,19 +2757,19 @@
       "id":"457",
       "name":"Hadergjonaj",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"458",
       "name":"Tirpan",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"459",
       "name":"Haddadi",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"460",
@@ -2787,7 +2787,7 @@
       "id":"462",
       "name":"Brecka",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"463",
