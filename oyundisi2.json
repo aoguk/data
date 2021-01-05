@@ -12,18 +12,6 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "AG",
-		"adi": "Kitsiou",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Cofie",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "CRZ",
 		"adi": "Yasin Pehlivan",
 		"aciklama": "CEZALI (1)",
@@ -38,12 +26,6 @@
 	{
 		"mevkii": "MED",
 		"adi": "Rafael",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "MLT",
-		"adi": "Karim Hafez",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
@@ -63,29 +45,23 @@
 		"mevkii": "GS",
 		"adi": "Marcao",
 		"aciklama": "CEZALI (1)",
-		"durum": "sakatlar"
+		"durum": "cezalılar"
 	},
 	{
 		"mevkii": "GS",
 		"adi": "Arda Turan",
 		"aciklama": "CEZALI (1)",
-		"durum": "sakatlar"
+		"durum": "cezalılar"
 	},
 	{
 		"mevkii": "KAY",
 		"adi": "Miguel Lopes",
 		"aciklama": "CEZALI (1)",
-		"durum": "sakatlar"
+		"durum": "cezalılar"
 	},
 	{
 		"mevkii": "ANT",
 		"adi": "Fredy",
-		"aciklama": "CEZALI (1)",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GFK",
-		"adi": "Mirallas",
 		"aciklama": "CEZALI (1)",
 		"durum": "sakatlar"
 	},
