@@ -255,7 +255,7 @@
       "id":"042",
       "name":"Nuri Şahin",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"043",
@@ -279,7 +279,7 @@
       "id":"046",
       "name":"Hakan Özmert",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"047",
@@ -1203,7 +1203,7 @@
       "id":"200",
       "name":"Viviano",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"201",
@@ -1281,7 +1281,7 @@
       "id":"211",
       "name":"Koray Altınay",
       "position":"d",
-      "point":2
+      "point":0
    },
    {
       "id":"212",
