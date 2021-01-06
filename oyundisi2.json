@@ -24,12 +24,6 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "DNZ",
-		"adi": "Murawski",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "MED",
 		"adi": "Rafael",
 		"aciklama": "CEZALI (1)",
@@ -38,12 +32,6 @@
 	{
 		"mevkii": "GB",
 		"adi": "Murat Yıldırım",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "KAY",
-		"adi": "Miguel Lopes",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
@@ -351,12 +339,6 @@
 		"mevkii": "GS",
 		"adi": "Muslera",
 		"aciklama": "(4 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAY",
-		"adi": "Manuel Fernandes",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
