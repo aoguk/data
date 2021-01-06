@@ -1269,6 +1269,12 @@
 			},
 			{
 				"team": "fkg",
+				"name": "Gaston Campi",
+				"pozisyon": "d",
+				"id": "523"
+			},
+			{
+				"team": "fkg",
 				"name": "Enzo Roco",
 				"pozisyon": "d",
 				"id": "204"
@@ -3264,12 +3270,6 @@
 				"name": "Majid Hosseini",
 				"pozisyon": "d",
 				"id": "522"
-			},
-			{
-				"team": "ts",
-				"name": "Gaston Campi",
-				"pozisyon": "d",
-				"id": "523"
 			},
 			{
 				"team": "ts",
