@@ -663,7 +663,7 @@
       "id":"110",
       "name":"Kartal Yılmaz",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"111",
@@ -675,19 +675,19 @@
       "id":"112",
       "name":"Larin",
       "position":"f",
-      "point":21
+      "point":26
    },
    {
       "id":"113",
       "name":"Güven",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"114",
       "name":"Gökhan Akkan",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"115",
