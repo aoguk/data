@@ -253,8 +253,26 @@
 	},
 	{
 		"mevkii": "GFK",
-		"adi": "Andre Sousa",
+		"adi": "Maxim",
 		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Andre Sousa",
+		"aciklama": "(4 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Dicko",
+		"aciklama": "(6 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Kana Bıyık",
+		"aciklama": "(6 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
