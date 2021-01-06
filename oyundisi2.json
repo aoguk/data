@@ -4,42 +4,6 @@
 		"adi": "Tosca",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
-        },
-	{
-		"mevkii": "FKG",
-		"adi": "Erik Sabo",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-        },
-	{
-		"mevkii": "HTY",
-		"adi": "Gökhan Karadeniz",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Yasin Pehlivan",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "MED",
-		"adi": "Rafael",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Murat Yıldırım",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "ANT",
-		"adi": "Fredy",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
 	},
 	{
 		"mevkii": "ALS",
@@ -205,12 +169,6 @@
 	},
 	{
 		"mevkii": "ERZ",
-		"adi": "Osman Çelik",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ERZ",
 		"adi": "Mina",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -267,12 +225,6 @@
 		"mevkii": "FKG",
 		"adi": "Jorquera",
 		"aciklama": "(13 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Ayite",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -440,7 +392,7 @@
 	{
 		"mevkii": "MED",
 		"adi": "Mert Günok",
-		"aciklama": "Oynayabilir",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
