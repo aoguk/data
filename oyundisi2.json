@@ -97,12 +97,6 @@
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Aboubakar",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "BJK",
 		"adi": "Ghezzal",
 		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
@@ -121,14 +115,8 @@
 	},
 	{
 		"mevkii": "CRZ",
-		"adi": "Melnijak",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "CRZ",
 		"adi": "Remy",
-		"aciklama": "Oynayabilir",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -207,12 +195,6 @@
 		"mevkii": "FB",
 		"adi": "Perotti",
 		"aciklama": "(2 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FKG",
-		"adi": "Biglia",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
