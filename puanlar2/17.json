@@ -1224,6 +1224,12 @@
       "point":0
    },
    {
+      "id":"523",
+      "name":"Gaston Campi",
+      "position":"d",
+      "point":0
+   },
+   {
       "id":"204",
       "name":"Enzo Roco",
       "position":"d",
@@ -3154,12 +3160,6 @@
       "name":"Majid Hosseini",
       "position":"d",
       "point":7
-   },
-   {
-      "id":"523",
-      "name":"Gaston Campi",
-      "position":"d",
-      "point":0
    },
    {
       "id":"524",
