@@ -1275,6 +1275,12 @@
 			},
 			{
 				"team": "fkg",
+				"name": "Hedenstad",
+				"pozisyon": "d",
+				"id": "606"
+			},
+			{
+				"team": "fkg",
 				"name": "Enzo Roco",
 				"pozisyon": "d",
 				"id": "204"
