@@ -18,8 +18,26 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "ALS",
+		"adi": "Tzavellas",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Ömer Bayram",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "GS",
 		"adi": "Emre Kılınç",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Morais",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
@@ -40,6 +58,24 @@
 		"adi": "Abdülkerim",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GB",
+		"adi": "Giovanni Sio",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GOZ",
+		"adi": "Nwobodo",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Henrique",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ALS",
