@@ -1326,6 +1326,12 @@
       "point":0
    },
    {
+      "id":"607",
+      "name":"Bertolacci",
+      "position":"os",
+      "point":0
+   },
+   {
       "id":"216",
       "name":"Jorquera",
       "position":"os",
@@ -2024,12 +2030,6 @@
    {
       "id":"333",
       "name":"Mustafa Çeçenoğlu",
-      "position":"os",
-      "point":0
-   },
-   {
-      "id":"334",
-      "name":"Berat Ayberk",
       "position":"os",
       "point":0
    },
@@ -3236,6 +3236,12 @@
    {
       "id":"535",
       "name":"Bilal Başakçıoğlu",
+      "position":"os",
+      "point":0
+   },
+   {
+      "id":"334",
+      "name":"Berat Ayberk",
       "position":"os",
       "point":0
    },
