@@ -1371,6 +1371,12 @@
 			},
 			{
 				"team": "fkg",
+				"name": "Bertolacci",
+				"pozisyon": "os",
+				"id": "607"
+			},
+			{
+				"team": "fkg",
 				"name": "Jorquera",
 				"pozisyon": "os",
 				"id": "216"
@@ -2094,12 +2100,6 @@
 				"name": "Mustafa Çeçenoğlu",
 				"pozisyon": "os",
 				"id": "333"
-			},
-			{
-				"team": "gb",
-				"name": "Berat Ayberk",
-				"pozisyon": "os",
-				"id": "334"
 			},
 			{
 				"team": "gb",
@@ -3348,6 +3348,12 @@
 				"name": "Bilal Başakçıoğlu",
 				"pozisyon": "os",
 				"id": "535"
+			},
+			{
+				"team": "ts",
+				"name": "Berat Ayberk",
+				"pozisyon": "os",
+				"id": "334"
 			},
 			{
 				"team": "ts",
