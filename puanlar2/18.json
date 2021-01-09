@@ -1665,7 +1665,7 @@
       "id":"272",
       "name":"Belhanda",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"273",
@@ -1689,7 +1689,7 @@
       "id":"276",
       "name":"Arda Turan",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"277",
@@ -1917,19 +1917,19 @@
       "id":"314",
       "name":"Übeyd Adıyaman",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"315",
       "name":"Toure",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"316",
       "name":"Johansson",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"317",
@@ -1953,7 +1953,7 @@
       "id":"320",
       "name":"Polomat",
       "position":"d",
-      "point":2
+      "point":0
    },
    {
       "id":"321",
@@ -1977,13 +1977,13 @@
       "id":"324",
       "name":"Arda Kızıldağ",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"325",
       "name":"Floyd Ayit",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"326",
