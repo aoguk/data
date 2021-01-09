@@ -2397,7 +2397,7 @@
       "id":"394",
       "name":"Doğan Alemdar",
       "position":"k",
-      "point":2
+      "point":4
    },
    {
       "id":"395",
@@ -2415,13 +2415,13 @@
       "id":"397",
       "name":"Sapunaru",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"398",
       "name":"Aziz Behich",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"399",
@@ -2439,7 +2439,7 @@
       "id":"401",
       "name":"Kolovetsios",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"402",
@@ -2469,7 +2469,7 @@
       "id":"406",
       "name":"Aaron Lennon",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"407",
@@ -2493,13 +2493,13 @@
       "id":"410",
       "name":"Zoran Kvrzic",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"411",
       "name":"Avramovski",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"412",
@@ -2511,7 +2511,7 @@
       "id":"413",
       "name":"Campanharo",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"414",
@@ -2541,7 +2541,7 @@
       "id":"418",
       "name":"Denis Alibec",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"419",
@@ -2553,7 +2553,7 @@
       "id":"420",
       "name":"İlhan Parlak",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"421",
@@ -3315,7 +3315,7 @@
       "id":"547",
       "name":"Ertaç",
       "position":"k",
-      "point":6
+      "point":8
    },
    {
       "id":"548",
@@ -3339,7 +3339,7 @@
       "id":"551",
       "name":"Chebake",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"552",
@@ -3363,7 +3363,7 @@
       "id":"555",
       "name":"Wallace",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"556",
@@ -3393,13 +3393,13 @@
       "id":"560",
       "name":"Bülent Cevahir",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"561",
       "name":"Mustafa Eskihellaç",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"562",
@@ -3447,7 +3447,7 @@
       "id":"569",
       "name":"Ahmed İldiz",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"570",
@@ -3471,7 +3471,7 @@
       "id":"573",
       "name":"Adem Büyük",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"574",
