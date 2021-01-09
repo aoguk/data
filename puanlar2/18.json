@@ -945,7 +945,7 @@
       "id":"157",
       "name":"Max Gradel",
       "position":"os",
-      "point":5
+      "point":8
    },
    {
       "id":"158",
@@ -987,7 +987,7 @@
       "id":"164",
       "name":"Hakan Arslan",
       "position":"os",
-      "point":7
+      "point":13
    },
    {
       "id":"165",
@@ -1749,7 +1749,7 @@
       "id":"286",
       "name":"Günay",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"287",
@@ -1767,7 +1767,7 @@
       "id":"289",
       "name":"Djilobodji",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"290",
@@ -1791,13 +1791,13 @@
       "id":"293",
       "name":"Olkowski",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"294",
       "name":"Oğuz Ceylan",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"295",
