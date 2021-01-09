@@ -1677,7 +1677,7 @@
       "id":"274",
       "name":"Emre Akbaba",
       "position":"os",
-      "point":4
+      "point":7
    },
    {
       "id":"275",
@@ -1713,7 +1713,7 @@
       "id":"280",
       "name":"Oğulcan",
       "position":"os",
-      "point":4
+      "point":10
    },
    {
       "id":"281",
@@ -1917,7 +1917,7 @@
       "id":"314",
       "name":"Übeyd Adıyaman",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"315",
