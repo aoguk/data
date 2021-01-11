@@ -3015,6 +3015,12 @@
 			},
 			{
 				"team": "ksp",
+				"name": "Thelin",
+				"pozisyon": "f",
+				"id": "610"
+			},
+			{
+				"team": "ksp",
 				"name": "Armin Hodzic",
 				"pozisyon": "f",
 				"id": "479"
@@ -3060,6 +3066,12 @@
 				"name": "Ahmet Kıvanç",
 				"pozisyon": "k",
 				"id": "485"
+			},
+			{
+				"team": "med",
+				"name": "Duarte",
+				"pozisyon": "d",
+				"id": "611"
 			},
 			{
 				"team": "med",
