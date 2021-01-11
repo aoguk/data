@@ -1161,6 +1161,12 @@
 			},
 			{
 				"team": "erz",
+				"name": "Brahim Darri",
+				"pozisyon": "os",
+				"id": "220"
+			},
+			{
+				"team": "erz",
 				"name": "Gabriel Obertan",
 				"pozisyon": "os",
 				"id": "187"
@@ -1398,12 +1404,6 @@
 				"name": "Erik Sabo",
 				"pozisyon": "os",
 				"id": "219"
-			},
-			{
-				"team": "fkg",
-				"name": "Brahim Darri",
-				"pozisyon": "os",
-				"id": "220"
 			},
 			{
 				"team": "fkg",
