@@ -2916,6 +2916,12 @@
       "point":0
    },
    {
+      "id":"610",
+      "name":"Thelin",
+      "position":"f",
+      "point":7
+   },
+   {
       "id":"479",
       "name":"Armin Hodzic",
       "position":"f",
@@ -2955,6 +2961,12 @@
       "id":"485",
       "name":"Ahmet Kıvanç",
       "position":"k",
+      "point":0
+   },
+   {
+      "id":"611",
+      "name":"Duarte",
+      "position":"d",
       "point":0
    },
    {
