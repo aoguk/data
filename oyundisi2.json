@@ -24,6 +24,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "KSP",
+		"adi": "Haddadi",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "ALS",
 		"adi": "Ufuk Ceylan",
 		"aciklama": "SAKAT",
@@ -141,6 +147,18 @@
 		"mevkii": "DNZ",
 		"adi": "Sakıb Aytaç",
 		"aciklama": "(5 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ERZ",
+		"adi": "Boumal",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ERZ",
+		"adi": "Obertan",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -355,6 +373,12 @@
 	},
 	{
 		"mevkii": "KSP",
+		"adi": "Varga",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
 		"adi": "Koita",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -473,12 +497,6 @@
 		"durum": "kadro dışı"
 	},
 	{
-		"mevkii": "KAY",
-		"adi": "Hasan Hüseyin",
-		"aciklama": "Kadro Dışı",
-		"durum": "kadro dışı"
-	},
-	{
 		"mevkii": "KSP",
 		"adi": "Gerard Gohou",
 		"aciklama": "Kadro Dışı",
@@ -541,12 +559,6 @@
 	{
 		"mevkii": "KON",
 		"adi": "Hurtado",
-		"aciklama": "Sözleşme Feshi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "FKG",
-		"adi": "Brahim Darri",
 		"aciklama": "Sözleşme Feshi",
 		"durum": "kadro dışı"
 	}
