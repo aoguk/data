@@ -411,7 +411,7 @@
       "id":"068",
       "name":"Tayfur Bingöl",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"069",
@@ -442,6 +442,12 @@
       "name":"Siopis",
       "position":"os",
       "point":1
+   },
+   {
+      "id":"415",
+      "name":"Hasan Acar",
+      "position":"os",
+      "point":2
    },
    {
       "id":"074",
@@ -2526,12 +2532,6 @@
       "point":0
    },
    {
-      "id":"415",
-      "name":"Hasan Acar",
-      "position":"os",
-      "point":0
-   },
-   {
       "id":"416",
       "name":"Emre Demir",
       "position":"os",
@@ -2901,7 +2901,7 @@
       "id":"476",
       "name":"Anıl Koç",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"477",
