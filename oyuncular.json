@@ -460,6 +460,12 @@
 			},
 			{
 				"team": "als",
+				"name": "Hasan Acar",
+				"pozisyon": "os",
+				"id": "415"
+			},
+			{
+				"team": "als",
 				"name": "Salih Uçan",
 				"pozisyon": "os",
 				"id": "074"
@@ -2610,12 +2616,6 @@
 				"name": "İlhan Depe",
 				"pozisyon": "os",
 				"id": "414"
-			},
-			{
-				"team": "kay",
-				"name": "Hasan Acar",
-				"pozisyon": "os",
-				"id": "415"
 			},
 			{
 				"team": "kay",
