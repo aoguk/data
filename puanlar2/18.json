@@ -2757,7 +2757,7 @@
       "id":"452",
       "name":"Ramazan Köse",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"453",
@@ -2938,6 +2938,12 @@
       "name":"Gohou",
       "position":"f",
       "point":0
+   },
+   {
+      "id":"612",
+      "name":"Furkan",
+      "position":"f",
+      "point":2
    },
    {
       "id":"482",
