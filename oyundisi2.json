@@ -6,20 +6,26 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "GFK",
+		"adi": "Jefferson",
+		"aciklama": "CEZALI (3)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "FKG",
 		"adi": "Enzo Roco",
 		"aciklama": "CEZALI (2)",
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "ALS",
-		"adi": "Siopis",
-		"aciklama": "CEZALI (1)",
+		"mevkii": "KSP",
+		"adi": "Haddadi",
+		"aciklama": "CEZALI (2)",
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "GFK",
-		"adi": "Jefferson",
+		"mevkii": "ALS",
+		"adi": "Siopis",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
@@ -42,22 +48,22 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "ERZ",
-		"adi": "Osman Çelik",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "FB",
 		"adi": "Caner Erkin",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "KSP",
-		"adi": "Haddadi",
+		"mevkii": "FB",
+		"adi": "Mert Hakan",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ERZ",
+		"adi": "Osman Çelik",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KON",
@@ -211,12 +217,6 @@
 	},
 	{
 		"mevkii": "ERZ",
-		"adi": "Obertan",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ERZ",
 		"adi": "Mina",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -225,6 +225,12 @@
 		"mevkii": "ERZ",
 		"adi": "Sadiku",
 		"aciklama": "(2 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ERZ",
+		"adi": "Obertan",
+		"aciklama": "(8 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
