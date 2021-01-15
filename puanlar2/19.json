@@ -1221,7 +1221,7 @@
       "id":"200",
       "name":"Viviano",
       "position":"k",
-      "point":3
+      "point":4
    },
    {
       "id":"201",
@@ -1245,13 +1245,13 @@
       "id":"523",
       "name":"Gaston Campi",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"606",
       "name":"Hedenstad",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"204",
@@ -1269,7 +1269,7 @@
       "id":"206",
       "name":"Balkovec",
       "position":"d",
-      "point":3
+      "point":4
    },
    {
       "id":"207",
@@ -1299,13 +1299,13 @@
       "id":"211",
       "name":"Koray Altınay",
       "position":"d",
-      "point":2
+      "point":3
    },
    {
       "id":"212",
       "name":"Fatih Kuruçuk",
       "position":"d",
-      "point":3
+      "point":4
    },
    {
       "id":"602",
@@ -1323,7 +1323,7 @@
       "id":"605",
       "name":"Fabio Borini",
       "position":"os",
-      "point":5
+      "point":6
    },
    {
       "id":"213",
@@ -1335,13 +1335,13 @@
       "id":"215",
       "name":"Jimmy Durmaz",
       "position":"os",
-      "point":5
+      "point":6
    },
    {
       "id":"607",
       "name":"Bertolacci",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"216",
@@ -1353,25 +1353,25 @@
       "id":"217",
       "name":"Lucas Biglia",
       "position":"os",
-      "point":10
+      "point":11
    },
    {
       "id":"218",
       "name":"Bodou Ndiaye",
       "position":"os",
-      "point":6
+      "point":7
    },
    {
       "id":"219",
       "name":"Erik Sabo",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"221",
       "name":"Alassane Ndao",
       "position":"os",
-      "point":10
+      "point":11
    },
    {
       "id":"222",
@@ -1401,19 +1401,19 @@
       "id":"227",
       "name":"Mevlüt Erdinç",
       "position":"f",
-      "point":4
+      "point":5
    },
    {
       "id":"228",
       "name":"Vato Arveladze",
       "position":"f",
-      "point":1
+      "point":2
    },
    {
       "id":"229",
       "name":"Artur Sobiech",
       "position":"f",
-      "point":7
+      "point":8
    },
    {
       "id":"230",
@@ -1917,7 +1917,7 @@
       "id":"313",
       "name":"Nordfeldt",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"314",
@@ -1929,13 +1929,13 @@
       "id":"315",
       "name":"Toure",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"316",
       "name":"Johansson",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"317",
@@ -1959,7 +1959,7 @@
       "id":"320",
       "name":"Polomat",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"321",
@@ -1983,7 +1983,7 @@
       "id":"324",
       "name":"Arda Kızıldağ",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"325",
@@ -1995,25 +1995,25 @@
       "id":"326",
       "name":"Candeias",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"327",
       "name":"Dominik Furman",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"328",
       "name":"Murat Yıldırım",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"329",
       "name":"Piris Da Motta",
       "position":"os",
-      "point":9
+      "point":8
    },
    {
       "id":"330",
@@ -2025,25 +2025,25 @@
       "id":"331",
       "name":"Sefa Yılmaz",
       "position":"os",
-      "point":3
+      "point":2
    },
    {
       "id":"332",
       "name":"Soner Dikmen",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"333",
       "name":"Mustafa Çeçenoğlu",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"335",
       "name":"Rahmetullah",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"336",
@@ -2055,7 +2055,7 @@
       "id":"337",
       "name":"Giovanni Sio",
       "position":"f",
-      "point":3
+      "point":2
    },
    {
       "id":"338",
@@ -2067,7 +2067,7 @@
       "id":"339",
       "name":"İlker Karakaş",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"340",
