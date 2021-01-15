@@ -1167,6 +1167,12 @@
 			},
 			{
 				"team": "erz",
+				"name": "Chahechouhe",
+				"pozisyon": "os",
+				"id": "214"
+			},
+			{
+				"team": "erz",
 				"name": "Brahim Darri",
 				"pozisyon": "os",
 				"id": "220"
@@ -1368,12 +1374,6 @@
 				"name": "Salibur",
 				"pozisyon": "os",
 				"id": "213"
-			},
-			{
-				"team": "fkg",
-				"name": "Chahechouhe",
-				"pozisyon": "os",
-				"id": "214"
 			},
 			{
 				"team": "fkg",
