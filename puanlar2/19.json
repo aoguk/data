@@ -1359,7 +1359,7 @@
       "id":"218",
       "name":"Bodou Ndiaye",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"219",
@@ -1371,7 +1371,7 @@
       "id":"221",
       "name":"Alassane Ndao",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"222",
@@ -1917,7 +1917,7 @@
       "id":"313",
       "name":"Nordfeldt",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"314",
@@ -1929,13 +1929,13 @@
       "id":"315",
       "name":"Toure",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"316",
       "name":"Johansson",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"317",
@@ -1959,7 +1959,7 @@
       "id":"320",
       "name":"Polomat",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"321",
@@ -1983,7 +1983,7 @@
       "id":"324",
       "name":"Arda Kızıldağ",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"325",
