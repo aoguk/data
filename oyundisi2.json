@@ -51,13 +51,13 @@
 		"mevkii": "FB",
 		"adi": "Caner Erkin",
 		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "FB",
 		"adi": "Mert Hakan",
 		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ERZ",
@@ -237,6 +237,12 @@
 		"mevkii": "ERZ",
 		"adi": "Obertan",
 		"aciklama": "(8 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Sinan Gümüş",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
