@@ -2139,7 +2139,7 @@
       "id":"613",
       "name":"Peter Zulj",
       "position":"os",
-      "point":8
+      "point":14
    },
    {
       "id":"602",
@@ -2175,7 +2175,7 @@
       "id":"356",
       "name":"Halil Akbunar",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"357",
@@ -2577,7 +2577,7 @@
       "id":"423",
       "name":"Sehic",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"424",
