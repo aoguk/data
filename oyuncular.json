@@ -868,12 +868,6 @@
 			},
 			{
 				"team": "crz",
-				"name": "Diomande",
-				"pozisyon": "os",
-				"id": "139"
-			},
-			{
-				"team": "crz",
 				"name": "Mithat Pala",
 				"pozisyon": "os",
 				"id": "140"
@@ -2748,6 +2742,12 @@
 				"name": "Abdülkerim Bardakçı",
 				"pozisyon": "d",
 				"id": "435"
+			},
+			{
+				"team": "kon",
+				"name": "Diomande",
+				"pozisyon": "os",
+				"id": "139"
 			},
 			{
 				"team": "kon",
