@@ -2136,6 +2136,12 @@
       "point":3
    },
    {
+      "id":"351",
+      "name":"Kerim Alıcı",
+      "position":"d",
+      "point":2
+   },
+   {
       "id":"613",
       "name":"Peter Zulj",
       "position":"os",
@@ -2229,7 +2235,7 @@
       "id":"365",
       "name":"Brown İdeye",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"366",
