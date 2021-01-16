@@ -1875,6 +1875,12 @@
 			},
 			{
 				"team": "gfk",
+				"name": "Bilal Başakçıoğlu",
+				"pozisyon": "os",
+				"id": "535"
+			},
+			{
+				"team": "gfk",
 				"name": "Mirallas",
 				"pozisyon": "os",
 				"id": "297"
@@ -3384,12 +3390,6 @@
 				"name": "Abdulkadir Parmak",
 				"pozisyon": "os",
 				"id": "534"
-			},
-			{
-				"team": "ts",
-				"name": "Bilal Başakçıoğlu",
-				"pozisyon": "os",
-				"id": "535"
 			},
 			{
 				"team": "ts",
