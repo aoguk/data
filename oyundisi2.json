@@ -6,6 +6,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "HTY",
+		"adi": "Billong",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "FKG",
 		"adi": "Enzo Roco",
 		"aciklama": "CEZALI (1)",
@@ -141,12 +147,6 @@
 		"mevkii": "DNZ",
 		"adi": "Özgür Çek",
 		"aciklama": "(3 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "DNZ",
-		"adi": "Sakıb Aytaç",
-		"aciklama": "(4 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
