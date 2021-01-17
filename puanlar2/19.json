@@ -2325,7 +2325,7 @@
       "id":"379",
       "name":"Isaac Sackey",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"380",
@@ -2391,7 +2391,7 @@
       "id":"389",
       "name":"Mame Diouf",
       "position":"f",
-      "point":4
+      "point":9
    },
    {
       "id":"390",
@@ -3537,7 +3537,7 @@
       "id":"577",
       "name":"Pantilimon",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"578",
@@ -3567,7 +3567,7 @@
       "id":"582",
       "name":"Laismann",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"583",
@@ -3579,7 +3579,7 @@
       "id":"584",
       "name":"Tiago Lopes",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"585",
@@ -3603,13 +3603,13 @@
       "id":"588",
       "name":"Muhammet Özkal",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"589",
       "name":"Özer Özdemir",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"590",
@@ -3639,7 +3639,7 @@
       "id":"594",
       "name":"Sacko",
       "position":"os",
-      "point":4
+      "point":2
    },
    {
       "id":"595",
