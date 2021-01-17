@@ -591,7 +591,7 @@
       "id":"097",
       "name":"N'Koudou",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"098",
@@ -681,7 +681,7 @@
       "id":"112",
       "name":"Larin",
       "position":"f",
-      "point":4
+      "point":7
    },
    {
       "id":"113",
@@ -1593,31 +1593,31 @@
       "id":"260",
       "name":"Okan Kocuk",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"261",
       "name":"Luyindama",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"262",
       "name":"Marcao",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"263",
       "name":"Saracchi",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"264",
       "name":"Donk",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"265",
@@ -1641,7 +1641,7 @@
       "id":"268",
       "name":"Şener Özbayraklı",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"269",
