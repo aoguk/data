@@ -3,7 +3,7 @@
       "id":"01",
       "name":"Ricardo Friedrich",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"02",
@@ -33,19 +33,19 @@
       "id":"06",
       "name":"Atila Turan",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"07",
       "name":"Sarlija",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"08",
       "name":"Tiago Pinto",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"09",
@@ -69,7 +69,7 @@
       "id":"012",
       "name":"Atakan Çankaya",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"013",
@@ -1575,7 +1575,7 @@
       "id":"254",
       "name":"Samatta",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"255",
