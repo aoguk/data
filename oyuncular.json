@@ -1101,6 +1101,18 @@
 			},
 			{
 				"team": "erz",
+				"name": "Szumski",
+				"pozisyon": "k",
+				"id": "616"
+			},
+			{
+				"team": "erz",
+				"name": "Da Costa",
+				"pozisyon": "d",
+				"id": "617"
+			},
+			{
+				"team": "erz",
 				"name": "Mina",
 				"pozisyon": "d",
 				"id": "177"
@@ -1158,6 +1170,12 @@
 				"name": "Cenk Ahmet Alkılıç",
 				"pozisyon": "d",
 				"id": "186"
+			},
+			{
+				"team": "erz",
+				"name": "Omolo",
+				"pozisyon": "os",
+				"id": "618"
 			},
 			{
 				"team": "erz",
@@ -2892,6 +2910,12 @@
 				"name": "Enes Sarı",
 				"pozisyon": "k",
 				"id": "455"
+			},
+			{
+				"team": "ksp",
+				"name": "Luckassen",
+				"pozisyon": "d",
+				"id": "615"
 			},
 			{
 				"team": "ksp",
