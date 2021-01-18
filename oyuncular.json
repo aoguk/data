@@ -1551,6 +1551,24 @@
 			},
 			{
 				"team": "fb",
+				"name": "Slazai",
+				"pozisyon": "d",
+				"id": "619"
+			},
+			{
+				"team": "fb",
+				"name": "Yiğit",
+				"pozisyon": "os",
+				"id": "620"
+			},
+			{
+				"team": "fb",
+				"name": "İsmail Yüksek",
+				"pozisyon": "os",
+				"id": "621"
+			},
+			{
+				"team": "fb",
 				"name": "Sosa",
 				"pozisyon": "os",
 				"id": "242"
