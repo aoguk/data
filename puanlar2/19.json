@@ -1221,7 +1221,7 @@
       "id":"198",
       "name":"Ömer Şişmanoğlu",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"199",
@@ -2835,7 +2835,7 @@
       "id":"615",
       "name":"Luckassen",
       "position":"d",
-      "point":2
+      "point":-1
    },
    {
       "id":"456",
