@@ -307,7 +307,19 @@
 	},
 	{
 		"mevkii": "GS",
+		"adi": "Şener",
+		"aciklama": "(2 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
 		"adi": "Muslera",
+		"aciklama": "(3 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Oğulcan",
 		"aciklama": "(3 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
