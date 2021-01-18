@@ -43,12 +43,6 @@
 	},
 	{
 		"mevkii": "AG",
-		"adi": "Tiago Pinto",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "AG",
 		"adi": "Kitsiou",
 		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
@@ -163,12 +157,6 @@
 	},
 	{
 		"mevkii": "ERZ",
-		"adi": "Boumal",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ERZ",
 		"adi": "Mina",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -194,12 +182,6 @@
 	{
 		"mevkii": "FB",
 		"adi": "Jose Sosa",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Filip Novak",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
