@@ -1500,6 +1500,24 @@
       "point":0
    },
    {
+      "id":"619",
+      "name":"Slazai",
+      "position":"d",
+      "point":0
+   },
+   {
+      "id":"620",
+      "name":"Yiğit",
+      "position":"os",
+      "point":2
+   },
+   {
+      "id":"621",
+      "name":"İsmail Yüksek",
+      "position":"os",
+      "point":2
+   },
+   {
       "id":"242",
       "name":"Sosa",
       "position":"os",
@@ -2913,7 +2931,7 @@
       "id":"471",
       "name":"Kevin Varga",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"472",
