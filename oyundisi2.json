@@ -12,6 +12,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "ALS",
+		"adi": "Siopis",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "FKG",
 		"adi": "Enzo Roco",
 		"aciklama": "CEZALI (1)",
@@ -20,6 +26,12 @@
 	{
 		"mevkii": "FKG",
 		"adi": "Balkovec",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "FKG",
+		"adi": "Vato Arveladze",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
@@ -36,10 +48,46 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "FB",
+		"adi": "Ozan",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "KSP",
 		"adi": "Luckassen",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Vetrih",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Jefferson",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GB",
+		"adi": "Arda Kızıldağ",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GB",
+		"adi": "Candeias",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GB",
+		"adi": "Sefa Yılmaz",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ALS",
