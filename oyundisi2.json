@@ -397,12 +397,6 @@
 	},
 	{
 		"mevkii": "KAY",
-		"adi": "Alibec",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAY",
 		"adi": "Ömer Uzun",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -471,12 +465,6 @@
 		"mevkii": "KSP",
 		"adi": "Jeanvier",
 		"aciklama": "(9 Ay) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MED",
-		"adi": "Mert Günok",
-		"aciklama": "(2 Hafta) Sakat",
 		"durum": "sakatlar"
 	},
 	{
