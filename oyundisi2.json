@@ -301,20 +301,8 @@
 	},
 	{
 		"mevkii": "GB",
-		"adi": "Soner Dikmen",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Nordfeldt",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GB",
 		"adi": "Ayite",
-		"aciklama": "Oynayabilir",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -325,20 +313,8 @@
 	},
 	{
 		"mevkii": "GB",
-		"adi": "Ömürcan",
-		"aciklama": "(3 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GB",
 		"adi": "Salih Dursun",
 		"aciklama": "(7 hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Johansson",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
