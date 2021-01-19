@@ -2619,6 +2619,12 @@
 			},
 			{
 				"team": "kay",
+				"name": "Uğur Demirok",
+				"pozisyon": "d",
+				"id": "431"
+			},
+			{
+				"team": "kay",
 				"name": "Manuel Fernandes",
 				"pozisyon": "os",
 				"id": "405"
@@ -2772,12 +2778,6 @@
 				"name": "Anicic",
 				"pozisyon": "d",
 				"id": "430"
-			},
-			{
-				"team": "kon",
-				"name": "Uğur Demirok",
-				"pozisyon": "d",
-				"id": "431"
 			},
 			{
 				"team": "kon",
