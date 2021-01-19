@@ -1959,7 +1959,7 @@
       "id":"313",
       "name":"Nordfeldt",
       "position":"k",
-      "point":1
+      "point":-1
    },
    {
       "id":"314",
@@ -2229,7 +2229,7 @@
       "id":"356",
       "name":"Halil Akbunar",
       "position":"os",
-      "point":2
+      "point":11
    },
    {
       "id":"357",
@@ -2289,7 +2289,7 @@
       "id":"366",
       "name":"Cherif Ndiaye",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"367",
@@ -2577,7 +2577,7 @@
       "id":"413",
       "name":"Campanharo",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"414",
@@ -2601,7 +2601,7 @@
       "id":"418",
       "name":"Denis Alibec",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"419",
@@ -3015,7 +3015,7 @@
       "id":"482",
       "name":"Mert Günok",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"483",
