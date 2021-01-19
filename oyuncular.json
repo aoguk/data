@@ -808,6 +808,12 @@
 			},
 			{
 				"team": "crz",
+				"name": "Erik Sabo",
+				"pozisyon": "os",
+				"id": "219"
+			},
+			{
+				"team": "crz",
 				"name": "Samudio",
 				"pozisyon": "os",
 				"id": "129"
@@ -1416,12 +1422,6 @@
 				"name": "Bodou Ndiaye",
 				"pozisyon": "os",
 				"id": "218"
-			},
-			{
-				"team": "fkg",
-				"name": "Erik Sabo",
-				"pozisyon": "os",
-				"id": "219"
 			},
 			{
 				"team": "fkg",
