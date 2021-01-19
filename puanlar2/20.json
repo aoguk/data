@@ -2061,7 +2061,7 @@
       "id":"330",
       "name":"Mustafa Hüseyin",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"331",
@@ -2188,6 +2188,12 @@
       "name":"Kerim Alıcı",
       "position":"d",
       "point":0
+   },
+   {
+      "id":"623",
+      "name":"Beykan",
+      "position":"os",
+      "point":2
    },
    {
       "id":"613",
