@@ -780,6 +780,12 @@
       "point":0
    },
    {
+      "id":"219",
+      "name":"Erik Sabo",
+      "position":"os",
+      "point":0
+   },
+   {
       "id":"129",
       "name":"Samudio",
       "position":"os",
@@ -1370,12 +1376,6 @@
    {
       "id":"218",
       "name":"Bodou Ndiaye",
-      "position":"os",
-      "point":0
-   },
-   {
-      "id":"219",
-      "name":"Erik Sabo",
       "position":"os",
       "point":0
    },
