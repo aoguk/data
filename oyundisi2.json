@@ -541,6 +541,12 @@
 	},
 	{
 		"mevkii": "TS",
+		"adi": "Abdülkadir Ö.",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
 		"adi": "Trondsen",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
