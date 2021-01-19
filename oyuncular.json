@@ -976,12 +976,6 @@
 			},
 			{
 				"team": "svs",
-				"name": "Barış Yardımcı",
-				"pozisyon": "d",
-				"id": "156"
-			},
-			{
-				"team": "svs",
 				"name": "Max Gradel",
 				"pozisyon": "os",
 				"id": "157"
@@ -2802,6 +2796,12 @@
 				"name": "Abdülkerim Bardakçı",
 				"pozisyon": "d",
 				"id": "435"
+			},
+			{
+				"team": "kon",
+				"name": "Barış Yardımcı",
+				"pozisyon": "d",
+				"id": "156"
 			},
 			{
 				"team": "kon",
