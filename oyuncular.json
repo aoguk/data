@@ -1557,6 +1557,12 @@
 			},
 			{
 				"team": "fb",
+				"name": "Mesut Özil",
+				"pozisyon": "os",
+				"id": "622"
+			},
+			{
+				"team": "fb",
 				"name": "Yiğit",
 				"pozisyon": "os",
 				"id": "620"
