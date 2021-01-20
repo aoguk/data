@@ -1653,7 +1653,7 @@
       "id":"264",
       "name":"Donk",
       "position":"d",
-      "point":2
+      "point":10
    },
    {
       "id":"265",
@@ -3591,7 +3591,7 @@
       "id":"577",
       "name":"Pantilimon",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"578",
