@@ -795,7 +795,7 @@
       "id":"130",
       "name":"Andrade",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"131",
@@ -879,7 +879,7 @@
       "id":"145",
       "name":"Skoda",
       "position":"f",
-      "point":7
+      "point":12
    },
    {
       "id":"146",
@@ -1785,7 +1785,7 @@
       "id":"286",
       "name":"Günay",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"287",
@@ -1803,7 +1803,7 @@
       "id":"289",
       "name":"Djilobodji",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"290",
@@ -2301,7 +2301,7 @@
       "id":"368",
       "name":"Akın Alkan",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"369",
@@ -3441,7 +3441,7 @@
       "id":"552",
       "name":"Zeki Yavru",
       "position":"d",
-      "point":2
+      "point":10
    },
    {
       "id":"553",
