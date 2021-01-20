@@ -1695,7 +1695,7 @@
       "id":"271",
       "name":"Feghouli",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"272",
@@ -3591,7 +3591,7 @@
       "id":"577",
       "name":"Pantilimon",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"578",
@@ -3621,7 +3621,7 @@
       "id":"582",
       "name":"Laismann",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"583",
@@ -3633,7 +3633,7 @@
       "id":"584",
       "name":"Tiago Lopes",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"585",
@@ -3651,13 +3651,13 @@
       "id":"587",
       "name":"Bergdich",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"588",
       "name":"Muhammet Özkal",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"589",
