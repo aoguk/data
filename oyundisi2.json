@@ -103,12 +103,6 @@
 	},
 	{
 		"mevkii": "DNZ",
-		"adi": "Özgür Çek",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "DNZ",
 		"adi": "Mustafa Yumlu",
 		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
@@ -249,12 +243,6 @@
 		"mevkii": "GOZ",
 		"adi": "Alpaslan Öztürk",
 		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Muslera",
-		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
 	},
 	{
