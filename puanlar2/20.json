@@ -1731,13 +1731,13 @@
       "id":"277",
       "name":"Etebo",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"278",
       "name":"Ömer Bayram",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"279",
@@ -3670,6 +3670,12 @@
       "name":"Oğuz Yılmaz",
       "position":"d",
       "point":0
+   },
+   {
+      "id":"625",
+      "name":"Ahmed Yasin",
+      "position":"os",
+      "point":2
    },
    {
       "id":"591",
