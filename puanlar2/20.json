@@ -1659,7 +1659,7 @@
       "id":"265",
       "name":"Linnes",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"266",
@@ -1701,7 +1701,7 @@
       "id":"272",
       "name":"Belhanda",
       "position":"os",
-      "point":7
+      "point":13
    },
    {
       "id":"273",
@@ -3591,7 +3591,7 @@
       "id":"577",
       "name":"Pantilimon",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"578",
@@ -3645,7 +3645,7 @@
       "id":"586",
       "name":"Sakıb Aytaç",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"587",
