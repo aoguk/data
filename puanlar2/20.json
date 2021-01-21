@@ -9,7 +9,7 @@
       "id":"02",
       "name":"Korcan Çelikay",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"03",
@@ -2997,7 +2997,7 @@
       "id":"477",
       "name":"Doğucan Haspolat",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"478",
