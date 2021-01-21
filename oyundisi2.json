@@ -13,6 +13,12 @@
 	},
 	{
 		"mevkii": "ALS",
+		"adi": "Tzavellas",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ALS",
 		"adi": "Ufuk Ceylan",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
