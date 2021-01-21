@@ -415,12 +415,6 @@
 	},
 	{
 		"mevkii": "SVS",
-		"adi": "Goiano",
-		"aciklama": "(2 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "SVS",
 		"adi": "Rybalka",
 		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
@@ -477,24 +471,6 @@
 		"mevkii": "TS",
 		"adi": "Plaza",
 		"aciklama": "Kadro Dışı",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Diabate",
-		"aciklama": "Kadro Dışı",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "GOZ",
-		"adi": "Guilherme",
-		"aciklama": "Kadro Dışı",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "ERZ",
-		"adi": "İbrahim Akdağ",
-		"aciklama": "Sözleşme Feshi",
 		"durum": "kadro dışı"
 	},
 	{
