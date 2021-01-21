@@ -82,6 +82,12 @@
 			},
 			{
 				"team": "ag",
+				"name": "İbrahim Akdağ",
+				"pozisyon": "os",
+				"id": "190"
+			},
+			{
+				"team": "ag",
 				"name": "Şahverdi",
 				"pozisyon": "os",
 				"id": "603"
@@ -151,6 +157,12 @@
 				"name": "Ender Aygören",
 				"pozisyon": "os",
 				"id": "024"
+			},
+			{
+				"team": "ag",
+				"name": "Aliou Badji",
+				"pozisyon": "f",
+				"id": "628"
 			},
 			{
 				"team": "ag",
@@ -1212,12 +1224,6 @@
 				"name": "Novikovas",
 				"pozisyon": "os",
 				"id": "189"
-			},
-			{
-				"team": "erz",
-				"name": "İbrahim Akdağ",
-				"pozisyon": "os",
-				"id": "190"
 			},
 			{
 				"team": "erz",
