@@ -417,7 +417,7 @@
       "id":"069",
       "name":"Davidson Pereira",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"070",
@@ -489,7 +489,7 @@
       "id":"080",
       "name":"Babacar",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"081",
@@ -591,7 +591,7 @@
       "id":"097",
       "name":"N'Koudou",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"098",
@@ -675,7 +675,7 @@
       "id":"111",
       "name":"Aboubakar",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"112",
@@ -1233,7 +1233,7 @@
       "id":"200",
       "name":"Viviano",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"201",
@@ -1317,6 +1317,12 @@
       "id":"212",
       "name":"Fatih Kuruçuk",
       "position":"d",
+      "point":2
+   },
+   {
+      "id":"626",
+      "name":"Serhat Ahmetoğlu",
+      "position":"os",
       "point":2
    },
    {
