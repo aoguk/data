@@ -157,7 +157,7 @@
 	},
 	{
 		"mevkii": "FB",
-		"adi": "Valencia",
+		"adi": "Tisserand",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -170,12 +170,6 @@
 	{
 		"mevkii": "FB",
 		"adi": "Sinan Gümüş",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Sadık",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
