@@ -1833,6 +1833,18 @@
 			},
 			{
 				"team": "gs",
+				"name": "Onyekuru",
+				"pozisyon": "os",
+				"id": "630"
+			},
+			{
+				"team": "gs",
+				"name": "Halil Dervişoğlu",
+				"pozisyon": "os",
+				"id": "631"
+			},
+			{
+				"team": "gs",
 				"name": "Falcao",
 				"pozisyon": "f",
 				"id": "283"
@@ -2268,6 +2280,12 @@
 				"name": "Kerim Alıcı",
 				"pozisyon": "d",
 				"id": "614"
+			},
+			{
+				"team": "goz",
+				"name": "Diabate",
+				"pozisyon": "os",
+				"id": "529"
 			},
 			{
 				"team": "goz",
@@ -3432,12 +3450,6 @@
 				"name": "Nwakaeme",
 				"pozisyon": "os",
 				"id": "528"
-			},
-			{
-				"team": "ts",
-				"name": "Diabate",
-				"pozisyon": "os",
-				"id": "529"
 			},
 			{
 				"team": "ts",
