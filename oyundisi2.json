@@ -1,6 +1,12 @@
 [
 	{
 		"mevkii": "HTY",
+		"adi": "Munir",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "HTY",
 		"adi": "Rayane Aabid",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
@@ -44,6 +50,12 @@
 	{
 		"mevkii": "TS",
 		"adi": "Lewis Baker",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Melih Okutan",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
