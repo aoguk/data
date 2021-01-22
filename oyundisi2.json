@@ -145,12 +145,6 @@
 	},
 	{
 		"mevkii": "CRZ",
-		"adi": "Boldrin",
-		"aciklama": "(Covid) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "CRZ",
 		"adi": "Emir Dilaver",
 		"aciklama": "İzinli",
 		"durum": "sakatlar"
@@ -159,12 +153,6 @@
 		"mevkii": "DNZ",
 		"adi": "Mustafa Yumlu",
 		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "DNZ",
-		"adi": "Subotic",
-		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
