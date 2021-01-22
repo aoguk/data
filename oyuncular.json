@@ -1449,12 +1449,6 @@
 			},
 			{
 				"team": "fkg",
-				"name": "Ramazan Civelek",
-				"pozisyon": "os",
-				"id": "223"
-			},
-			{
-				"team": "fkg",
 				"name": "Zeki Yıldırım",
 				"pozisyon": "os",
 				"id": "224"
@@ -2634,6 +2628,18 @@
 				"name": "Uğur Demirok",
 				"pozisyon": "d",
 				"id": "431"
+			},
+			{
+				"team": "kay",
+				"name": "Melih Okutan",
+				"pozisyon": "os",
+				"id": "629"
+			},
+			{
+				"team": "kay",
+				"name": "Ramazan Civelek",
+				"pozisyon": "os",
+				"id": "223"
 			},
 			{
 				"team": "kay",
