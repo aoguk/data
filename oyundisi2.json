@@ -1,7 +1,13 @@
 [
 	{
 		"mevkii": "HTY",
-		"adi": "Munir",
+		"adi": "Rayane Aabid",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "HTY",
+		"adi": "Sackey",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
@@ -12,14 +18,32 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "GFK",
+		"adi": "Jefferson",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "ALS",
 		"adi": "Tzavellas",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "AG",
+		"adi": "Atakan",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "GS",
 		"adi": "Diagne",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Lewis Baker",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
