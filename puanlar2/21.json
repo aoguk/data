@@ -1404,12 +1404,6 @@
       "point":0
    },
    {
-      "id":"223",
-      "name":"Ramazan Civelek",
-      "position":"os",
-      "point":0
-   },
-   {
       "id":"224",
       "name":"Zeki Yıldırım",
       "position":"os",
@@ -2547,6 +2541,18 @@
       "id":"431",
       "name":"Uğur Demirok",
       "position":"d",
+      "point":0
+   },
+   {
+      "id":"629",
+      "name":"Melih Okutan",
+      "position":"os",
+      "point":0
+   },
+   {
+      "id":"223",
+      "name":"Ramazan Civelek",
+      "position":"os",
       "point":0
    },
    {
