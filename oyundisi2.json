@@ -91,13 +91,7 @@
 	},
 	{
 		"mevkii": "CRZ",
-		"adi": "Gökhan Akkan",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Moroziuk",
+		"adi": "Tunay Torun",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -109,8 +103,56 @@
 	},
 	{
 		"mevkii": "CRZ",
+		"adi": "Talbi",
+		"aciklama": "Covid",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "CRZ",
+		"adi": "Baiano",
+		"aciklama": "Covid",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "CRZ",
+		"adi": "Mithat",
+		"aciklama": "Covid",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "CRZ",
+		"adi": "Meriah",
+		"aciklama": "Covid",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "CRZ",
+		"adi": "Moroziuk",
+		"aciklama": "Covid",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "CRZ",
+		"adi": "Skoda",
+		"aciklama": "Covid",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "CRZ",
+		"adi": "Gökhan Akkan",
+		"aciklama": "Covid",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "CRZ",
 		"adi": "Boldrin",
 		"aciklama": "(Covid) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "CRZ",
+		"adi": "Emir Dilaver",
+		"aciklama": "İzinli",
 		"durum": "sakatlar"
 	},
 	{
@@ -374,7 +416,7 @@
 	{
 		"mevkii": "MED",
 		"adi": "Visca",
-		"aciklama": "SAKAT",
+		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
 	},
 	{
@@ -488,12 +530,6 @@
 	{
 		"mevkii": "GOZ",
 		"adi": "Poko",
-		"aciklama": "Sözleşme Feshi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Uğur Demirok",
 		"aciklama": "Sözleşme Feshi",
 		"durum": "kadro dışı"
 	},
