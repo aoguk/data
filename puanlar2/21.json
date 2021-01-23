@@ -2067,7 +2067,7 @@
       "id":"328",
       "name":"Murat Yıldırım",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"329",
@@ -2109,7 +2109,7 @@
       "id":"336",
       "name":"Stancu",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"337",
@@ -3159,6 +3159,12 @@
       "id":"497",
       "name":"Uğur Uçar",
       "position":"d",
+      "point":0
+   },
+   {
+      "id":"632",
+      "name":"J.Fernandes",
+      "position":"os",
       "point":0
    },
    {
