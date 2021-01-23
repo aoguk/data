@@ -1983,13 +1983,13 @@
       "id":"314",
       "name":"Übeyd Adıyaman",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"315",
       "name":"Toure",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"316",
@@ -2019,13 +2019,13 @@
       "id":"320",
       "name":"Polomat",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"321",
       "name":"Ömürcan",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"322",
@@ -2043,7 +2043,7 @@
       "id":"324",
       "name":"Arda Kızıldağ",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"325",
@@ -3345,7 +3345,7 @@
       "id":"528",
       "name":"Nwakaeme",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"530",
@@ -3411,7 +3411,7 @@
       "id":"540",
       "name":"Ekuban",
       "position":"f",
-      "point":5
+      "point":10
    },
    {
       "id":"541",
