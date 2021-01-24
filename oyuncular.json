@@ -2007,12 +2007,6 @@
 			},
 			{
 				"team": "gfk",
-				"name": "Kubilay",
-				"pozisyon": "os",
-				"id": "308"
-			},
-			{
-				"team": "gfk",
 				"name": "Ali Ateş",
 				"pozisyon": "os",
 				"id": "309"
@@ -3846,6 +3840,12 @@
 				"name": "Oğuz Yılmaz",
 				"pozisyon": "d",
 				"id": "590"
+			},
+			{
+				"team": "dnz",
+				"name": "Kubilay Aktaş",
+				"pozisyon": "os",
+				"id": "308"
 			},
 			{
 				"team": "dnz",
