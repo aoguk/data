@@ -609,7 +609,7 @@
       "id":"097",
       "name":"N'Koudou",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"098",
@@ -633,13 +633,13 @@
       "id":"101",
       "name":"Gökhan Töre",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"102",
       "name":"Dorukhan",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"103",
@@ -1923,19 +1923,19 @@
       "id":"303",
       "name":"Maxim",
       "position":"os",
-      "point":3
+      "point":1
    },
    {
       "id":"304",
       "name":"Andre Sousa",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"305",
       "name":"Kenan Özer",
       "position":"os",
-      "point":4
+      "point":2
    },
    {
       "id":"306",
@@ -1965,7 +1965,7 @@
       "id":"311",
       "name":"Dicko",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"312",
