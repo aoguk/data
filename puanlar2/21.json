@@ -597,13 +597,13 @@
       "id":"095",
       "name":"Ghezzal",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"096",
       "name":"Ljajic",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"097",
@@ -2145,7 +2145,7 @@
       "id":"342",
       "name":"İrfan Can Eğribayat",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"343",
