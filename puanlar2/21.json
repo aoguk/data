@@ -1251,7 +1251,7 @@
       "id":"201",
       "name":"Aykut Özer",
       "position":"k",
-      "point":4
+      "point":3
    },
    {
       "id":"202",
@@ -1353,7 +1353,7 @@
       "id":"604",
       "name":"Emre Çolak",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"605",
@@ -1431,7 +1431,7 @@
       "id":"228",
       "name":"Vato Arveladze",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"229",
@@ -1653,7 +1653,7 @@
       "id":"261",
       "name":"Luyindama",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"262",
@@ -1737,7 +1737,7 @@
       "id":"275",
       "name":"Babel",
       "position":"os",
-      "point":4
+      "point":9
    },
    {
       "id":"276",
@@ -1755,13 +1755,13 @@
       "id":"278",
       "name":"Ömer Bayram",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"279",
       "name":"Taylan",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"280",
@@ -3483,19 +3483,19 @@
       "id":"550",
       "name":"Abdulsamed Damlu",
       "position":"k",
-      "point":4
+      "point":3
    },
    {
       "id":"551",
       "name":"Chebake",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"552",
       "name":"Zeki Yavru",
       "position":"d",
-      "point":4
+      "point":2
    },
    {
       "id":"553",
@@ -3507,7 +3507,7 @@
       "id":"554",
       "name":"Semih Kaya",
       "position":"d",
-      "point":0
+      "point":4
    },
    {
       "id":"555",
@@ -3573,7 +3573,7 @@
       "id":"565",
       "name":"Lukoki",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"566",
@@ -3597,7 +3597,7 @@
       "id":"569",
       "name":"Ahmed İldiz",
       "position":"os",
-      "point":0
+      "point":1
    },
    {
       "id":"570",
@@ -3609,7 +3609,7 @@
       "id":"571",
       "name":"Doğukan Emeksiz",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"572",
@@ -3726,6 +3726,12 @@
       "point":0
    },
    {
+      "id":"636",
+      "name":"Diskerud",
+      "position":"os",
+      "point":8
+   },
+   {
       "id":"308",
       "name":"Kubilay Aktaş",
       "position":"os",
@@ -3765,7 +3771,7 @@
       "id":"595",
       "name":"Murawski",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"596",
