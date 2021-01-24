@@ -235,12 +235,6 @@
 	},
 	{
 		"mevkii": "GFK",
-		"adi": "Kana Bıyık",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GFK",
 		"adi": "Mirallas",
 		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
@@ -284,12 +278,6 @@
 	{
 		"mevkii": "GS",
 		"adi": "Omar",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "HTY",
-		"adi": "Yusuf Abdioğlu",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
