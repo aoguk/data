@@ -271,6 +271,12 @@
 	},
 	{
 		"mevkii": "GS",
+		"adi": "Feghouli",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
 		"adi": "Emre Taşdemir",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -415,19 +421,7 @@
 	},
 	{
 		"mevkii": "MLT",
-		"adi": "Tetteh",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MLT",
 		"adi": "Fofana",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MLT",
-		"adi": "Semih Kaya",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
