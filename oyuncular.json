@@ -1377,6 +1377,12 @@
 			},
 			{
 				"team": "fkg",
+				"name": "Castro",
+				"pozisyon": "os",
+				"id": "635"
+			},
+			{
+				"team": "fkg",
 				"name": "Serhat Ahmetoğlu",
 				"pozisyon": "os",
 				"id": "626"
