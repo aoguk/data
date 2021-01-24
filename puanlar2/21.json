@@ -1371,7 +1371,7 @@
       "id":"215",
       "name":"Jimmy Durmaz",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"607",
@@ -1401,7 +1401,7 @@
       "id":"221",
       "name":"Alassane Ndao",
       "position":"os",
-      "point":4
+      "point":10
    },
    {
       "id":"222",
@@ -3645,7 +3645,7 @@
       "id":"577",
       "name":"Pantilimon",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"578",
@@ -3675,7 +3675,7 @@
       "id":"582",
       "name":"Laismann",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"583",
@@ -3717,7 +3717,7 @@
       "id":"589",
       "name":"Özer Özdemir",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"590",
