@@ -357,7 +357,7 @@
       "id":"057",
       "name":"Orgill",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"058",
@@ -2752,6 +2752,12 @@
       "name":"Barış Yardımcı",
       "position":"d",
       "point":4
+   },
+   {
+      "id":"634",
+      "name":"Rahmanovic",
+      "position":"os",
+      "point":2
    },
    {
       "id":"139",
