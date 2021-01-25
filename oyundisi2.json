@@ -12,20 +12,8 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "ALS",
-		"adi": "Efecan Karaca",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
 		"mevkii": "AG",
 		"adi": "Kitsiou",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "AG",
-		"adi": "Pazdan",
 		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
 	},
