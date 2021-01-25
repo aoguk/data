@@ -1563,7 +1563,7 @@
       "id":"245",
       "name":"Thiam",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"246",
@@ -1599,7 +1599,7 @@
       "id":"251",
       "name":"Pelkas",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"252",
@@ -1623,7 +1623,7 @@
       "id":"255",
       "name":"Valencia",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"256",
@@ -2499,7 +2499,7 @@
       "id":"394",
       "name":"Doğan Alemdar",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"395",
