@@ -909,7 +909,7 @@
       "id":"147",
       "name":"Samassa",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"148",
@@ -2955,6 +2955,12 @@
       "id":"465",
       "name":"Evren Elmalı",
       "position":"d",
+      "point":0
+   },
+   {
+      "id":"638",
+      "name":"Drinkwater",
+      "position":"os",
       "point":0
    },
    {
