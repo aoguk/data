@@ -373,6 +373,12 @@
 	},
 	{
 		"mevkii": "MED",
+		"adi": "İrfan Can",
+		"aciklama": "(4 Hafta) Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
 		"adi": "Bolingoli",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
