@@ -3057,6 +3057,12 @@
 			},
 			{
 				"team": "ksp",
+				"name": "Drinkwater",
+				"pozisyon": "os",
+				"id": "638"
+			},
+			{
+				"team": "ksp",
 				"name": "Bistrovic",
 				"pozisyon": "os",
 				"id": "637"
