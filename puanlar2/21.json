@@ -105,7 +105,7 @@
       "id":"015",
       "name":"Paintsil",
       "position":"os",
-      "point":8
+      "point":14
    },
    {
       "id":"016",
@@ -129,7 +129,7 @@
       "id":"019",
       "name":"Saba Lobzhanidze",
       "position":"os",
-      "point":5
+      "point":8
    },
    {
       "id":"020",
@@ -375,7 +375,7 @@
       "id":"059",
       "name":"Marafona",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"060",
@@ -387,13 +387,13 @@
       "id":"061",
       "name":"François Moubandje",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"062",
       "name":"Juanfran",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"063",
@@ -405,13 +405,13 @@
       "id":"064",
       "name":"Fatih Aksoy",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"065",
       "name":"Steven Caulker",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"066",
