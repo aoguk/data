@@ -2883,12 +2883,6 @@
 			},
 			{
 				"team": "kon",
-				"name": "Ömer Ali",
-				"pozisyon": "os",
-				"id": "437"
-			},
-			{
-				"team": "kon",
 				"name": "Musa Çağıran",
 				"pozisyon": "os",
 				"id": "438"
@@ -3306,6 +3300,12 @@
 				"name": "J.Fernandes",
 				"pozisyon": "os",
 				"id": "632"
+			},
+			{
+				"team": "med",
+				"name": "Ömer Ali",
+				"pozisyon": "os",
+				"id": "437"
 			},
 			{
 				"team": "med",
