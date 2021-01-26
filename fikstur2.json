@@ -1,5 +1,20 @@
 {
   "weeks":[
+      {"hafta":22,
+        "fikstur":[
+        {"takim1":"mlt", "skor1":0, "takim2":"fkg", "skor2":0, "finished":0},
+        {"takim1":"gfk", "skor1":0, "takim2":"gs", "skor2":0, "finished":0},
+        {"takim1":"ksp", "skor1":0, "takim2":"kay", "skor2":0, "finished":0},
+        {"takim1":"als", "skor1":0, "takim2":"svs", "skor2":0, "finished":0},
+        {"takim1":"med", "skor1":0, "takim2":"hty", "skor2":0, "finished":0},
+        {"takim1":"fb", "skor1":0, "takim2":"crz", "skor2":0, "finished":0},
+        {"takim1":"erz", "skor1":0, "takim2":"ag", "skor2":0, "finished":0},
+        {"takim1":"dnz", "skor1":0, "takim2":"goz", "skor2":0, "finished":0},
+        {"takim1":"gb", "skor1":0, "takim2":"ant", "skor2":0, "finished":0},
+        {"takim1":"bjk", "skor1":0, "takim2":"ts", "skor2":0, "finished":0}
+    ],
+          "bay":"kon"
+     },
       {"hafta":21,
         "fikstur":[
         {"takim1":"gb", "skor1":1, "takim2":"ts", "skor2":2, "finished":0},
@@ -29,141 +44,6 @@
         {"takim1":"svs", "skor1":1, "takim2":"fb", "skor2":1, "finished":0}
     ],
           "bay":"ant"
-     },
-      {"hafta":19,
-        "fikstur":[
-        {"takim1":"gb", "skor1":1, "takim2":"fkg", "skor2":3, "finished":0},
-        {"takim1":"kon", "skor1":2, "takim2":"goz", "skor2":3, "finished":0},
-        {"takim1":"med", "skor1":1, "takim2":"svs", "skor2":1, "finished":0},
-        {"takim1":"gfk", "skor1":2, "takim2":"kay", "skor2":1, "finished":0},
-        {"takim1":"ant", "skor1":1, "takim2":"ts", "skor2":1, "finished":0},
-        {"takim1":"dnz", "skor1":0, "takim2":"hty", "skor2":2, "finished":0},
-        {"takim1":"mlt", "skor1":4, "takim2":"crz", "skor2":1, "finished":0},
-        {"takim1":"bjk", "skor1":2, "takim2":"gs", "skor2":0, "finished":0},
-        {"takim1":"fb", "skor1":3, "takim2":"ag", "skor2":1, "finished":0},
-        {"takim1":"ksp", "skor1":1, "takim2":"erz", "skor2":2, "finished":0}
-    ],
-          "bay":"als"
-     },
-      {"hafta":18,
-        "fikstur":[
-        {"takim1":"svs", "skor1":2, "takim2":"gfk", "skor2":1, "finished":0},
-        {"takim1":"goz", "skor1":0, "takim2":"ant", "skor2":1, "finished":0},
-        {"takim1":"kay", "skor1":1, "takim2":"mlt", "skor2":0, "finished":0},
-        {"takim1":"gs", "skor1":6, "takim2":"gb", "skor2":0, "finished":0},
-        {"takim1":"fkg", "skor1":2, "takim2":"kon", "skor2":1, "finished":0},
-        {"takim1":"crz", "skor1":1, "takim2":"dnz", "skor2":1, "finished":0},
-        {"takim1":"ag", "skor1":1, "takim2":"med", "skor2":2, "finished":0},
-        {"takim1":"hty", "skor1":2, "takim2":"bjk", "skor2":2, "finished":0},
-        {"takim1":"erz", "skor1":0, "takim2":"fb", "skor2":3, "finished":0},
-        {"takim1":"als", "skor1":1, "takim2":"ksp", "skor2":2, "finished":0}
-    ],
-          "bay":"ts"
-     },
-      {"hafta":17,
-        "fikstur":[
-        {"takim1":"gfk", "skor1":2, "takim2":"ag", "skor2":0, "finished":0},
-        {"takim1":"mlt", "skor1":2, "takim2":"svs", "skor2":2, "finished":0},
-        {"takim1":"kon", "skor1":4, "takim2":"gs", "skor2":3, "finished":0},
-        {"takim1":"dnz", "skor1":0, "takim2":"kay", "skor2":1, "finished":0},
-        {"takim1":"med", "skor1":1, "takim2":"erz", "skor2":0, "finished":0},
-        {"takim1":"gb", "skor1":3, "takim2":"hty", "skor2":1, "finished":0},
-        {"takim1":"ts", "skor1":1, "takim2":"goz", "skor2":0, "finished":0},
-        {"takim1":"ant", "skor1":3, "takim2":"fkg", "skor2":1, "finished":0},
-        {"takim1":"bjk", "skor1":6, "takim2":"crz", "skor2":0, "finished":0},
-        {"takim1":"fb", "skor1":2, "takim2":"als", "skor2":1, "finished":0}
-    ],
-          "bay":"ksp"
-     },
-      {"hafta":16,
-        "fikstur":[
-        {"takim1":"svs", "skor1":2, "takim2":"dnz", "skor2":2, "finished":0},
-        {"takim1":"erz", "skor1":1, "takim2":"gfk", "skor2":1, "finished":0},
-        {"takim1":"ag", "skor1":3, "takim2":"mlt", "skor2":1, "finished":0},
-        {"takim1":"als", "skor1":3, "takim2":"med", "skor2":0, "finished":0},
-        {"takim1":"hty", "skor1":2, "takim2":"kon", "skor2":1, "finished":0},
-        {"takim1":"gs", "skor1":0, "takim2":"ant", "skor2":0, "finished":0},
-        {"takim1":"crz", "skor1":1, "takim2":"gb", "skor2":1, "finished":0},
-        {"takim1":"fkg", "skor1":1, "takim2":"ts", "skor2":2, "finished":0},
-        {"takim1":"kay", "skor1":0, "takim2":"bjk", "skor2":2, "finished":0}, 
-        {"takim1":"ksp", "skor1":0, "takim2":"fb", "skor2":3, "finished":0}
-    ],
-          "bay":"goz"
-     },
-      {"hafta":15,
-        "fikstur":[
-        {"takim1":"goz", "skor1":1, "takim2":"fkg", "skor2":1, "finished":0},
-        {"takim1":"ts", "skor1":0, "takim2":"gs", "skor2":2, "finished":0},
-        {"takim1":"gfk", "skor1":3, "takim2":"als", "skor2":1, "finished":0},
-        {"takim1":"mlt", "skor1":1, "takim2":"erz", "skor2":3, "finished":0},
-        {"takim1":"dnz", "skor1":1, "takim2":"ag", "skor2":2, "finished":0},
-        {"takim1":"med", "skor1":2, "takim2":"ksp", "skor2":2, "finished":0},
-        {"takim1":"gb", "skor1":2, "takim2":"kay", "skor2":2, "finished":0},
-        {"takim1":"kon", "skor1":1, "takim2":"crz", "skor2":1, "finished":0},
-        {"takim1":"bjk", "skor1":3, "takim2":"svs", "skor2":0, "finished":0}, 
-        {"takim1":"ant", "skor1":0, "takim2":"hty", "skor2":6, "finished":0}
-    ],
-          "bay":"fb"
-     },
-      {"hafta":14,
-        "fikstur":[
-        {"takim1":"hty", "skor1":0, "takim2":"ts", "skor2":1, "finished":0},
-        {"takim1":"gs", "skor1":3, "takim2":"goz", "skor2":1, "finished":0},
-        {"takim1":"als", "skor1":1, "takim2":"mlt", "skor2":1, "finished":0},
-        {"takim1":"erz", "skor1":1, "takim2":"dnz", "skor2":2, "finished":0},
-        {"takim1":"fb", "skor1":4, "takim2":"med", "skor2":1, "finished":0},
-        {"takim1":"ksp", "skor1":0, "takim2":"gfk", "skor2":4, "finished":0},
-        {"takim1":"kay", "skor1":1, "takim2":"kon", "skor2":2, "finished":0},
-        {"takim1":"svs", "skor1":3, "takim2":"gb", "skor2":1, "finished":0},
-        {"takim1":"crz", "skor1":2, "takim2":"ant", "skor2":1, "finished":0}, 
-        {"takim1":"ag", "skor1":0, "takim2":"bjk", "skor2":1, "finished":0}
-    ],
-          "bay":"fkg"
-     },
-      {"hafta":13,
-        "fikstur":[
-        {"takim1":"fkg", "skor1":2, "takim2":"gs", "skor2":1, "finished":0},
-        {"takim1":"goz", "skor1":0, "takim2":"hty", "skor2":1, "finished":0},
-        {"takim1":"ts", "skor1":2, "takim2":"crz", "skor2":1, "finished":0},
-        {"takim1":"mlt", "skor1":2, "takim2":"ksp", "skor2":0, "finished":0},
-        {"takim1":"gfk", "skor1":3, "takim2":"fb", "skor2":1, "finished":0},
-        {"takim1":"gb", "skor1":1, "takim2":"ag", "skor2":1, "finished":0},
-        {"takim1":"dnz", "skor1":1, "takim2":"als", "skor2":0, "finished":0},
-        {"takim1":"bjk", "skor1":4, "takim2":"erz", "skor2":0, "finished":0},
-        {"takim1":"ant", "skor1":2, "takim2":"kay", "skor2":0, "finished":0}, 
-        {"takim1":"kon", "skor1":0, "takim2":"svs", "skor2":1, "finished":0}
-    ],
-          "bay":"med"
-     },
-      {"hafta":12,
-        "fikstur":[
-        {"takim1":"ksp", "skor1":3, "takim2":"dnz", "skor2":2, "finished":0},
-        {"takim1":"hty", "skor1":3, "takim2":"fkg", "skor2":1, "finished":0},
-        {"takim1":"kay", "skor1":0, "takim2":"ts", "skor2":0, "finished":0},
-        {"takim1":"crz", "skor1":3, "takim2":"goz", "skor2":2, "finished":0},
-        {"takim1":"fb", "skor1":0, "takim2":"mlt", "skor2":3, "finished":0},
-        {"takim1":"ag", "skor1":4, "takim2":"kon", "skor2":3, "finished":0},
-        {"takim1":"erz", "skor1":0, "takim2":"gb", "skor2":1, "finished":0},
-        {"takim1":"med", "skor1":1, "takim2":"gfk", "skor2":2, "finished":0},
-        {"takim1":"als", "skor1":2, "takim2":"bjk", "skor2":1, "finished":0}, 
-        {"takim1":"svs", "skor1":0, "takim2":"ant", "skor2":0, "finished":0}
-    ],
-          "bay":"gs"
-     },
-      {"hafta":11,
-        "fikstur":[
-        {"takim1":"bjk", "skor1":3, "takim2":"ksp", "skor2":0, "finished":0},
-        {"takim1":"gb", "skor1":2, "takim2":"als", "skor2":1, "finished":0},
-        {"takim1":"goz", "skor1":1, "takim2":"kay", "skor2":1, "finished":0},
-        {"takim1":"kon", "skor1":2, "takim2":"erz", "skor2":0, "finished":0},
-        {"takim1":"mlt", "skor1":1, "takim2":"med", "skor2":1, "finished":0},
-        {"takim1":"gs", "skor1":3, "takim2":"hty", "skor2":0, "finished":0},
-        {"takim1":"fkg", "skor1":2, "takim2":"crz", "skor2":1, "finished":0},
-        {"takim1":"ant", "skor1":1, "takim2":"ag", "skor2":0, "finished":0},
-        {"takim1":"dnz", "skor1":0, "takim2":"fb", "skor2":2, "finished":0}, 
-        {"takim1":"ts", "skor1":1, "takim2":"svs", "skor2":1, "finished":0}
-    ],
-          "bay":"gfk"
      }
     ],
   
