@@ -133,20 +133,8 @@
 	},
 	{
 		"mevkii": "CRZ",
-		"adi": "Fernando",
-		"aciklama": "Belirsiz",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "CRZ",
 		"adi": "Remy",
 		"aciklama": "(3 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Yasin",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -170,12 +158,6 @@
 	{
 		"mevkii": "CRZ",
 		"adi": "Talbi",
-		"aciklama": "Covid",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Baiano",
 		"aciklama": "Covid",
 		"durum": "sakatlar"
 	},
