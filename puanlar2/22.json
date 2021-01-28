@@ -2052,6 +2052,12 @@
       "point":0
    },
    {
+      "id":"556",
+      "name":"Mustafa Akbaş",
+      "position":"d",
+      "point":0
+   },
+   {
       "id":"325",
       "name":"Floyd Ayit",
       "position":"os",
@@ -3542,12 +3548,6 @@
    {
       "id":"555",
       "name":"Wallace",
-      "position":"d",
-      "point":0
-   },
-   {
-      "id":"556",
-      "name":"Mustafa Akbaş",
       "position":"d",
       "point":0
    },
