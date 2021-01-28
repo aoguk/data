@@ -2121,6 +2121,12 @@
 			},
 			{
 				"team": "gb",
+				"name": "Mustafa Akbaş",
+				"pozisyon": "d",
+				"id": "556"
+			},
+			{
+				"team": "gb",
 				"name": "Floyd Ayit",
 				"pozisyon": "os",
 				"id": "325"
@@ -3654,12 +3660,6 @@
 				"name": "Wallace",
 				"pozisyon": "d",
 				"id": "555"
-			},
-			{
-				"team": "mlt",
-				"name": "Mustafa Akbaş",
-				"pozisyon": "d",
-				"id": "556"
 			},
 			{
 				"team": "mlt",
