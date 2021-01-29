@@ -1782,12 +1782,6 @@
       "point":0
    },
    {
-      "id":"281",
-      "name":"Sekidika",
-      "position":"os",
-      "point":0
-   },
-   {
       "id":"282",
       "name":"Kerem Aktürkoğlu",
       "position":"os",
@@ -2775,6 +2769,12 @@
       "id":"156",
       "name":"Barış Yardımcı",
       "position":"d",
+      "point":0
+   },
+   {
+      "id":"281",
+      "name":"Sekidika",
+      "position":"os",
       "point":0
    },
    {
