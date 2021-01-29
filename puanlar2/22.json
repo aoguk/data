@@ -1263,7 +1263,7 @@
       "id":"201",
       "name":"Aykut Özer",
       "position":"k",
-      "point":4
+      "point":9
    },
    {
       "id":"202",
@@ -1281,7 +1281,7 @@
       "id":"523",
       "name":"Gaston Campi",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"606",
@@ -1293,7 +1293,7 @@
       "id":"204",
       "name":"Enzo Roco",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"205",
@@ -1305,7 +1305,7 @@
       "id":"206",
       "name":"Balkovec",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"207",
@@ -1335,7 +1335,7 @@
       "id":"211",
       "name":"Koray Altınay",
       "position":"d",
-      "point":3
+      "point":6
    },
    {
       "id":"212",
@@ -1365,7 +1365,7 @@
       "id":"604",
       "name":"Emre Çolak",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"605",
@@ -1377,7 +1377,7 @@
       "id":"213",
       "name":"Salibur",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"215",
@@ -1443,7 +1443,7 @@
       "id":"228",
       "name":"Vato Arveladze",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"229",
@@ -3525,7 +3525,7 @@
       "id":"550",
       "name":"Abdulsamed Damlu",
       "position":"k",
-      "point":4
+      "point":9
    },
    {
       "id":"551",
@@ -3537,7 +3537,7 @@
       "id":"552",
       "name":"Zeki Yavru",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"553",
@@ -3549,13 +3549,13 @@
       "id":"554",
       "name":"Semih Kaya",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"555",
       "name":"Wallace",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"557",
@@ -3573,7 +3573,7 @@
       "id":"559",
       "name":"Hadebe",
       "position":"d",
-      "point":3
+      "point":6
    },
    {
       "id":"560",
@@ -3633,7 +3633,7 @@
       "id":"569",
       "name":"Ahmed İldiz",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"570",
