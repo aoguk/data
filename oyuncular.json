@@ -1839,12 +1839,6 @@
 			},
 			{
 				"team": "gs",
-				"name": "Sekidika",
-				"pozisyon": "os",
-				"id": "281"
-			},
-			{
-				"team": "gs",
 				"name": "Kerem Aktürkoğlu",
 				"pozisyon": "os",
 				"id": "282"
@@ -2868,6 +2862,12 @@
 				"name": "Barış Yardımcı",
 				"pozisyon": "d",
 				"id": "156"
+			},
+			{
+				"team": "kon",
+				"name": "Sekidika",
+				"pozisyon": "os",
+				"id": "281"
 			},
 			{
 				"team": "kon",
