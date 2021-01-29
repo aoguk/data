@@ -1761,13 +1761,13 @@
       "id":"277",
       "name":"Etebo",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"278",
       "name":"Ömer Bayram",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"279",
@@ -1785,13 +1785,13 @@
       "id":"282",
       "name":"Kerem Aktürkoğlu",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"630",
       "name":"Onyekuru",
       "position":"os",
-      "point":8
+      "point":14
    },
    {
       "id":"631",
@@ -1821,7 +1821,7 @@
       "id":"286",
       "name":"Günay",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"287",
@@ -1885,9 +1885,9 @@
    },
    {
       "id":"535",
-      "name":"Bilal Başakçıoğlu",
+      "name":"Bilal Başaçıkoğlu",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"297",
@@ -1941,7 +1941,7 @@
       "id":"305",
       "name":"Kenan Özer",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"306",
