@@ -922,6 +922,12 @@
 			},
 			{
 				"team": "crz",
+				"name": "Soderlund",
+				"pozisyon": "f",
+				"id": "644"
+			},
+			{
+				"team": "crz",
 				"name": "Remy",
 				"pozisyon": "f",
 				"id": "144"
@@ -1584,6 +1590,12 @@
 				"name": "Slazai",
 				"pozisyon": "d",
 				"id": "619"
+			},
+			{
+				"team": "fb",
+				"name": "Osayi Samuel",
+				"pozisyon": "os",
+				"id": "645"
 			},
 			{
 				"team": "fb",
