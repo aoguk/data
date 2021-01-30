@@ -994,6 +994,12 @@
 			},
 			{
 				"team": "svs",
+				"name": "Ahmet Oğuz",
+				"pozisyon": "d",
+				"id": "460"
+			},
+			{
+				"team": "svs",
 				"name": "Max Gradel",
 				"pozisyon": "os",
 				"id": "157"
@@ -3036,12 +3042,6 @@
 				"name": "Haddadi",
 				"pozisyon": "d",
 				"id": "459"
-			},
-			{
-				"team": "ksp",
-				"name": "Ahmet Oğuz",
-				"pozisyon": "d",
-				"id": "460"
 			},
 			{
 				"team": "ksp",
