@@ -460,12 +460,6 @@
 			},
 			{
 				"team": "als",
-				"name": "Bakasetas",
-				"pozisyon": "os",
-				"id": "070"
-			},
-			{
-				"team": "als",
 				"name": "Efecan Karaca",
 				"pozisyon": "os",
 				"id": "071"
@@ -3504,6 +3498,12 @@
 				"name": "Atakan Gündüz",
 				"pozisyon": "d",
 				"id": "527"
+			},
+			{
+				"team": "ts",
+				"name": "Bakasetas",
+				"pozisyon": "os",
+				"id": "070"
 			},
 			{
 				"team": "ts",
