@@ -2403,13 +2403,13 @@
       "id":"378",
       "name":"Babajide David",
       "position":"os",
-      "point":7
+      "point":10
    },
    {
       "id":"379",
       "name":"Isaac Sackey",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"380",
@@ -2451,7 +2451,7 @@
       "id":"386",
       "name":"Selim Ilgaz",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"387",
@@ -2475,7 +2475,7 @@
       "id":"389",
       "name":"Mame Diouf",
       "position":"f",
-      "point":7
+      "point":12
    },
    {
       "id":"390",
@@ -3105,7 +3105,7 @@
       "id":"482",
       "name":"Mert Günok",
       "position":"k",
-      "point":0
+      "point":-2
    },
    {
       "id":"483",
@@ -3129,13 +3129,13 @@
       "id":"611",
       "name":"Duarte",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"486",
       "name":"Epureanu",
       "position":"d",
-      "point":0
+      "point":-1
    },
    {
       "id":"487",
