@@ -2469,7 +2469,7 @@
       "id":"609",
       "name":"Kamara",
       "position":"f",
-      "point":2
+      "point":5
    },
    {
       "id":"389",
@@ -2481,7 +2481,7 @@
       "id":"390",
       "name":"Aaron Boupendza",
       "position":"f",
-      "point":9
+      "point":14
    },
    {
       "id":"391",
@@ -3105,7 +3105,7 @@
       "id":"482",
       "name":"Mert Günok",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"483",
@@ -3171,7 +3171,7 @@
       "id":"492",
       "name":"Cemali Sertel",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"493",
@@ -3243,7 +3243,7 @@
       "id":"501",
       "name":"Aleksic",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"502",
