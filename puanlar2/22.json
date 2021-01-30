@@ -444,12 +444,6 @@
       "point":0
    },
    {
-      "id":"070",
-      "name":"Bakasetas",
-      "position":"os",
-      "point":0
-   },
-   {
       "id":"071",
       "name":"Efecan Karaca",
       "position":"os",
@@ -3399,6 +3393,12 @@
       "id":"527",
       "name":"Atakan Gündüz",
       "position":"d",
+      "point":0
+   },
+   {
+      "id":"070",
+      "name":"Bakasetas",
+      "position":"os",
       "point":0
    },
    {
