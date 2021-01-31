@@ -525,7 +525,7 @@
       "id":"083",
       "name":"Ersin",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"084",
@@ -555,13 +555,13 @@
       "id":"088",
       "name":"Rosier",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"089",
       "name":"Montero",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"090",
@@ -3495,7 +3495,7 @@
       "id":"540",
       "name":"Ekuban",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"541",
