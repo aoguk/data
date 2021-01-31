@@ -525,7 +525,7 @@
       "id":"083",
       "name":"Ersin",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"084",
@@ -543,7 +543,7 @@
       "id":"086",
       "name":"Vida",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"087",
@@ -555,19 +555,19 @@
       "id":"088",
       "name":"Rosier",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"089",
       "name":"Montero",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"090",
       "name":"N'Skala",
       "position":"d",
-      "point":7
+      "point":6
    },
    {
       "id":"091",
@@ -585,7 +585,7 @@
       "id":"093",
       "name":"Rıdvan Yılmaz",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"094",
@@ -597,25 +597,25 @@
       "id":"095",
       "name":"Ghezzal",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"096",
       "name":"Ljajic",
       "position":"os",
-      "point":1
+      "point":0
    },
    {
       "id":"097",
       "name":"N'Koudou",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"098",
       "name":"Mensah",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"099",
@@ -639,19 +639,19 @@
       "id":"102",
       "name":"Dorukhan",
       "position":"os",
-      "point":-2
+      "point":-3
    },
    {
       "id":"103",
       "name":"Atiba",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"104",
       "name":"Josef de Souza",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"105",
@@ -693,13 +693,13 @@
       "id":"111",
       "name":"Aboubakar",
       "position":"f",
-      "point":9
+      "point":8
    },
    {
       "id":"112",
       "name":"Larin",
       "position":"f",
-      "point":4
+      "point":3
    },
    {
       "id":"113",
@@ -3345,7 +3345,7 @@
       "id":"514",
       "name":"Uğurcan",
       "position":"k",
-      "point":3
+      "point":4
    },
    {
       "id":"515",
@@ -3375,25 +3375,25 @@
       "id":"519",
       "name":"Vitor Hugo",
       "position":"d",
-      "point":12
+      "point":13
    },
    {
       "id":"520",
       "name":"Marlon",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"521",
       "name":"Edgar Ie",
       "position":"d",
-      "point":3
+      "point":4
    },
    {
       "id":"522",
       "name":"Majid Hosseini",
       "position":"d",
-      "point":2
+      "point":3
    },
    {
       "id":"524",
@@ -3411,7 +3411,7 @@
       "id":"526",
       "name":"Serkan Asan",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"527",
@@ -3423,19 +3423,19 @@
       "id":"070",
       "name":"Bakasetas",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"528",
       "name":"Nwakaeme",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"530",
       "name":"Lewis Baker",
       "position":"os",
-      "point":3
+      "point":4
    },
    {
       "id":"531",
@@ -3447,7 +3447,7 @@
       "id":"532",
       "name":"Flavio",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"533",
@@ -3459,13 +3459,13 @@
       "id":"534",
       "name":"Abdulkadir Parmak",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"334",
       "name":"Berat Ayberk",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"536",
@@ -3483,7 +3483,7 @@
       "id":"538",
       "name":"Yusuf Sarı",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"539",
@@ -3495,13 +3495,13 @@
       "id":"540",
       "name":"Ekuban",
       "position":"f",
-      "point":3
+      "point":4
    },
    {
       "id":"541",
       "name":"Djaniny",
       "position":"f",
-      "point":2
+      "point":3
    },
    {
       "id":"542",
