@@ -1542,6 +1542,12 @@
       "point":8
    },
    {
+      "id":"503",
+      "name":"İrfan Can",
+      "position":"os",
+      "point":0
+   },
+   {
       "id":"645",
       "name":"Osayi Samuel",
       "position":"os",
@@ -3272,12 +3278,6 @@
    {
       "id":"502",
       "name":"Deniz Türüç",
-      "position":"os",
-      "point":0
-   },
-   {
-      "id":"503",
-      "name":"İrfan Can",
       "position":"os",
       "point":0
    },
