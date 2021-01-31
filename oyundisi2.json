@@ -18,6 +18,18 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "ERZ",
+		"adi": "Boumal",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "AG",
+		"adi": "Endri Çekici",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "AG",
 		"adi": "Kitsiou",
 		"aciklama": "Oynayabilir",
