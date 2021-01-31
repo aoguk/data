@@ -291,7 +291,7 @@
       "id":"045",
       "name":"Omar İmeri",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"046",
@@ -453,7 +453,7 @@
       "id":"072",
       "name":"Ceyhun Gülselam",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"073",
@@ -513,7 +513,7 @@
       "id":"081",
       "name":"Adam Bareiro",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"082",
@@ -957,7 +957,7 @@
       "id":"153",
       "name":"Camara",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"154",
@@ -2241,7 +2241,7 @@
       "id":"529",
       "name":"Diabate",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"623",
@@ -2263,9 +2263,9 @@
    },
    {
       "id":"352",
-      "name":"Guilherme",
+      "name":"Esiti",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"353",
