@@ -6,6 +6,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "MLT",
+		"adi": "Hadebe",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "HTY",
 		"adi": "Akintola",
 		"aciklama": "CEZALI (1)",
@@ -30,6 +36,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "AG",
+		"adi": "Paintsill",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "ANT",
 		"adi": "Orgill",
 		"aciklama": "CEZALI (1)",
@@ -46,6 +58,12 @@
 		"adi": "Dorukhan",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "DNZ",
+		"adi": "Leismann",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "AG",
