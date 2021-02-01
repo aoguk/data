@@ -1773,6 +1773,12 @@
 			},
 			{
 				"team": "gs",
+				"name": "Yedlin",
+				"pozisyon": "d",
+				"id": "647"
+			},
+			{
+				"team": "gs",
 				"name": "Gedson",
 				"pozisyon": "os",
 				"id": "270"
@@ -1863,7 +1869,7 @@
 			},
 			{
 				"team": "gs",
-				"name": "Diagne",
+				"name": "Mohamed",
 				"pozisyon": "f",
 				"id": "284"
 			},
