@@ -3333,6 +3333,12 @@
 			},
 			{
 				"team": "med",
+				"name": "Ndayishimiye",
+				"pozisyon": "os",
+				"id": "567"
+			},
+			{
+				"team": "med",
 				"name": "Tolga",
 				"pozisyon": "os",
 				"id": "252"
@@ -3756,12 +3762,6 @@
 				"name": "Acquah",
 				"pozisyon": "os",
 				"id": "566"
-			},
-			{
-				"team": "mlt",
-				"name": "Ndayishimiye",
-				"pozisyon": "os",
-				"id": "567"
 			},
 			{
 				"team": "mlt",
