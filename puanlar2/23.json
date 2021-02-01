@@ -1164,6 +1164,18 @@
       "point":0
    },
    {
+      "id":"587",
+      "name":"Bergdich",
+      "position":"d",
+      "point":0
+   },
+   {
+      "id":"407",
+      "name":"Yaw Ackah",
+      "position":"os",
+      "point":0
+   },
+   {
       "id":"618",
       "name":"Omolo",
       "position":"os",
@@ -2622,12 +2634,6 @@
       "point":0
    },
    {
-      "id":"407",
-      "name":"Yaw Ackah",
-      "position":"os",
-      "point":0
-   },
-   {
       "id":"408",
       "name":"Pedro Henrique",
       "position":"os",
@@ -3752,12 +3758,6 @@
    {
       "id":"586",
       "name":"Sakıb Aytaç",
-      "position":"d",
-      "point":0
-   },
-   {
-      "id":"587",
-      "name":"Bergdich",
       "position":"d",
       "point":0
    },
