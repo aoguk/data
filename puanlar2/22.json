@@ -1638,12 +1638,6 @@
       "point":5
    },
    {
-      "id":"252",
-      "name":"Tolga",
-      "position":"os",
-      "point":0
-   },
-   {
       "id":"253",
       "name":"Ömer Faruk",
       "position":"os",
@@ -3237,6 +3231,12 @@
       "id":"633",
       "name":"Muhammed",
       "position":"d",
+      "point":0
+   },
+   {
+      "id":"252",
+      "name":"Tolga",
+      "position":"os",
       "point":0
    },
    {
