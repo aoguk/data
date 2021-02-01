@@ -358,12 +358,6 @@
 			},
 			{
 				"team": "ant",
-				"name": "Jahovic",
-				"pozisyon": "f",
-				"id": "055"
-			},
-			{
-				"team": "ant",
 				"name": "Podolski",
 				"pozisyon": "f",
 				"id": "056"
@@ -637,12 +631,6 @@
 				"name": "Mensah",
 				"pozisyon": "os",
 				"id": "098"
-			},
-			{
-				"team": "bjk",
-				"name": "Tyler Boyd",
-				"pozisyon": "os",
-				"id": "100"
 			},
 			{
 				"team": "bjk",
@@ -1003,6 +991,12 @@
 				"name": "Ahmet Oğuz",
 				"pozisyon": "d",
 				"id": "460"
+			},
+			{
+				"team": "svs",
+				"name": "Tyler Boyd",
+				"pozisyon": "os",
+				"id": "100"
 			},
 			{
 				"team": "svs",
@@ -2418,6 +2412,12 @@
 				"name": "Batuhan Kırdaroğlu",
 				"pozisyon": "os",
 				"id": "364"
+			},
+			{
+				"team": "goz",
+				"name": "Jahovic",
+				"pozisyon": "f",
+				"id": "055"
 			},
 			{
 				"team": "goz",
