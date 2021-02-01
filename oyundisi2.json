@@ -84,15 +84,15 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "AG",
-		"adi": "Atakan Çankaya",
+		"mevkii": "ANT",
+		"adi": "Hakan Özmert",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ANT",
-		"adi": "Bahadır Öztürk",
-		"aciklama": "(1 Hafta) SAKAT",
+		"adi": "Amilton",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -115,26 +115,32 @@
 	},
 	{
 		"mevkii": "ANT",
-		"adi": "Jean Armel",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ANT",
 		"adi": "Ufuk Akyol",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "BJK",
+		"adi": "Cenk Tosun",
+		"aciklama": "(1 Hafta) Karantina",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Rıdvan Yılmaz",
+		"aciklama": "(2 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
 		"adi": "Gökhan Töre",
-		"aciklama": "(3 Hafta) SAKAT",
+		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "CRZ",
 		"adi": "Remy",
-		"aciklama": "(3 Hafta) SAKAT",
+		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -211,8 +217,8 @@
 	},
 	{
 		"mevkii": "FB",
-		"adi": "Tolga Ciğerci",
-		"aciklama": "Oynayabilir",
+		"adi": "İrfan Can",
+		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -385,14 +391,14 @@
 	},
 	{
 		"mevkii": "MED",
-		"adi": "Chadli",
-		"aciklama": "(4 Hafta) SAKAT",
+		"adi": "Giuliano",
+		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "MED",
-		"adi": "İrfan Can",
-		"aciklama": "(4 Hafta) SAKAT",
+		"adi": "Chadli",
+		"aciklama": "(3 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -403,7 +409,25 @@
 	},
 	{
 		"mevkii": "MED",
-		"adi": "Giuliano",
+		"adi": "Mehmet Topal",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
+		"adi": "Aleksic",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
+		"adi": "Berkay",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
+		"adi": "Rafael",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -454,72 +478,6 @@
 		"adi": "Trondsen",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "BJK",
-		"adi": "Atakan Üner",
-		"aciklama": "Gönderildi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "ERZ",
-		"adi": "Hamroun",
-		"aciklama": "Gönderildi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "ERZ",
-		"adi": "Ömer Şişmanoğlu",
-		"aciklama": "Gönderildi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Mustafa  Çeçenoğlu",
-		"aciklama": "Gönderildi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "GOZ",
-		"adi": "Burak Süleyman",
-		"aciklama": "Gönderildi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Diagne",
-		"aciklama": "Gönderildi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "HTY",
-		"adi": "Idir Ouali",
-		"aciklama": "Gönderildi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "KSP",
-		"adi": "Tirpan",
-		"aciklama": "Gönderildi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "MED",
-		"adi": "Kerim Frei",
-		"aciklama": "Gönderildi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Yasin Öztekin",
-		"aciklama": "Gönderildi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Armin Derlek",
-		"aciklama": "Gönderildi",
-		"durum": "kadro dışı"
 	},
 	{
 		"mevkii": "BJK",
