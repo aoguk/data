@@ -3234,6 +3234,12 @@
       "point":0
    },
    {
+      "id":"567",
+      "name":"Ndayishimiye",
+      "position":"os",
+      "point":0
+   },
+   {
       "id":"252",
       "name":"Tolga",
       "position":"os",
@@ -3644,12 +3650,6 @@
    {
       "id":"566",
       "name":"Acquah",
-      "position":"os",
-      "point":0
-   },
-   {
-      "id":"567",
-      "name":"Ndayishimiye",
       "position":"os",
       "point":0
    },
