@@ -348,12 +348,6 @@
       "point":0
    },
    {
-      "id":"055",
-      "name":"Jahovic",
-      "position":"f",
-      "point":0
-   },
-   {
       "id":"056",
       "name":"Podolski",
       "position":"f",
@@ -616,12 +610,6 @@
       "name":"Mensah",
       "position":"os",
       "point":3
-   },
-   {
-      "id":"100",
-      "name":"Tyler Boyd",
-      "position":"os",
-      "point":0
    },
    {
       "id":"101",
@@ -970,6 +958,12 @@
       "name":"Ahmet Oğuz",
       "position":"d",
       "point":2
+   },
+   {
+      "id":"100",
+      "name":"Tyler Boyd",
+      "position":"os",
+      "point":0
    },
    {
       "id":"157",
@@ -2343,6 +2337,12 @@
       "id":"364",
       "name":"Batuhan Kırdaroğlu",
       "position":"os",
+      "point":0
+   },
+   {
+      "id":"055",
+      "name":"Jahovic",
+      "position":"f",
       "point":0
    },
    {
