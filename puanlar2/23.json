@@ -1824,12 +1824,6 @@
       "point":0
    },
    {
-      "id":"285",
-      "name":"Ali Yavuz Kol",
-      "position":"f",
-      "point":0
-   },
-   {
       "id":"286",
       "name":"Günay",
       "position":"k",
@@ -3872,6 +3866,12 @@
    {
       "id":"601",
       "name":"Mesanovic",
+      "position":"f",
+      "point":0
+   },
+   {
+      "id":"285",
+      "name":"Ali Yavuz Kol",
       "position":"f",
       "point":0
    }
