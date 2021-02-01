@@ -565,18 +565,6 @@
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Lens",
-		"aciklama": "Kadro Dışı",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "BJK",
-		"adi": "Isimat Mirin",
-		"aciklama": "Kadro Dışı",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "BJK",
 		"adi": "Douglas",
 		"aciklama": "Kadro Dışı",
 		"durum": "kadro dışı"
@@ -632,12 +620,6 @@
 	{
 		"mevkii": "KAY",
 		"adi": "Manzala",
-		"aciklama": "Kadro Dışı",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Serkan Kırıntılı",
 		"aciklama": "Kadro Dışı",
 		"durum": "kadro dışı"
 	},
@@ -758,12 +740,6 @@
 	{
 		"mevkii": "MED",
 		"adi": "Skrtel",
-		"aciklama": "Sözleşme Feshi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Barış Yardımcı",
 		"aciklama": "Sözleşme Feshi",
 		"durum": "kadro dışı"
 	},
