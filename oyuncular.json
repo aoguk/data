@@ -1689,12 +1689,6 @@
 			},
 			{
 				"team": "fb",
-				"name": "Tolga",
-				"pozisyon": "os",
-				"id": "252"
-			},
-			{
-				"team": "fb",
 				"name": "Ömer Faruk",
 				"pozisyon": "os",
 				"id": "253"
@@ -3336,6 +3330,12 @@
 				"name": "Muhammed",
 				"pozisyon": "d",
 				"id": "633"
+			},
+			{
+				"team": "med",
+				"name": "Tolga",
+				"pozisyon": "os",
+				"id": "252"
 			},
 			{
 				"team": "med",
