@@ -1506,6 +1506,12 @@
 				"name": "Artur Sobiech",
 				"pozisyon": "f",
 				"id": "229"
+			},
+			{
+				"team": "fkg",
+				"name": "Kemal Ademi",
+				"pozisyon": "f",
+				"id": "257"
 			}
 		]
 	},
@@ -1710,12 +1716,6 @@
 				"name": "Cisse",
 				"pozisyon": "f",
 				"id": "256"
-			},
-			{
-				"team": "fb",
-				"name": "Ademi",
-				"pozisyon": "f",
-				"id": "257"
 			}
 		]
 	},
