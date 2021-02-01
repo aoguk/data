@@ -151,6 +151,12 @@
 	},
 	{
 		"mevkii": "CRZ",
+		"adi": "Skoda",
+		"aciklama": "Oynayabilir",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "CRZ",
 		"adi": "Remy",
 		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
@@ -194,12 +200,6 @@
 	{
 		"mevkii": "CRZ",
 		"adi": "Talbi",
-		"aciklama": "Covid",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Skoda",
 		"aciklama": "Covid",
 		"durum": "sakatlar"
 	},
