@@ -1878,12 +1878,6 @@
 				"name": "Mohamed",
 				"pozisyon": "f",
 				"id": "284"
-			},
-			{
-				"team": "gs",
-				"name": "Ali Yavuz Kol",
-				"pozisyon": "f",
-				"id": "285"
 			}
 		]
 	},
@@ -3990,6 +3984,12 @@
 				"name": "Mesanovic",
 				"pozisyon": "f",
 				"id": "601"
+			},
+			{
+				"team": "dnz",
+				"name": "Ali Yavuz Kol",
+				"pozisyon": "f",
+				"id": "285"
 			}
 		]
 	}
