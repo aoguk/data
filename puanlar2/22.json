@@ -1464,6 +1464,12 @@
       "point":4
    },
    {
+      "id":"257",
+      "name":"Kemal Ademi",
+      "position":"f",
+      "point":0
+   },
+   {
       "id":"230",
       "name":"Altay Bayındır",
       "position":"k",
@@ -1660,12 +1666,6 @@
       "name":"Cisse",
       "position":"f",
       "point":3
-   },
-   {
-      "id":"257",
-      "name":"Ademi",
-      "position":"f",
-      "point":0
    },
    {
       "id":"258",
