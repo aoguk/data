@@ -637,6 +637,12 @@
 	},
 	{
 		"mevkii": "AG",
+		"adi": "Bolingi",
+		"aciklama": "Sözleşme Feshi",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "AG",
 		"adi": "Cebrail",
 		"aciklama": "Sözleşme Feshi",
 		"durum": "kadro dışı"
