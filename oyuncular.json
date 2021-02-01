@@ -1203,6 +1203,18 @@
 			},
 			{
 				"team": "erz",
+				"name": "Bergdich",
+				"pozisyon": "d",
+				"id": "587"
+			},
+			{
+				"team": "erz",
+				"name": "Yaw Ackah",
+				"pozisyon": "os",
+				"id": "407"
+			},
+			{
+				"team": "erz",
 				"name": "Omolo",
 				"pozisyon": "os",
 				"id": "618"
@@ -2709,12 +2721,6 @@
 			},
 			{
 				"team": "kay",
-				"name": "Yaw Ackah",
-				"pozisyon": "os",
-				"id": "407"
-			},
-			{
-				"team": "kay",
 				"name": "Pedro Henrique",
 				"pozisyon": "os",
 				"id": "408"
@@ -3870,12 +3876,6 @@
 				"name": "Sakıb Aytaç",
 				"pozisyon": "d",
 				"id": "586"
-			},
-			{
-				"team": "dnz",
-				"name": "Bergdich",
-				"pozisyon": "d",
-				"id": "587"
 			},
 			{
 				"team": "dnz",
