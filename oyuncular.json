@@ -388,6 +388,12 @@
 			},
 			{
 				"team": "als",
+				"name": "Serkan Kırıntılı",
+				"pozisyon": "k",
+				"id": "425"
+			},
+			{
+				"team": "als",
 				"name": "Çağrı Güney",
 				"pozisyon": "k",
 				"id": "060"
@@ -2820,12 +2826,6 @@
 				"name": "Erten Ersu",
 				"pozisyon": "k",
 				"id": "424"
-			},
-			{
-				"team": "kon",
-				"name": "Serkan Kırıntılı",
-				"pozisyon": "k",
-				"id": "425"
 			},
 			{
 				"team": "kon",
