@@ -721,6 +721,12 @@
 	},
 	{
 		"mevkii": "FKG",
+		"adi": "Badou NDiaye",
+		"aciklama": "Sözleşme Feshi",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "FKG",
 		"adi": "Lichaj",
 		"aciklama": "Sözleşme Feshi",
 		"durum": "kadro dışı"
