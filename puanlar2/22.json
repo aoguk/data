@@ -618,12 +618,6 @@
       "point":3
    },
    {
-      "id":"099",
-      "name":"Lens",
-      "position":"os",
-      "point":0
-   },
-   {
       "id":"100",
       "name":"Tyler Boyd",
       "position":"os",
@@ -1353,6 +1347,12 @@
       "id":"212",
       "name":"Fatih Kuruçuk",
       "position":"d",
+      "point":0
+   },
+   {
+      "id":"099",
+      "name":"Lens",
+      "position":"os",
       "point":0
    },
    {
