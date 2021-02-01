@@ -372,6 +372,12 @@
       "point":0
    },
    {
+      "id":"425",
+      "name":"Serkan Kırıntılı",
+      "position":"k",
+      "point":0
+   },
+   {
       "id":"060",
       "name":"Çağrı Güney",
       "position":"k",
@@ -2726,12 +2732,6 @@
    {
       "id":"424",
       "name":"Erten Ersu",
-      "position":"k",
-      "point":0
-   },
-   {
-      "id":"425",
-      "name":"Serkan Kırıntılı",
       "position":"k",
       "point":0
    },
