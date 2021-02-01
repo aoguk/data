@@ -640,12 +640,6 @@
 			},
 			{
 				"team": "bjk",
-				"name": "Lens",
-				"pozisyon": "os",
-				"id": "099"
-			},
-			{
-				"team": "bjk",
 				"name": "Tyler Boyd",
 				"pozisyon": "os",
 				"id": "100"
@@ -1398,6 +1392,12 @@
 				"name": "Fatih Kuruçuk",
 				"pozisyon": "d",
 				"id": "212"
+			},
+			{
+				"team": "fkg",
+				"name": "Lens",
+				"pozisyon": "os",
+				"id": "099"
 			},
 			{
 				"team": "fkg",
