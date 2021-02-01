@@ -1716,6 +1716,12 @@
       "point":0
    },
    {
+      "id":"647",
+      "name":"Yedlin",
+      "position":"d",
+      "point":0
+   },
+   {
       "id":"270",
       "name":"Gedson",
       "position":"os",
@@ -1807,7 +1813,7 @@
    },
    {
       "id":"284",
-      "name":"Diagne",
+      "name":"Mohamed",
       "position":"f",
       "point":0
    },
