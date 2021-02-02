@@ -85,7 +85,7 @@
 	},
 	{
 		"mevkii": "CRZ",
-		"adi": "Umar Aminu",
+		"adi": "Skoda",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -111,18 +111,6 @@
 		"mevkii": "CRZ",
 		"adi": "Tunay Torun",
 		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "İsmail Köybaşı",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Talbi",
-		"aciklama": "Covid",
 		"durum": "sakatlar"
 	},
 	{
@@ -351,12 +339,6 @@
 		"mevkii": "KSP",
 		"adi": "Jeanvier",
 		"aciklama": "(8 Ay) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MED",
-		"adi": "Giuliano",
-		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
 	},
 	{
