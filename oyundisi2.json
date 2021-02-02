@@ -541,12 +541,6 @@
 	},
 	{
 		"mevkii": "AG",
-		"adi": "Bolingi",
-		"aciklama": "Sözleşme Feshi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "AG",
 		"adi": "Cebrail",
 		"aciklama": "Sözleşme Feshi",
 		"durum": "kadro dışı"
@@ -644,12 +638,6 @@
 	{
 		"mevkii": "MED",
 		"adi": "Skrtel",
-		"aciklama": "Sözleşme Feshi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Pereira",
 		"aciklama": "Sözleşme Feshi",
 		"durum": "kadro dışı"
 	}
