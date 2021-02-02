@@ -1665,7 +1665,7 @@
       "id":"258",
       "name":"Muslera",
       "position":"k",
-      "point":2
+      "point":7
    },
    {
       "id":"259",
@@ -1689,7 +1689,7 @@
       "id":"262",
       "name":"Marcao",
       "position":"d",
-      "point":2
+      "point":0
    },
    {
       "id":"263",
@@ -3153,7 +3153,7 @@
       "id":"486",
       "name":"Epureanu",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"487",
@@ -3261,7 +3261,7 @@
       "id":"499",
       "name":"Giuliano",
       "position":"os",
-      "point":2
+      "point":-1
    },
    {
       "id":"500",
