@@ -1,81 +1,9 @@
 [
 	{
-		"mevkii": "MLT",
-		"adi": "Kubilay",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "MLT",
-		"adi": "Hadebe",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
 		"mevkii": "HTY",
-		"adi": "Akintola",
+		"adi": "Pablo Santos",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Baiano",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Melnijak",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "ERZ",
-		"adi": "Boumal",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "AG",
-		"adi": "Endri Çekici",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "AG",
-		"adi": "Paintsill",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "ANT",
-		"adi": "Orgill",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Soner Dikmen",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "BJK",
-		"adi": "Dorukhan",
-		"aciklama": "CEZALI (1)",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "DNZ",
-		"adi": "Leismann",
-		"aciklama": "CEZALI (1)",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Robin Yalçın",
-		"aciklama": "CEZALI (1)",
-		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "AG",
