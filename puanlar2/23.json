@@ -1701,7 +1701,7 @@
       "id":"264",
       "name":"Donk",
       "position":"d",
-      "point":8
+      "point":16
    },
    {
       "id":"265",
@@ -1755,7 +1755,7 @@
       "id":"272",
       "name":"Belhanda",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"273",
@@ -3123,7 +3123,7 @@
       "id":"482",
       "name":"Mert Günok",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"483",
@@ -3147,13 +3147,13 @@
       "id":"611",
       "name":"Duarte",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"486",
       "name":"Epureanu",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"487",
@@ -3171,7 +3171,7 @@
       "id":"489",
       "name":"Hasan Ali",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"490",
