@@ -747,7 +747,7 @@
       "id":"123",
       "name":"Emir Dilaver",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"124",
@@ -3000,6 +3000,12 @@
       "point":0
    },
    {
+      "id":"648",
+      "name":"Tosic",
+      "position":"d",
+      "point":2
+   },
+   {
       "id":"638",
       "name":"Drinkwater",
       "position":"os",
@@ -3075,7 +3081,7 @@
       "id":"476",
       "name":"Anıl Koç",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"477",
