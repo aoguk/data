@@ -1887,7 +1887,7 @@
       "id":"292",
       "name":"Junior Morais",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"293",
@@ -1971,7 +1971,7 @@
       "id":"304",
       "name":"Andre Sousa",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"305",
@@ -2566,6 +2566,12 @@
       "name":"Nuh Naci Kırklancıoğlu",
       "position":"k",
       "point":0
+   },
+   {
+      "id":"653",
+      "name":"Nehun Paz",
+      "position":"d",
+      "point":1
    },
    {
       "id":"397",
