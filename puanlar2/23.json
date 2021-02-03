@@ -399,7 +399,7 @@
       "id":"063",
       "name":"Tzavellas",
       "position":"d",
-      "point":4
+      "point":12
    },
    {
       "id":"064",
@@ -501,7 +501,7 @@
       "id":"079",
       "name":"Umut Güneş",
       "position":"os",
-      "point":4
+      "point":7
    },
    {
       "id":"080",
@@ -2553,7 +2553,7 @@
       "id":"394",
       "name":"Doğan Alemdar",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"395",
@@ -2637,7 +2637,7 @@
       "id":"223",
       "name":"Ramazan Civelek",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"405",
@@ -2733,7 +2733,7 @@
       "id":"420",
       "name":"İlhan Parlak",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"421",
