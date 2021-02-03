@@ -427,18 +427,6 @@
 	},
 	{
 		"mevkii": "SVS",
-		"adi": "Kayode",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Erdoğan",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "SVS",
 		"adi": "Claudemir",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -554,12 +542,6 @@
 	{
 		"mevkii": "ALS",
 		"adi": "Ufuk Ceylan",
-		"aciklama": "Sözleşme Feshi",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "DNZ",
-		"adi": "Subotic",
 		"aciklama": "Sözleşme Feshi",
 		"durum": "kadro dışı"
 	},
