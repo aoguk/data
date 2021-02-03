@@ -1395,7 +1395,7 @@
       "id":"604",
       "name":"Emre Çolak",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"605",
@@ -1429,7 +1429,7 @@
    },
    {
       "id":"217",
-      "name":"Lucas Biglia",
+      "name":"Biglia",
       "position":"os",
       "point":3
    },
@@ -1441,7 +1441,7 @@
    },
    {
       "id":"221",
-      "name":"Alassane Ndao",
+      "name":"Ndao",
       "position":"os",
       "point":10
    },
@@ -1477,9 +1477,9 @@
    },
    {
       "id":"229",
-      "name":"Artur Sobiech",
+      "name":"Sobiech",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"257",
