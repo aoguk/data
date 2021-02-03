@@ -2589,7 +2589,7 @@
       "id":"400",
       "name":"Attamah",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"401",
@@ -2704,6 +2704,12 @@
       "name":"Nurettin Korkmaz",
       "position":"os",
       "point":0
+   },
+   {
+      "id":"652",
+      "name":"Luckassen",
+      "position":"f",
+      "point":2
    },
    {
       "id":"640",
