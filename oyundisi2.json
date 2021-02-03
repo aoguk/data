@@ -145,12 +145,6 @@
 	},
 	{
 		"mevkii": "FB",
-		"adi": "Ferdi Kadıoğlu",
-		"aciklama": "Oyanyabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
 		"adi": "İrfan Can",
 		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
@@ -229,6 +223,12 @@
 	},
 	{
 		"mevkii": "GS",
+		"adi": "Falcao",
+		"aciklama": "Oynayabilir",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
 		"adi": "Şener",
 		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
@@ -237,12 +237,6 @@
 		"mevkii": "GS",
 		"adi": "Oğulcan",
 		"aciklama": "(2 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Falcao",
-		"aciklama": "(3 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
