@@ -1137,6 +1137,12 @@
 			},
 			{
 				"team": "erz",
+				"name": "Butko",
+				"pozisyon": "d",
+				"id": "649"
+			},
+			{
+				"team": "erz",
 				"name": "Da Costa",
 				"pozisyon": "d",
 				"id": "617"
@@ -1206,6 +1212,12 @@
 				"name": "Bergdich",
 				"pozisyon": "d",
 				"id": "587"
+			},
+			{
+				"team": "erz",
+				"name": "Buğra",
+				"pozisyon": "os",
+				"id": "650"
 			},
 			{
 				"team": "erz",
