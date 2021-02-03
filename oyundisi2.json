@@ -18,6 +18,18 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "ANT",
+		"adi": "Veysel Sarı",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ANT",
+		"adi": "Naldo",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "AG",
 		"adi": "Kitsiou",
 		"aciklama": "Oynayabilir",
