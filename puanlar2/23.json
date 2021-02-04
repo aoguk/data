@@ -486,14 +486,8 @@
       "point":4
    },
    {
-      "id":"077",
-      "name":"Hasan Ayaroğlu",
-      "position":"os",
-      "point":0
-   },
-   {
       "id":"078",
-      "name":"Emircanş",
+      "name":"Emircan",
       "position":"os",
       "point":0
    },
@@ -3846,6 +3840,12 @@
       "point":0
    },
    {
+      "id":"077",
+      "name":"Hasan Ayaroğlu",
+      "position":"os",
+      "point":2
+   },
+   {
       "id":"636",
       "name":"Diskerud",
       "position":"os",
@@ -3873,7 +3873,7 @@
       "id":"592",
       "name":"Dossevi",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"593",
