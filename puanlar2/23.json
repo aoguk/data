@@ -3558,12 +3558,6 @@
       "point":0
    },
    {
-      "id":"546",
-      "name":"Herrera",
-      "position":"k",
-      "point":0
-   },
-   {
       "id":"547",
       "name":"Ertaç",
       "position":"k",
@@ -3645,6 +3639,48 @@
       "id":"561",
       "name":"Mustafa Eskihellaç",
       "position":"d",
+      "point":0
+   },
+   {
+      "id":"546",
+      "name":"NDizeye",
+      "position":"d",
+      "point":0
+   },
+   {
+      "id":"654",
+      "name":"Awuku",
+      "position":"d",
+      "point":0
+   },
+   {
+      "id":"655",
+      "name":"Mallan",
+      "position":"os",
+      "point":2
+   },
+   {
+      "id":"656",
+      "name":"Nshimirimana",
+      "position":"os",
+      "point":0
+   },
+   {
+      "id":"657",
+      "name":"Aly Malle",
+      "position":"os",
+      "point":0
+   },
+   {
+      "id":"658",
+      "name":"Haqi Osman",
+      "position":"os",
+      "point":0
+   },
+   {
+      "id":"659",
+      "name":"Doğukan Emeksiz",
+      "position":"os",
       "point":0
    },
    {
