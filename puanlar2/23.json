@@ -3438,6 +3438,12 @@
       "point":0
    },
    {
+      "id":"518",
+      "name":"Yunus Mallı",
+      "position":"os",
+      "point":2
+   },
+   {
       "id":"070",
       "name":"Bakasetas",
       "position":"os",
@@ -3465,7 +3471,7 @@
       "id":"532",
       "name":"Flavio",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"533",
