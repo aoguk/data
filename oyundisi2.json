@@ -164,25 +164,31 @@
 	{
 		"mevkii": "FB",
 		"adi": "İrfan Can",
-		"aciklama": "(2 Hafta) SAKAT",
+		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "FB",
 		"adi": "Pelkas",
-		"aciklama": "(2 Hafta) SAKAT",
+		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "FB",
 		"adi": "Sinan Gümüş",
-		"aciklama": "(2 Hafta) SAKAT",
+		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "FB",
 		"adi": "Tisserand",
-		"aciklama": "(2 Hafta) SAKAT",
+		"aciklama": "(1 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Gustavo",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
