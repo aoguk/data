@@ -3675,12 +3675,6 @@
 		"oyuncular": [
 			{
 				"team": "mlt",
-				"name": "Herrera",
-				"pozisyon": "k",
-				"id": "546"
-			},
-			{
-				"team": "mlt",
 				"name": "Ertaç",
 				"pozisyon": "k",
 				"id": "547"
@@ -3762,6 +3756,48 @@
 				"name": "Mustafa Eskihellaç",
 				"pozisyon": "d",
 				"id": "561"
+			},
+			{
+				"team": "mlt",
+				"name": "NDizeye",
+				"pozisyon": "d",
+				"id": "546"
+			},
+			{
+				"team": "mlt",
+				"name": "Awuku",
+				"pozisyon": "d",
+				"id": "654"
+			},
+			{
+				"team": "mlt",
+				"name": "Mallan",
+				"pozisyon": "os",
+				"id": "655"
+			},
+			{
+				"team": "mlt",
+				"name": "Nshimirimana",
+				"pozisyon": "os",
+				"id": "656"
+			},
+			{
+				"team": "mlt",
+				"name": "Aly Malle",
+				"pozisyon": "os",
+				"id": "657"
+			},
+			{
+				"team": "mlt",
+				"name": "Haqi Osman",
+				"pozisyon": "os",
+				"id": "658"
+			},
+			{
+				"team": "mlt",
+				"name": "Doğukan Emeksiz",
+				"pozisyon": "os",
+				"id": "659"
 			},
 			{
 				"team": "mlt",
