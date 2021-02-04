@@ -502,12 +502,6 @@
 			},
 			{
 				"team": "als",
-				"name": "Hasan Ayaroğlu",
-				"pozisyon": "os",
-				"id": "077"
-			},
-			{
-				"team": "als",
 				"name": "Emircan",
 				"pozisyon": "os",
 				"id": "078"
@@ -3966,6 +3960,12 @@
 				"name": "Oğuz Yılmaz",
 				"pozisyon": "d",
 				"id": "590"
+			},
+			{
+				"team": "dnz",
+				"name": "Hasan Ayaroğlu",
+				"pozisyon": "os",
+				"id": "077"
 			},
 			{
 				"team": "dnz",
