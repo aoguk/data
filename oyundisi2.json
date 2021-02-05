@@ -1,19 +1,19 @@
 [
 	{
-		"mevkii": "HTY",
-		"adi": "Pablo Santos",
+		"mevkii": "AG",
+		"adi": "Endri Çekici",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "KAY",
-		"adi": "Sapunaru",
+		"mevkii": "AG",
+		"adi": "Paintsil",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "BJK",
-		"adi": "Mensah",
+		"mevkii": "ALS",
+		"adi": "Babacar",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
@@ -30,6 +30,66 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "BJK",
+		"adi": "Mensah",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Dorukhan",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ERZ",
+		"adi": "Murat Uçar",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "FKG",
+		"adi": "Biglia",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GB",
+		"adi": "Piris",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "HTY",
+		"adi": "Ruben Ribeiro",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "HTY",
+		"adi": "Pablo Santos",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Sapunaru",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
+		"adi": "Deniz Türüç",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
+		"adi": "Kubilay",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "AG",
 		"adi": "Kitsiou",
 		"aciklama": "Oynayabilir",
@@ -37,26 +97,20 @@
 	},
 	{
 		"mevkii": "AG",
-		"adi": "Ender Aygören",
-		"aciklama": "(6 Hafta) SAKAT",
+		"adi": "Atila",
+		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "AG",
 		"adi": "Lukasik",
-		"aciklama": "SAKAT",
+		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "ANT",
-		"adi": "Hakan Özmert",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ANT",
-		"adi": "Amilton",
-		"aciklama": "SAKAT",
+		"mevkii": "AG",
+		"adi": "Ender Aygören",
+		"aciklama": "(5 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -73,20 +127,8 @@
 	},
 	{
 		"mevkii": "ANT",
-		"adi": "Doğukan Sinik",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ANT",
 		"adi": "Ufuk Akyol",
 		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "BJK",
-		"adi": "Cenk Tosun",
-		"aciklama": "(1 Hafta) Karantina",
 		"durum": "sakatlar"
 	},
 	{
@@ -103,13 +145,13 @@
 	},
 	{
 		"mevkii": "CRZ",
-		"adi": "Remy",
-		"aciklama": "(2 Hafta) SAKAT",
+		"adi": "Djokovic",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "CRZ",
-		"adi": "Skoda",
+		"adi": "İsmail Köybaşı",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -138,6 +180,24 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "CRZ",
+		"adi": "Remy",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "DNZ",
+		"adi": "Recep Niyaz",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "DNZ",
+		"adi": "Hadi Sacko",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "DNZ",
 		"adi": "Özgür Çek",
 		"aciklama": "SAKAT",
@@ -158,13 +218,7 @@
 	{
 		"mevkii": "ERZ",
 		"adi": "Obertan",
-		"aciklama": "(5 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Sosa",
-		"aciklama": "Oynayabilir",
+		"aciklama": "(4 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -176,12 +230,6 @@
 	{
 		"mevkii": "FB",
 		"adi": "Pelkas",
-		"aciklama": "(1 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Sinan Gümüş",
 		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
@@ -206,7 +254,19 @@
 	{
 		"mevkii": "FKG",
 		"adi": "Jorquera",
-		"aciklama": "(12 Hafta) SAKAT",
+		"aciklama": "(11 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FKG",
+		"adi": "Viviano",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FKG",
+		"adi": "Hedenstad",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -223,7 +283,7 @@
 	},
 	{
 		"mevkii": "GB",
-		"adi": "Arda Kızıldağ",
+		"adi": "Johansson",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -235,50 +295,38 @@
 	},
 	{
 		"mevkii": "GFK",
-		"adi": "Kana Bıyık",
+		"adi": "Muhammet",
+		"aciklama": "Oynayabilir",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Vetrih",
+		"aciklama": "Oynayabilir",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Dicko",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GFK",
-		"adi": "Andre Felipe",
+		"adi": "Kana Bıyık",
 		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Feghouli",
+		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GS",
 		"adi": "Falcao",
 		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Şener",
-		"aciklama": "(1 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Oğulcan",
-		"aciklama": "(2 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Feghouli",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Emre Taşdemir",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Omar",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -301,6 +349,12 @@
 	},
 	{
 		"mevkii": "KAY",
+		"adi": "Pedro Henrique",
+		"aciklama": "(3 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
 		"adi": "Alibec",
 		"aciklama": "(5 Hafta) SAKAT",
 		"durum": "sakatlar"
@@ -313,8 +367,8 @@
 	},
 	{
 		"mevkii": "KON",
-		"adi": "Anicic",
-		"aciklama": "SAKAT",
+		"adi": "Volkan Fındıklı",
+		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -325,20 +379,20 @@
 	},
 	{
 		"mevkii": "KON",
-		"adi": "Miya",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Volkan Fındıklı",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KON",
 		"adi": "Alper Uludağ",
 		"aciklama": "(6 Ay) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Luckassen",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Sadiku",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -361,8 +415,14 @@
 	},
 	{
 		"mevkii": "MED",
+		"adi": "Rafael",
+		"aciklama": "Oynayabilir",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MED",
 		"adi": "Chadli",
-		"aciklama": "(3 Hafta) SAKAT",
+		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -391,12 +451,6 @@
 	},
 	{
 		"mevkii": "MED",
-		"adi": "Rafael",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MED",
 		"adi": "Bolingoli",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -416,7 +470,7 @@
 	{
 		"mevkii": "MLT",
 		"adi": "Ertaç",
-		"aciklama": "(5 Hafta) SAKAT",
+		"aciklama": "(3 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -434,12 +488,18 @@
 	{
 		"mevkii": "SVS",
 		"adi": "Appindangoye",
-		"aciklama": "SAKAT",
+		"aciklama": "(4 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "SVS",
 		"adi": "Claudemir",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SVS",
+		"adi": "Caner",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -452,7 +512,13 @@
 	{
 		"mevkii": "TS",
 		"adi": "Abdülkadir Ö.",
-		"aciklama": "(10 hafta) SAKAT",
+		"aciklama": "(9 hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Serkan Asan",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
