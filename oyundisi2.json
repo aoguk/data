@@ -163,6 +163,12 @@
 	},
 	{
 		"mevkii": "FB",
+		"adi": "Sosa",
+		"aciklama": "Oynayabilir",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
 		"adi": "İrfan Can",
 		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
@@ -188,12 +194,6 @@
 	{
 		"mevkii": "FB",
 		"adi": "Gustavo",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Sosa",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
