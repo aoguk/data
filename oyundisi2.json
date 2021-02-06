@@ -258,6 +258,18 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "GS",
+		"adi": "Linnes",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Saracci",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "HTY",
 		"adi": "Soner Örnek",
 		"aciklama": "SAKAT",
