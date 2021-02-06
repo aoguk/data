@@ -369,7 +369,7 @@
       "id":"059",
       "name":"Marafona",
       "position":"k",
-      "point":3
+      "point":4
    },
    {
       "id":"425",
@@ -387,19 +387,19 @@
       "id":"061",
       "name":"Moubandje",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"062",
       "name":"Juanfran",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"063",
       "name":"Tzavellas",
       "position":"d",
-      "point":3
+      "point":4
    },
    {
       "id":"064",
@@ -411,7 +411,7 @@
       "id":"065",
       "name":"Caulker",
       "position":"d",
-      "point":4
+      "point":9
    },
    {
       "id":"066",
@@ -429,7 +429,7 @@
       "id":"068",
       "name":"Tayfur Bingöl",
       "position":"d",
-      "point":0
+      "point":3
    },
    {
       "id":"627",
@@ -441,19 +441,19 @@
       "id":"069",
       "name":"Davidson",
       "position":"os",
-      "point":5
+      "point":6
    },
    {
       "id":"071",
       "name":"Efecan",
       "position":"os",
-      "point":3
+      "point":4
    },
    {
       "id":"072",
       "name":"Ceyhun",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"073",
@@ -471,7 +471,7 @@
       "id":"074",
       "name":"Salih",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"075",
@@ -483,7 +483,7 @@
       "id":"076",
       "name":"Berkan",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"078",
@@ -495,7 +495,7 @@
       "id":"079",
       "name":"Umut Güneş",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"080",
@@ -507,13 +507,13 @@
       "id":"081",
       "name":"Bareiro",
       "position":"f",
-      "point":9
+      "point":10
    },
    {
       "id":"082",
       "name":"Mustafa Pektemek",
       "position":"f",
-      "point":0
+      "point":8
    },
    {
       "id":"083",
@@ -687,7 +687,7 @@
       "id":"114",
       "name":"Gökhan Akkan",
       "position":"k",
-      "point":2
+      "point":0
    },
    {
       "id":"115",
@@ -711,13 +711,13 @@
       "id":"118",
       "name":"Melnijak",
       "position":"d",
-      "point":8
+      "point":7
    },
    {
       "id":"119",
       "name":"Moroziuk",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"120",
@@ -729,19 +729,19 @@
       "id":"121",
       "name":"Talbi",
       "position":"d",
-      "point":11
+      "point":10
    },
    {
       "id":"122",
       "name":"Meriah",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"123",
       "name":"Emir Dilaver",
       "position":"d",
-      "point":3
+      "point":1
    },
    {
       "id":"124",
@@ -777,7 +777,7 @@
       "id":"643",
       "name":"Dokovic",
       "position":"os",
-      "point":3
+      "point":2
    },
    {
       "id":"219",
@@ -789,19 +789,19 @@
       "id":"129",
       "name":"Samudio",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"130",
       "name":"Andrade",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"131",
       "name":"Boldrin",
       "position":"os",
-      "point":4
+      "point":2
    },
    {
       "id":"132",
@@ -825,19 +825,19 @@
       "id":"135",
       "name":"Donsah",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"136",
       "name":"Michalak",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"137",
       "name":"Baiano",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"138",
@@ -861,7 +861,7 @@
       "id":"142",
       "name":"Doğan Erdoğan",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"143",
@@ -873,7 +873,7 @@
       "id":"644",
       "name":"Soderlund",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"144",
@@ -885,7 +885,7 @@
       "id":"145",
       "name":"Skoda",
       "position":"f",
-      "point":4
+      "point":3
    },
    {
       "id":"146",
