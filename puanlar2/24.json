@@ -9,7 +9,7 @@
       "id":"02",
       "name":"Korcan Çelikay",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"03",
@@ -27,7 +27,7 @@
       "id":"05",
       "name":"Erdi Dikmen",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"06",
@@ -45,13 +45,13 @@
       "id":"08",
       "name":"Tiago Pinto",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"09",
       "name":"Kitsiou",
       "position":"d",
-      "point":0
+      "point":-1
    },
    {
       "id":"010",
@@ -69,7 +69,7 @@
       "id":"012",
       "name":"Atakan Çankaya",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"013",
@@ -918,6 +918,12 @@
       "point":0
    },
    {
+      "id":"662",
+      "name":"Alaaddin",
+      "position":"d",
+      "point":0
+   },
+   {
       "id":"150",
       "name":"Goiano",
       "position":"d",
@@ -1005,7 +1011,7 @@
       "id":"163",
       "name":"Fayçal Fajr",
       "position":"os",
-      "point":7
+      "point":10
    },
    {
       "id":"164",
@@ -1047,13 +1053,13 @@
       "id":"170",
       "name":"Kerem Atakan Kesgin",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"171",
       "name":"Yatabare",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"172",
@@ -1065,7 +1071,7 @@
       "id":"173",
       "name":"Kone",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"174",
