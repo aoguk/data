@@ -543,7 +543,7 @@
       "id":"086",
       "name":"Vida",
       "position":"d",
-      "point":4
+      "point":2
    },
    {
       "id":"087",
@@ -645,7 +645,7 @@
       "id":"106",
       "name":"Hasic",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"107",
@@ -2793,7 +2793,7 @@
       "id":"428",
       "name":"Skubic",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"429",
