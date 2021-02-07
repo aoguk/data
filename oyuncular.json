@@ -166,6 +166,12 @@
 			},
 			{
 				"team": "ag",
+				"name": "Geraldo",
+				"pozisyon": "f",
+				"id": "661"
+			},
+			{
+				"team": "ag",
 				"name": "Aliou Badji",
 				"pozisyon": "f",
 				"id": "628"
