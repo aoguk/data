@@ -9,7 +9,7 @@
       "id":"02",
       "name":"Korcan Çelikay",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"03",
@@ -51,7 +51,7 @@
       "id":"09",
       "name":"Kitsiou",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"010",
@@ -969,7 +969,7 @@
       "id":"157",
       "name":"Max Gradel",
       "position":"os",
-      "point":11
+      "point":14
    },
    {
       "id":"158",
@@ -1023,7 +1023,7 @@
       "id":"166",
       "name":"Erdoğan Yeşilyurt",
       "position":"os",
-      "point":1
+      "point":7
    },
    {
       "id":"167",
