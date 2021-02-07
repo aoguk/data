@@ -249,7 +249,7 @@
       "id":"037",
       "name":"Ersan Gülüm",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"038",
@@ -327,7 +327,7 @@
       "id":"050",
       "name":"Gökdeniz Bayraktar",
       "position":"os",
-      "point":4
+      "point":10
    },
    {
       "id":"051",
@@ -357,7 +357,7 @@
       "id":"056",
       "name":"Podolski",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"057",
@@ -3783,7 +3783,7 @@
       "id":"578",
       "name":"Cenk Gönen",
       "position":"k",
-      "point":4
+      "point":3
    },
    {
       "id":"579",
