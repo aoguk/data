@@ -31,12 +31,6 @@
 	},
 	{
 		"mevkii": "AG",
-		"adi": "Kitsiou",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "AG",
 		"adi": "Atila",
 		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
@@ -159,6 +153,12 @@
 		"mevkii": "ERZ",
 		"adi": "Obertan",
 		"aciklama": "(4 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ERZ",
+		"adi": "El Kabir",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
