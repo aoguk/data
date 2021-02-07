@@ -1101,7 +1101,7 @@
       "id":"617",
       "name":"Da Costa",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"177",
@@ -1179,7 +1179,7 @@
       "id":"407",
       "name":"Yaw Ackah",
       "position":"os",
-      "point":2
+      "point":-2
    },
    {
       "id":"618",
@@ -2577,7 +2577,7 @@
       "id":"398",
       "name":"Aziz Behich",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"399",
