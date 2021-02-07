@@ -555,7 +555,7 @@
       "id":"088",
       "name":"Rosier",
       "position":"d",
-      "point":4
+      "point":12
    },
    {
       "id":"089",
@@ -603,7 +603,7 @@
       "id":"097",
       "name":"N'Koudou",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"098",
@@ -627,7 +627,7 @@
       "id":"103",
       "name":"Atiba",
       "position":"os",
-      "point":0
+      "point":5
    },
    {
       "id":"104",
@@ -2781,7 +2781,7 @@
       "id":"426",
       "name":"Eray Birniçan",
       "position":"k",
-      "point":4
+      "point":3
    },
    {
       "id":"427",
@@ -2871,7 +2871,7 @@
       "id":"438",
       "name":"Musa Çağıran",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"439",
