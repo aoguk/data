@@ -1941,7 +1941,7 @@
       "id":"297",
       "name":"Mirallas",
       "position":"os",
-      "point":4
+      "point":10
    },
    {
       "id":"298",
@@ -2211,7 +2211,7 @@
       "id":"342",
       "name":"İrfan Can Eğribayat",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"343",
@@ -2223,13 +2223,13 @@
       "id":"344",
       "name":"Gassama",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"345",
       "name":"Titi",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"346",
@@ -2241,13 +2241,13 @@
       "id":"347",
       "name":"Mihojevic",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"348",
       "name":"Berkan Emir",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"349",
