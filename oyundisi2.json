@@ -6,6 +6,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "AG",
+		"adi": "İbrahim Akdağ",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "ANT",
 		"adi": "Gökdeniz",
 		"aciklama": "CEZALI (1)",
@@ -42,6 +48,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "GS",
+		"adi": "Arda Turan",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "KAY",
 		"adi": "Aziz Behich",
 		"aciklama": "CEZALI (1)",
@@ -57,7 +69,7 @@
 		"mevkii": "KSP",
 		"adi": "Yusuf Erdoğan",
 		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "AG",
