@@ -19,8 +19,8 @@
 	},
 	{
 		"mevkii": "AG",
-		"adi": "Lukasik",
-		"aciklama": "Oynayabilir",
+		"adi": "Emre Güral",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -261,6 +261,12 @@
 		"mevkii": "KAY",
 		"adi": "Alibec",
 		"aciklama": "(5 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Muhar",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
