@@ -25,6 +25,12 @@
 	},
 	{
 		"mevkii": "AG",
+		"adi": "Atakan",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "AG",
 		"adi": "Alper Potuk",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
