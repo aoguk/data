@@ -375,7 +375,7 @@
       "id":"059",
       "name":"Marafona",
       "position":"k",
-      "point":4
+      "point":9
    },
    {
       "id":"425",
@@ -393,19 +393,19 @@
       "id":"061",
       "name":"Moubandje",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"062",
       "name":"Juanfran",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"063",
       "name":"Tzavellas",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"064",
@@ -417,7 +417,7 @@
       "id":"065",
       "name":"Caulker",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"066",
@@ -477,7 +477,7 @@
       "id":"074",
       "name":"Salih",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"075",
@@ -2397,7 +2397,7 @@
       "id":"367",
       "name":"Munir",
       "position":"k",
-      "point":4
+      "point":9
    },
    {
       "id":"368",
@@ -2421,19 +2421,19 @@
       "id":"371",
       "name":"Jean Billong",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"372",
       "name":"Katranis",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"373",
       "name":"Pablo Santos",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"374",
@@ -2469,7 +2469,7 @@
       "id":"379",
       "name":"Isaac Sackey",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"380",
