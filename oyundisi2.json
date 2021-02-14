@@ -24,8 +24,20 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "DNZ",
+		"adi": "Tiago Lopes",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "FB",
 		"adi": "Lemos",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Adil",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
