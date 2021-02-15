@@ -97,12 +97,6 @@
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Dorukhan",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "BJK",
 		"adi": "Montero",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -225,18 +219,6 @@
 		"mevkii": "GB",
 		"adi": "Diego Angelo",
 		"aciklama": "(2 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Johansson",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Arda Kızıldağ",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
