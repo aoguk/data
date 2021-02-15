@@ -79,6 +79,12 @@
 	},
 	{
 		"mevkii": "ANT",
+		"adi": "Naldo",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ANT",
 		"adi": "Mert Yılmaz",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
