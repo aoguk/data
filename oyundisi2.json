@@ -493,14 +493,20 @@
 	},
 	{
 		"mevkii": "TS",
-		"adi": "Abdülkadir Ö.",
-		"aciklama": "(8 hafta) SAKAT",
+		"adi": "Serkan",
+		"aciklama": "Covid",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "TS",
-		"adi": "Serkan Asan",
-		"aciklama": "SAKAT",
+		"adi": "Lewis Baker",
+		"aciklama": "Covid",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Abdülkadir Ö.",
+		"aciklama": "(8 hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
