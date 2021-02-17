@@ -499,6 +499,12 @@
 	},
 	{
 		"mevkii": "TS",
+		"adi": "Marlon",
+		"aciklama": "Covid",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
 		"adi": "Serkan",
 		"aciklama": "Covid",
 		"durum": "sakatlar"
