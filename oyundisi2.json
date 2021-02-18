@@ -61,20 +61,14 @@
 	},
 	{
 		"mevkii": "AG",
-		"adi": "Emre Güral",
-		"aciklama": "SAKAT",
+		"adi": "Alper Potuk",
+		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "AG",
 		"adi": "Atakan",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "AG",
-		"adi": "Alper Potuk",
-		"aciklama": "SAKAT",
+		"aciklama": "(3 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
