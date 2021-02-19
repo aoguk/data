@@ -3525,6 +3525,12 @@
 			},
 			{
 				"team": "ts",
+				"name": "Kağan",
+				"pozisyon": "k",
+				"id": "666"
+			},
+			{
+				"team": "ts",
 				"name": "Muhammet Taha Tepe",
 				"pozisyon": "k",
 				"id": "517"
