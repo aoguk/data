@@ -1,67 +1,7 @@
 [
 	{
-		"mevkii": "AG",
-		"adi": "Pazdan",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "AG",
-		"adi": "Sarlija",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Baiano",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Andrade",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "DNZ",
-		"adi": "Tiago Lopes",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Lemos",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "HTY",
-		"adi": "Popov",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Adil",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "KSP",
-		"adi": "Hajradinovic",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Nwakaeme",
-		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Nwakaeme",
+		"mevkii": "MED",
+		"adi": "Rafael",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
