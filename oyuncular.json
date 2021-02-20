@@ -2247,6 +2247,12 @@
 			},
 			{
 				"team": "gb",
+				"name": "Lima",
+				"pozisyon": "f",
+				"id": "669"
+			},
+			{
+				"team": "gb",
 				"name": "Stancu",
 				"pozisyon": "f",
 				"id": "336"
