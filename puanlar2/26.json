@@ -2799,7 +2799,7 @@
       "id":"426",
       "name":"Eray Birniçan",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"427",
@@ -2811,13 +2811,13 @@
       "id":"428",
       "name":"Skubic",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"429",
       "name":"Ahmet Çalık",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"430",
@@ -2829,7 +2829,7 @@
       "id":"432",
       "name":"Guilherme Sitya",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"433",
@@ -2847,7 +2847,7 @@
       "id":"435",
       "name":"Abdülkerim Bardakçı",
       "position":"d",
-      "point":2
+      "point":0
    },
    {
       "id":"156",
@@ -3795,7 +3795,7 @@
       "id":"573",
       "name":"Adem Büyük",
       "position":"f",
-      "point":7
+      "point":12
    },
    {
       "id":"574",
