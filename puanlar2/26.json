@@ -1095,13 +1095,13 @@
       "id":"616",
       "name":"Szumski",
       "position":"k",
-      "point":-4
+      "point":-5
    },
    {
       "id":"641",
       "name":"Göktuğ",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"649",
@@ -1113,7 +1113,7 @@
       "id":"617",
       "name":"Da Costa",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"177",
@@ -1125,13 +1125,13 @@
       "id":"178",
       "name":"Leo Schwechlen",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"179",
       "name":"Adolphe Teikeu",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"180",
@@ -1149,7 +1149,7 @@
       "id":"182",
       "name":"Osman Çelik",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"183",
@@ -1167,13 +1167,13 @@
       "id":"185",
       "name":"Murat Uçar",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"186",
       "name":"Cenk Ahmet Alkılıç",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"587",
@@ -1185,25 +1185,25 @@
       "id":"650",
       "name":"Buğra",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"407",
       "name":"Rashani",
       "position":"os",
-      "point":2
+      "point":0
    },
    {
       "id":"618",
       "name":"Omolo",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"214",
       "name":"Chahechouhe",
       "position":"os",
-      "point":4
+      "point":6
    },
    {
       "id":"220",
@@ -1227,7 +1227,7 @@
       "id":"189",
       "name":"Novikovas",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"191",
@@ -1239,7 +1239,7 @@
       "id":"192",
       "name":"Boumal",
       "position":"os",
-      "point":1
+      "point":0
    },
    {
       "id":"193",
@@ -1257,7 +1257,7 @@
       "id":"195",
       "name":"Gomes",
       "position":"f",
-      "point":3
+      "point":2
    },
    {
       "id":"196",
@@ -1281,7 +1281,7 @@
       "id":"199",
       "name":"Oltan Karakullukçu",
       "position":"f",
-      "point":2
+      "point":6
    },
    {
       "id":"200",
@@ -2427,7 +2427,7 @@
       "id":"670",
       "name":"Youssouf Kone",
       "position":"d",
-      "point":2
+      "point":3
    },
    {
       "id":"370",
@@ -2439,19 +2439,19 @@
       "id":"371",
       "name":"Jean Billong",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"372",
       "name":"Katranis",
       "position":"d",
-      "point":12
+      "point":16
    },
    {
       "id":"373",
       "name":"Pablo Santos",
       "position":"d",
-      "point":4
+      "point":5
    },
    {
       "id":"374",
@@ -2475,25 +2475,25 @@
       "id":"377",
       "name":"Muhammed Mert",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"378",
       "name":"Babajide David",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"379",
       "name":"Isaac Sackey",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"380",
       "name":"Ruben Ribeiro",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"381",
@@ -2505,7 +2505,7 @@
       "id":"382",
       "name":"Noss Traore",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"383",
@@ -2523,13 +2523,13 @@
       "id":"385",
       "name":"Rayane Aabid",
       "position":"os",
-      "point":6
+      "point":7
    },
    {
       "id":"386",
       "name":"Selim Ilgaz",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"387",
@@ -2541,7 +2541,7 @@
       "id":"388",
       "name":"Burak Çamoğlu",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"609",
@@ -2553,13 +2553,13 @@
       "id":"389",
       "name":"Mame Diouf",
       "position":"f",
-      "point":10
+      "point":11
    },
    {
       "id":"390",
       "name":"Aaron Boupendza",
       "position":"f",
-      "point":8
+      "point":9
    },
    {
       "id":"391",
