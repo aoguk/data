@@ -199,12 +199,6 @@
 	},
 	{
 		"mevkii": "GFK",
-		"adi": "Dicko",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GFK",
 		"adi": "Kana Bıyık",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -243,12 +237,6 @@
 		"mevkii": "GS",
 		"adi": "Saracci",
 		"aciklama": "(3 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Halil Dervişoğlu",
-		"aciklama": "(Karantina)",
 		"durum": "sakatlar"
 	},
 	{
