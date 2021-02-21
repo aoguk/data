@@ -19,6 +19,12 @@
 	},
 	{
 		"mevkii": "ERZ",
+		"adi": "Szumski",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ERZ",
 		"adi": "Boumal",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
