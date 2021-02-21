@@ -1935,6 +1935,12 @@
 			},
 			{
 				"team": "gfk",
+				"name": "Miranda",
+				"pozisyon": "d",
+				"id": "671"
+			},
+			{
+				"team": "gfk",
 				"name": "Ertuğrul",
 				"pozisyon": "d",
 				"id": "663"
