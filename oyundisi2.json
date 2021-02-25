@@ -121,13 +121,13 @@
 	},
 	{
 		"mevkii": "CRZ",
-		"adi": "Remy",
-		"aciklama": "SAKAT",
+		"adi": "Boldrin",
+		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "CRZ",
-		"adi": "Boldrin",
+		"adi": "Remy",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -165,6 +165,12 @@
 		"mevkii": "ERZ",
 		"adi": "El Kabir",
 		"aciklama": "(3 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Samatta",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
