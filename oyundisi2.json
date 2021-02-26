@@ -223,18 +223,6 @@
 	},
 	{
 		"mevkii": "GB",
-		"adi": "Diego Angelo",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GB",
-		"adi": "Johansson",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GB",
 		"adi": "Stancu",
 		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
@@ -249,6 +237,12 @@
 		"mevkii": "GB",
 		"adi": "Giovanni Sio",
 		"aciklama": "(4 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GB",
+		"adi": "Diego Angelo",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -331,20 +325,14 @@
 	},
 	{
 		"mevkii": "KON",
-		"adi": "Sehic",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KON",
-		"adi": "Sekidika",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KON",
 		"adi": "Volkan Fındıklı",
 		"aciklama": "(1 Hafta) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Sehic",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
