@@ -597,7 +597,7 @@
       "id":"096",
       "name":"Ljajic",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"097",
@@ -675,7 +675,7 @@
       "id":"111",
       "name":"Aboubakar",
       "position":"f",
-      "point":2
+      "point":10
    },
    {
       "id":"112",
@@ -3837,7 +3837,7 @@
       "id":"578",
       "name":"Cenk Gönen",
       "position":"k",
-      "point":1
+      "point":-1
    },
    {
       "id":"579",
@@ -3861,7 +3861,7 @@
       "id":"582",
       "name":"Leismann",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"583",
@@ -3873,7 +3873,7 @@
       "id":"584",
       "name":"Tiago Lopes",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"585",
@@ -3909,7 +3909,7 @@
       "id":"664",
       "name":"Ben Mohamed",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"077",
@@ -3975,7 +3975,7 @@
       "id":"597",
       "name":"Bakalorz",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"598",
