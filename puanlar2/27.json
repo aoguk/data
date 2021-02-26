@@ -525,7 +525,7 @@
       "id":"083",
       "name":"Ersin",
       "position":"k",
-      "point":2
+      "point":4
    },
    {
       "id":"084",
@@ -543,19 +543,19 @@
       "id":"086",
       "name":"Vida",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"087",
       "name":"Welinton",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"088",
       "name":"Rosier",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"089",
@@ -567,7 +567,7 @@
       "id":"090",
       "name":"N'Sakala",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"091",
@@ -597,13 +597,13 @@
       "id":"096",
       "name":"Ljajic",
       "position":"os",
-      "point":8
+      "point":10
    },
    {
       "id":"097",
       "name":"N'Koudou",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"098",
@@ -627,13 +627,13 @@
       "id":"103",
       "name":"Atiba",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"104",
       "name":"Josef de Souza",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"105",
@@ -675,13 +675,13 @@
       "id":"111",
       "name":"Aboubakar",
       "position":"f",
-      "point":10
+      "point":12
    },
    {
       "id":"112",
       "name":"Larin",
       "position":"f",
-      "point":7
+      "point":9
    },
    {
       "id":"113",
@@ -3837,7 +3837,7 @@
       "id":"578",
       "name":"Cenk Gönen",
       "position":"k",
-      "point":-1
+      "point":1
    },
    {
       "id":"579",
@@ -3861,7 +3861,7 @@
       "id":"582",
       "name":"Leismann",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"583",
@@ -3909,7 +3909,7 @@
       "id":"664",
       "name":"Ben Mohamed",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"077",
@@ -3921,13 +3921,13 @@
       "id":"636",
       "name":"Diskerud",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"308",
       "name":"Kubilay Aktaş",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"625",
@@ -3963,13 +3963,13 @@
       "id":"595",
       "name":"Murawski",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"596",
       "name":"Sagal",
       "position":"os",
-      "point":1
+      "point":3
    },
    {
       "id":"597",
@@ -3999,13 +3999,13 @@
       "id":"600",
       "name":"Rodallega",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"601",
       "name":"Mesanovic",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"285",
