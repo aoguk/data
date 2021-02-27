@@ -307,12 +307,6 @@
 	},
 	{
 		"mevkii": "MED",
-		"adi": "Giuliano",
-		"aciklama": "Oynayabilir",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MED",
 		"adi": "Visca",
 		"aciklama": "(2 Hafta) SAKAT",
 		"durum": "sakatlar"
@@ -331,19 +325,7 @@
 	},
 	{
 		"mevkii": "MED",
-		"adi": "J.Fernandes",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MED",
 		"adi": "Deniz Türüç",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MED",
-		"adi": "Ömer Ali",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
@@ -363,12 +345,6 @@
 		"mevkii": "MLT",
 		"adi": "Olcay Şahan",
 		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Kayode",
-		"aciklama": "Oynayabilir",
 		"durum": "sakatlar"
 	},
 	{
