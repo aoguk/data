@@ -9,7 +9,7 @@
       "id":"02",
       "name":"Korcan Çelikay",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"03",
@@ -33,13 +33,13 @@
       "id":"06",
       "name":"Atila Turan",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"07",
       "name":"Sarlija",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"08",
@@ -51,7 +51,7 @@
       "id":"09",
       "name":"Kitsiou",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"010",
@@ -63,7 +63,7 @@
       "id":"011",
       "name":"Kulusic",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"012",
@@ -2451,7 +2451,7 @@
       "id":"372",
       "name":"Katranis",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"373",
@@ -2487,7 +2487,7 @@
       "id":"378",
       "name":"Babajide David",
       "position":"os",
-      "point":11
+      "point":17
    },
    {
       "id":"379",
@@ -2553,7 +2553,7 @@
       "id":"609",
       "name":"Kamara",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"389",
