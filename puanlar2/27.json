@@ -9,7 +9,7 @@
       "id":"02",
       "name":"Korcan Çelikay",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"03",
@@ -27,7 +27,7 @@
       "id":"05",
       "name":"Erdi Dikmen",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"06",
@@ -87,7 +87,7 @@
       "id":"190",
       "name":"İbrahim Akdağ",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"603",
@@ -375,7 +375,7 @@
       "id":"059",
       "name":"Marafona",
       "position":"k",
-      "point":1
+      "point":3
    },
    {
       "id":"425",
@@ -393,7 +393,7 @@
       "id":"061",
       "name":"Moubandje",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"062",
@@ -405,7 +405,7 @@
       "id":"063",
       "name":"Tzavellas",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"064",
@@ -417,7 +417,7 @@
       "id":"065",
       "name":"Caulker",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"066",
@@ -435,25 +435,25 @@
       "id":"068",
       "name":"Tayfur Bingöl",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"627",
       "name":"Kadzior",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"069",
       "name":"Davidson",
       "position":"os",
-      "point":1
+      "point":3
    },
    {
       "id":"071",
       "name":"Efecan",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"072",
@@ -477,7 +477,7 @@
       "id":"074",
       "name":"Salih",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"075",
@@ -489,7 +489,7 @@
       "id":"076",
       "name":"Berkan",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"078",
@@ -501,7 +501,7 @@
       "id":"079",
       "name":"Umut Güneş",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"080",
@@ -513,13 +513,13 @@
       "id":"081",
       "name":"Bareiro",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"082",
       "name":"Mustafa Pektemek",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"083",
@@ -1287,7 +1287,7 @@
       "id":"200",
       "name":"Viviano",
       "position":"k",
-      "point":2
+      "point":4
    },
    {
       "id":"201",
@@ -1311,19 +1311,19 @@
       "id":"523",
       "name":"Gaston Campi",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"606",
       "name":"Hedenstad",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"204",
       "name":"Enzo Roco",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"205",
@@ -1335,7 +1335,7 @@
       "id":"206",
       "name":"Balkovec",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"207",
@@ -1383,7 +1383,7 @@
       "id":"635",
       "name":"Castro",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"626",
@@ -1407,7 +1407,7 @@
       "id":"605",
       "name":"Fabio Borini",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"213",
@@ -1425,7 +1425,7 @@
       "id":"607",
       "name":"Bertolacci",
       "position":"os",
-      "point":4
+      "point":6
    },
    {
       "id":"216",
@@ -1437,7 +1437,7 @@
       "id":"217",
       "name":"Biglia",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"218",
@@ -1449,7 +1449,7 @@
       "id":"221",
       "name":"Ndao",
       "position":"os",
-      "point":7
+      "point":9
    },
    {
       "id":"222",
@@ -1485,7 +1485,7 @@
       "id":"229",
       "name":"Sobiech",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"257",
@@ -2559,7 +2559,7 @@
       "id":"389",
       "name":"Mame Diouf",
       "position":"f",
-      "point":7
+      "point":12
    },
    {
       "id":"390",
