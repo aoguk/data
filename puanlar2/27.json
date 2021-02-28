@@ -1647,13 +1647,13 @@
       "id":"250",
       "name":"Ferdi",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"251",
       "name":"Pelkas",
       "position":"os",
-      "point":4
+      "point":10
    },
    {
       "id":"253",
@@ -3423,7 +3423,7 @@
       "id":"514",
       "name":"Uğurcan",
       "position":"k",
-      "point":4
+      "point":3
    },
    {
       "id":"515",
