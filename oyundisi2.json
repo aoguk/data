@@ -96,6 +96,12 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "ALS",
+		"adi": "Babacar",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "ANT",
 		"adi": "Mert Yılmaz",
 		"aciklama": "Oynayabilir",
@@ -121,12 +127,6 @@
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Ghezzal",
-		"aciklama": "Belirsiz",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "BJK",
 		"adi": "Montero",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -134,7 +134,7 @@
 	{
 		"mevkii": "CRZ",
 		"adi": "Boldrin",
-		"aciklama": "Oynayabilir",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -169,6 +169,12 @@
 	},
 	{
 		"mevkii": "ERZ",
+		"adi": "Oltan",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ERZ",
 		"adi": "Obertan",
 		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
@@ -182,7 +188,7 @@
 	{
 		"mevkii": "FB",
 		"adi": "Gustavo",
-		"aciklama": "SAKAT",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -200,7 +206,7 @@
 	{
 		"mevkii": "FKG",
 		"adi": "Zukanovic",
-		"aciklama": "SAKAT",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -230,19 +236,19 @@
 	{
 		"mevkii": "GFK",
 		"adi": "Kana Bıyık",
-		"aciklama": "Oynayabilir",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GFK",
 		"adi": "Muhammet Demir",
-		"aciklama": "(Covid) SAKAT",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GFK",
 		"adi": "Kozulj",
-		"aciklama": "(Covid) SAKAT",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -253,14 +259,14 @@
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Emre Taşdemir",
-		"aciklama": "SAKAT",
+		"adi": "Saracci",
+		"aciklama": "(3 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Saracci",
-		"aciklama": "(3 Hafta) SAKAT",
+		"adi": "Emre Taşdemir",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -283,14 +289,20 @@
 	},
 	{
 		"mevkii": "KON",
-		"adi": "Volkan Fındıklı",
-		"aciklama": "(1 Hafta) SAKAT",
+		"adi": "Sehic",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KON",
-		"adi": "Sehic",
-		"aciklama": "SAKAT",
+		"adi": "Shengelia",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Volkan Fındıklı",
+		"aciklama": "(1 Hafta) SAKAT",
 		"durum": "sakatlar"
 	},
 	{
@@ -303,6 +315,18 @@
 		"mevkii": "KON",
 		"adi": "Alper Uludağ",
 		"aciklama": "(6 Ay) SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Thelin",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Hodzic",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -386,7 +410,7 @@
 	{
 		"mevkii": "TS",
 		"adi": "Vitor Hugo",
-		"aciklama": "SAKAT",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
