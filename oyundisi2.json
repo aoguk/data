@@ -42,22 +42,46 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "MED",
+		"adi": "Rafael",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "GOZ",
 		"adi": "Berkan",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "KAY",
+		"adi": "Kvrzic",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Campanharo",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
+		"adi": "Aytaç Kara",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "KSP",
 		"adi": "Luckassen",
 		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "SVS",
 		"adi": "Erdoğan",
 		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "AG",
