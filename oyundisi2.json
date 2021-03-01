@@ -331,6 +331,12 @@
 	},
 	{
 		"mevkii": "SVS",
+		"adi": "Muammer",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SVS",
 		"adi": "Rybalka",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
