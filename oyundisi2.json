@@ -43,6 +43,12 @@
 	},
 	{
 		"mevkii": "BJK",
+		"adi": "Ersin",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
 		"adi": "Cenk Tosun",
 		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
