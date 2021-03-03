@@ -6,6 +6,12 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "KON",
+		"adi": "Sitya",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "AG",
 		"adi": "Badji",
 		"aciklama": "SAKAT",
