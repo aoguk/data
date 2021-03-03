@@ -33,13 +33,13 @@
       "id":"06",
       "name":"Atila Turan",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"07",
       "name":"Sarlija",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"08",
@@ -51,7 +51,7 @@
       "id":"09",
       "name":"Kitsiou",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"010",
@@ -63,7 +63,7 @@
       "id":"011",
       "name":"Kulusic",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"012",
@@ -87,7 +87,7 @@
       "id":"190",
       "name":"İbrahim Akdağ",
       "position":"os",
-      "point":8
+      "point":10
    },
    {
       "id":"603",
@@ -99,7 +99,7 @@
       "id":"014",
       "name":"Alper Potuk",
       "position":"os",
-      "point":5
+      "point":7
    },
    {
       "id":"015",
@@ -117,7 +117,7 @@
       "id":"017",
       "name":"Endri Çekici",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"018",
@@ -165,7 +165,7 @@
       "id":"661",
       "name":"Geraldo",
       "position":"f",
-      "point":3
+      "point":5
    },
    {
       "id":"628",
@@ -183,7 +183,7 @@
       "id":"026",
       "name":"Börven",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"027",
@@ -861,7 +861,7 @@
       "id":"141",
       "name":"Onur Bulut",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"142",
@@ -1683,7 +1683,7 @@
       "id":"258",
       "name":"Muslera",
       "position":"k",
-      "point":0
+      "point":2
    },
    {
       "id":"259",
@@ -1707,7 +1707,7 @@
       "id":"262",
       "name":"Marcao",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"263",
@@ -1719,7 +1719,7 @@
       "id":"264",
       "name":"Donk",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"265",
@@ -1761,7 +1761,7 @@
       "id":"270",
       "name":"Gedson",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"271",
@@ -1803,13 +1803,13 @@
       "id":"277",
       "name":"Etebo",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"278",
       "name":"Ömer Bayram",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"279",
