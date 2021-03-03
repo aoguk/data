@@ -3,7 +3,7 @@
       "id":"01",
       "name":"Ricardo Friedrich",
       "position":"k",
-      "point":0
+      "point":2
    },
    {
       "id":"02",
@@ -39,7 +39,7 @@
       "id":"07",
       "name":"Sarlija",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"08",
@@ -87,7 +87,7 @@
       "id":"190",
       "name":"İbrahim Akdağ",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"603",
@@ -165,7 +165,7 @@
       "id":"661",
       "name":"Geraldo",
       "position":"f",
-      "point":2
+      "point":3
    },
    {
       "id":"628",
@@ -1683,7 +1683,7 @@
       "id":"258",
       "name":"Muslera",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"259",
@@ -1755,7 +1755,7 @@
       "id":"647",
       "name":"Yedlin",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"270",
@@ -1797,7 +1797,7 @@
       "id":"276",
       "name":"Arda Turan",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"277",
