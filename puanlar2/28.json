@@ -801,7 +801,7 @@
       "id":"130",
       "name":"Andrade",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"131",
@@ -1707,7 +1707,7 @@
       "id":"262",
       "name":"Marcao",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"263",
@@ -1767,7 +1767,7 @@
       "id":"271",
       "name":"Feghouli",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"272",
@@ -1833,7 +1833,7 @@
       "id":"630",
       "name":"Onyekuru",
       "position":"os",
-      "point":0
+      "point":4
    },
    {
       "id":"631",
@@ -2613,7 +2613,7 @@
       "id":"397",
       "name":"Sapunaru",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"398",
@@ -2679,7 +2679,7 @@
       "id":"629",
       "name":"Melih Okutan",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"223",
