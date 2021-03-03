@@ -1095,7 +1095,7 @@
       "id":"616",
       "name":"Szumski",
       "position":"k",
-      "point":0
+      "point":2
    },
    {
       "id":"641",
@@ -1107,13 +1107,13 @@
       "id":"649",
       "name":"Butko",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"617",
       "name":"Da Costa",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"177",
@@ -1125,7 +1125,7 @@
       "id":"178",
       "name":"Leo Schwechlen",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"179",
@@ -1179,7 +1179,7 @@
       "id":"587",
       "name":"Bergdich",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"650",
@@ -1203,7 +1203,7 @@
       "id":"214",
       "name":"Chahechouhe",
       "position":"os",
-      "point":8
+      "point":10
    },
    {
       "id":"220",
@@ -1227,7 +1227,7 @@
       "id":"189",
       "name":"Novikovas",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"191",
@@ -1239,7 +1239,7 @@
       "id":"192",
       "name":"Boumal",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"193",
@@ -1287,7 +1287,7 @@
       "id":"200",
       "name":"Viviano",
       "position":"k",
-      "point":1
+      "point":3
    },
    {
       "id":"201",
@@ -1311,19 +1311,19 @@
       "id":"523",
       "name":"Gaston Campi",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"606",
       "name":"Hedenstad",
       "position":"d",
-      "point":2
+      "point":3
    },
    {
       "id":"204",
       "name":"Enzo Roco",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"205",
@@ -1335,7 +1335,7 @@
       "id":"206",
       "name":"Balkovec",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"207",
@@ -1383,7 +1383,7 @@
       "id":"635",
       "name":"Castro",
       "position":"os",
-      "point":8
+      "point":10
    },
    {
       "id":"626",
@@ -1407,7 +1407,7 @@
       "id":"605",
       "name":"Borini",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"213",
@@ -1425,7 +1425,7 @@
       "id":"607",
       "name":"Bertolacci",
       "position":"os",
-      "point":4
+      "point":6
    },
    {
       "id":"216",
@@ -1437,7 +1437,7 @@
       "id":"217",
       "name":"Biglia",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"218",
@@ -1449,7 +1449,7 @@
       "id":"221",
       "name":"Ndao",
       "position":"os",
-      "point":5
+      "point":7
    },
    {
       "id":"222",
@@ -1485,7 +1485,7 @@
       "id":"229",
       "name":"Sobiech",
       "position":"f",
-      "point":7
+      "point":9
    },
    {
       "id":"257",
