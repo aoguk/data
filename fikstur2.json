@@ -3,7 +3,7 @@
       {"hafta":29,
         "fikstur":[
         {"takim1":"dnz", "skor1":3, "takim2":"mlt", "skor2":2, "finished":0},
-        {"takim1":"bjk", "skor1":2, "takim2":"gfk", "skor2":0, "finished":0},
+        {"takim1":"bjk", "skor1":2, "takim2":"gfk", "skor2":1, "finished":0},
         {"takim1":"fkg", "skor1":0, "takim2":"ag", "skor2":0, "finished":0},
         {"takim1":"gb", "skor1":0, "takim2":"med", "skor2":0, "finished":0},
         {"takim1":"hty", "skor1":0, "takim2":"kay", "skor2":0, "finished":0},
