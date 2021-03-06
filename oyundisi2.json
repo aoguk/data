@@ -181,8 +181,14 @@
 	},
 	{
 		"mevkii": "GFK",
+		"adi": "Güray Vural",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
 		"adi": "Muhammet Demir",
-		"aciklama": "Oynayabilir",
+		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
