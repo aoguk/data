@@ -2415,7 +2415,7 @@
       "id":"367",
       "name":"Munir",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"368",
@@ -2619,7 +2619,7 @@
       "id":"398",
       "name":"Aziz Behich",
       "position":"d",
-      "point":2
+      "point":6
    },
    {
       "id":"399",
@@ -2703,7 +2703,7 @@
       "id":"408",
       "name":"Pedro Henrique",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"409",
