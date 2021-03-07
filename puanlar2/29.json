@@ -915,7 +915,7 @@
       "id":"149",
       "name":"Ali Şaşal Vural",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"662",
@@ -939,13 +939,13 @@
       "id":"152",
       "name":"Ziya Erdal",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"153",
       "name":"Camara",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"154",
@@ -957,13 +957,13 @@
       "id":"155",
       "name":"Uğur Çiftçi",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"460",
       "name":"Ahmet Oğuz",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"100",
@@ -1845,7 +1845,7 @@
       "id":"283",
       "name":"Falcao",
       "position":"f",
-      "point":9
+      "point":14
    },
    {
       "id":"284",
