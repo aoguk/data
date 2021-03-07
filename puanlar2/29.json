@@ -2433,7 +2433,7 @@
       "id":"670",
       "name":"Youssouf Kone",
       "position":"d",
-      "point":1
+      "point":-3
    },
    {
       "id":"370",
@@ -2553,7 +2553,7 @@
       "id":"609",
       "name":"Kamara",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"389",
@@ -3261,7 +3261,7 @@
       "id":"491",
       "name":"Rafael",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"492",
