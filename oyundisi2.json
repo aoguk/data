@@ -43,6 +43,18 @@
 	},
 	{
 		"mevkii": "ALS",
+		"adi": "Davidson",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ALS",
+		"adi": "Marafona",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ALS",
 		"adi": "Babacar",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
