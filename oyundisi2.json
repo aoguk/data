@@ -223,6 +223,12 @@
 	},
 	{
 		"mevkii": "GS",
+		"adi": "Donk",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
 		"adi": "Emre Taşdemir",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -362,6 +368,12 @@
 	{
 		"mevkii": "SVS",
 		"adi": "Caner",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Djaniny",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
