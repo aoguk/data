@@ -91,6 +91,12 @@
 	},
 	{
 		"mevkii": "BJK",
+		"adi": "Gökhan Töre",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
 		"adi": "Montero",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
