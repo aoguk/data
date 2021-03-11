@@ -1,5 +1,17 @@
 [
 	{
+		"mevkii": "ALS",
+		"adi": "Berkan Kutlu",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ANT",
+		"adi": "Fredy",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "DNZ",
 		"adi": "Mesanovic",
 		"aciklama": "CEZALI (1)",
@@ -13,27 +25,63 @@
 	},
 	{
 		"mevkii": "ERZ",
+		"adi": "Omolo",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ERZ",
 		"adi": "Da Costa",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "HTY",
-		"adi": "Kone",
+		"mevkii": "FB",
+		"adi": "Valencia",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GB",
+		"adi": "Polomat",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "GFK",
+		"adi": "Mirallas",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "HTY",
+		"adi": "Yusuf Abdioğlu",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "HTY",
+		"adi": "Youssouf Kone",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SVS",
+		"adi": "Gradel",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "SVS",
 		"adi": "Yatabare",
 		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "TS",
 		"adi": "Vitor Hugo",
 		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "AG",
