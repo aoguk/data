@@ -525,7 +525,7 @@
       "id":"083",
       "name":"Ersin",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"084",
@@ -543,19 +543,19 @@
       "id":"086",
       "name":"Vida",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"087",
       "name":"Welinton",
       "position":"d",
-      "point":12
+      "point":11
    },
    {
       "id":"088",
       "name":"Rosier",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"089",
@@ -567,7 +567,7 @@
       "id":"090",
       "name":"N'Sakala",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"091",
@@ -3375,7 +3375,7 @@
       "id":"506",
       "name":"Mehmet Topal",
       "position":"os",
-      "point":4
+      "point":7
    },
    {
       "id":"507",
@@ -3411,7 +3411,7 @@
       "id":"512",
       "name":"Demba Ba",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"513",
