@@ -1767,7 +1767,7 @@
       "id":"271",
       "name":"Feghouli",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"272",
@@ -1833,7 +1833,7 @@
       "id":"630",
       "name":"Onyekuru",
       "position":"os",
-      "point":8
+      "point":14
    },
    {
       "id":"631",
@@ -2589,7 +2589,7 @@
       "id":"394",
       "name":"Doğan Alemdar",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"395",
