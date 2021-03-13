@@ -295,6 +295,12 @@
 	},
 	{
 		"mevkii": "KAY",
+		"adi": "Uğur Demirok",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
 		"adi": "Alibec",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
