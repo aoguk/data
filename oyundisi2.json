@@ -403,6 +403,12 @@
 	},
 	{
 		"mevkii": "SVS",
+		"adi": "Ahmet Oğuz",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SVS",
 		"adi": "Claudemir",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
