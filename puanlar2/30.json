@@ -201,7 +201,7 @@
       "id":"029",
       "name":"Ruud Boffin",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"030",
@@ -459,7 +459,7 @@
       "id":"072",
       "name":"Ceyhun",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"073",
@@ -483,7 +483,7 @@
       "id":"075",
       "name":"Efkan",
       "position":"os",
-      "point":0
+      "point":8
    },
    {
       "id":"076",
@@ -501,7 +501,7 @@
       "id":"079",
       "name":"Umut Güneş",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"080",
@@ -2457,7 +2457,7 @@
       "id":"373",
       "name":"Pablo Santos",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"374",
@@ -2475,7 +2475,7 @@
       "id":"376",
       "name":"Soner Örnek",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"377",
