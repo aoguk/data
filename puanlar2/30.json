@@ -201,7 +201,7 @@
       "id":"029",
       "name":"Ruud Boffin",
       "position":"k",
-      "point":2
+      "point":-1
    },
    {
       "id":"030",
@@ -363,7 +363,7 @@
       "id":"057",
       "name":"Orgill",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"058",
@@ -507,7 +507,7 @@
       "id":"080",
       "name":"Babacar",
       "position":"f",
-      "point":2
+      "point":8
    },
    {
       "id":"081",
