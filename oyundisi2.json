@@ -439,6 +439,12 @@
 	},
 	{
 		"mevkii": "TS",
+		"adi": "Berat Ayberk",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
 		"adi": "Kamil Ahmet",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
