@@ -109,18 +109,6 @@
 	},
 	{
 		"mevkii": "ALS",
-		"adi": "Marafona",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ALS",
-		"adi": "Babacar",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ALS",
 		"adi": "Caulker",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -158,12 +146,6 @@
 	{
 		"mevkii": "CRZ",
 		"adi": "Alberk Koç",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "CRZ",
-		"adi": "Moroziuk",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
