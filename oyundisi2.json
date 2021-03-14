@@ -115,6 +115,12 @@
 	},
 	{
 		"mevkii": "FB",
+		"adi": "Gökhan Gönül",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
 		"adi": "Mesut Özil",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
