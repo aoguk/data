@@ -163,6 +163,12 @@
 	},
 	{
 		"mevkii": "GFK",
+		"adi": "Djilobodji",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GFK",
 		"adi": "Güray Vural",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -332,12 +338,6 @@
 	{
 		"mevkii": "SVS",
 		"adi": "Caner",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Djaniny",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
