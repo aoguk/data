@@ -1335,7 +1335,7 @@
       "id":"206",
       "name":"Balkovec",
       "position":"d",
-      "point":1
+      "point":5
    },
    {
       "id":"207",
@@ -1383,7 +1383,7 @@
       "id":"635",
       "name":"Castro",
       "position":"os",
-      "point":5
+      "point":11
    },
    {
       "id":"626",
@@ -2589,7 +2589,7 @@
       "id":"394",
       "name":"Doğan Alemdar",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"395",
@@ -2613,13 +2613,13 @@
       "id":"397",
       "name":"Sapunaru",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"398",
       "name":"Aziz Behich",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"399",
@@ -2631,13 +2631,13 @@
       "id":"400",
       "name":"Attamah",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"401",
       "name":"Kolovetsios",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"402",
