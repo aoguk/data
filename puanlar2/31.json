@@ -807,7 +807,7 @@
       "id":"131",
       "name":"Boldrin",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"132",
@@ -1683,7 +1683,7 @@
       "id":"258",
       "name":"Muslera",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"259",
@@ -1701,19 +1701,19 @@
       "id":"261",
       "name":"Luyindama",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"262",
       "name":"Marcao",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"263",
       "name":"Saracchi",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"264",
@@ -1755,7 +1755,7 @@
       "id":"647",
       "name":"Yedlin",
       "position":"d",
-      "point":10
+      "point":9
    },
    {
       "id":"270",
