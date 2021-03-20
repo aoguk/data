@@ -175,12 +175,6 @@
 	},
 	{
 		"mevkii": "GFK",
-		"adi": "Muhammet Demir",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GFK",
 		"adi": "Kana Bıyık",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
@@ -309,12 +303,6 @@
 		"mevkii": "SVS",
 		"adi": "Appindangoye",
 		"aciklama": "(4 Hafta) SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "SVS",
-		"adi": "Ahmet Oğuz",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
