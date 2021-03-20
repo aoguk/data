@@ -1965,7 +1965,7 @@
       "id":"300",
       "name":"Kozulj",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"301",
@@ -2007,7 +2007,7 @@
       "id":"307",
       "name":"Jefferson",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"309",
@@ -2031,7 +2031,7 @@
       "id":"312",
       "name":"Muhammet Demir",
       "position":"f",
-      "point":9
+      "point":8
    },
    {
       "id":"313",
@@ -3717,7 +3717,7 @@
       "id":"655",
       "name":"Mallan",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"656",
