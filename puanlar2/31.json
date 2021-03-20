@@ -1857,7 +1857,7 @@
       "id":"286",
       "name":"Günay",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"287",
@@ -1875,7 +1875,7 @@
       "id":"671",
       "name":"Miranda",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"663",
@@ -1899,19 +1899,19 @@
       "id":"291",
       "name":"Tosca",
       "position":"d",
-      "point":5
+      "point":4
    },
    {
       "id":"292",
       "name":"Junior Morais",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"293",
       "name":"Olkowski",
       "position":"d",
-      "point":4
+      "point":2
    },
    {
       "id":"294",
@@ -3807,7 +3807,7 @@
       "id":"573",
       "name":"Adem Büyük",
       "position":"f",
-      "point":0
+      "point":6
    },
    {
       "id":"574",
