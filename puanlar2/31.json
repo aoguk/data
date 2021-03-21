@@ -339,7 +339,7 @@
       "id":"052",
       "name":"Doğukan Sinik",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"053",
@@ -363,7 +363,7 @@
       "id":"057",
       "name":"Orgill",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"058",
@@ -3788,12 +3788,6 @@
    {
       "id":"570",
       "name":"Berk Yıldız",
-      "position":"os",
-      "point":0
-   },
-   {
-      "id":"571",
-      "name":"Doğukan Emeksiz",
       "position":"os",
       "point":0
    },
