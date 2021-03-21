@@ -247,6 +247,12 @@
 	},
 	{
 		"mevkii": "KSP",
+		"adi": "Yusuf Erdoğan",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KSP",
 		"adi": "Tarkan Serbest",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
