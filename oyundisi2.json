@@ -54,12 +54,6 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "ALS",
-		"adi": "Caulker",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
 		"mevkii": "ANT",
 		"adi": "Ufuk Akyol",
 		"aciklama": "SAKAT",
@@ -198,12 +192,6 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "GOZ",
-		"adi": "Tripic",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
 		"mevkii": "GS",
 		"adi": "Donk",
 		"aciklama": "SAKAT",
@@ -255,12 +243,6 @@
 		"mevkii": "KSP",
 		"adi": "Hodzic",
 		"aciklama": "Belirsiz",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KSP",
-		"adi": "Yusuf Erdoğan",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
