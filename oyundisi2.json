@@ -1,7 +1,37 @@
 [
 	{
-		"mevkii": "GB",
-		"adi": "Ayite",
+		"mevkii": "ALS",
+		"adi": "Tzavellas",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ALS",
+		"adi": "Bareiro",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "ALS",
+		"adi": "Ceyhun",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "AG",
+		"adi": "Atila Turan",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Ghezzal",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "DNZ",
+		"adi": "Özer Özdemir",
 		"aciklama": "CEZALI (1)",
 		"durum": "cezalılar"
 	},
@@ -24,21 +54,57 @@
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "GFK",
+		"adi": "Andre Sousa",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GB",
+		"adi": "Floyd Ayite",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GOZ",
+		"adi": "Nwobodo",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "HTY",
+		"adi": "Youssouf Kone",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "HTY",
+		"adi": "Katranis",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Rahmanovic",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Diomande",
+		"aciklama": "CEZALI (1)",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "MLT",
 		"adi": "Hadebe",
 		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "TS",
 		"adi": "Djaniny",
 		"aciklama": "CEZALI (1)",
-		"durum": "cezalılar"
-	},
-	{
-		"mevkii": "AG",
-		"adi": "Ricardo",
-		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
