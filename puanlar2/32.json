@@ -1683,7 +1683,7 @@
       "id":"258",
       "name":"Muslera",
       "position":"k",
-      "point":0
+      "point":2
    },
    {
       "id":"259",
@@ -1719,7 +1719,7 @@
       "id":"264",
       "name":"Donk",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"265",
@@ -1743,7 +1743,7 @@
       "id":"268",
       "name":"Şener Özbayraklı",
       "position":"d",
-      "point":1
+      "point":2
    },
    {
       "id":"269",
@@ -1761,7 +1761,7 @@
       "id":"270",
       "name":"Gedson",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"271",
@@ -1803,13 +1803,13 @@
       "id":"277",
       "name":"Etebo",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"278",
       "name":"Ömer Bayram",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"279",
@@ -1833,7 +1833,7 @@
       "id":"630",
       "name":"Onyekuru",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"631",
@@ -2415,7 +2415,7 @@
       "id":"367",
       "name":"Munir",
       "position":"k",
-      "point":2
+      "point":4
    },
    {
       "id":"368",
@@ -2439,7 +2439,7 @@
       "id":"370",
       "name":"Popov",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"371",
@@ -2457,19 +2457,19 @@
       "id":"373",
       "name":"Pablo Santos",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"374",
       "name":"Yusuf Abdioğlu",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"375",
       "name":"Mesut Çaytemel",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"376",
@@ -2487,7 +2487,7 @@
       "id":"378",
       "name":"Akintola",
       "position":"os",
-      "point":4
+      "point":6
    },
    {
       "id":"379",
@@ -2499,7 +2499,7 @@
       "id":"380",
       "name":"Ruben Ribeiro",
       "position":"os",
-      "point":8
+      "point":10
    },
    {
       "id":"381",
@@ -2511,7 +2511,7 @@
       "id":"382",
       "name":"Noss Traore",
       "position":"os",
-      "point":5
+      "point":7
    },
    {
       "id":"383",
@@ -2529,7 +2529,7 @@
       "id":"385",
       "name":"Rayane Aabid",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"386",
@@ -2553,13 +2553,13 @@
       "id":"609",
       "name":"Kamara",
       "position":"f",
-      "point":1
+      "point":3
    },
    {
       "id":"389",
       "name":"Mame Diouf",
       "position":"f",
-      "point":7
+      "point":9
    },
    {
       "id":"390",
