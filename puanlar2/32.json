@@ -1683,7 +1683,7 @@
       "id":"258",
       "name":"Muslera",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"259",
@@ -1713,13 +1713,13 @@
       "id":"263",
       "name":"Saracchi",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"264",
       "name":"Donk",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"265",
@@ -1743,7 +1743,7 @@
       "id":"268",
       "name":"Şener Özbayraklı",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"269",
@@ -2463,7 +2463,7 @@
       "id":"374",
       "name":"Yusuf Abdioğlu",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"375",
@@ -2499,7 +2499,7 @@
       "id":"380",
       "name":"Ruben Ribeiro",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"381",
@@ -2511,7 +2511,7 @@
       "id":"382",
       "name":"Noss Traore",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"383",
