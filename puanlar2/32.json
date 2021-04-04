@@ -45,7 +45,7 @@
       "id":"08",
       "name":"Tiago Pinto",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"09",
@@ -183,7 +183,7 @@
       "id":"026",
       "name":"Börven",
       "position":"f",
-      "point":4
+      "point":9
    },
    {
       "id":"027",
@@ -201,7 +201,7 @@
       "id":"029",
       "name":"Ruud Boffin",
       "position":"k",
-      "point":4
+      "point":3
    },
    {
       "id":"030",
@@ -285,7 +285,7 @@
       "id":"043",
       "name":"Serdar Gürler",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"044",
@@ -351,7 +351,7 @@
       "id":"054",
       "name":"Ufuk Akyol",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"056",
@@ -483,7 +483,7 @@
       "id":"075",
       "name":"Efkan",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"076",
@@ -3225,7 +3225,7 @@
       "id":"611",
       "name":"Duarte",
       "position":"d",
-      "point":3
+      "point":4
    },
    {
       "id":"486",
@@ -3351,7 +3351,7 @@
       "id":"501",
       "name":"Aleksic",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"502",
@@ -3399,7 +3399,7 @@
       "id":"510",
       "name":"Crivelli",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"511",
@@ -3411,7 +3411,7 @@
       "id":"512",
       "name":"Demba Ba",
       "position":"f",
-      "point":4
+      "point":3
    },
    {
       "id":"513",
@@ -3639,7 +3639,7 @@
       "id":"550",
       "name":"Abdulsamed Damlu",
       "position":"k",
-      "point":3
+      "point":8
    },
    {
       "id":"551",
@@ -3663,7 +3663,7 @@
       "id":"554",
       "name":"Semih Kaya",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"555",
