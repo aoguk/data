@@ -1095,7 +1095,7 @@
       "id":"616",
       "name":"Szumski",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"641",
@@ -2913,7 +2913,7 @@
       "id":"440",
       "name":"Milosevic",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"441",
@@ -2973,7 +2973,7 @@
       "id":"450",
       "name":"Cikalleshi",
       "position":"f",
-      "point":2
+      "point":5
    },
    {
       "id":"451",
