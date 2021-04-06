@@ -693,7 +693,7 @@
       "id":"114",
       "name":"Gökhan Akkan",
       "position":"k",
-      "point":2
+      "point":-2
    },
    {
       "id":"115",
@@ -2313,7 +2313,7 @@
       "id":"602",
       "name":"Yalçın Kayan",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"352",
@@ -2379,7 +2379,7 @@
       "id":"362",
       "name":"Kubilay Sönmez",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"363",
@@ -2397,7 +2397,7 @@
       "id":"055",
       "name":"Jahovic",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"365",
@@ -2433,7 +2433,7 @@
       "id":"670",
       "name":"Youssouf Kone",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"370",
