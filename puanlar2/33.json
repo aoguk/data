@@ -201,7 +201,7 @@
       "id":"029",
       "name":"Ruud Boffin",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"030",
@@ -1011,7 +1011,7 @@
       "id":"163",
       "name":"Fayçal Fajr",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"164",
@@ -1059,7 +1059,7 @@
       "id":"171",
       "name":"Yatabare",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"172",
