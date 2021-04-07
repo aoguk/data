@@ -51,7 +51,7 @@
       "id":"09",
       "name":"Kitsiou",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"010",
@@ -135,7 +135,7 @@
       "id":"020",
       "name":"Idriz Voca",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"021",
@@ -165,7 +165,7 @@
       "id":"661",
       "name":"Geraldo",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"628",
@@ -1257,7 +1257,7 @@
       "id":"195",
       "name":"Gomes",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"196",
@@ -1281,7 +1281,7 @@
       "id":"199",
       "name":"Oltan Karakullukçu",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"200",
@@ -2151,7 +2151,7 @@
       "id":"329",
       "name":"Piris Da Motta",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"330",
