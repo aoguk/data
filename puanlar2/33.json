@@ -1179,7 +1179,7 @@
       "id":"587",
       "name":"Bergdich",
       "position":"d",
-      "point":0
+      "point":-1
    },
    {
       "id":"650",
@@ -1203,7 +1203,7 @@
       "id":"214",
       "name":"Chahechouhe",
       "position":"os",
-      "point":2
+      "point":-1
    },
    {
       "id":"220",
@@ -1221,7 +1221,7 @@
       "id":"188",
       "name":"Emrah Başsan",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"189",
@@ -2037,7 +2037,7 @@
       "id":"313",
       "name":"Nordfeldt",
       "position":"k",
-      "point":2
+      "point":7
    },
    {
       "id":"314",
@@ -2055,7 +2055,7 @@
       "id":"316",
       "name":"Johansson",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"317",
