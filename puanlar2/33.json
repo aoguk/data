@@ -375,7 +375,7 @@
       "id":"059",
       "name":"Marafona",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"425",
@@ -393,25 +393,25 @@
       "id":"061",
       "name":"Moubandje",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"062",
       "name":"Juanfran",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"063",
       "name":"Tzavellas",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"064",
       "name":"Fatih Aksoy",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"065",
@@ -435,19 +435,19 @@
       "id":"068",
       "name":"Tayfur Bingöl",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"627",
       "name":"Kadzior",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"069",
       "name":"Davidson",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"071",
@@ -459,13 +459,13 @@
       "id":"072",
       "name":"Ceyhun",
       "position":"os",
-      "point":3
+      "point":2
    },
    {
       "id":"073",
       "name":"Siopis",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"415",
@@ -477,19 +477,19 @@
       "id":"074",
       "name":"Salih",
       "position":"os",
-      "point":3
+      "point":2
    },
    {
       "id":"075",
       "name":"Efkan",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"076",
       "name":"Berkan",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"078",
@@ -507,25 +507,25 @@
       "id":"080",
       "name":"Babacar",
       "position":"f",
-      "point":4
+      "point":3
    },
    {
       "id":"081",
       "name":"Bareiro",
       "position":"f",
-      "point":4
+      "point":3
    },
    {
       "id":"082",
       "name":"Mustafa Pektemek",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"083",
       "name":"Ersin",
       "position":"k",
-      "point":4
+      "point":10
    },
    {
       "id":"084",
@@ -543,19 +543,19 @@
       "id":"086",
       "name":"Vida",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"087",
       "name":"Welinton",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"088",
       "name":"Rosier",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"089",
@@ -567,7 +567,7 @@
       "id":"090",
       "name":"N'Sakala",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"091",
@@ -591,7 +591,7 @@
       "id":"095",
       "name":"Ghezzal",
       "position":"os",
-      "point":10
+      "point":11
    },
    {
       "id":"096",
@@ -603,7 +603,7 @@
       "id":"097",
       "name":"N'Koudou",
       "position":"os",
-      "point":8
+      "point":9
    },
    {
       "id":"098",
@@ -615,31 +615,31 @@
       "id":"101",
       "name":"Gökhan Töre",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"102",
       "name":"Dorukhan",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"103",
       "name":"Atiba",
       "position":"os",
-      "point":12
+      "point":13
    },
    {
       "id":"104",
       "name":"Josef de Souza",
       "position":"os",
-      "point":3
+      "point":4
    },
    {
       "id":"105",
       "name":"Oğuzhan",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"106",
@@ -651,7 +651,7 @@
       "id":"107",
       "name":"Necip",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"108",
@@ -681,13 +681,13 @@
       "id":"112",
       "name":"Larin",
       "position":"f",
-      "point":4
+      "point":5
    },
    {
       "id":"113",
       "name":"Cenk Tosun",
       "position":"f",
-      "point":9
+      "point":10
    },
    {
       "id":"114",
