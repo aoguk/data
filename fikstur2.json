@@ -11,7 +11,7 @@
         {"takim1":"bjk", "skor1":3, "takim2":"als", "skor2":0, "finished":0},
         {"takim1":"dnz", "skor1":1, "takim2":"ksp", "skor2":1, "finished":0},
         {"takim1":"gfk", "skor1":2, "takim2":"med", "skor2":0, "finished":0},
-        {"takim1":"mlt", "skor1":0, "takim2":"fb", "skor2":0, "finished":0}
+        {"takim1":"mlt", "skor1":0, "takim2":"fb", "skor2":1, "finished":0}
     ],
           "bay":"gs"
      },
