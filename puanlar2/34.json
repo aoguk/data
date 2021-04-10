@@ -1287,7 +1287,7 @@
       "id":"200",
       "name":"Viviano",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"201",
@@ -1317,7 +1317,7 @@
       "id":"606",
       "name":"Hedenstad",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"204",
@@ -1767,7 +1767,7 @@
       "id":"271",
       "name":"Feghouli",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"272",
@@ -1779,7 +1779,7 @@
       "id":"273",
       "name":"Emre Kılınç",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"274",
