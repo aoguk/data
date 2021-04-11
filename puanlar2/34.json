@@ -975,7 +975,7 @@
       "id":"157",
       "name":"Max Gradel",
       "position":"os",
-      "point":2
+      "point":-1
    },
    {
       "id":"158",
@@ -1059,7 +1059,7 @@
       "id":"171",
       "name":"Yatabare",
       "position":"f",
-      "point":7
+      "point":8
    },
    {
       "id":"172",
@@ -2823,7 +2823,7 @@
       "id":"428",
       "name":"Skubic",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"429",
@@ -2859,7 +2859,7 @@
       "id":"435",
       "name":"Abdülkerim Bardakçı",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"156",
