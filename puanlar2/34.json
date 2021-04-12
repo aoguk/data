@@ -1653,7 +1653,7 @@
       "id":"251",
       "name":"Pelkas",
       "position":"os",
-      "point":4
+      "point":7
    },
    {
       "id":"253",
@@ -1671,7 +1671,7 @@
       "id":"255",
       "name":"Valencia",
       "position":"f",
-      "point":4
+      "point":9
    },
    {
       "id":"256",
@@ -1857,7 +1857,7 @@
       "id":"286",
       "name":"Günay",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"287",
@@ -1875,7 +1875,7 @@
       "id":"671",
       "name":"Miranda",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"663",
@@ -1887,7 +1887,7 @@
       "id":"289",
       "name":"Djilobodji",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"290",
@@ -1905,13 +1905,13 @@
       "id":"292",
       "name":"Junior Morais",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"293",
       "name":"Olkowski",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"294",
