@@ -9,7 +9,7 @@
       "id":"02",
       "name":"Korcan Çelikay",
       "position":"k",
-      "point":6
+      "point":5
    },
    {
       "id":"03",
@@ -39,19 +39,19 @@
       "id":"07",
       "name":"Sarlija",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"08",
       "name":"Tiago Pinto",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"09",
       "name":"Kitsiou",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"010",
@@ -63,7 +63,7 @@
       "id":"011",
       "name":"Kulusic",
       "position":"d",
-      "point":1
+      "point":-1
    },
    {
       "id":"012",
