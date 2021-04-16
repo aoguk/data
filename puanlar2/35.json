@@ -135,7 +135,7 @@
       "id":"020",
       "name":"Idriz Voca",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"021",
@@ -165,7 +165,7 @@
       "id":"661",
       "name":"Geraldo",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"628",
@@ -237,7 +237,7 @@
       "id":"035",
       "name":"Veysel",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"036",
@@ -603,13 +603,13 @@
       "id":"097",
       "name":"N'Koudou",
       "position":"os",
-      "point":1
+      "point":-1
    },
    {
       "id":"098",
       "name":"Mensah",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"101",
