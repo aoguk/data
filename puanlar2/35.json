@@ -105,7 +105,7 @@
       "id":"015",
       "name":"Paintsil",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"016",
@@ -549,7 +549,7 @@
       "id":"087",
       "name":"Welinton",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"088",
@@ -789,7 +789,7 @@
       "id":"219",
       "name":"Erik Sabo",
       "position":"os",
-      "point":4
+      "point":10
    },
    {
       "id":"129",
@@ -837,7 +837,7 @@
       "id":"136",
       "name":"Michalak",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"137",
@@ -849,7 +849,7 @@
       "id":"138",
       "name":"Abdullah Durak",
       "position":"os",
-      "point":4
+      "point":7
    },
    {
       "id":"140",
@@ -873,7 +873,7 @@
       "id":"143",
       "name":"Yasin Pehlivan",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"644",
