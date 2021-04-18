@@ -1671,7 +1671,7 @@
       "id":"255",
       "name":"Valencia",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"256",
@@ -3363,7 +3363,7 @@
       "id":"504",
       "name":"Mahmut Tekdemir",
       "position":"os",
-      "point":1
+      "point":-2
    },
    {
       "id":"505",
