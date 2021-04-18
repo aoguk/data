@@ -10,7 +10,7 @@
         {"takim1":"ts", "skor1":1, "takim2":"hty", "skor2":1, "finished":0},
         {"takim1":"mlt", "skor1":1, "takim2":"als", "skor2":0, "finished":0},
         {"takim1":"goz", "skor1":1, "takim2":"gs", "skor2":3, "finished":0},
-        {"takim1":"gfk", "skor1":0, "takim2":"ksp", "skor2":0, "finished":0},
+        {"takim1":"gfk", "skor1":0, "takim2":"ksp", "skor2":1, "finished":0},
         {"takim1":"med", "skor1":0, "takim2":"fb", "skor2":0, "finished":0}
     ],
           "bay":"fkg"
