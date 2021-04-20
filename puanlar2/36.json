@@ -525,7 +525,7 @@
       "id":"083",
       "name":"Ersin",
       "position":"k",
-      "point":4
+      "point":9
    },
    {
       "id":"084",
@@ -543,19 +543,19 @@
       "id":"086",
       "name":"Vida",
       "position":"d",
-      "point":3
+      "point":6
    },
    {
       "id":"087",
       "name":"Welinton",
       "position":"d",
-      "point":3
+      "point":6
    },
    {
       "id":"088",
       "name":"Rosier",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"089",
@@ -567,7 +567,7 @@
       "id":"090",
       "name":"N'Sakala",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"091",
@@ -915,7 +915,7 @@
       "id":"149",
       "name":"Ali Şaşal Vural",
       "position":"k",
-      "point":4
+      "point":9
    },
    {
       "id":"662",
@@ -933,7 +933,7 @@
       "id":"151",
       "name":"Caner O.",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"152",
@@ -945,7 +945,7 @@
       "id":"153",
       "name":"Camara",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"154",
@@ -957,13 +957,13 @@
       "id":"155",
       "name":"Uğur Çiftçi",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"460",
       "name":"Ahmet Oğuz",
       "position":"d",
-      "point":4
+      "point":7
    },
    {
       "id":"100",
@@ -2565,7 +2565,7 @@
       "id":"389",
       "name":"Mame Diouf",
       "position":"f",
-      "point":9
+      "point":8
    },
    {
       "id":"390",
