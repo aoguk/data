@@ -705,7 +705,7 @@
       "id":"116",
       "name":"Tarık Çetin",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"117",
@@ -723,19 +723,19 @@
       "id":"119",
       "name":"Moroziuk",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"120",
       "name":"İsmail Köybaşı",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"121",
       "name":"Talbi",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"122",
@@ -759,7 +759,7 @@
       "id":"125",
       "name":"Selim Ay",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"126",
@@ -1293,7 +1293,7 @@
       "id":"201",
       "name":"Aykut Özer",
       "position":"k",
-      "point":0
+      "point":2
    },
    {
       "id":"202",
@@ -1317,7 +1317,7 @@
       "id":"606",
       "name":"Hedenstad",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"204",
@@ -1371,13 +1371,13 @@
       "id":"212",
       "name":"Fatih Kuruçuk",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"099",
       "name":"Lens",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"635",
@@ -1389,13 +1389,13 @@
       "id":"626",
       "name":"Serhat Ahmetoğlu",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"602",
       "name":"Muhammed Pehlivan",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"604",
@@ -1413,13 +1413,13 @@
       "id":"213",
       "name":"Salibur",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"215",
       "name":"Jimmy Durmaz",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"607",
@@ -1449,7 +1449,7 @@
       "id":"221",
       "name":"Ndao",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"222",
@@ -1467,13 +1467,13 @@
       "id":"225",
       "name":"Aksel Aktaş",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"227",
       "name":"Mevlüt Erdinç",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"228",
@@ -2871,7 +2871,7 @@
       "id":"281",
       "name":"Sekidika",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"634",
@@ -2973,7 +2973,7 @@
       "id":"450",
       "name":"Cikalleshi",
       "position":"f",
-      "point":5
+      "point":10
    },
    {
       "id":"451",
