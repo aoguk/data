@@ -729,7 +729,7 @@
       "id":"120",
       "name":"İsmail Köybaşı",
       "position":"d",
-      "point":1
+      "point":5
    },
    {
       "id":"121",
@@ -783,7 +783,7 @@
       "id":"643",
       "name":"Dokovic",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"219",
@@ -2112,6 +2112,12 @@
       "point":0
    },
    {
+      "id":"672",
+      "name":"Metehan Mert",
+      "position":"d",
+      "point":2
+   },
+   {
       "id":"665",
       "name":"Mugni",
       "position":"os",
@@ -2799,7 +2805,7 @@
       "id":"423",
       "name":"Sehic",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"424",
