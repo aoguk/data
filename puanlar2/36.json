@@ -162,6 +162,12 @@
       "point":0
    },
    {
+      "id":"673",
+      "name":"Embiya",
+      "position":"f",
+      "point":2
+   },
+   {
       "id":"661",
       "name":"Geraldo",
       "position":"f",
@@ -3903,7 +3909,7 @@
       "id":"590",
       "name":"Oğuz Yılmaz",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"664",
