@@ -1185,7 +1185,7 @@
       "id":"650",
       "name":"Buğra",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"407",
@@ -1215,7 +1215,7 @@
       "id":"187",
       "name":"Gabriel Obertan",
       "position":"os",
-      "point":4
+      "point":10
    },
    {
       "id":"188",
@@ -3627,7 +3627,7 @@
       "id":"547",
       "name":"Ertaç",
       "position":"k",
-      "point":4
+      "point":3
    },
    {
       "id":"548",
@@ -4011,6 +4011,6 @@
       "id":"285",
       "name":"Ali Yavuz Kol",
       "position":"f",
-      "point":0
+      "point":2
    }
 ]
