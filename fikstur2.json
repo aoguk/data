@@ -1,5 +1,20 @@
 {
   "weeks":[
+      {"hafta":37,
+        "fikstur":[
+        {"takim1":"gb", "skor1":0, "takim2":"crz", "skor2":0, "finished":0},
+        {"takim1":"kon", "skor1":0, "takim2":"hty", "skor2":0, "finished":0},
+        {"takim1":"ts", "skor1":0, "takim2":"fkg", "skor2":0, "finished":0},
+        {"takim1":"ant", "skor1":0, "takim2":"gs", "skor2":0, "finished":0},
+        {"takim1":"bjk", "skor1":0, "takim2":"kay", "skor2":0, "finished":0},
+        {"takim1":"dnz", "skor1":0, "takim2":"svs", "skor2":0, "finished":0},
+        {"takim1":"mlt", "skor1":0, "takim2":"ag", "skor2":0, "finished":0},
+        {"takim1":"med", "skor1":0, "takim2":"als", "skor2":0, "finished":0},
+        {"takim1":"gfk", "skor1":0, "takim2":"erz", "skor2":0, "finished":0},
+        {"takim1":"fb", "skor1":0, "takim2":"ksp", "skor2":0, "finished":0}
+    ],
+          "bay":"goz"
+     },
       {"hafta":36,
         "fikstur":[
         {"takim1":"crz", "skor1":5, "takim2":"kon", "skor2":3, "finished":0},
@@ -14,21 +29,6 @@
         {"takim1":"ksp", "skor1":0, "takim2":"med", "skor2":1, "finished":0}
     ],
           "bay":"fb"
-     },
-      {"hafta":35,
-        "fikstur":[
-        {"takim1":"gb", "skor1":2, "takim2":"svs", "skor2":3, "finished":0},
-        {"takim1":"kon", "skor1":0, "takim2":"kay", "skor2":0, "finished":0},
-        {"takim1":"ant", "skor1":2, "takim2":"crz", "skor2":3, "finished":0},
-        {"takim1":"bjk", "skor1":2, "takim2":"ag", "skor2":2, "finished":0},
-        {"takim1":"dnz", "skor1":2, "takim2":"erz", "skor2":3, "finished":0},
-        {"takim1":"ts", "skor1":1, "takim2":"hty", "skor2":1, "finished":0},
-        {"takim1":"mlt", "skor1":1, "takim2":"als", "skor2":0, "finished":0},
-        {"takim1":"goz", "skor1":1, "takim2":"gs", "skor2":3, "finished":0},
-        {"takim1":"gfk", "skor1":2, "takim2":"ksp", "skor2":2, "finished":0},
-        {"takim1":"med", "skor1":1, "takim2":"fb", "skor2":2, "finished":0}
-    ],
-          "bay":"fkg"
      }
     ],
   
