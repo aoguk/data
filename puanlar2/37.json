@@ -603,13 +603,13 @@
       "id":"096",
       "name":"Ljajic",
       "position":"os",
-      "point":3
+      "point":6
    },
    {
       "id":"097",
       "name":"N'Koudou",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"098",
@@ -2601,7 +2601,7 @@
       "id":"394",
       "name":"Doğan Alemdar",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"395",
@@ -2619,7 +2619,7 @@
       "id":"653",
       "name":"Nehun Paz",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"397",
@@ -2631,7 +2631,7 @@
       "id":"398",
       "name":"Aziz Behich",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"399",
@@ -2643,13 +2643,13 @@
       "id":"400",
       "name":"Attamah",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"401",
       "name":"Kolovetsios",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"402",
