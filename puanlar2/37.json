@@ -531,7 +531,7 @@
       "id":"083",
       "name":"Ersin",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"084",
@@ -597,13 +597,13 @@
       "id":"095",
       "name":"Ghezzal",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"096",
       "name":"Ljajic",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"097",
@@ -2601,7 +2601,7 @@
       "id":"394",
       "name":"Doğan Alemdar",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"395",
@@ -2715,7 +2715,7 @@
       "id":"408",
       "name":"Pedro Henrique",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"409",
@@ -2727,7 +2727,7 @@
       "id":"410",
       "name":"Zoran Kvrzic",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"411",
@@ -2781,7 +2781,7 @@
       "id":"418",
       "name":"Denis Alibec",
       "position":"f",
-      "point":2
+      "point":5
    },
    {
       "id":"419",
