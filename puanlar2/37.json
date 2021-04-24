@@ -597,7 +597,7 @@
       "id":"095",
       "name":"Ghezzal",
       "position":"os",
-      "point":10
+      "point":13
    },
    {
       "id":"096",
@@ -609,7 +609,7 @@
       "id":"097",
       "name":"N'Koudou",
       "position":"os",
-      "point":10
+      "point":16
    },
    {
       "id":"098",
@@ -2601,7 +2601,7 @@
       "id":"394",
       "name":"Doğan Alemdar",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"395",
