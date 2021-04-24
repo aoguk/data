@@ -2559,13 +2559,13 @@
       "id":"388",
       "name":"Burak Çamoğlu",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"609",
       "name":"Kamara",
       "position":"f",
-      "point":4
+      "point":3
    },
    {
       "id":"389",
@@ -2835,7 +2835,7 @@
       "id":"428",
       "name":"Skubic",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"429",
@@ -2931,7 +2931,7 @@
       "id":"441",
       "name":"Shengelia",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"442",
@@ -2991,7 +2991,7 @@
       "id":"451",
       "name":"Erdon Dacı",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"452",
