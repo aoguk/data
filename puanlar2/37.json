@@ -171,7 +171,7 @@
       "id":"661",
       "name":"Geraldo",
       "position":"f",
-      "point":2
+      "point":-2
    },
    {
       "id":"628",
@@ -3729,7 +3729,7 @@
       "id":"655",
       "name":"Mallan",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"656",
@@ -3807,7 +3807,7 @@
       "id":"572",
       "name":"Tetteh",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"573",
