@@ -1677,7 +1677,7 @@
       "id":"255",
       "name":"Valencia",
       "position":"f",
-      "point":7
+      "point":13
    },
    {
       "id":"256",
@@ -3009,7 +3009,7 @@
       "id":"453",
       "name":"Ertuğrul Taşkıran",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"454",
@@ -3051,7 +3051,7 @@
       "id":"459",
       "name":"Haddadi",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"461",
