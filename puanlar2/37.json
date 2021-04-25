@@ -9,7 +9,7 @@
       "id":"02",
       "name":"Korcan Çelikay",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"03",
@@ -45,25 +45,25 @@
       "id":"08",
       "name":"Tiago Pinto",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"09",
       "name":"Kitsiou",
       "position":"d",
-      "point":4
+      "point":2
    },
    {
       "id":"010",
       "name":"Pazdan",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"011",
       "name":"Kulusic",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"012",
@@ -3807,7 +3807,7 @@
       "id":"572",
       "name":"Tetteh",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"573",
@@ -3825,7 +3825,7 @@
       "id":"575",
       "name":"Umut Bulut",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"576",
