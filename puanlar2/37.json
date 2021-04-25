@@ -1191,13 +1191,13 @@
       "id":"650",
       "name":"Buğra",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"407",
       "name":"Rashani",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"618",
@@ -1233,7 +1233,7 @@
       "id":"189",
       "name":"Novikovas",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"191",
@@ -1287,7 +1287,7 @@
       "id":"199",
       "name":"Oltan Karakullukçu",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"200",
