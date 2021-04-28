@@ -1689,7 +1689,7 @@
       "id":"258",
       "name":"Muslera",
       "position":"k",
-      "point":4
+      "point":10
    },
    {
       "id":"259",
@@ -1713,7 +1713,7 @@
       "id":"262",
       "name":"Marcao",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"263",
@@ -1725,13 +1725,13 @@
       "id":"264",
       "name":"Donk",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"265",
       "name":"Linnes",
       "position":"d",
-      "point":2
+      "point":3
    },
    {
       "id":"266",
@@ -1749,7 +1749,7 @@
       "id":"268",
       "name":"Şener Özbayraklı",
       "position":"d",
-      "point":4
+      "point":8
    },
    {
       "id":"269",
@@ -1767,7 +1767,7 @@
       "id":"270",
       "name":"Gedson",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"271",
@@ -1785,19 +1785,19 @@
       "id":"273",
       "name":"Emre Kılınç",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"274",
       "name":"Emre Akbaba",
       "position":"os",
-      "point":8
+      "point":9
    },
    {
       "id":"275",
       "name":"Babel",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"276",
@@ -1809,19 +1809,19 @@
       "id":"277",
       "name":"Etebo",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"278",
       "name":"Ömer Bayram",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"279",
       "name":"Taylan",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"280",
@@ -1833,7 +1833,7 @@
       "id":"282",
       "name":"Kerem Aktürkoğlu",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"630",
@@ -1845,7 +1845,7 @@
       "id":"631",
       "name":"Halil Dervişoğlu",
       "position":"f",
-      "point":4
+      "point":5
    },
    {
       "id":"283",
@@ -1857,7 +1857,7 @@
       "id":"284",
       "name":"Mohamed",
       "position":"f",
-      "point":2
+      "point":3
    },
    {
       "id":"286",
@@ -2817,7 +2817,7 @@
       "id":"423",
       "name":"Sehic",
       "position":"k",
-      "point":3
+      "point":2
    },
    {
       "id":"424",
@@ -2847,7 +2847,7 @@
       "id":"429",
       "name":"Ahmet Çalık",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"430",
@@ -2859,7 +2859,7 @@
       "id":"432",
       "name":"Guilherme Sitya",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"433",
@@ -2871,7 +2871,7 @@
       "id":"434",
       "name":"Adil Demirbağ",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"435",
@@ -2883,31 +2883,31 @@
       "id":"156",
       "name":"Barış Yardımcı",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"281",
       "name":"Sekidika",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"634",
       "name":"Rahmanovic",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"139",
       "name":"Diomande",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"608",
       "name":"Zymer Bytyqi",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"436",
@@ -2919,7 +2919,7 @@
       "id":"438",
       "name":"Musa Çağıran",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"439",
@@ -2937,7 +2937,7 @@
       "id":"441",
       "name":"Shengelia",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"442",
@@ -2955,7 +2955,7 @@
       "id":"444",
       "name":"Hadziahmetovic",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"445",
@@ -2967,7 +2967,7 @@
       "id":"446",
       "name":"Volkan Fındıklı",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"447",
@@ -2985,13 +2985,13 @@
       "id":"449",
       "name":"Kravets",
       "position":"f",
-      "point":1
+      "point":0
    },
    {
       "id":"450",
       "name":"Cikalleshi",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"451",
