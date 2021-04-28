@@ -2739,7 +2739,7 @@
       "id":"411",
       "name":"Avramovski",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"412",
@@ -3843,7 +3843,7 @@
       "id":"577",
       "name":"Abdulkadir Sünger",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"578",
@@ -3873,7 +3873,7 @@
       "id":"582",
       "name":"Leismann",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"583",
@@ -3897,19 +3897,19 @@
       "id":"586",
       "name":"Sakıb Aytaç",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"588",
       "name":"Muhammet Özkal",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"589",
       "name":"Özer Özdemir",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"590",
