@@ -2739,7 +2739,7 @@
       "id":"411",
       "name":"Avramovski",
       "position":"os",
-      "point":8
+      "point":14
    },
    {
       "id":"412",
@@ -2799,7 +2799,7 @@
       "id":"420",
       "name":"İlhan Parlak",
       "position":"f",
-      "point":7
+      "point":10
    },
    {
       "id":"421",
@@ -3843,7 +3843,7 @@
       "id":"577",
       "name":"Abdulkadir Sünger",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"578",
