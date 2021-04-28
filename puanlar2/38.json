@@ -3975,7 +3975,7 @@
       "id":"595",
       "name":"Murawski",
       "position":"os",
-      "point":1
+      "point":-2
    },
    {
       "id":"596",
@@ -4011,7 +4011,7 @@
       "id":"600",
       "name":"Rodallega",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"601",
