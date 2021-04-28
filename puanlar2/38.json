@@ -1329,7 +1329,7 @@
       "id":"204",
       "name":"Enzo Roco",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"205",
@@ -1431,7 +1431,7 @@
       "id":"607",
       "name":"Bertolacci",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"216",
@@ -4017,12 +4017,12 @@
       "id":"601",
       "name":"Mesanovic",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"285",
       "name":"Ali Yavuz Kol",
       "position":"f",
-      "point":0
+      "point":2
    }
 ]
