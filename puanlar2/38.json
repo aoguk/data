@@ -1101,7 +1101,7 @@
       "id":"616",
       "name":"Szumski",
       "position":"k",
-      "point":1
+      "point":3
    },
    {
       "id":"641",
@@ -1131,7 +1131,7 @@
       "id":"178",
       "name":"Leo Schwechlen",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"179",
@@ -1143,7 +1143,7 @@
       "id":"180",
       "name":"Gökhan Kardeş",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"181",
@@ -1167,19 +1167,19 @@
       "id":"184",
       "name":"Hasan Hatipoğlu",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"185",
       "name":"Murat Uçar",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"186",
       "name":"Cenk Ahmet Alkılıç",
       "position":"d",
-      "point":1
+      "point":3
    },
    {
       "id":"587",
@@ -1191,7 +1191,7 @@
       "id":"650",
       "name":"Buğra",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"407",
@@ -1203,7 +1203,7 @@
       "id":"618",
       "name":"Omolo",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"214",
@@ -1221,13 +1221,13 @@
       "id":"187",
       "name":"Gabriel Obertan",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"188",
       "name":"Emrah Başsan",
       "position":"os",
-      "point":8
+      "point":10
    },
    {
       "id":"189",
@@ -1245,7 +1245,7 @@
       "id":"192",
       "name":"Boumal",
       "position":"os",
-      "point":1
+      "point":3
    },
    {
       "id":"193",
@@ -1263,7 +1263,7 @@
       "id":"195",
       "name":"Gomes",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"196",
@@ -1287,7 +1287,7 @@
       "id":"199",
       "name":"Oltan Karakullukçu",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"200",
@@ -3375,7 +3375,7 @@
       "id":"502",
       "name":"Deniz Türüç",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"504",
@@ -3393,7 +3393,7 @@
       "id":"506",
       "name":"Mehmet Topal",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"507",
