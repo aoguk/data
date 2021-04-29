@@ -1101,7 +1101,7 @@
       "id":"616",
       "name":"Szumski",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"641",
@@ -1179,7 +1179,7 @@
       "id":"186",
       "name":"Cenk Ahmet Alkılıç",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"587",
@@ -1245,7 +1245,7 @@
       "id":"192",
       "name":"Boumal",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"193",
@@ -3363,7 +3363,7 @@
       "id":"500",
       "name":"Chadli",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"501",
@@ -3423,7 +3423,7 @@
       "id":"511",
       "name":"Gulbrandsen",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"512",
