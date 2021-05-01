@@ -603,7 +603,7 @@
       "id":"096",
       "name":"Ljajic",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"097",
@@ -687,7 +687,7 @@
       "id":"112",
       "name":"Larin",
       "position":"f",
-      "point":7
+      "point":12
    },
    {
       "id":"113",
@@ -2433,7 +2433,7 @@
       "id":"367",
       "name":"Munir",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"368",
