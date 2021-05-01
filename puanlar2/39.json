@@ -561,7 +561,7 @@
       "id":"088",
       "name":"Rosier",
       "position":"d",
-      "point":2
+      "point":6
    },
    {
       "id":"089",
@@ -585,7 +585,7 @@
       "id":"093",
       "name":"Rıdvan Yılmaz",
       "position":"d",
-      "point":2
+      "point":10
    },
    {
       "id":"094",
@@ -2433,7 +2433,7 @@
       "id":"367",
       "name":"Munir",
       "position":"k",
-      "point":-2
+      "point":-3
    },
    {
       "id":"368",
