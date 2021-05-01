@@ -597,7 +597,7 @@
       "id":"095",
       "name":"Ghezzal",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"096",
@@ -609,7 +609,7 @@
       "id":"097",
       "name":"N'Koudou",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"098",
@@ -2433,7 +2433,7 @@
       "id":"367",
       "name":"Munir",
       "position":"k",
-      "point":-1
+      "point":-2
    },
    {
       "id":"368",
@@ -2457,25 +2457,25 @@
       "id":"370",
       "name":"Popov",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"371",
       "name":"Jean Billong",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"372",
       "name":"Katranis",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"373",
       "name":"Pablo Santos",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"374",
