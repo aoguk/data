@@ -531,7 +531,7 @@
       "id":"083",
       "name":"Ersin",
       "position":"k",
-      "point":2
+      "point":4
    },
    {
       "id":"084",
@@ -549,19 +549,19 @@
       "id":"086",
       "name":"Vida",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"087",
       "name":"Welinton",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"088",
       "name":"Rosier",
       "position":"d",
-      "point":6
+      "point":8
    },
    {
       "id":"089",
@@ -573,7 +573,7 @@
       "id":"090",
       "name":"N'Sakala",
       "position":"d",
-      "point":2
+      "point":4
    },
    {
       "id":"091",
@@ -597,13 +597,13 @@
       "id":"095",
       "name":"Ghezzal",
       "position":"os",
-      "point":5
+      "point":7
    },
    {
       "id":"096",
       "name":"Ljajic",
       "position":"os",
-      "point":5
+      "point":7
    },
    {
       "id":"097",
@@ -639,7 +639,7 @@
       "id":"104",
       "name":"Josef de Souza",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"105",
@@ -687,7 +687,7 @@
       "id":"112",
       "name":"Larin",
       "position":"f",
-      "point":19
+      "point":21
    },
    {
       "id":"113",
@@ -2433,7 +2433,7 @@
       "id":"367",
       "name":"Munir",
       "position":"k",
-      "point":-4
+      "point":-2
    },
    {
       "id":"368",
@@ -2469,13 +2469,13 @@
       "id":"372",
       "name":"Katranis",
       "position":"d",
-      "point":-1
+      "point":1
    },
    {
       "id":"373",
       "name":"Pablo Santos",
       "position":"d",
-      "point":-1
+      "point":1
    },
    {
       "id":"374",
@@ -2505,7 +2505,7 @@
       "id":"378",
       "name":"Akintola",
       "position":"os",
-      "point":1
+      "point":3
    },
    {
       "id":"379",
@@ -2517,7 +2517,7 @@
       "id":"380",
       "name":"Ruben Ribeiro",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"381",
@@ -2547,7 +2547,7 @@
       "id":"385",
       "name":"Rayane Aabid",
       "position":"os",
-      "point":2
+      "point":4
    },
    {
       "id":"386",
@@ -2577,13 +2577,13 @@
       "id":"389",
       "name":"Mame Diouf",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"390",
       "name":"Aaron Boupendza",
       "position":"f",
-      "point":2
+      "point":4
    },
    {
       "id":"391",
