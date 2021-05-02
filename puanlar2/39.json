@@ -1383,7 +1383,7 @@
       "id":"099",
       "name":"Lens",
       "position":"os",
-      "point":2
+      "point":8
    },
    {
       "id":"635",
@@ -1455,7 +1455,7 @@
       "id":"221",
       "name":"Ndao",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"222",
@@ -2817,7 +2817,7 @@
       "id":"423",
       "name":"Sehic",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"424",
