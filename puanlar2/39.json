@@ -1293,7 +1293,7 @@
       "id":"200",
       "name":"Viviano",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"201",
@@ -1341,7 +1341,7 @@
       "id":"206",
       "name":"Balkovec",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"207",
@@ -1353,7 +1353,7 @@
       "id":"208",
       "name":"Zukanovic",
       "position":"d",
-      "point":3
+      "point":2
    },
    {
       "id":"209",
@@ -1371,13 +1371,13 @@
       "id":"211",
       "name":"Koray Altınay",
       "position":"d",
-      "point":0
+      "point":2
    },
    {
       "id":"212",
       "name":"Fatih Kuruçuk",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"099",
@@ -2997,7 +2997,7 @@
       "id":"451",
       "name":"Erdon Dacı",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"452",
