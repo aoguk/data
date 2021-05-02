@@ -1293,7 +1293,7 @@
       "id":"200",
       "name":"Viviano",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"201",
@@ -1389,7 +1389,7 @@
       "id":"635",
       "name":"Castro",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"626",
@@ -2907,7 +2907,7 @@
       "id":"608",
       "name":"Zymer Bytyqi",
       "position":"os",
-      "point":4
+      "point":10
    },
    {
       "id":"436",
@@ -2991,7 +2991,7 @@
       "id":"450",
       "name":"Cikalleshi",
       "position":"f",
-      "point":9
+      "point":12
    },
    {
       "id":"451",
