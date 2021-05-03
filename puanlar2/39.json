@@ -381,7 +381,7 @@
       "id":"059",
       "name":"Marafona",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"425",
@@ -3111,7 +3111,7 @@
       "id":"466",
       "name":"Hajradinovic",
       "position":"os",
-      "point":8
+      "point":14
    },
    {
       "id":"467",
