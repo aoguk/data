@@ -471,7 +471,7 @@
       "id":"073",
       "name":"Siopis",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"415",
@@ -3369,13 +3369,13 @@
       "id":"501",
       "name":"Aleksic",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"502",
       "name":"Deniz Türüç",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"504",
@@ -3735,7 +3735,7 @@
       "id":"655",
       "name":"Mallan",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"656",
