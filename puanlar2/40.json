@@ -1329,13 +1329,13 @@
       "id":"606",
       "name":"Hedenstad",
       "position":"d",
-      "point":0
+      "point":3
    },
    {
       "id":"204",
       "name":"Enzo Roco",
       "position":"d",
-      "point":3
+      "point":4
    },
    {
       "id":"205",
@@ -1347,7 +1347,7 @@
       "id":"206",
       "name":"Balkovec",
       "position":"d",
-      "point":8
+      "point":9
    },
    {
       "id":"207",
@@ -1359,7 +1359,7 @@
       "id":"208",
       "name":"Zukanovic",
       "position":"d",
-      "point":12
+      "point":13
    },
    {
       "id":"209",
@@ -1377,7 +1377,7 @@
       "id":"211",
       "name":"Koray Altınay",
       "position":"d",
-      "point":4
+      "point":3
    },
    {
       "id":"212",
@@ -1389,13 +1389,13 @@
       "id":"099",
       "name":"Lens",
       "position":"os",
-      "point":11
+      "point":12
    },
    {
       "id":"635",
       "name":"Castro",
       "position":"os",
-      "point":7
+      "point":9
    },
    {
       "id":"626",
@@ -1419,7 +1419,7 @@
       "id":"605",
       "name":"Borini",
       "position":"os",
-      "point":13
+      "point":14
    },
    {
       "id":"213",
@@ -1437,7 +1437,7 @@
       "id":"607",
       "name":"Bertolacci",
       "position":"os",
-      "point":7
+      "point":8
    },
    {
       "id":"216",
@@ -1449,7 +1449,7 @@
       "id":"217",
       "name":"Biglia",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"218",
@@ -1461,7 +1461,7 @@
       "id":"221",
       "name":"Ndao",
       "position":"os",
-      "point":16
+      "point":17
    },
    {
       "id":"222",
@@ -2055,7 +2055,7 @@
       "id":"313",
       "name":"Nordfeldt",
       "position":"k",
-      "point":-1
+      "point":-2
    },
    {
       "id":"314",
@@ -2073,13 +2073,13 @@
       "id":"316",
       "name":"Johansson",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"317",
       "name":"Diego Angelo",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"318",
@@ -2097,13 +2097,13 @@
       "id":"320",
       "name":"Polomat",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"321",
       "name":"Ömürcan",
       "position":"d",
-      "point":1
+      "point":-1
    },
    {
       "id":"322",
@@ -2121,7 +2121,7 @@
       "id":"324",
       "name":"Arda Kızıldağ",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"556",
@@ -2151,7 +2151,7 @@
       "id":"325",
       "name":"Floyd Ayit",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"326",
@@ -2163,7 +2163,7 @@
       "id":"327",
       "name":"Dominik Furman",
       "position":"os",
-      "point":0
+      "point":1
    },
    {
       "id":"328",
@@ -2175,25 +2175,25 @@
       "id":"329",
       "name":"Piris Da Motta",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"330",
       "name":"Mustafa Hüseyin",
       "position":"os",
-      "point":4
+      "point":1
    },
    {
       "id":"331",
       "name":"Sefa Yılmaz",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"332",
       "name":"Soner Dikmen",
       "position":"os",
-      "point":4
+      "point":1
    },
    {
       "id":"333",
@@ -2205,7 +2205,7 @@
       "id":"335",
       "name":"Rahmetullah",
       "position":"os",
-      "point":0
+      "point":1
    },
    {
       "id":"669",
@@ -2217,7 +2217,7 @@
       "id":"336",
       "name":"Stancu",
       "position":"f",
-      "point":3
+      "point":0
    },
    {
       "id":"337",
@@ -2229,13 +2229,13 @@
       "id":"338",
       "name":"Gökhan Altıparmak",
       "position":"f",
-      "point":0
+      "point":1
    },
    {
       "id":"339",
       "name":"İlker Karakaş",
       "position":"f",
-      "point":0
+      "point":1
    },
    {
       "id":"340",
@@ -3885,7 +3885,7 @@
       "id":"583",
       "name":"Özgür Çek",
       "position":"d",
-      "point":0
+      "point":1
    },
    {
       "id":"584",
