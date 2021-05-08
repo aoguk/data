@@ -4053,6 +4053,12 @@
 			},
 			{
 				"team": "dnz",
+				"name": "Emirhan",
+				"pozisyon": "d",
+				"id": "596"
+			},
+			{
+				"team": "dnz",
 				"name": "Hasan Ayaroğlu",
 				"pozisyon": "os",
 				"id": "077"
@@ -4104,12 +4110,6 @@
 				"name": "Murawski",
 				"pozisyon": "os",
 				"id": "595"
-			},
-			{
-				"team": "dnz",
-				"name": "Sagal",
-				"pozisyon": "os",
-				"id": "596"
 			},
 			{
 				"team": "dnz",
