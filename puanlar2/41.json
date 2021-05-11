@@ -1515,7 +1515,7 @@
       "id":"231",
       "name":"Harun Tekin",
       "position":"k",
-      "point":0
+      "point":1
    },
    {
       "id":"232",
@@ -1527,7 +1527,7 @@
       "id":"233",
       "name":"Caner Erkin",
       "position":"d",
-      "point":1
+      "point":2
    },
    {
       "id":"234",
@@ -1551,7 +1551,7 @@
       "id":"237",
       "name":"Tisserand",
       "position":"d",
-      "point":1
+      "point":2
    },
    {
       "id":"238",
@@ -1575,25 +1575,25 @@
       "id":"619",
       "name":"Slazai",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"503",
       "name":"İrfan Can",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"645",
       "name":"Osayi Samuel",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"622",
       "name":"Mesut Özil",
       "position":"os",
-      "point":2
+      "point":6
    },
    {
       "id":"620",
@@ -1611,7 +1611,7 @@
       "id":"242",
       "name":"Sosa",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"243",
@@ -1635,7 +1635,7 @@
       "id":"246",
       "name":"Gustavo",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"247",
@@ -1647,25 +1647,25 @@
       "id":"248",
       "name":"Ozan Tufan",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"249",
       "name":"Mert Hakan",
       "position":"os",
-      "point":2
+      "point":3
    },
    {
       "id":"250",
       "name":"Ferdi",
       "position":"os",
-      "point":0
+      "point":1
    },
    {
       "id":"251",
       "name":"Pelkas",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"253",
@@ -1683,13 +1683,13 @@
       "id":"255",
       "name":"Valencia",
       "position":"f",
-      "point":2
+      "point":3
    },
    {
       "id":"256",
       "name":"Cisse",
       "position":"f",
-      "point":7
+      "point":6
    },
    {
       "id":"258",
