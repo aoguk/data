@@ -51,7 +51,7 @@
       "id":"09",
       "name":"Kitsiou",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"010",
@@ -1803,7 +1803,7 @@
       "id":"275",
       "name":"Babel",
       "position":"os",
-      "point":2
+      "point":9
    },
    {
       "id":"276",
@@ -3855,7 +3855,7 @@
       "id":"577",
       "name":"Abdulkadir Sünger",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"578",
@@ -3885,7 +3885,7 @@
       "id":"582",
       "name":"Leismann",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"583",
@@ -3909,13 +3909,13 @@
       "id":"586",
       "name":"Sakıb Aytaç",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"588",
       "name":"Muhammet Özkal",
       "position":"d",
-      "point":2
+      "point":0
    },
    {
       "id":"589",
