@@ -4,12 +4,12 @@
         "fikstur":[
         {"takim1":"kon", "skor1":1, "takim2":"ts", "skor2":1, "finished":0},
         {"takim1":"als", "skor1":2, "takim2":"erz", "skor2":2, "finished":0},
-        {"takim1":"ksp", "skor1":2, "takim2":"ag", "skor2":0, "finished":0},
+        {"takim1":"ksp", "skor1":2, "takim2":"ag", "skor2":1, "finished":0},
         {"takim1":"fb", "skor1":0, "takim2":"svs", "skor2":2, "finished":0},
         {"takim1":"med", "skor1":0, "takim2":"kay", "skor2":0, "finished":0},
         {"takim1":"gfk", "skor1":4, "takim2":"crz", "skor2":5, "finished":0},
         {"takim1":"mlt", "skor1":1, "takim2":"hty", "skor2":1, "finished":0},
-        {"takim1":"dnz", "skor1":1, "takim2":"gs", "skor2":2, "finished":0},
+        {"takim1":"dnz", "skor1":1, "takim2":"gs", "skor2":4, "finished":0},
         {"takim1":"bjk", "skor1":1, "takim2":"fkg", "skor2":1, "finished":0},
         {"takim1":"gb", "skor1":4, "takim2":"goz", "skor2":3, "finished":0}
     ],
