@@ -519,13 +519,13 @@
       "id":"081",
       "name":"Bareiro",
       "position":"f",
-      "point":0
+      "point":2
    },
    {
       "id":"082",
       "name":"Mustafa Pektemek",
       "position":"f",
-      "point":4
+      "point":3
    },
    {
       "id":"083",
@@ -1101,7 +1101,7 @@
       "id":"616",
       "name":"Szumski",
       "position":"k",
-      "point":1
+      "point":2
    },
    {
       "id":"641",
@@ -1113,7 +1113,7 @@
       "id":"649",
       "name":"Butko",
       "position":"d",
-      "point":3
+      "point":4
    },
    {
       "id":"617",
@@ -1131,19 +1131,19 @@
       "id":"178",
       "name":"Leo Schwechlen",
       "position":"d",
-      "point":3
+      "point":4
    },
    {
       "id":"179",
       "name":"Adolphe Teikeu",
       "position":"d",
-      "point":1
+      "point":2
    },
    {
       "id":"180",
       "name":"Gökhan Kardeş",
       "position":"d",
-      "point":3
+      "point":4
    },
    {
       "id":"181",
@@ -1155,7 +1155,7 @@
       "id":"182",
       "name":"Osman Çelik",
       "position":"d",
-      "point":3
+      "point":4
    },
    {
       "id":"183",
@@ -1173,43 +1173,43 @@
       "id":"185",
       "name":"Murat Uçar",
       "position":"d",
-      "point":0
+      "point":3
    },
    {
       "id":"186",
       "name":"Cenk Ahmet Alkılıç",
       "position":"d",
-      "point":14
+      "point":15
    },
    {
       "id":"587",
       "name":"Bergdich",
       "position":"d",
-      "point":0
+      "point":3
    },
    {
       "id":"675",
       "name":"Özgür Sert",
       "position":"os",
-      "point":5
+      "point":6
    },
    {
       "id":"650",
       "name":"Buğra",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"407",
       "name":"Rashani",
       "position":"os",
-      "point":10
+      "point":11
    },
    {
       "id":"618",
       "name":"Omolo",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"214",
@@ -1227,7 +1227,7 @@
       "id":"187",
       "name":"Gabriel Obertan",
       "position":"os",
-      "point":4
+      "point":5
    },
    {
       "id":"188",
@@ -1269,7 +1269,7 @@
       "id":"195",
       "name":"Gomes",
       "position":"f",
-      "point":4
+      "point":5
    },
    {
       "id":"196",
@@ -1293,7 +1293,7 @@
       "id":"199",
       "name":"Oltan Karakullukçu",
       "position":"f",
-      "point":0
+      "point":3
    },
    {
       "id":"200",
