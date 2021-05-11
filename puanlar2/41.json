@@ -1869,7 +1869,7 @@
       "id":"286",
       "name":"Günay",
       "position":"k",
-      "point":-1
+      "point":-2
    },
    {
       "id":"287",
@@ -1899,7 +1899,7 @@
       "id":"289",
       "name":"Djilobodji",
       "position":"d",
-      "point":10
+      "point":9
    },
    {
       "id":"290",
@@ -1917,25 +1917,25 @@
       "id":"292",
       "name":"Junior Morais",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"293",
       "name":"Olkowski",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"294",
       "name":"Oğuz Ceylan",
       "position":"d",
-      "point":2
+      "point":0
    },
    {
       "id":"295",
       "name":"Ulaş Zengin",
       "position":"d",
-      "point":0
+      "point":1
    },
    {
       "id":"296",
@@ -1971,13 +1971,13 @@
       "id":"299",
       "name":"Cenk Şahin",
       "position":"os",
-      "point":8
+      "point":7
    },
    {
       "id":"300",
       "name":"Kozulj",
       "position":"os",
-      "point":0
+      "point":1
    },
    {
       "id":"301",
@@ -1995,31 +1995,31 @@
       "id":"303",
       "name":"Maxim",
       "position":"os",
-      "point":9
+      "point":8
    },
    {
       "id":"304",
       "name":"Andre Sousa",
       "position":"os",
-      "point":7
+      "point":6
    },
    {
       "id":"305",
       "name":"Kenan Özer",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"306",
       "name":"Furkan Soyalp",
       "position":"os",
-      "point":0
+      "point":1
    },
    {
       "id":"307",
       "name":"Jefferson",
       "position":"os",
-      "point":4
+      "point":3
    },
    {
       "id":"309",
@@ -2031,7 +2031,7 @@
       "id":"674",
       "name":"Mirza",
       "position":"os",
-      "point":0
+      "point":1
    },
    {
       "id":"310",
@@ -2043,13 +2043,13 @@
       "id":"311",
       "name":"Dicko",
       "position":"f",
-      "point":4
+      "point":3
    },
    {
       "id":"312",
       "name":"Muhammet Demir",
       "position":"f",
-      "point":14
+      "point":13
    },
    {
       "id":"313",
