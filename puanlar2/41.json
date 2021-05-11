@@ -735,7 +735,7 @@
       "id":"120",
       "name":"İsmail Köybaşı",
       "position":"d",
-      "point":15
+      "point":16
    },
    {
       "id":"121",
@@ -1929,7 +1929,7 @@
       "id":"294",
       "name":"Oğuz Ceylan",
       "position":"d",
-      "point":0
+      "point":-1
    },
    {
       "id":"295",
