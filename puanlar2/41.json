@@ -387,7 +387,7 @@
       "id":"425",
       "name":"Serkan Kırıntılı",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"060",
@@ -411,7 +411,7 @@
       "id":"063",
       "name":"Tzavellas",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"064",
@@ -597,7 +597,7 @@
       "id":"095",
       "name":"Ghezzal",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"096",
@@ -807,7 +807,7 @@
       "id":"130",
       "name":"Andrade",
       "position":"os",
-      "point":5
+      "point":8
    },
    {
       "id":"131",
@@ -885,7 +885,7 @@
       "id":"644",
       "name":"Soderlund",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"144",
@@ -963,7 +963,7 @@
       "id":"155",
       "name":"Uğur Çiftçi",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"460",
@@ -1017,7 +1017,7 @@
       "id":"163",
       "name":"Fayçal Fajr",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"164",
@@ -1869,7 +1869,7 @@
       "id":"286",
       "name":"Günay",
       "position":"k",
-      "point":0
+      "point":-1
    },
    {
       "id":"287",
@@ -2175,7 +2175,7 @@
       "id":"329",
       "name":"Piris Da Motta",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"330",
@@ -2259,7 +2259,7 @@
       "id":"343",
       "name":"Arda Özçimen",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"344",
@@ -2511,7 +2511,7 @@
       "id":"378",
       "name":"Akintola",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"379",
@@ -2583,7 +2583,7 @@
       "id":"389",
       "name":"Mame Diouf",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"390",
@@ -3051,7 +3051,7 @@
       "id":"457",
       "name":"Hadergjonaj",
       "position":"d",
-      "point":11
+      "point":10
    },
    {
       "id":"458",
@@ -3651,7 +3651,7 @@
       "id":"547",
       "name":"Ertaç",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"548",
@@ -3825,13 +3825,13 @@
       "id":"572",
       "name":"Tetteh",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"573",
       "name":"Adem Büyük",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"574",
@@ -3993,7 +3993,7 @@
       "id":"595",
       "name":"Murawski",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"597",
@@ -4023,7 +4023,7 @@
       "id":"600",
       "name":"Rodallega",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"601",
