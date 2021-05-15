@@ -28,6 +28,12 @@
 			},
 			{
 				"team": "ag",
+				"name": "Alperen",
+				"pozisyon": "d",
+				"id": "678"
+			},
+			{
+				"team": "ag",
 				"name": "Erdi Dikmen",
 				"pozisyon": "d",
 				"id": "05"
