@@ -1425,7 +1425,7 @@
       "id":"605",
       "name":"Borini",
       "position":"os",
-      "point":2
+      "point":9
    },
    {
       "id":"213",
@@ -3879,7 +3879,7 @@
       "id":"580",
       "name":"Hüseyin Altıntaş",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"581",
@@ -4047,6 +4047,6 @@
       "id":"285",
       "name":"Ali Yavuz Kol",
       "position":"f",
-      "point":2
+      "point":-2
    }
 ]
