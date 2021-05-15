@@ -561,13 +561,13 @@
       "id":"086",
       "name":"Vida",
       "position":"d",
-      "point":2
+      "point":10
    },
    {
       "id":"087",
       "name":"Welinton",
       "position":"d",
-      "point":2
+      "point":6
    },
    {
       "id":"088",
@@ -1695,7 +1695,7 @@
       "id":"255",
       "name":"Valencia",
       "position":"f",
-      "point":2
+      "point":1
    },
    {
       "id":"256",
@@ -2265,7 +2265,7 @@
       "id":"342",
       "name":"İrfan Can Eğribayat",
       "position":"k",
-      "point":2
+      "point":1
    },
    {
       "id":"343",
