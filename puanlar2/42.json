@@ -99,7 +99,7 @@
       "id":"603",
       "name":"Şahverdi",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"014",
@@ -3141,7 +3141,7 @@
       "id":"466",
       "name":"Hajradinovic",
       "position":"os",
-      "point":2
+      "point":1
    },
    {
       "id":"467",
@@ -3207,13 +3207,13 @@
       "id":"477",
       "name":"Doğucan Haspolat",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"478",
       "name":"Yasin Dülger",
       "position":"os",
-      "point":0
+      "point":2
    },
    {
       "id":"610",
