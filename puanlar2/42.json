@@ -723,7 +723,7 @@
       "id":"116",
       "name":"Tarık Çetin",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"117",
@@ -765,7 +765,7 @@
       "id":"123",
       "name":"Emir Dilaver",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"124",
@@ -777,7 +777,7 @@
       "id":"125",
       "name":"Selim Ay",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"126",
@@ -789,7 +789,7 @@
       "id":"127",
       "name":"Alberk Koç",
       "position":"d",
-      "point":1
+      "point":0
    },
    {
       "id":"128",
@@ -1479,7 +1479,7 @@
       "id":"222",
       "name":"Efe Tatlı",
       "position":"os",
-      "point":2
+      "point":5
    },
    {
       "id":"224",
@@ -1509,7 +1509,7 @@
       "id":"229",
       "name":"Sobiech",
       "position":"f",
-      "point":2
+      "point":7
    },
    {
       "id":"257",
@@ -3393,7 +3393,7 @@
       "id":"501",
       "name":"Aleksic",
       "position":"os",
-      "point":9
+      "point":15
    },
    {
       "id":"502",
@@ -3441,7 +3441,7 @@
       "id":"510",
       "name":"Crivelli",
       "position":"f",
-      "point":2
+      "point":5
    },
    {
       "id":"511",
@@ -3885,31 +3885,31 @@
       "id":"580",
       "name":"Hüseyin Altıntaş",
       "position":"k",
-      "point":1
+      "point":0
    },
    {
       "id":"581",
       "name":"Emre Yıldırım",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"677",
       "name":"Görkem Can",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"582",
       "name":"Leismann",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"583",
       "name":"Özgür Çek",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"584",
@@ -3933,7 +3933,7 @@
       "id":"588",
       "name":"Muhammet Özkal",
       "position":"d",
-      "point":2
+      "point":1
    },
    {
       "id":"589",
