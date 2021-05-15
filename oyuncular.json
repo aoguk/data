@@ -2997,6 +2997,12 @@
 			},
 			{
 				"team": "kon",
+				"name": "İsmail Güven",
+				"pozisyon": "os",
+				"id": "680"
+			},
+			{
+				"team": "kon",
 				"name": "Doğan Gölbek",
 				"pozisyon": "os",
 				"id": "676"
@@ -4080,6 +4086,12 @@
 				"name": "Emirhan",
 				"pozisyon": "d",
 				"id": "596"
+			},
+			{
+				"team": "dnz",
+				"name": "M.Ali Ulaman",
+				"pozisyon": "os",
+				"id": "680"
 			},
 			{
 				"team": "dnz",
